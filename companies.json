@@ -1,0 +1,77 @@
+[
+  {
+    "company": "Astranis",
+    "source_type": "greenhouse",
+    "token": "astranis"
+  },
+  {
+    "company": "Tenstorrent",
+    "source_type": "greenhouse",
+    "token": "tenstorrent"
+  },
+  {
+    "company": "Tenstorrent University",
+    "source_type": "greenhouse",
+    "token": "tenstorrentuniversity"
+  },
+  {
+    "company": "Cerebras Systems",
+    "source_type": "greenhouse",
+    "token": "cerebrassystems"
+  },
+  {
+    "company": "Cerebras Early Talent",
+    "source_type": "greenhouse",
+    "token": "earlytalentcerebras"
+  },
+  {
+    "company": "Astera Labs",
+    "source_type": "greenhouse",
+    "token": "asteralabs"
+  },
+  {
+    "company": "Lightmatter",
+    "source_type": "greenhouse",
+    "token": "lightmatter"
+  },
+  {
+    "company": "Western Digital",
+    "source_type": "smartrecruiters",
+    "token": "WesternDigital"
+  },
+  {
+    "company": "Bosch",
+    "source_type": "smartrecruiters",
+    "token": "BoschGroup"
+  },
+  {
+    "company": "Sandisk",
+    "source_type": "smartrecruiters",
+    "token": "Sandisk"
+  },
+  {
+    "company": "NVIDIA",
+    "source_type": "workday",
+    "token": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
+  },
+  {
+    "company": "Intel",
+    "source_type": "workday",
+    "token": "https://intel.wd1.myworkdayjobs.com/External"
+  },
+  {
+    "company": "Qualcomm",
+    "source_type": "qualcomm",
+    "token": "https://careers.qualcomm.com/careers?domain=qualcomm.com&location=any&sort_by=relevance"
+  },
+  {
+    "company": "Marvell",
+    "source_type": "workday",
+    "token": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers"
+  },
+  {
+    "company": "Apple",
+    "source_type": "applejobs",
+    "token": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+  }
+]

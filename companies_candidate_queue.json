@@ -1,0 +1,27 @@
+[
+  { "company": "AMD", "status": "pending", "priority": 1 },
+  { "company": "Analog Devices", "status": "pending", "priority": 1 },
+  { "company": "NXP", "status": "pending", "priority": 1 },
+  { "company": "Texas Instruments", "status": "pending", "priority": 1 },
+  { "company": "Microchip", "status": "pending", "priority": 1 },
+
+  { "company": "Micron", "status": "pending", "priority": 2 },
+  { "company": "Broadcom", "status": "pending", "priority": 2 },
+  { "company": "Synopsys", "status": "pending", "priority": 2 },
+  { "company": "Cadence", "status": "pending", "priority": 2 },
+  { "company": "SiFive", "status": "pending", "priority": 2 },
+
+  { "company": "Infineon", "status": "pending", "priority": 3 },
+  { "company": "GlobalFoundries", "status": "pending", "priority": 3 },
+  { "company": "Skyworks", "status": "pending", "priority": 3 },
+  { "company": "Qorvo", "status": "pending", "priority": 3 },
+  { "company": "Rambus", "status": "pending", "priority": 3 },
+
+  { "company": "KLA", "status": "pending", "priority": 3 },
+  { "company": "Lam Research", "status": "pending", "priority": 3 },
+  { "company": "Applied Materials", "status": "pending", "priority": 3 },
+
+  { "company": "Achronix", "status": "pending", "priority": 4 },
+  { "company": "Ayar Labs", "status": "pending", "priority": 4 },
+  { "company": "Blaize", "status": "pending", "priority": 4 }
+]
