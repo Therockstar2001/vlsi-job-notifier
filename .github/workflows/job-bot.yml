@@ -1,0 +1,51 @@
+name: VLSI Job Bot
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+
+    env:
+      SLACK_WEBHOOK_ALL: ${{ secrets.SLACK_WEBHOOK_ALL }}
+      SLACK_WEBHOOK_FRESHER: ${{ secrets.SLACK_WEBHOOK_FRESHER }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Ensure DB exists
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          Path("jobs.db").touch(exist_ok=True)
+          PY
+
+      - name: Run bot
+        run: python main.py
+
+      - name: Commit updated DB
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jobs.db
+          git diff --cached --quiet || git commit -m "Update bot state [skip ci]"
+          git push
