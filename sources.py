@@ -188,24 +188,48 @@ def _strip_locale_prefix(path: str) -> str:
 
 
 def _candidate_workday_api_urls(base_url: str):
+    """
+    Build a small set of likely Workday JSON endpoints.
+
+    Supports both common patterns:
+      1) https://company.wd1.myworkdayjobs.com/SiteName
+      2) https://wd5.myworkdaysite.com/recruiting/tenant/SiteName
+    """
     m = re.match(r"^https://([^/]+)/(.*)$", base_url.strip())
     if not m:
         raise ValueError(f"Invalid Workday base URL: {base_url}")
 
     host = m.group(1)
     site_path = m.group(2).strip("/")
-    tenant = host.split(".")[0]
+    path_no_locale = _strip_locale_prefix(site_path)
+    parts = [p for p in path_no_locale.split("/") if p]
 
-    stripped_site_path = _strip_locale_prefix(site_path)
+    tenant_candidates = []
 
-    candidates = [
-        f"https://{host}/wday/cxs/{tenant}/{site_path}/jobs",
-    ]
+    # Standard host-based tenant
+    # Example: analogdevices.wd1.myworkdayjobs.com -> analogdevices
+    host_tenant = host.split(".")[0]
+    if host_tenant:
+        tenant_candidates.append(host_tenant)
 
-    if stripped_site_path != site_path:
-        candidates.append(
-            f"https://{host}/wday/cxs/{tenant}/{stripped_site_path}/jobs"
-        )
+    # recruiting/<tenant>/<site> pattern
+    # Example: wd5.myworkdaysite.com/recruiting/microchiphr/External
+    if len(parts) >= 3 and parts[0].lower() == "recruiting":
+        tenant_candidates.insert(0, parts[1])
+
+    # Prefer site-only path for recruiting URLs
+    site_candidates = [path_no_locale]
+    if len(parts) >= 3 and parts[0].lower() == "recruiting":
+        site_only = "/".join(parts[2:])
+        if site_only:
+            site_candidates.insert(0, site_only)
+
+    candidates = []
+    for tenant in tenant_candidates:
+        for candidate_site_path in site_candidates:
+            candidates.append(
+                f"https://{host}/wday/cxs/{tenant}/{candidate_site_path}/jobs"
+            )
 
     deduped = []
     seen = set()
@@ -264,7 +288,9 @@ def fetch_workday_jobs(base_url: str, company_name: str):
             continue
 
     if not working_api_url:
-        raise RuntimeError(f"No working Workday API endpoint found for {company_name}: {base_url}")
+        raise RuntimeError(
+            f"No working Workday API endpoint found for {company_name}: {base_url}"
+        )
 
     while True:
         payload = {
@@ -289,7 +315,10 @@ def fetch_workday_jobs(base_url: str, company_name: str):
             if external_path.startswith("/"):
                 external_path = external_path[1:]
 
-            absolute_url = f"https://{host}/{site_path}/{external_path}" if external_path else base_url
+            absolute_url = (
+                f"https://{host}/{site_path}/{external_path}"
+                if external_path else base_url
+            )
 
             location = (
                 (job.get("locationsText") or "").strip()
@@ -297,7 +326,9 @@ def fetch_workday_jobs(base_url: str, company_name: str):
             )
 
             bullet_fields = job.get("bulletFields") or []
-            description_text = " ".join(bullet_fields) if isinstance(bullet_fields, list) else ""
+            description_text = (
+                " ".join(bullet_fields) if isinstance(bullet_fields, list) else ""
+            )
 
             jobs.append({
                 "company": company_name,
@@ -398,99 +429,40 @@ def fetch_apple_jobs(search_url: str, company_name: str):
 # ---------------- QUALCOMM (Eightfold/Qualcomm Careers) ----------------
 def fetch_qualcomm_jobs(base_url: str, company_name: str):
     """
-    Best-effort Qualcomm careers scraper.
+    Qualcomm careers is backed by Eightfold and does not expose the simple
+    JSON endpoint we previously assumed.
+
+    For now this function:
+      1. Tries to fetch the page safely
+      2. Prints useful debug info
+      3. Returns an empty list instead of crashing the run
+
+    This keeps the notifier stable until a proper Eightfold parser is added.
     """
-    jobs = []
-    seen = set()
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/124.0.0.0 Safari/537.36"
+        )
+    }
 
-    seed_urls = [
-        base_url,
-        f"{base_url}&seniority=Entry&seniority=Intern",
-        f"{base_url}&sort_by=relevance",
-        f"{base_url}&location=any",
-    ]
+    try:
+        response = requests.get(base_url, headers=headers, timeout=15)
+    except requests.RequestException as exc:
+        print(f"Qualcomm request failed: {exc}")
+        return []
 
-    pid_pattern = re.compile(
-        r"https://careers\.qualcomm\.com/careers\?[^\"'\s>]*pid=(\d+)[^\"'\s>]*",
-        re.IGNORECASE
-    )
+    content_type = response.headers.get("Content-Type", "")
+    print(f"QUALCOMM DEBUG | status: {response.status_code}")
+    print(f"QUALCOMM DEBUG | content-type: {content_type}")
+    print(f"QUALCOMM DEBUG | final-url: {response.url}")
 
-    for seed in seed_urls:
-        try:
-            response = SESSION.get(seed, timeout=20)
-            response.raise_for_status()
-            html = response.text
+    body_preview = response.text[:300].replace("\n", " ").replace("\r", " ")
+    print(f"QUALCOMM DEBUG | body-preview: {body_preview}")
 
-            print("QUALCOMM DEBUG | seed:", seed)
-            print("QUALCOMM DEBUG | html length:", len(html))
+    # We expected JSON before, but the site is returning HTML / app shell.
+    # Do not call response.json() here.
+    print("QUALCOMM DEBUG | Qualcomm uses a separate Eightfold-backed careers flow. Returning 0 jobs for now.")
 
-        except Exception as e:
-            print("QUALCOMM DEBUG | seed failed:", seed, "|", e)
-            continue
-
-        pid_links = pid_pattern.findall(html)
-        print("QUALCOMM DEBUG | pid links found:", len(pid_links))
-
-        candidate_urls = []
-        for pid in pid_links:
-            candidate_urls.append(
-                f"https://careers.qualcomm.com/careers?domain=qualcomm.com&pid={pid}"
-            )
-
-        candidate_urls = list(dict.fromkeys(candidate_urls))
-
-        for job_url in candidate_urls:
-            if job_url in seen:
-                continue
-            seen.add(job_url)
-
-            try:
-                r = SESSION.get(job_url, timeout=20)
-                r.raise_for_status()
-                page_html = r.text
-            except Exception:
-                continue
-
-            soup = BeautifulSoup(page_html, "lxml")
-
-            title = ""
-            if soup.title and soup.title.string:
-                title = soup.title.string.strip()
-
-            if "|" in title:
-                title = title.split("|")[0].strip()
-            if title.lower().startswith("qualcomm careers"):
-                title = ""
-
-            if not title:
-                for tag_name in ["h1", "h2", "h3"]:
-                    tag = soup.find(tag_name)
-                    if tag and tag.get_text(" ", strip=True):
-                        title = tag.get_text(" ", strip=True)
-                        break
-
-            if not title:
-                continue
-
-            page_text = soup.get_text(" ", strip=True)
-
-            location = ""
-            loc_match = re.search(r"Location[:\s]+([A-Za-z0-9,\- /]+)", page_text)
-            if loc_match:
-                location = loc_match.group(1).strip()
-
-            jobs.append({
-                "company": company_name,
-                "title": title,
-                "location": location,
-                "url": job_url,
-                "description": page_text[:4000],
-                "source": "qualcomm"
-            })
-
-            if len(jobs) >= MAX_JOBS_PER_COMPANY:
-                print("QUALCOMM DEBUG | final jobs:", len(jobs))
-                return jobs
-
-    print("QUALCOMM DEBUG | final jobs:", len(jobs))
-    return jobs
+    return []

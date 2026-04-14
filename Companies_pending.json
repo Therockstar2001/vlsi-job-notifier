@@ -1,0 +1,47 @@
+[
+  {
+    "company": "AMD",
+    "needed_source_type": "custom_or_icims",
+    "careers_url": "https://careers.amd.com/careers-home/jobs"
+  },
+  {
+    "company": "Synopsys",
+    "needed_source_type": "custom_avature",
+    "careers_url": "https://careers.synopsys.com/search-jobs"
+  },
+  {
+    "company": "Keysight Technologies",
+    "needed_source_type": "custom",
+    "careers_url": "https://jobs.keysight.com/"
+  },
+  {
+    "company": "Texas Instruments",
+    "needed_source_type": "oracle_cloud",
+    "careers_url": "https://careers.ti.com/search-jobs/"
+  },
+  {
+    "company": "GlobalFoundries",
+    "needed_source_type": "workday",
+    "careers_url": "https://globalfoundries.wd1.myworkdayjobs.com/External"
+  },
+  {
+    "company": "Skyworks Solutions",
+    "needed_source_type": "custom",
+    "careers_url": "https://careers.skyworksinc.com/"
+  },
+  {
+    "company": "Qorvo",
+    "needed_source_type": "custom",
+    "careers_url": "https://careers.qorvo.com/"
+  },
+  {
+    "company": "MaxLinear",
+    "needed_source_type": "icims",
+    "careers_url": "https://careersus-maxlinear.icims.com/jobs/intro"
+  },
+  {
+    "company": "Lattice Semiconductor",
+    "needed_source_type": "icims",
+    "careers_url": "https://careers-latticesemi.icims.com/"
+  }
+]

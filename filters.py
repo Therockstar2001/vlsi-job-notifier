@@ -1,80 +1,118 @@
 ROLE_KEYWORDS = [
+    # Core DV / verification
     "design verification",
     "verification engineer",
     "dv engineer",
     "formal verification",
-    "rtl design",
-    "rtl engineer",
     "soc verification",
     "cpu verification",
-    "emulation engineer",
     "asic verification",
+    "fpga verification",
+    "emulation engineer",
+    "verification",
+    "formal",
+    "emulation",
+
+    # RTL / design
+    "rtl design",
+    "rtl engineer",
+    "rtl",
     "asic design engineer",
     "asic development engineer",
+    "asic front-end",
+    "front-end design",
+    "soc design",
     "soc/asic",
-    "embedded system engineer",
-    "embedded software engineer",
-    "hardware & embedded",
-    "firmware engineer",
-    "embedded firmware",
-    "riscv cpu",
-    "wireless rtl",
-    "soc design verification",
-    "cellular soc design verification",
-    "asic design and integration",
-    "verification",
-    "rtl",
     "asic",
     "soc",
-    "embedded",
+
+    # Embedded / firmware
+    "embedded system engineer",
+    "embedded systems engineer",
+    "embedded software engineer",
+    "embedded engineer",
+    "firmware engineer",
+    "embedded firmware",
     "firmware",
-    "emulation",
-    "formal"
+    "embedded",
+    "bare metal",
+    "device driver",
+    "kernel",
+    "linux kernel",
+
+    # CPU / architecture / silicon-specific useful signals
+    "riscv",
+    "risc-v",
+    "cpu",
+    "silicon engineering",
+    "dft engineer",
+    "scan",
+    "bringup",
+    "bring-up"
 ]
 
+
 ROLE_NEGATIVE_KEYWORDS = [
+    # Business / non-engineering
     "marketing",
     "sales",
+    "business development",
+    "account executive",
+    "account manager",
+    "finance",
+    "legal",
+    "human resources",
+    "people operations",
+    "recruiting",
+    "talent acquisition",
+    "public relations",
+    "communications",
+    "brand",
     "social media",
-    "social strategist",
     "content creator",
     "content strategist",
     "creative director",
-    "photography",
-    "media",
-    "brand",
-    "communications",
-    "public relations",
-    "hr ",
-    "human resources",
-    "business partner",
+    "video producer",
+    "producer",
+    "policy associate",
+    "corporate development",
+    "chief of staff",
+
+    # Operations / support / manufacturing-floor noise
     "warehouse",
     "shipping",
     "forklift",
-    "project coordinator",
-    "coordinator",
-    "safety specialist",
-    "recruiting",
-    "people operations",
-    "commercial associate",
-    "program manager",
-    "technical program manager",
     "facilities",
     "supply chain",
+    "material associate",
+    "materials associate",
+    "production associate",
+    "workplace associate",
+    "fleet technician",
+    "technician",
+    "operator",
+    "coordinator",
+    "project coordinator",
+    "customer support",
+    "technical support",
+    "support specialist",
+
+    # Roles usually outside your target
+    "mechanical engineer",
+    "propulsion",
+    "thermal engineer",
+    "cad engineer",
+    "librarian",
+    "retail",
+    "store",
+    "analog layout",
+    "physical design",
+    "post-silicon",
+    "validation engineer",
     "quality inspector",
     "supplier quality",
     "quality engineer",
-    "test specialist",
-    "test engineer associate",
     "vehicle test",
-    "vehicle",
-    "flight software",
-    "mechanical engineer",
-    "propulsion",
-    "finance",
-    "legal",
-    "machinist",
-    "thermal engineer",
     "security",
     "offensive security",
     "product security",
@@ -84,82 +122,94 @@ ROLE_NEGATIVE_KEYWORDS = [
     "software engineer - backend",
     "software engineer - full stack",
     "manufacturing",
-    "pcb",
-    "analog layout",
-    "post-silicon",
-    "chief of staff",
+
+    # Very noisy generic titles seen in your runs
+    "federal materials associate",
+    "associate director",
+    "satellite policy associate"
+]
+
+
+ENTRY_LEVEL_KEYWORDS = [
+    "new grad",
+    "new graduate",
+    "university graduate",
+    "college graduate",
+    "entry level",
+    "early career",
+    "engineer i",
+    "graduate",
+    "0 years",
+    "0-1 years",
+    "0 to 1 years",
+    "1 year",
+    "1+ year",
+    "associate engineer"
+]
+
+
+INTERN_KEYWORDS = [
+    "intern",
+    "internship",
+    "co-op",
+    "coop",
+    "student"
+]
+
+
+MID_LEVEL_KEYWORDS = [
+    "2 years",
+    "2+ years",
+    "3 years",
+    "3+ years",
+    "4 years",
+    "4+ years",
+    "ii",
+    "engineer 2"
+]
+
+
+SENIOR_LEVEL_KEYWORDS = [
+    "senior",
+    "staff",
+    "principal",
+    "director",
+    "manager",
+    "lead",
     "architect",
-    "physical design",
-    "validation engineer",
-    "networking engineer",
-    "robotics",
-    "communications/dsp",
-    "cad engineer",
-    "librarian",
-    "retail",
-    "store",
-    "designer",
-    "design director",
-    "customer support",
-    "operations"
+    "distinguished"
 ]
 
 
 def is_relevant_role(title: str, description: str = "") -> bool:
-    text = f"{title} {description}".lower()
+    title = (title or "").lower().strip()
+    description = (description or "").lower().strip()
+    text = f"{title} {description}"
 
+    # Hard reject obvious noise first
     if any(bad in text for bad in ROLE_NEGATIVE_KEYWORDS):
         return False
 
+    # Must contain at least one positive signal
     return any(word in text for word in ROLE_KEYWORDS)
 
 
 def get_seniority_bucket(title: str, description: str = "") -> str:
-    text = f"{title} {description}".lower()
+    title = (title or "").lower().strip()
+    description = (description or "").lower().strip()
+    text = f"{title} {description}"
 
-    if any(word in text for word in [
-        "intern",
-        "internship",
-        "co-op",
-        "coop",
-        "student"
-    ]):
+    if any(word in text for word in INTERN_KEYWORDS):
         return "intern"
 
-    if any(word in text for word in [
-        "new grad",
-        "new graduate",
-        "university graduate",
-        "college graduate",
-        "entry level",
-        "early career",
-        "engineer i",
-        "graduate",
-        "0 years",
-        "0-1 years",
-        "0 to 1 years",
-        "1 year"
-    ]):
+    if any(word in text for word in ENTRY_LEVEL_KEYWORDS):
         return "entry_level"
 
-    if any(word in text for word in [
-        "2 years",
-        "2+ years",
-        "3 years",
-        "3+ years"
-    ]):
-        return "mid"
-
-    if any(word in text for word in [
-        "senior",
-        "staff",
-        "principal",
-        "director",
-        "manager",
-        "lead",
-        "architect"
-    ]):
+    if any(word in text for word in SENIOR_LEVEL_KEYWORDS):
         return "senior"
+
+    if any(word in text for word in MID_LEVEL_KEYWORDS):
+        return "mid"
 
     return "mid"
 
@@ -168,7 +218,7 @@ def is_us_location(location: str) -> bool:
     if not location:
         return False
 
-    loc = location.lower()
+    loc = location.lower().strip()
 
     non_us_keywords = [
         ", th", " thailand",
@@ -184,8 +234,11 @@ def is_us_location(location: str) -> bool:
         ", il", " israel",
         ", cn", " china",
         ", kr", " korea",
-        ", ca, canada", " canada", " toronto", " vancouver",
-        "espoo", "munich", "rayong", "uusimaa", "bengaluru", "tokyo"
+        ", ca, canada", " canada",
+        "toronto", "vancouver", "ottawa", "montreal",
+        "espoo", "munich", "rayong", "uusimaa",
+        "bengaluru", "tokyo", "cordoba", "argentina",
+        "costa rica", "san jose, costa rica"
     ]
 
     if any(keyword in loc for keyword in non_us_keywords):
@@ -198,6 +251,9 @@ def is_us_location(location: str) -> bool:
         ", us",
         "virtual us",
         "remote us",
+        "united states - remote",
+        "remote - us",
+        "u.s.",
         "california",
         "texas",
         "massachusetts",
@@ -219,6 +275,9 @@ def is_us_location(location: str) -> bool:
         "florida",
         "ohio",
         "pennsylvania",
+        "maryland",
+        "district of columbia",
+        "dc",
         "san francisco",
         "santa clara",
         "austin",
@@ -229,7 +288,17 @@ def is_us_location(location: str) -> bool:
         "rochester",
         "sunnyvale",
         "el paso",
-        "hillsboro"
+        "hillsboro",
+        "mountain view",
+        "costa mesa",
+        "reston",
+        "lexington",
+        "south san francisco",
+        "fremont",
+        "phoenix",
+        "fort collins",
+        "quincy",
+        "duluth"
     ]
 
     return any(keyword in loc for keyword in us_keywords)

@@ -73,5 +73,125 @@
     "company": "Apple",
     "source_type": "applejobs",
     "token": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+  },
+  {
+    "company": "Analog Devices",
+    "source_type": "workday",
+    "token": "https://analogdevices.wd1.myworkdayjobs.com/External"
+  },
+  {
+    "company": "NXP Semiconductors",
+    "source_type": "workday",
+    "token": "https://nxp.wd3.myworkdayjobs.com/careers"
+  },
+  {
+    "company": "Broadcom",
+    "source_type": "workday",
+    "token": "https://broadcom.wd1.myworkdayjobs.com/External_Career"
+  },
+  {
+    "company": "Microchip",
+    "source_type": "workday",
+    "token": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External"
+  },
+  {
+    "company": "SiFive",
+    "source_type": "workday",
+    "token": "https://sifive.wd1.myworkdayjobs.com/sifivecareers"
+  },
+  {
+    "company": "Renesas Electronics",
+    "source_type": "smartrecruiters",
+    "token": "RenesasElectronics"
+  },
+  {
+  "company": "KLA",
+  "source_type": "workday",
+  "token": "https://kla.wd1.myworkdayjobs.com/Search"
+  },
+  {
+  "company": "Applied Materials",
+  "source_type": "workday",
+  "token": "https://amat.wd1.myworkdayjobs.com/External"
+  },
+  {
+    "company": "SambaNova Systems",
+    "source_type": "greenhouse",
+    "token": "sambanovasystems"
+  },
+  {
+    "company": "Samsung Semiconductor",
+    "source_type": "greenhouse",
+    "token": "samsungsemiconductor"
+  },
+  {
+    "company": "Baya Systems",
+    "source_type": "greenhouse",
+    "token": "bayasystems"
+  },
+  {
+    "company": "Ambiq",
+    "source_type": "greenhouse",
+    "token": "ambiqmicroinc"
+  },
+  {
+    "company": "Graphcore",
+    "source_type": "greenhouse",
+    "token": "graphcore"
+  },
+  {
+    "company": "Eridan",
+    "source_type": "greenhouse",
+    "token": "eridan"
+  },
+  {
+    "company": "Celero Communications",
+    "source_type": "greenhouse",
+    "token": "celerocommunicationsinc"
+  },
+  {
+    "company": "Micron",
+    "source_type": "workday",
+    "token": "https://micron.wd1.myworkdayjobs.com/External"
+  },
+  {
+    "company": "Aurora Innovation",
+    "source_type": "greenhouse",
+    "token": "aurorainnovation"
+  },
+  {
+    "company": "Nuro",
+    "source_type": "greenhouse",
+    "token": "nuro"
+  },
+  {
+    "company": "Applied Intuition",
+    "source_type": "greenhouse",
+    "token": "appliedintuition"
+  },
+  {
+    "company": "Ethernovia",
+    "source_type": "greenhouse",
+    "token": "ethernovia"
+  },
+  {
+    "company": "SpaceX",
+    "source_type": "greenhouse",
+    "token": "spacex"
+  },
+  {
+    "company": "Axiado",
+    "source_type": "smartrecruiters",
+    "token": "Axiado"
+  },
+  {
+    "company": "Zipline",
+    "source_type": "greenhouse",
+    "token": "flyzipline"
+  },
+  {
+    "company": "Anduril Industries",
+    "source_type": "greenhouse",
+    "token": "andurilindustries"
   }
 ]
