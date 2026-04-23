@@ -152,7 +152,7 @@
   {
     "company": "Micron",
     "source_type": "workday",
-    "token": "https://micron.wd1.myworkdayjobs.com/External"
+    "token": "https://micron.wd1.myworkdayjobs.com/en-US/External"
   },
   {
     "company": "Aurora Innovation",
@@ -193,5 +193,20 @@
     "company": "Anduril Industries",
     "source_type": "greenhouse",
     "token": "andurilindustries"
+  }, 
+  {
+    "company": "Lattice Semiconductor",
+    "source_type": "icims",
+    "token": "https://careers-latticesemi.icims.com/jobs/intro"
+  },
+  {
+    "company": "MaxLinear",
+    "source_type": "icims",
+    "token": "https://careersus-maxlinear.icims.com/jobs/intro"
+  },
+  {
+    "company": "Texas Instruments",
+    "source_type": "oracle",
+    "token": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions"
   }
 ]

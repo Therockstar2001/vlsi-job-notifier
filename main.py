@@ -9,7 +9,9 @@ from sources import (
     fetch_greenhouse_jobs,
     fetch_lever_jobs,
     fetch_smartrecruiters_jobs,
+    fetch_icims_jobs,
     fetch_workday_jobs,
+    fetch_oracle_jobs,
     fetch_apple_jobs,
     fetch_qualcomm_jobs,
 )
@@ -75,15 +77,21 @@ def fetch_jobs_for_company(company_record):
 
     if source_type == "smartrecruiters":
         return fetch_smartrecruiters_jobs(token, company_name)
+    
+    if source_type == "icims":
+        return fetch_icims_jobs(token, company_name)
 
     if source_type == "workday":
         return fetch_workday_jobs(token, company_name)
+    
+    if source_type == "oracle":
+        return fetch_oracle_jobs(token, company_name)
 
     if source_type == "applejobs":
         return fetch_apple_jobs(token, company_name)
 
     if source_type == "qualcomm":
-        return fetch_qualcomm_jobs(token, company_name)
+        return fetch_qualcomm_jobs(token, company_name) 
 
     raise ValueError(f"Unsupported source_type: {source_type}")
 
@@ -205,6 +213,9 @@ def main():
     print("Total fetched:", total_fetched)
     print("Total matched:", total_matched)
     print("Total posted:", total_posted)
+
+    if total_posted == 0:
+        print("No new jobs in this run.")
 
     if any_new_jobs:
         state["last_new_job_time"] = datetime.datetime.now().isoformat()

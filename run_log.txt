@@ -5234,3 +5234,735 @@
 2026-04-13 23:20:11.755464 | Zipline: fetched=188
 2026-04-13 23:20:11.888861 | Anduril Industries: fetched=1825
 2026-04-13 23:20:11.901951 | Run finished | fetched=9500 matched=310 posted=2
+2026-04-23 12:47:46.273606 | === RUN STARTED ===
+2026-04-23 12:47:47.005411 | Astranis: fetched=120
+2026-04-23 12:47:47.561609 | POSTED ALL | Astranis | Associate Technical Program Manager (USG Systems) (Summer 2026) | San Francisco
+2026-04-23 12:47:47.659549 | Tenstorrent: fetched=115
+2026-04-23 12:47:48.205478 | POSTED ALL | Tenstorrent | ASIC Networking Engineer | United States
+2026-04-23 12:47:48.708924 | POSTED ALL | Tenstorrent | Automotive and Robotics SOC Architect | United States
+2026-04-23 12:47:49.134720 | POSTED ALL | Tenstorrent | Engineering Program Manager, RISCV | Austin, Texas, United States
+2026-04-23 12:47:49.543701 | POSTED ALL | Tenstorrent | Fabric SOC Architect | United States
+2026-04-23 12:47:49.958524 | POSTED ALL | Tenstorrent | RISC-V CPU Microarchitecture / RTL | United States
+2026-04-23 12:47:50.379589 | POSTED ALL | Tenstorrent | Sr Staff Engineer, CPU System Microarchitect | Austin, Texas, United States
+2026-04-23 12:47:50.850899 | POSTED ALL | Tenstorrent | Staff Engineer, CPU Core Verification | Austin, Texas, United States
+2026-04-23 12:47:51.319683 | POSTED ALL | Tenstorrent | Staff Engineer, Emulation Technical Lead | Austin, Texas, United States
+2026-04-23 12:47:51.885671 | POSTED ALL | Tenstorrent | Technical Program Manager, RISCV Customer | Santa Clara, California, United States
+2026-04-23 12:47:51.970153 | Tenstorrent University: fetched=35
+2026-04-23 12:47:52.051982 | Cerebras Systems: fetched=91
+2026-04-23 12:47:52.145364 | Cerebras Early Talent: fetched=5
+2026-04-23 12:47:52.224930 | Astera Labs: fetched=144
+2026-04-23 12:47:52.309391 | Lightmatter: fetched=46
+2026-04-23 12:47:52.740024 | POSTED ALL | Lightmatter | Associate General Counsel | Mountain View, CA
+2026-04-23 12:47:53.170875 | POSTED ALL | Lightmatter | Sr Staff Design Verification | Mountain View, CA
+2026-04-23 12:47:53.593513 | POSTED ALL | Lightmatter | Staff Embedded Software Engineer | Mountain View, CA
+2026-04-23 12:47:55.660325 | Western Digital: fetched=300
+2026-04-23 12:47:56.218649 | POSTED ALL | Western Digital | Staff Embedded System Engineer | Irvine, CA, us
+2026-04-23 12:47:57.793686 | Bosch: fetched=300
+2026-04-23 12:47:58.190911 | POSTED ALL | Bosch | Logistics Associate - (1st Shift) | Pineville, NC, us
+2026-04-23 12:47:58.613663 | POSTED ALL | Bosch | Territory Manager (Pro Channel) - Portland, OR - Diablo Tools | Portland, OR, us
+2026-04-23 12:48:00.162743 | Sandisk: fetched=300
+2026-04-23 12:48:00.609318 | POSTED ALL | Sandisk | SoC Architect | Milpitas, CA, us
+2026-04-23 12:48:01.039124 | POSTED ALL | Sandisk | AI/ML ASIC Architect | Milpitas, CA, us
+2026-04-23 12:48:16.299527 | NVIDIA: fetched=300
+2026-04-23 12:48:16.719127 | POSTED ALL | NVIDIA | Senior ASIC Verification Engineer - GPU | US, CA, Santa Clara
+2026-04-23 12:48:17.165450 | POSTED ALL | NVIDIA | Senior ASIC Design Engineer | US, CA, Santa Clara
+2026-04-23 12:48:17.619645 | POSTED ALL | NVIDIA | Senior ASIC Design Engineer, Memory Controller | US, CA, Santa Clara
+2026-04-23 12:48:18.086983 | POSTED ALL | NVIDIA | System Verification Engineer | US, CA, Santa Clara
+2026-04-23 12:48:18.518379 | POSTED ALL | NVIDIA | Senior Firmware Engineer -  Development, Verification and Infrastructure | US, CA, Santa Clara
+2026-04-23 12:48:18.926686 | POSTED ALL | NVIDIA | Senior Embedded Software Engineer - AV Platform | US, CA, Santa Clara
+2026-04-23 12:48:32.729812 | Intel: fetched=300
+2026-04-23 12:48:33.133961 | POSTED ALL | Intel | Product SoC Architect | US, California, Santa Clara
+2026-04-23 12:48:33.534670 | POSTED ALL | Intel | Senior CPU Circuit Design Engineer | US, Texas, Austin
+2026-04-23 12:48:33.923689 | POSTED ALL | Intel | Senior Out-of-Order CPU Architect | US, Texas, Austin
+2026-04-23 12:48:34.328678 | POSTED ALL | Intel | GPU Design Verification Engineer | US, California, Folsom
+2026-04-23 12:48:34.804747 | POSTED ALL | Intel | CPU Circuit Design Engineer | US, Texas, Austin
+2026-04-23 12:48:35.248295 | POSTED ALL | Intel | Atom CPU Architecture Engineer | US, Texas, Austin
+2026-04-23 12:48:35.750782 | POSTED ALL | Intel | IP Design Verification Engineer | US, Oregon, Hillsboro
+2026-04-23 12:48:36.203658 | POSTED ALL | Intel | SoC Design Verification Engineer - Emulation | US, Oregon, Hillsboro
+2026-04-23 12:48:36.600883 | POSTED ALL | Intel | SOC Logic Design Engineer | Virtual US
+2026-04-23 12:48:37.030231 | POSTED ALL | Intel | SoC Analog Engineer | US, Oregon, Hillsboro
+2026-04-23 12:48:38.045074 | Qualcomm: fetched=0
+2026-04-23 12:48:46.396976 | Marvell: fetched=300
+2026-04-23 12:48:46.832307 | POSTED ALL | Marvell | Principal IC Digital Design - SoC Design/Micro-architecture | Santa Clara, CA
+2026-04-23 12:48:47.223535 | POSTED ALL | Marvell | ASIC Architect | Santa Clara, CA
+2026-04-23 12:48:47.648884 | POSTED ALL | Marvell | Principal Verification Engineer | Santa Clara, CA
+2026-04-23 12:48:48.153323 | POSTED ALL | Marvell | Senior Staff Design Verification Engineer | Santa Clara, CA
+2026-04-23 12:48:48.558508 | POSTED ALL | Marvell | Staff Firmware Engineer - high-speed interconnects /custom silicon/ASIC design / microcontroller architectures / | Santa Clara, CA
+2026-04-23 12:48:49.006892 | POSTED ALL | Marvell | Director of Firmware Engineering - Embedded Systems/PCIe/CXL/NVMe/Ethernet/Serial Interconnect | Santa Clara, CA
+2026-04-23 12:48:49.409220 | POSTED ALL | Marvell | Senior Staff Engineer, ASIC/VLSI Synthesis and Design | Irvine, CA
+2026-04-23 12:48:49.860793 | POSTED ALL | Marvell | Senior Staff Engineer, ASIC Design/Implementation -- LEC/STA/Power Analysis | Irvine, CA
+2026-04-23 12:48:50.326399 | POSTED ALL | Marvell | Principal Firmware Engineer - high-speed optical interconnects /custom silicon/ASIC design / microcontroller architectures / | Santa Clara, CA
+2026-04-23 12:48:55.714968 | Apple: fetched=300
+2026-04-23 12:48:56.170455 | POSTED ALL | Apple | PHY RTL Design Engineer | 
+2026-04-23 12:48:56.602997 | POSTED ALL | Apple | ASIC Power Engineer | 
+2026-04-23 12:48:57.054198 | POSTED ALL | Apple | Software Engineer - SOC Power Management, Core OS | 
+2026-04-23 12:48:57.468160 | POSTED ALL | Apple | SoC Debug and Automation Engineering Program Manager | 
+2026-04-23 12:48:57.930741 | POSTED ALL | Apple | CPU Performance Engineer | 
+2026-04-23 12:48:58.363969 | POSTED ALL | Apple | CPU Full Chip Physical Integration Engineer | 
+2026-04-23 12:48:58.834902 | POSTED ALL | Apple | CPU Power Engineer | 
+2026-04-23 12:48:59.257841 | POSTED ALL | Apple | CPU Physical Electrical Analysis Engineer | 
+2026-04-23 12:48:59.653225 | POSTED ALL | Apple | CPU Technology Feasibility Implementation Engineer | 
+2026-04-23 12:49:00.105140 | POSTED ALL | Apple | CPU Design Verification Engineer | 
+2026-04-23 12:49:00.562218 | POSTED ALL | Apple | CPU Debug and Power Management Verification Engineer | 
+2026-04-23 12:49:01.008715 | POSTED ALL | Apple | Design Verification Engineer | 
+2026-04-23 12:49:10.486575 | Analog Devices: fetched=300
+2026-04-23 12:49:20.784045 | NXP Semiconductors: fetched=300
+2026-04-23 12:49:26.849167 | Broadcom: fetched=300
+2026-04-23 12:49:27.340011 | POSTED ALL | Broadcom | Design Verification Engineer | USA-CA San Jose Innovation Drive
+2026-04-23 12:49:27.763875 | POSTED ALL | Broadcom | ASIC DFT Engineer | USA-CA San Jose Innovation Drive
+2026-04-23 12:49:28.262986 | POSTED ALL | Broadcom | ASIC DFT Engineer | USA-California-San Jose-1320 Ridder Park Drive
+2026-04-23 12:49:28.705281 | POSTED ALL | Broadcom | Emulation Engineer | USA-CA San Jose Innovation Drive
+2026-04-23 12:49:29.168262 | POSTED ALL | Broadcom | ASIC Verification Engineer | USA-CA Irvine Alton Parkway Bldg 2
+2026-04-23 12:49:39.325127 | Microchip: fetched=300
+2026-04-23 12:49:39.734745 | POSTED ALL | Microchip | Principal Engineer-Design Verification (Wireless Protocol Hardware) | CA - Irvine
+2026-04-23 12:49:42.185597 | SiFive: fetched=58
+2026-04-23 12:49:42.588817 | POSTED ALL | SiFive | Senior RTL Design Engineer - CPU Frontend | Santa Clara, California, United States
+2026-04-23 12:49:43.027700 | POSTED FRESHER | SiFive | CPU Design Intern | Santa Clara, California, United States
+2026-04-23 12:49:44.940996 | Renesas Electronics: fetched=300
+2026-04-23 12:49:45.446990 | POSTED ALL | Renesas Electronics | Sr. Staff Embedded AI Engineer | Columbia, MARYLAND, us
+2026-04-23 12:49:56.060368 | KLA: fetched=300
+2026-04-23 12:50:10.103893 | Applied Materials: fetched=300
+2026-04-23 12:50:10.507654 | SambaNova Systems: fetched=24
+2026-04-23 12:50:10.579629 | Samsung Semiconductor: fetched=51
+2026-04-23 12:50:11.015274 | POSTED ALL | Samsung Semiconductor | Associate, Executive Administration | San Jose, California, United States
+2026-04-23 12:50:11.487957 | POSTED ALL | Samsung Semiconductor | Principal Engineer, RTL Power Macromodeling | San Jose, California, United States
+2026-04-23 12:50:11.887674 | POSTED ALL | Samsung Semiconductor | Principal Engineer, SOC Design | San Jose, California, United States
+2026-04-23 12:50:12.365090 | POSTED ALL | Samsung Semiconductor | Senior, CPU Architecture & Performance Research Engineer | San Jose, California, United States
+2026-04-23 12:50:12.789911 | POSTED ALL | Samsung Semiconductor | Senior Engineer, RTL | San Jose, California, United States
+2026-04-23 12:50:13.202721 | POSTED ALL | Samsung Semiconductor | Senior Staff Engineer, Design Verification | San Jose, California, United States
+2026-04-23 12:50:13.629905 | POSTED ALL | Samsung Semiconductor | Senior Staff Engineer, RTL Memory Centric Computing | San Jose, California, United States
+2026-04-23 12:50:14.104055 | POSTED ALL | Samsung Semiconductor | Senior Staff Engineer, SOC Design | Folsom, California, United States
+2026-04-23 12:50:14.593446 | POSTED ALL | Samsung Semiconductor | Senior Technical Project Manager, ASIC | San Jose, California, United States
+2026-04-23 12:50:15.361098 | POSTED ALL | Samsung Semiconductor | Staff, CPU Architecture & Performance Research Engineer | San Jose, California, United States
+2026-04-23 12:50:15.802511 | POSTED ALL | Samsung Semiconductor | Staff Engineer, Design Verification | San Jose, California, United States
+2026-04-23 12:50:16.240566 | POSTED ALL | Samsung Semiconductor | Staff Engineer, RTL Memory Centric Computing | San Jose, California, United States
+2026-04-23 12:50:16.339463 | Baya Systems: fetched=23
+2026-04-23 12:50:16.737967 | POSTED ALL | Baya Systems | Hardware Verification Engineer | Santa Clara, California, United States
+2026-04-23 12:50:17.192977 | POSTED ALL | Baya Systems | Hardware Verification Engineer | Austin, Texas, United States
+2026-04-23 12:50:17.599954 | POSTED ALL | Baya Systems | Microarchitect and RTL Design Engineer | Santa Clara, California, United States
+2026-04-23 12:50:17.676833 | Ambiq: fetched=30
+2026-04-23 12:50:18.116503 | POSTED ALL | Ambiq | Principal Embedded Software Architect – Edge AI MCU | Austin, Texas, United States
+2026-04-23 12:50:18.520290 | POSTED ALL | Ambiq | Principal SoC RTL Engineer | Austin, Texas, United States
+2026-04-23 12:50:18.931985 | POSTED ALL | Ambiq | Sr. Director - SoC Front End Engineering | Austin, Texas, United States
+2026-04-23 12:50:19.368712 | POSTED ALL | Ambiq | Sr. Staff Engineer - Digital Design Verification | Austin, Texas, United States
+2026-04-23 12:50:19.908036 | POSTED ALL | Ambiq | Staff Embedded CI/Release Infrastructure Engineer | Austin, Texas, United States
+2026-04-23 12:50:20.364940 | POSTED ALL | Ambiq | Staff Embedded GPU Software Engineer | Austin, Texas, United States
+2026-04-23 12:50:20.795545 | POSTED ALL | Ambiq | Staff Engineer - Embedded Graphics Software | Austin, Texas, United States
+2026-04-23 12:50:21.217306 | POSTED ALL | Ambiq | Staff Engineer - Embedded Software | Austin, Texas, United States
+2026-04-23 12:50:21.294648 | Graphcore: fetched=133
+2026-04-23 12:50:21.764283 | POSTED ALL | Graphcore | Principal Embedded SW/FW Engineer (Bringup) | Austin, Texas, United States
+2026-04-23 12:50:22.182325 | POSTED ALL | Graphcore | Senior Embedded SW/FW Engineer (Bringup) | Austin, Texas, United States
+2026-04-23 12:50:22.249722 | Eridan: fetched=3
+2026-04-23 12:50:22.314135 | Celero Communications: fetched=17
+2026-04-23 12:50:22.719586 | POSTED ALL | Celero Communications | ASIC Design Engineer - Staff | Irvine, CA
+2026-04-23 12:50:29.444211 | Micron: fetched=300
+2026-04-23 12:50:29.865412 | POSTED ALL | Micron | Staff/Principal Engineer. ASIC Design Verification (DDR expert) | San Jose, CA
+2026-04-23 12:50:30.306021 | POSTED ALL | Micron | Staff/Principal Engineer - Design Verification (SoC expert/lead) | San Jose, CA
+2026-04-23 12:50:30.386601 | Aurora Innovation: fetched=171
+2026-04-23 12:50:30.790414 | POSTED FRESHER | Aurora Innovation | Embedded Software Engineer I | Mountain View, California
+2026-04-23 12:50:31.218980 | POSTED ALL | Aurora Innovation | Embedded Software Engineer, Vehicle Controls | Pittsburgh, Pennsylvania
+2026-04-23 12:50:31.678302 | POSTED ALL | Aurora Innovation | Staff Embedded Linux Engineer | Mountain View, California
+2026-04-23 12:50:32.128169 | POSTED ALL | Aurora Innovation | Staff Technical Program Manager, Embedded Software | Mountain View, California
+2026-04-23 12:50:32.241564 | Nuro: fetched=94
+2026-04-23 12:50:32.633381 | POSTED ALL | Nuro | Senior/Staff Software Engineer,  Behavior Verification | Mountain View, California (HQ)
+2026-04-23 12:50:33.055188 | POSTED ALL | Nuro | Senior/Staff Software Engineer, Fault Response Verification | Mountain View, California (HQ)
+2026-04-23 12:50:33.474168 | POSTED ALL | Nuro | Senior/Staff Systems Engineer, Autonomy Verification | Mountain View, California (HQ)
+2026-04-23 12:50:33.547214 | Applied Intuition: fetched=207
+2026-04-23 12:50:33.981858 | POSTED ALL | Applied Intuition | Embedded AI Engineer – Android Automotive (On-Device Intelligence) | Sunnyvale, California, United States
+2026-04-23 12:50:34.392483 | POSTED ALL | Applied Intuition | Embedded Software Engineer - Core OS | Sunnyvale, California, United States
+2026-04-23 12:50:34.833225 | POSTED ALL | Applied Intuition | Embedded Software Engineer - Firmware | Sunnyvale, California, United States
+2026-04-23 12:50:35.302455 | POSTED ALL | Applied Intuition | Senior Embedded Software Engineer | Sunnyvale, California, United States
+2026-04-23 12:50:35.698162 | POSTED ALL | Applied Intuition | Senior Embedded Software Engineer - Firmware | Sunnyvale, California, United States
+2026-04-23 12:50:35.774579 | Ethernovia: fetched=31
+2026-04-23 12:50:36.185264 | POSTED ALL | Ethernovia | Senior ASIC Design Verification Engineer | San Jose, CA
+2026-04-23 12:50:36.617390 | POSTED ALL | Ethernovia | Senior ASIC Design Verification Engineer | United States - Remote
+2026-04-23 12:50:37.035786 | POSTED ALL | Ethernovia | Senior ASIC (Front-End) Design Engineer | San Jose, CA
+2026-04-23 12:50:37.464453 | POSTED ALL | Ethernovia | Senior ASIC (Front-End) Design Engineer | United States - Remote
+2026-04-23 12:50:37.649289 | SpaceX: fetched=1581
+2026-04-23 12:50:38.053770 | POSTED ALL | SpaceX | Design Verification Engineer (Silicon Engineering) | Irvine, CA
+2026-04-23 12:50:38.520153 | POSTED ALL | SpaceX | Design Verification Engineer (Silicon Engineering) | Sunnyvale, CA
+2026-04-23 12:50:39.037193 | POSTED ALL | SpaceX | Principal ASIC Design Engineer (Silicon Engineering) | Sunnyvale, CA
+2026-04-23 12:50:39.470136 | POSTED ALL | SpaceX | Principal ASIC Design Engineer (Silicon Engineering) | Irvine, CA
+2026-04-23 12:50:39.886471 | POSTED ALL | SpaceX | Principal Design Verification Engineer (Silicon Engineering) | Irvine, CA
+2026-04-23 12:50:40.344365 | POSTED ALL | SpaceX | Principal Design Verification Engineer (Silicon Engineering) | Sunnyvale, CA
+2026-04-23 12:50:40.759544 | POSTED ALL | SpaceX | RTL Design Engineer (Silicon Engineering) | Irvine, CA
+2026-04-23 12:50:41.178770 | POSTED ALL | SpaceX | SOC Design Verification Engineer (Silicon Engineering) | Sunnyvale, CA
+2026-04-23 12:50:41.631362 | POSTED ALL | SpaceX | SOC Design Verification Engineer (Silicon Engineering) | Irvine, CA
+2026-04-23 12:50:42.125152 | POSTED ALL | SpaceX | Sr. ASIC Design Engineer (Silicon Engineering) | Irvine, CA
+2026-04-23 12:50:42.542858 | POSTED ALL | SpaceX | Sr. ASIC Design Engineer (Silicon Engineering) | Sunnyvale, CA
+2026-04-23 12:50:42.960058 | POSTED ALL | SpaceX | Sr. ASIC Design Verification Engineer (Silicon Engineering) | Irvine, CA
+2026-04-23 12:50:43.381152 | POSTED ALL | SpaceX | Sr. ASIC/SOC Verification Engineer (Silicon Engineering) | Sunnyvale, CA
+2026-04-23 12:50:43.797655 | POSTED ALL | SpaceX | Sr. Design Verification Engineer (Silicon Engineering) | Sunnyvale, CA
+2026-04-23 12:50:44.206085 | POSTED ALL | SpaceX | Sr. RTL Design Engineer (Silicon Engineering) | Irvine, CA
+2026-04-23 12:50:44.618653 | POSTED ALL | SpaceX | Sr. RTL Design Engineer (Silicon Engineering) | Sunnyvale, CA
+2026-04-23 12:50:45.043575 | POSTED ALL | SpaceX | Sr. SOC/ASIC DFT Engineer (Silicon Engineering) | Sunnyvale, CA
+2026-04-23 12:50:45.531759 | Axiado: fetched=43
+2026-04-23 12:50:45.603598 | Zipline: fetched=189
+2026-04-23 12:50:46.026130 | POSTED ALL | Zipline | Embedded Software Engineer (Data Platform), Autonomy | South San Francisco, California, USA
+2026-04-23 12:50:46.457850 | POSTED ALL | Zipline | Senior Embedded Software Engineer | South San Francisco, California, USA
+2026-04-23 12:50:46.905283 | POSTED ALL | Zipline | Site Operations Process Associate | South San Francisco, California, USA
+2026-04-23 12:50:47.324231 | POSTED ALL | Zipline | Software Engineer - Embedded Firmware | South San Francisco, California, USA
+2026-04-23 12:50:47.437526 | Anduril Industries: fetched=1852
+2026-04-23 12:50:47.914467 | POSTED ALL | Anduril Industries | Business Operations Associate | Costa Mesa, California, United States
+2026-04-23 12:50:48.364921 | POSTED ALL | Anduril Industries | Business Operations Associate, Production | Costa Mesa, California, United States
+2026-04-23 12:50:48.803246 | POSTED ALL | Anduril Industries | Business Operations Associate - Technical Projects | Costa Mesa, California, United States
+2026-04-23 12:50:49.254499 | POSTED ALL | Anduril Industries | Counterintelligence Embedded Program Lead | Reston, Virginia, United States
+2026-04-23 12:50:49.744170 | POSTED ALL | Anduril Industries | Division Operations Associate | Costa Mesa, California, United States
+2026-04-23 12:50:50.180976 | POSTED ALL | Anduril Industries | Embedded CI Program Lead | Reston, Virginia, United States
+2026-04-23 12:50:50.638100 | POSTED ALL | Anduril Industries | Embedded Haskell Engineer, EW | Costa Mesa, California, United States
+2026-04-23 12:50:51.073009 | POSTED ALL | Anduril Industries | Embedded Linux Engineer | Costa Mesa, California, United States
+2026-04-23 12:50:51.501616 | POSTED ALL | Anduril Industries | Embedded NixOS Engineer | Costa Mesa, California, United States
+2026-04-23 12:50:51.945701 | POSTED ALL | Anduril Industries | Embedded Software Engineer, EW | Costa Mesa, California, United States
+2026-04-23 12:50:52.363117 | POSTED ALL | Anduril Industries | Embedded Software Engineer, Maritime | Costa Mesa, California, United States
+2026-04-23 12:50:52.772228 | POSTED ALL | Anduril Industries | Embedded Software QA Engineer | Lexington, Massachusetts, United States
+2026-04-23 12:50:53.202714 | POSTED ALL | Anduril Industries | Engineering Manager, Embedded Systems Engineering | Seattle, Washington, United States
+2026-04-23 12:50:53.679885 | POSTED ALL | Anduril Industries | Export Operations Associate | Costa Mesa, California, United States
+2026-04-23 12:50:54.141501 | POSTED ALL | Anduril Industries | Firmware Engineer, Embedded Systems | Costa Mesa, California, United States
+2026-04-23 12:50:54.599152 | POSTED ALL | Anduril Industries | Flight Software Engineer, Embedded C/C++, Air Dominance & Strike | Costa Mesa, California, United States
+2026-04-23 12:50:55.279272 | POSTED ALL | Anduril Industries | Flight Software Engineer, Embedded C/C++, Air Dominance & Strike - Advanced Effects | Costa Mesa, California, United States
+2026-04-23 12:50:55.722855 | POSTED ALL | Anduril Industries | Flight Software Platform Engineer, Embedded C/C++, Air Dominance & Strike | Costa Mesa, California, United States
+2026-04-23 12:50:56.181270 | POSTED ALL | Anduril Industries | FPGA Verification Engineer, Air Dominance and Strike | Costa Mesa, California, United States
+2026-04-23 12:50:56.599917 | POSTED ALL | Anduril Industries | Lead Embedded Software Engineer, EW | Costa Mesa, California, United States
+2026-04-23 12:50:57.050685 | POSTED ALL | Anduril Industries | Operations & Logistics Associate | Costa Mesa, California, United States
+2026-04-23 12:50:57.487256 | POSTED ALL | Anduril Industries | Operations & Logistics Associate, Intel Systems (Active Clearance) | Costa Mesa, California, United States
+2026-04-23 12:50:57.918556 | POSTED ALL | Anduril Industries | Principal Embedded Software Engineer, EW | Costa Mesa, California, United States
+2026-04-23 12:50:58.346262 | POSTED ALL | Anduril Industries | Product Operations Associate, Air Defense | Irvine, California, United States
+2026-04-23 12:50:58.779523 | POSTED ALL | Anduril Industries | Product Operations Associate, Tier 1 | Irvine, California, United States
+2026-04-23 12:50:59.217168 | POSTED ALL | Anduril Industries | Senior Embedded Engineer, EW | Costa Mesa, California, United States
+2026-04-23 12:50:59.649598 | POSTED ALL | Anduril Industries | Senior Embedded NixOS Engineer | Costa Mesa, California, United States
+2026-04-23 12:51:00.094452 | POSTED ALL | Anduril Industries | Senior Embedded Software Engineer | Costa Mesa, California, United States
+2026-04-23 12:51:00.560920 | POSTED ALL | Anduril Industries | Senior Embedded Software Engineer (Bare Metal) | Costa Mesa, California, United States
+2026-04-23 12:51:01.024722 | POSTED ALL | Anduril Industries | Senior Embedded Software Engineer, EW | Costa Mesa, California, United States
+2026-04-23 12:51:01.540873 | POSTED ALL | Anduril Industries | Senior Embedded Software Engineer, Intelligence Systems (Bare Metal) | Reston, Virginia, United States
+2026-04-23 12:51:02.057371 | POSTED ALL | Anduril Industries | Senior Embedded Software Engineer, Intelligence Systems (Networking) | Reston, Virginia, United States
+2026-04-23 12:51:02.455766 | POSTED ALL | Anduril Industries | Senior Embedded Software Engineer, Maritime | Costa Mesa, California, United States
+2026-04-23 12:51:02.905695 | POSTED ALL | Anduril Industries | Senior Embedded Software Engineer (Networking) | Costa Mesa, California, United States
+2026-04-23 12:51:03.344592 | POSTED ALL | Anduril Industries | Senior Firmware Engineer, Embedded Systems | Costa Mesa, California, United States
+2026-04-23 12:51:03.798290 | POSTED ALL | Anduril Industries | Senior Flight Software Engineer, Embedded C/C++, Air Dominance & Strike | Costa Mesa, California, United States
+2026-04-23 12:51:04.252033 | POSTED ALL | Anduril Industries | Senior Flight Software Engineer, Embedded C/C++, Air Dominance & Strike - Advanced Effects | Costa Mesa, California, United States
+2026-04-23 12:51:04.714733 | POSTED ALL | Anduril Industries | Senior Flight Software Platform Engineer, Embedded C/C++, Air Dominance & Strike | Costa Mesa, California, United States
+2026-04-23 12:51:05.145573 | POSTED ALL | Anduril Industries | Senior Operations & Logistics Associate | Costa Mesa, California, United States
+2026-04-23 12:51:05.564617 | POSTED ALL | Anduril Industries | Senior Production Embedded Software Engineer, EW | Costa Mesa, California, United States
+2026-04-23 12:51:05.990369 | POSTED ALL | Anduril Industries | Senior Software Engineer, Embedded C/C++ Flight Software | Costa Mesa, California, United States
+2026-04-23 12:51:06.437579 | POSTED ALL | Anduril Industries | Software Engineer, Embedded C/C++ Flight Software | Costa Mesa, California, United States
+2026-04-23 12:51:06.876980 | POSTED ALL | Anduril Industries | Software Engineer, Embedded C/C++ Flight Software | Atlanta, Georgia, United States
+2026-04-23 12:51:07.297919 | POSTED ALL | Anduril Industries | Staff Embedded Software Engineer (Bare Metal), Intelligence Systems | Reston, Virginia, United States
+2026-04-23 12:51:07.774256 | POSTED ALL | Anduril Industries | Staff Embedded Software Engineer, Intelligence Systems | Reston, Virginia, United States
+2026-04-23 12:51:08.218041 | POSTED ALL | Anduril Industries | Tech Lead, Embedded Systems Engineering | Seattle, Washington, United States
+2026-04-23 12:51:08.853757 | Lattice Semiconductor: fetched=59
+2026-04-23 12:51:08.855082 | Run finished | fetched=9622 matched=249 posted=175
+2026-04-23 12:52:36.345957 | === RUN STARTED ===
+2026-04-23 12:52:36.764372 | Astranis: fetched=120
+2026-04-23 12:52:36.828507 | Tenstorrent: fetched=115
+2026-04-23 12:52:36.929584 | Tenstorrent University: fetched=35
+2026-04-23 12:52:37.009299 | Cerebras Systems: fetched=91
+2026-04-23 12:52:37.085828 | Cerebras Early Talent: fetched=5
+2026-04-23 12:52:37.178960 | Astera Labs: fetched=144
+2026-04-23 12:52:37.274576 | Lightmatter: fetched=46
+2026-04-23 12:52:39.143642 | Western Digital: fetched=300
+2026-04-23 12:52:40.747344 | Bosch: fetched=300
+2026-04-23 12:52:42.345400 | Sandisk: fetched=300
+2026-04-23 12:52:42.782217 | POSTED ALL | Sandisk | AI/ML ASIC Architect | Milpitas, CA, us
+2026-04-23 12:52:57.572457 | NVIDIA: fetched=300
+2026-04-23 12:53:09.391935 | Intel: fetched=300
+2026-04-23 12:53:09.853891 | POSTED ALL | Intel | GPU Design Verification Engineer | US, California, Folsom
+2026-04-23 12:53:10.541196 | Qualcomm: fetched=0
+2026-04-23 12:53:18.722001 | Marvell: fetched=300
+2026-04-23 12:53:24.049332 | Apple: fetched=300
+2026-04-23 12:53:24.567821 | POSTED ALL | Apple | PHY RTL Design Engineer | 
+2026-04-23 12:53:25.027726 | POSTED ALL | Apple | ASIC Power Engineer | 
+2026-04-23 12:53:25.499360 | POSTED ALL | Apple | SoC Debug and Automation Engineering Program Manager | 
+2026-04-23 12:53:25.889604 | POSTED ALL | Apple | CPU Performance Engineer | 
+2026-04-23 12:53:26.432422 | POSTED ALL | Apple | CPU Full Chip Physical Integration Engineer | 
+2026-04-23 12:53:26.834852 | POSTED ALL | Apple | CPU Debug and Power Management Verification Engineer | 
+2026-04-23 12:53:27.270064 | POSTED ALL | Apple | CPU Design Verification Engineer | 
+2026-04-23 12:53:27.715721 | POSTED ALL | Apple | Design Verification Engineer | 
+2026-04-23 12:53:37.733668 | Analog Devices: fetched=300
+2026-04-23 12:53:48.451527 | NXP Semiconductors: fetched=300
+2026-04-23 12:53:54.498595 | Broadcom: fetched=300
+2026-04-23 12:53:54.917018 | POSTED ALL | Broadcom | Design Verification Engineer | USA-CA San Jose Innovation Drive
+2026-04-23 12:54:05.318163 | Microchip: fetched=300
+2026-04-23 12:54:07.972128 | SiFive: fetched=58
+2026-04-23 12:54:09.819895 | Renesas Electronics: fetched=300
+2026-04-23 12:54:20.101638 | KLA: fetched=300
+2026-04-23 12:54:32.876273 | Applied Materials: fetched=300
+2026-04-23 12:54:33.331752 | SambaNova Systems: fetched=24
+2026-04-23 12:54:33.399785 | Samsung Semiconductor: fetched=51
+2026-04-23 12:54:33.489065 | Baya Systems: fetched=23
+2026-04-23 12:54:33.552142 | Ambiq: fetched=30
+2026-04-23 12:54:33.630263 | Graphcore: fetched=133
+2026-04-23 12:54:33.698459 | Eridan: fetched=3
+2026-04-23 12:54:33.759477 | Celero Communications: fetched=17
+2026-04-23 12:54:40.264887 | Micron: fetched=300
+2026-04-23 12:54:40.359338 | Aurora Innovation: fetched=171
+2026-04-23 12:54:40.431811 | Nuro: fetched=94
+2026-04-23 12:54:40.529164 | Applied Intuition: fetched=207
+2026-04-23 12:54:40.588992 | Ethernovia: fetched=31
+2026-04-23 12:54:40.760370 | SpaceX: fetched=1581
+2026-04-23 12:54:41.276614 | Axiado: fetched=43
+2026-04-23 12:54:41.363999 | Zipline: fetched=189
+2026-04-23 12:54:51.555920 | Anduril Industries: fetched=1853
+2026-04-23 12:54:52.193530 | Lattice Semiconductor: fetched=59
+2026-04-23 12:54:52.195564 | Run finished | fetched=9623 matched=249 posted=11
+2026-04-23 12:59:19.676136 | === RUN STARTED ===
+2026-04-23 12:59:20.079988 | Astranis: fetched=120
+2026-04-23 12:59:20.148490 | Tenstorrent: fetched=115
+2026-04-23 12:59:20.226912 | Tenstorrent University: fetched=35
+2026-04-23 12:59:20.316370 | Cerebras Systems: fetched=91
+2026-04-23 12:59:20.403496 | Cerebras Early Talent: fetched=5
+2026-04-23 12:59:20.828923 | Astera Labs: fetched=144
+2026-04-23 12:59:20.897977 | Lightmatter: fetched=46
+2026-04-23 12:59:22.835325 | Western Digital: fetched=300
+2026-04-23 12:59:24.438912 | Bosch: fetched=300
+2026-04-23 12:59:25.993052 | Sandisk: fetched=300
+2026-04-23 12:59:26.421894 | POSTED ALL | Sandisk | AI/ML ASIC Architect | Milpitas, CA, us
+2026-04-23 12:59:43.683141 | NVIDIA: fetched=300
+2026-04-23 12:59:55.629251 | Intel: fetched=300
+2026-04-23 12:59:56.450320 | Qualcomm: fetched=0
+2026-04-23 13:00:06.363568 | Marvell: fetched=300
+2026-04-23 13:00:12.044356 | Apple: fetched=300
+2026-04-23 13:00:12.476730 | POSTED ALL | Apple | PHY RTL Design Engineer | 
+2026-04-23 13:00:12.947361 | POSTED ALL | Apple | ASIC Power Engineer | 
+2026-04-23 13:00:13.381189 | POSTED ALL | Apple | SoC Debug and Automation Engineering Program Manager | 
+2026-04-23 13:00:13.839816 | POSTED ALL | Apple | CPU Performance Engineer | 
+2026-04-23 13:00:14.247354 | POSTED ALL | Apple | Design Verification Engineer | 
+2026-04-23 13:00:26.860610 | Analog Devices: fetched=300
+2026-04-23 13:00:37.985670 | NXP Semiconductors: fetched=300
+2026-04-23 13:00:45.041118 | Broadcom: fetched=300
+2026-04-23 13:00:57.147473 | Microchip: fetched=300
+2026-04-23 13:01:00.128828 | SiFive: fetched=58
+2026-04-23 13:01:02.153756 | Renesas Electronics: fetched=300
+2026-04-23 13:01:22.537570 | KLA: fetched=300
+2026-04-23 13:01:38.257468 | Applied Materials: fetched=300
+2026-04-23 13:01:38.747213 | SambaNova Systems: fetched=24
+2026-04-23 13:01:38.839352 | Samsung Semiconductor: fetched=51
+2026-04-23 13:01:38.931245 | Baya Systems: fetched=23
+2026-04-23 13:01:39.006106 | Ambiq: fetched=30
+2026-04-23 13:01:39.104756 | Graphcore: fetched=133
+2026-04-23 13:01:39.184903 | Eridan: fetched=3
+2026-04-23 13:01:39.268367 | Celero Communications: fetched=17
+2026-04-23 13:01:45.593930 | Micron: fetched=300
+2026-04-23 13:01:45.965809 | Aurora Innovation: fetched=171
+2026-04-23 13:01:46.050029 | Nuro: fetched=94
+2026-04-23 13:01:46.147979 | Applied Intuition: fetched=207
+2026-04-23 13:01:46.222728 | Ethernovia: fetched=31
+2026-04-23 13:01:46.400006 | SpaceX: fetched=1581
+2026-04-23 13:01:46.879746 | Axiado: fetched=43
+2026-04-23 13:01:46.960330 | Zipline: fetched=189
+2026-04-23 13:01:47.171720 | Anduril Industries: fetched=1853
+2026-04-23 13:01:47.830459 | Lattice Semiconductor: fetched=59
+2026-04-23 13:01:48.400785 | MaxLinear: fetched=28
+2026-04-23 13:01:48.402060 | Run finished | fetched=9651 matched=249 posted=6
+2026-04-23 13:52:55.142876 | === RUN STARTED ===
+2026-04-23 13:52:55.646669 | Astranis: fetched=120
+2026-04-23 13:52:55.715420 | Tenstorrent: fetched=116
+2026-04-23 13:52:55.780745 | Tenstorrent University: fetched=35
+2026-04-23 13:52:55.843653 | Cerebras Systems: fetched=91
+2026-04-23 13:52:55.902478 | Cerebras Early Talent: fetched=5
+2026-04-23 13:52:55.975290 | Astera Labs: fetched=145
+2026-04-23 13:52:56.047627 | Lightmatter: fetched=45
+2026-04-23 13:52:57.970768 | Western Digital: fetched=300
+2026-04-23 13:52:59.567766 | Bosch: fetched=300
+2026-04-23 13:53:01.081761 | Sandisk: fetched=300
+2026-04-23 13:53:16.306219 | NVIDIA: fetched=300
+2026-04-23 13:53:28.663204 | Intel: fetched=300
+2026-04-23 13:53:29.129236 | POSTED ALL | Intel | GPU Design Verification Engineer | US, California, Folsom
+2026-04-23 13:53:29.946819 | Qualcomm: fetched=0
+2026-04-23 13:53:38.298424 | Marvell: fetched=300
+2026-04-23 13:53:44.033383 | Apple: fetched=300
+2026-04-23 13:53:44.407703 | POSTED ALL | Apple | CPU Performance Engineer | 
+2026-04-23 13:53:44.838137 | POSTED ALL | Apple | Design Verification Engineer | 
+2026-04-23 13:53:56.288807 | Analog Devices: fetched=300
+2026-04-23 13:54:07.827623 | NXP Semiconductors: fetched=300
+2026-04-23 13:54:13.334074 | Broadcom: fetched=300
+2026-04-23 13:54:13.749794 | POSTED ALL | Broadcom | ASIC Implementation Engineer | USA-CA San Jose Innovation Drive
+2026-04-23 13:54:24.438478 | Microchip: fetched=300
+2026-04-23 13:54:26.830181 | SiFive: fetched=58
+2026-04-23 13:54:29.010757 | Renesas Electronics: fetched=300
+2026-04-23 13:54:40.992115 | KLA: fetched=300
+2026-04-23 13:54:53.725622 | Applied Materials: fetched=300
+2026-04-23 13:54:54.149339 | SambaNova Systems: fetched=24
+2026-04-23 13:54:54.234625 | Samsung Semiconductor: fetched=51
+2026-04-23 13:54:54.358919 | Baya Systems: fetched=23
+2026-04-23 13:54:54.495427 | Ambiq: fetched=30
+2026-04-23 13:54:54.555830 | Graphcore: fetched=133
+2026-04-23 13:54:54.640507 | Eridan: fetched=3
+2026-04-23 13:54:54.707543 | Celero Communications: fetched=17
+2026-04-23 13:55:00.997679 | Micron: fetched=300
+2026-04-23 13:55:01.075392 | Aurora Innovation: fetched=171
+2026-04-23 13:55:01.530618 | Nuro: fetched=93
+2026-04-23 13:55:01.649766 | Applied Intuition: fetched=206
+2026-04-23 13:55:01.724238 | Ethernovia: fetched=31
+2026-04-23 13:55:03.636057 | SpaceX: fetched=1580
+2026-04-23 13:55:04.139707 | Axiado: fetched=43
+2026-04-23 13:55:04.198545 | Zipline: fetched=189
+2026-04-23 13:55:04.588539 | POSTED ALL | Zipline | Embedded Software Engineer (Data Platform), Autonomy | South San Francisco, California, USA
+2026-04-23 13:55:05.069874 | POSTED ALL | Zipline | Senior Embedded Software Engineer | South San Francisco, California, USA
+2026-04-23 13:55:05.494307 | POSTED ALL | Zipline | Site Operations Process Associate | South San Francisco, California, USA
+2026-04-23 13:55:05.916467 | POSTED ALL | Zipline | Software Engineer - Embedded Firmware | South San Francisco, California, USA
+2026-04-23 13:55:06.083548 | Anduril Industries: fetched=1857
+2026-04-23 13:55:06.786148 | Lattice Semiconductor: fetched=59
+2026-04-23 13:55:07.335719 | MaxLinear: fetched=28
+2026-04-23 13:55:07.336982 | Run finished | fetched=9653 matched=251 posted=8
+2026-04-23 14:03:18.764154 | === RUN STARTED ===
+2026-04-23 14:03:19.249513 | Astranis: fetched=119
+2026-04-23 14:03:19.325161 | Tenstorrent: fetched=116
+2026-04-23 14:03:19.428670 | Tenstorrent University: fetched=35
+2026-04-23 14:03:19.497787 | Cerebras Systems: fetched=91
+2026-04-23 14:03:19.583533 | Cerebras Early Talent: fetched=5
+2026-04-23 14:03:19.681823 | Astera Labs: fetched=145
+2026-04-23 14:03:19.753884 | Lightmatter: fetched=45
+2026-04-23 14:03:21.752387 | Western Digital: fetched=300
+2026-04-23 14:03:23.306749 | Bosch: fetched=300
+2026-04-23 14:03:25.110380 | Sandisk: fetched=300
+2026-04-23 14:03:43.002116 | NVIDIA: fetched=300
+2026-04-23 14:03:56.580685 | Intel: fetched=300
+2026-04-23 14:03:57.350179 | Qualcomm: fetched=0
+2026-04-23 14:04:06.541706 | Marvell: fetched=300
+2026-04-23 14:04:11.816177 | Apple: fetched=300
+2026-04-23 14:04:12.318856 | POSTED ALL | Apple | Design Verification Engineer | 
+2026-04-23 14:04:22.228746 | Analog Devices: fetched=300
+2026-04-23 14:04:32.715240 | NXP Semiconductors: fetched=300
+2026-04-23 14:04:38.802009 | Broadcom: fetched=300
+2026-04-23 14:04:49.453619 | Microchip: fetched=300
+2026-04-23 14:05:07.957866 | SiFive: fetched=58
+2026-04-23 14:05:10.045274 | Renesas Electronics: fetched=300
+2026-04-23 14:05:23.367845 | KLA: fetched=300
+2026-04-23 14:05:37.995457 | Applied Materials: fetched=300
+2026-04-23 14:05:38.342492 | SambaNova Systems: fetched=24
+2026-04-23 14:05:38.433902 | Samsung Semiconductor: fetched=51
+2026-04-23 14:05:38.525825 | Baya Systems: fetched=23
+2026-04-23 14:05:38.702743 | Ambiq: fetched=29
+2026-04-23 14:05:38.786207 | Graphcore: fetched=133
+2026-04-23 14:05:38.849761 | Eridan: fetched=3
+2026-04-23 14:05:38.916059 | Celero Communications: fetched=17
+2026-04-23 14:05:49.045453 | ERROR | Micron | No working Workday API endpoint found for Micron: https://micron.wd1.myworkdayjobs.com/External
+2026-04-23 14:05:49.113811 | Aurora Innovation: fetched=171
+2026-04-23 14:05:49.208090 | Nuro: fetched=93
+2026-04-23 14:05:49.284905 | Applied Intuition: fetched=206
+2026-04-23 14:05:49.372241 | Ethernovia: fetched=31
+2026-04-23 14:05:49.613948 | SpaceX: fetched=1580
+2026-04-23 14:05:50.098602 | Axiado: fetched=43
+2026-04-23 14:05:50.176991 | Zipline: fetched=189
+2026-04-23 14:05:50.305189 | Anduril Industries: fetched=1857
+2026-04-23 14:05:50.972507 | Lattice Semiconductor: fetched=59
+2026-04-23 14:05:51.539990 | MaxLinear: fetched=28
+2026-04-23 14:05:52.508733 | Texas Instruments: fetched=0
+2026-04-23 14:05:52.510046 | Run finished | fetched=9351 matched=248 posted=1
+2026-04-23 14:13:57.726398 | === RUN STARTED ===
+2026-04-23 14:13:58.180527 | Astranis: fetched=119
+2026-04-23 14:13:58.258333 | Tenstorrent: fetched=116
+2026-04-23 14:13:58.365387 | Tenstorrent University: fetched=35
+2026-04-23 14:13:58.445402 | Cerebras Systems: fetched=91
+2026-04-23 14:13:58.507953 | Cerebras Early Talent: fetched=5
+2026-04-23 14:13:58.577047 | Astera Labs: fetched=146
+2026-04-23 14:13:58.657712 | Lightmatter: fetched=45
+2026-04-23 14:14:00.620616 | Western Digital: fetched=300
+2026-04-23 14:14:02.189645 | Bosch: fetched=300
+2026-04-23 14:14:03.776489 | Sandisk: fetched=300
+2026-04-23 14:14:19.620413 | NVIDIA: fetched=300
+2026-04-23 14:14:58.408697 | Intel: fetched=300
+2026-04-23 14:14:58.908177 | POSTED ALL | Intel | CPU Core Pre-Si Validation/Verification Eng | US, California, Folsom
+2026-04-23 14:14:59.682233 | Qualcomm: fetched=0
+2026-04-23 14:15:08.105364 | Marvell: fetched=300
+2026-04-23 14:15:13.519201 | Apple: fetched=300
+2026-04-23 14:15:13.946836 | POSTED ALL | Apple | Design Verification Engineer | 
+2026-04-23 14:15:24.816686 | Analog Devices: fetched=300
+2026-04-23 14:15:35.484396 | NXP Semiconductors: fetched=300
+2026-04-23 14:15:47.443783 | Broadcom: fetched=300
+2026-04-23 14:15:57.757743 | Microchip: fetched=300
+2026-04-23 14:16:00.241050 | SiFive: fetched=58
+2026-04-23 14:16:02.045555 | Renesas Electronics: fetched=300
+2026-04-23 14:16:13.773601 | KLA: fetched=300
+2026-04-23 14:16:27.201537 | Applied Materials: fetched=300
+2026-04-23 14:16:27.592552 | SambaNova Systems: fetched=24
+2026-04-23 14:16:27.659849 | Samsung Semiconductor: fetched=51
+2026-04-23 14:16:27.752180 | Baya Systems: fetched=23
+2026-04-23 14:16:27.827113 | Ambiq: fetched=29
+2026-04-23 14:16:27.930056 | Graphcore: fetched=133
+2026-04-23 14:16:28.010787 | Eridan: fetched=3
+2026-04-23 14:16:28.081395 | Celero Communications: fetched=17
+2026-04-23 14:16:34.681612 | Micron: fetched=300
+2026-04-23 14:16:35.075631 | POSTED ALL | Micron | Staff/Principal Engineer. ASIC Design Verification (DDR expert) | San Jose, CA
+2026-04-23 14:16:35.922704 | POSTED ALL | Micron | Staff/Principal Engineer - Design Verification (SoC expert/lead) | San Jose, CA
+2026-04-23 14:16:36.005894 | Aurora Innovation: fetched=171
+2026-04-23 14:16:36.090471 | Nuro: fetched=93
+2026-04-23 14:16:36.174793 | Applied Intuition: fetched=206
+2026-04-23 14:16:36.261205 | Ethernovia: fetched=31
+2026-04-23 14:16:36.401591 | SpaceX: fetched=1580
+2026-04-23 14:16:36.908469 | Axiado: fetched=43
+2026-04-23 14:16:37.002176 | Zipline: fetched=189
+2026-04-23 14:16:37.146619 | Anduril Industries: fetched=1857
+2026-04-23 14:16:37.970295 | Lattice Semiconductor: fetched=59
+2026-04-23 14:16:38.558390 | MaxLinear: fetched=28
+2026-04-23 14:16:39.719151 | Texas Instruments: fetched=0
+2026-04-23 14:16:39.720787 | Run finished | fetched=9652 matched=251 posted=4
+2026-04-23 14:19:29.699402 | === RUN STARTED ===
+2026-04-23 14:19:30.164004 | Astranis: fetched=119
+2026-04-23 14:19:30.263371 | Tenstorrent: fetched=116
+2026-04-23 14:19:30.358267 | Tenstorrent University: fetched=35
+2026-04-23 14:19:30.448588 | Cerebras Systems: fetched=91
+2026-04-23 14:19:30.528586 | Cerebras Early Talent: fetched=5
+2026-04-23 14:19:30.617365 | Astera Labs: fetched=146
+2026-04-23 14:19:30.702721 | Lightmatter: fetched=45
+2026-04-23 14:19:32.617678 | Western Digital: fetched=300
+2026-04-23 14:19:34.330834 | Bosch: fetched=300
+2026-04-23 14:19:35.930932 | Sandisk: fetched=300
+2026-04-23 14:19:52.399299 | NVIDIA: fetched=300
+2026-04-23 14:20:08.888223 | Intel: fetched=300
+2026-04-23 14:20:09.686087 | Qualcomm: fetched=0
+2026-04-23 14:20:18.699590 | Marvell: fetched=300
+2026-04-23 14:20:24.210061 | Apple: fetched=300
+2026-04-23 14:20:24.637520 | POSTED ALL | Apple | Design Verification Engineer | 
+2026-04-23 14:20:34.509886 | Analog Devices: fetched=300
+2026-04-23 14:20:45.552576 | NXP Semiconductors: fetched=300
+2026-04-23 14:20:51.907880 | Broadcom: fetched=300
+2026-04-23 14:21:02.467976 | Microchip: fetched=300
+2026-04-23 14:21:04.897053 | SiFive: fetched=58
+2026-04-23 14:21:06.941101 | Renesas Electronics: fetched=300
+2026-04-23 14:21:17.372361 | KLA: fetched=300
+2026-04-23 14:21:32.154190 | Applied Materials: fetched=300
+2026-04-23 14:21:32.553333 | SambaNova Systems: fetched=24
+2026-04-23 14:21:32.623684 | Samsung Semiconductor: fetched=51
+2026-04-23 14:21:32.703587 | Baya Systems: fetched=23
+2026-04-23 14:21:32.788783 | Ambiq: fetched=29
+2026-04-23 14:21:32.868616 | Graphcore: fetched=133
+2026-04-23 14:21:32.973770 | Eridan: fetched=3
+2026-04-23 14:21:33.069300 | Celero Communications: fetched=17
+2026-04-23 14:21:41.816393 | Micron: fetched=300
+2026-04-23 14:21:41.912112 | Aurora Innovation: fetched=171
+2026-04-23 14:21:49.687167 | Nuro: fetched=93
+2026-04-23 14:21:49.765153 | Applied Intuition: fetched=205
+2026-04-23 14:21:49.843048 | Ethernovia: fetched=31
+2026-04-23 14:21:49.987222 | SpaceX: fetched=1580
+2026-04-23 14:21:50.475130 | Axiado: fetched=43
+2026-04-23 14:21:50.549410 | Zipline: fetched=189
+2026-04-23 14:21:50.679732 | Anduril Industries: fetched=1858
+2026-04-23 14:21:51.324831 | Lattice Semiconductor: fetched=59
+2026-04-23 14:21:52.158675 | MaxLinear: fetched=28
+2026-04-23 14:21:53.241142 | Texas Instruments: fetched=0
+2026-04-23 14:21:53.242009 | Run finished | fetched=9652 matched=250 posted=1
+2026-04-23 14:26:36.958425 | === RUN STARTED ===
+2026-04-23 14:26:37.474224 | Astranis: fetched=119
+2026-04-23 14:26:37.553949 | Tenstorrent: fetched=116
+2026-04-23 14:26:37.643703 | Tenstorrent University: fetched=35
+2026-04-23 14:26:37.742281 | Cerebras Systems: fetched=91
+2026-04-23 14:26:37.821624 | Cerebras Early Talent: fetched=5
+2026-04-23 14:26:37.910981 | Astera Labs: fetched=146
+2026-04-23 14:26:37.972356 | Lightmatter: fetched=45
+2026-04-23 14:26:40.045693 | Western Digital: fetched=300
+2026-04-23 14:26:41.754660 | Bosch: fetched=300
+2026-04-23 14:26:43.319591 | Sandisk: fetched=300
+2026-04-23 14:26:58.632883 | NVIDIA: fetched=300
+2026-04-23 14:27:10.863167 | Intel: fetched=300
+2026-04-23 14:27:11.669083 | Qualcomm: fetched=0
+2026-04-23 14:27:20.213100 | Marvell: fetched=300
+2026-04-23 14:27:25.930537 | Apple: fetched=300
+2026-04-23 14:27:26.516497 | POSTED ALL | Apple | Design Verification Engineer | 
+2026-04-23 14:27:39.455060 | Analog Devices: fetched=300
+2026-04-23 14:27:52.480913 | NXP Semiconductors: fetched=300
+2026-04-23 14:27:59.101316 | Broadcom: fetched=300
+2026-04-23 14:28:10.141801 | Microchip: fetched=300
+2026-04-23 14:28:12.968501 | SiFive: fetched=58
+2026-04-23 14:28:14.845316 | Renesas Electronics: fetched=300
+2026-04-23 14:28:25.478625 | KLA: fetched=300
+2026-04-23 14:28:41.502762 | Applied Materials: fetched=300
+2026-04-23 14:28:41.957725 | SambaNova Systems: fetched=24
+2026-04-23 14:28:42.035824 | Samsung Semiconductor: fetched=51
+2026-04-23 14:28:42.120947 | Baya Systems: fetched=23
+2026-04-23 14:28:42.225595 | Ambiq: fetched=29
+2026-04-23 14:28:42.316286 | Graphcore: fetched=133
+2026-04-23 14:28:42.395061 | Eridan: fetched=3
+2026-04-23 14:28:42.509991 | Celero Communications: fetched=17
+2026-04-23 14:28:53.616878 | Micron: fetched=300
+2026-04-23 14:28:53.699865 | Aurora Innovation: fetched=171
+2026-04-23 14:28:53.798772 | Nuro: fetched=93
+2026-04-23 14:28:53.900214 | Applied Intuition: fetched=205
+2026-04-23 14:28:53.977456 | Ethernovia: fetched=31
+2026-04-23 14:28:54.215398 | SpaceX: fetched=1581
+2026-04-23 14:28:54.702674 | Axiado: fetched=43
+2026-04-23 14:28:54.822327 | Zipline: fetched=189
+2026-04-23 14:28:55.026133 | Anduril Industries: fetched=1858
+2026-04-23 14:28:55.705291 | Lattice Semiconductor: fetched=59
+2026-04-23 14:28:56.232111 | MaxLinear: fetched=28
+2026-04-23 14:28:57.534766 | Texas Instruments: fetched=0
+2026-04-23 14:28:57.535961 | Run finished | fetched=9653 matched=250 posted=1
+2026-04-23 14:33:37.593436 | === RUN STARTED ===
+2026-04-23 14:33:38.072682 | Astranis: fetched=119
+2026-04-23 14:33:38.145039 | Tenstorrent: fetched=116
+2026-04-23 14:33:38.215302 | Tenstorrent University: fetched=35
+2026-04-23 14:33:38.299224 | Cerebras Systems: fetched=91
+2026-04-23 14:33:38.368442 | Cerebras Early Talent: fetched=5
+2026-04-23 14:33:38.439267 | Astera Labs: fetched=146
+2026-04-23 14:33:38.510703 | Lightmatter: fetched=45
+2026-04-23 14:33:40.567825 | Western Digital: fetched=300
+2026-04-23 14:33:42.185450 | Bosch: fetched=300
+2026-04-23 14:33:43.746783 | Sandisk: fetched=300
+2026-04-23 14:33:59.334810 | NVIDIA: fetched=300
+2026-04-23 14:34:12.184495 | Intel: fetched=300
+2026-04-23 14:34:12.874334 | Qualcomm: fetched=0
+2026-04-23 14:34:21.595220 | Marvell: fetched=300
+2026-04-23 14:34:27.001554 | Apple: fetched=300
+2026-04-23 14:34:36.344756 | Analog Devices: fetched=300
+2026-04-23 14:34:46.672007 | NXP Semiconductors: fetched=300
+2026-04-23 14:34:52.152301 | Broadcom: fetched=300
+2026-04-23 14:35:02.450297 | Microchip: fetched=300
+2026-04-23 14:35:05.053794 | SiFive: fetched=58
+2026-04-23 14:35:06.808377 | Renesas Electronics: fetched=300
+2026-04-23 14:35:17.310082 | KLA: fetched=300
+2026-04-23 14:35:30.333821 | Applied Materials: fetched=300
+2026-04-23 14:35:30.840413 | SambaNova Systems: fetched=24
+2026-04-23 14:35:30.928526 | Samsung Semiconductor: fetched=51
+2026-04-23 14:35:31.005823 | Baya Systems: fetched=23
+2026-04-23 14:35:31.115276 | Ambiq: fetched=29
+2026-04-23 14:35:31.200975 | Graphcore: fetched=133
+2026-04-23 14:35:31.275654 | Eridan: fetched=3
+2026-04-23 14:35:31.365752 | Celero Communications: fetched=17
+2026-04-23 14:35:39.000214 | Micron: fetched=300
+2026-04-23 14:35:39.496068 | Aurora Innovation: fetched=171
+2026-04-23 14:35:39.577357 | Nuro: fetched=93
+2026-04-23 14:35:39.675021 | Applied Intuition: fetched=203
+2026-04-23 14:35:39.746129 | Ethernovia: fetched=31
+2026-04-23 14:35:39.926454 | SpaceX: fetched=1582
+2026-04-23 14:35:40.397501 | Axiado: fetched=43
+2026-04-23 14:35:40.489851 | Zipline: fetched=189
+2026-04-23 14:35:50.856800 | Anduril Industries: fetched=1859
+2026-04-23 14:35:51.620242 | Lattice Semiconductor: fetched=59
+2026-04-23 14:35:52.198488 | MaxLinear: fetched=28
+2026-04-23 14:35:53.498671 | Texas Instruments: fetched=0
+2026-04-23 14:35:53.499494 | Run finished | fetched=9653 matched=250 posted=0
+2026-04-23 14:37:47.641147 | === RUN STARTED ===
+2026-04-23 14:37:48.009015 | Astranis: fetched=119
+2026-04-23 14:37:48.091464 | Tenstorrent: fetched=116
+2026-04-23 14:37:48.182378 | Tenstorrent University: fetched=35
+2026-04-23 14:37:48.259352 | Cerebras Systems: fetched=91
+2026-04-23 14:37:48.324431 | Cerebras Early Talent: fetched=5
+2026-04-23 14:37:48.406830 | Astera Labs: fetched=146
+2026-04-23 14:37:48.495398 | Lightmatter: fetched=45
+2026-04-23 14:37:50.527178 | Western Digital: fetched=300
+2026-04-23 14:37:52.137242 | Bosch: fetched=300
+2026-04-23 14:37:53.721115 | Sandisk: fetched=300
+2026-04-23 14:38:09.232723 | NVIDIA: fetched=300
+2026-04-23 14:38:21.789226 | Intel: fetched=300
+2026-04-23 14:38:22.414348 | Qualcomm: fetched=0
+2026-04-23 14:38:35.813107 | Marvell: fetched=300
+2026-04-23 14:38:41.691014 | Apple: fetched=300
+2026-04-23 14:38:51.065227 | Analog Devices: fetched=300
+2026-04-23 14:39:01.404830 | NXP Semiconductors: fetched=300
+2026-04-23 14:39:07.175207 | Broadcom: fetched=300
+2026-04-23 14:39:17.943232 | Microchip: fetched=300
+2026-04-23 14:39:20.145968 | SiFive: fetched=58
+2026-04-23 14:39:22.025901 | Renesas Electronics: fetched=300
+2026-04-23 14:39:31.797718 | KLA: fetched=300
+2026-04-23 14:39:44.473238 | Applied Materials: fetched=300
+2026-04-23 14:39:44.934993 | SambaNova Systems: fetched=24
+2026-04-23 14:39:45.004175 | Samsung Semiconductor: fetched=51
+2026-04-23 14:39:45.082485 | Baya Systems: fetched=23
+2026-04-23 14:39:45.200392 | Ambiq: fetched=29
+2026-04-23 14:39:45.284558 | Graphcore: fetched=133
+2026-04-23 14:39:45.358710 | Eridan: fetched=3
+2026-04-23 14:39:45.443335 | Celero Communications: fetched=17
+2026-04-23 14:39:51.894837 | Micron: fetched=300
+2026-04-23 14:39:51.964859 | Aurora Innovation: fetched=171
+2026-04-23 14:39:52.061551 | Nuro: fetched=93
+2026-04-23 14:39:52.150268 | Applied Intuition: fetched=203
+2026-04-23 14:39:52.214144 | Ethernovia: fetched=31
+2026-04-23 14:39:52.363466 | SpaceX: fetched=1582
+2026-04-23 14:39:52.829286 | Axiado: fetched=43
+2026-04-23 14:39:52.917395 | Zipline: fetched=189
+2026-04-23 14:39:53.082961 | Anduril Industries: fetched=1859
+2026-04-23 14:39:53.631008 | Lattice Semiconductor: fetched=59
+2026-04-23 14:39:54.123769 | MaxLinear: fetched=28
+2026-04-23 14:39:55.222849 | Texas Instruments: fetched=0
+2026-04-23 14:39:55.225100 | ERROR | Google | 'source_type'
+2026-04-23 14:39:55.225862 | Run finished | fetched=9653 matched=250 posted=0
+2026-04-23 14:42:42.985058 | === RUN STARTED ===
+2026-04-23 14:42:43.395997 | Astranis: fetched=119
+2026-04-23 14:42:43.492870 | Tenstorrent: fetched=116
+2026-04-23 14:42:43.596879 | Tenstorrent University: fetched=35
+2026-04-23 14:42:43.673514 | Cerebras Systems: fetched=91
+2026-04-23 14:42:43.784813 | Cerebras Early Talent: fetched=5
+2026-04-23 14:42:43.860013 | Astera Labs: fetched=146
+2026-04-23 14:42:43.939374 | Lightmatter: fetched=45
+2026-04-23 14:42:45.831165 | Western Digital: fetched=300
+2026-04-23 14:42:47.398681 | Bosch: fetched=300
+2026-04-23 14:42:49.001329 | Sandisk: fetched=300
+2026-04-23 14:43:04.710987 | NVIDIA: fetched=300
+2026-04-23 14:43:16.926687 | Intel: fetched=300
+2026-04-23 14:43:17.941786 | Qualcomm: fetched=0
+2026-04-23 14:43:26.288357 | Marvell: fetched=300
+2026-04-23 14:43:31.960087 | Apple: fetched=300
+2026-04-23 14:43:46.006933 | Analog Devices: fetched=300
+2026-04-23 14:43:56.176149 | NXP Semiconductors: fetched=300
+2026-04-23 14:44:01.807689 | Broadcom: fetched=300
+2026-04-23 14:44:12.279062 | Microchip: fetched=300
+2026-04-23 14:44:14.814028 | SiFive: fetched=58
+2026-04-23 14:44:16.864735 | Renesas Electronics: fetched=300
+2026-04-23 14:44:27.449038 | KLA: fetched=300
+2026-04-23 14:44:42.533901 | Applied Materials: fetched=300
+2026-04-23 14:44:43.023146 | SambaNova Systems: fetched=24
+2026-04-23 14:44:43.097810 | Samsung Semiconductor: fetched=51
+2026-04-23 14:44:43.188936 | Baya Systems: fetched=23
+2026-04-23 14:44:43.252566 | Ambiq: fetched=29
+2026-04-23 14:44:43.347680 | Graphcore: fetched=133
+2026-04-23 14:44:43.410465 | Eridan: fetched=3
+2026-04-23 14:44:43.487915 | Celero Communications: fetched=17
+2026-04-23 14:44:50.647857 | Micron: fetched=300
+2026-04-23 14:44:50.718650 | Aurora Innovation: fetched=171
+2026-04-23 14:44:50.792923 | Nuro: fetched=93
+2026-04-23 14:44:50.878599 | Applied Intuition: fetched=203
+2026-04-23 14:44:52.068601 | Ethernovia: fetched=31
+2026-04-23 14:44:52.220230 | SpaceX: fetched=1582
+2026-04-23 14:44:52.655013 | Axiado: fetched=43
+2026-04-23 14:44:52.740230 | Zipline: fetched=189
+2026-04-23 14:44:52.872197 | Anduril Industries: fetched=1859
+2026-04-23 14:44:53.485462 | Lattice Semiconductor: fetched=59
+2026-04-23 14:44:54.107929 | MaxLinear: fetched=28
+2026-04-23 14:44:55.697993 | Texas Instruments: fetched=0
+2026-04-23 14:44:55.698369 | ERROR | Google | 'source_type'
+2026-04-23 14:44:55.698814 | Run finished | fetched=9653 matched=250 posted=0
+2026-04-23 14:48:07.745816 | === RUN STARTED ===
+2026-04-23 14:48:08.199897 | Astranis: fetched=119
+2026-04-23 14:48:08.267499 | Tenstorrent: fetched=116
+2026-04-23 14:48:08.351908 | Tenstorrent University: fetched=35
+2026-04-23 14:48:08.438396 | Cerebras Systems: fetched=91
+2026-04-23 14:48:08.523636 | Cerebras Early Talent: fetched=5
+2026-04-23 14:48:08.609908 | Astera Labs: fetched=146
+2026-04-23 14:48:08.691139 | Lightmatter: fetched=45
+2026-04-23 14:48:10.985279 | Western Digital: fetched=300
+2026-04-23 14:48:12.511091 | Bosch: fetched=300
+2026-04-23 14:48:14.067932 | Sandisk: fetched=300
+2026-04-23 14:48:14.508765 | POSTED ALL | Sandisk | SoC Architect | Milpitas, CA, us
+2026-04-23 14:48:29.744671 | NVIDIA: fetched=300
+2026-04-23 14:48:49.536772 | Intel: fetched=300
+2026-04-23 14:48:50.400899 | Qualcomm: fetched=0
+2026-04-23 14:48:58.876043 | Marvell: fetched=300
+2026-04-23 14:49:04.233528 | Apple: fetched=300
+2026-04-23 14:49:14.521347 | Analog Devices: fetched=300
+2026-04-23 14:49:25.363851 | NXP Semiconductors: fetched=300
+2026-04-23 14:49:30.766784 | Broadcom: fetched=300
+2026-04-23 14:49:41.446222 | Microchip: fetched=300
+2026-04-23 14:49:44.462923 | SiFive: fetched=58
+2026-04-23 14:49:46.254678 | Renesas Electronics: fetched=300
+2026-04-23 14:49:56.452455 | KLA: fetched=300
+2026-04-23 14:50:10.061290 | Applied Materials: fetched=300
+2026-04-23 14:50:10.456569 | SambaNova Systems: fetched=24
+2026-04-23 14:50:10.528491 | Samsung Semiconductor: fetched=51
+2026-04-23 14:50:10.625664 | Baya Systems: fetched=23
+2026-04-23 14:50:10.745981 | Ambiq: fetched=29
+2026-04-23 14:50:10.866915 | Graphcore: fetched=133
+2026-04-23 14:50:10.955867 | Eridan: fetched=3
+2026-04-23 14:50:11.044781 | Celero Communications: fetched=17
+2026-04-23 14:50:17.691922 | Micron: fetched=300
+2026-04-23 14:50:17.792795 | Aurora Innovation: fetched=171
+2026-04-23 14:50:17.879538 | Nuro: fetched=93
+2026-04-23 14:50:17.941916 | Applied Intuition: fetched=203
+2026-04-23 14:50:18.018550 | Ethernovia: fetched=31
+2026-04-23 14:50:18.193545 | SpaceX: fetched=1581
+2026-04-23 14:50:18.668269 | Axiado: fetched=43
+2026-04-23 14:50:18.766119 | Zipline: fetched=189
+2026-04-23 14:50:18.946225 | Anduril Industries: fetched=1859
+2026-04-23 14:50:19.689928 | Lattice Semiconductor: fetched=59
+2026-04-23 14:50:20.318691 | MaxLinear: fetched=28
+2026-04-23 14:50:21.716326 | Texas Instruments: fetched=0
+2026-04-23 14:50:21.717375 | Run finished | fetched=9652 matched=250 posted=1

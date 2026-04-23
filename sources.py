@@ -178,6 +178,117 @@ def fetch_smartrecruiters_jobs(company_slug: str, company_name: str):
 
     return jobs
 
+# ---------------- ICIMS ----------------
+def _normalize_icims_base_url(base_url: str) -> str:
+    return base_url.rstrip("/")
+
+
+def _build_icims_search_urls(base_url: str):
+    """
+    iCIMS usually exposes job listings from one of these entry pages:
+      - /jobs/search
+      - /jobs/intro
+      - /jobs
+    We probe the search page first, then fall back.
+    """
+    base = _normalize_icims_base_url(base_url)
+
+    candidates = []
+    if base.endswith("/jobs/intro"):
+        root = base[:-len("/intro")]
+        candidates.append(root + "/search")
+        candidates.append(base)
+        candidates.append(root)
+    elif base.endswith("/jobs/search"):
+        root = base[:-len("/search")]
+        candidates.append(base)
+        candidates.append(root + "/intro")
+        candidates.append(root)
+    elif base.endswith("/jobs"):
+        candidates.append(base + "/search")
+        candidates.append(base + "/intro")
+        candidates.append(base)
+    else:
+        candidates.append(base + "/jobs/search")
+        candidates.append(base + "/jobs/intro")
+        candidates.append(base + "/jobs")
+
+    deduped = []
+    seen = set()
+    for url in candidates:
+        if url not in seen:
+            seen.add(url)
+            deduped.append(url)
+
+    return deduped
+
+
+def _extract_icims_jobs_from_html(html: str, company_name: str):
+    soup = BeautifulSoup(html, "lxml")
+    jobs = []
+    seen = set()
+
+    # iCIMS listing pages usually expose job links containing /jobs/<id>/...
+    for a in soup.find_all("a", href=True):
+        href = a["href"].strip()
+        if "/jobs/" not in href:
+            continue
+
+        title = a.get_text(" ", strip=True)
+        if not title:
+            continue
+
+        if href.startswith("/"):
+            # infer host from absolute parsing later in caller if needed
+            continue
+
+        key = (title.lower(), href.lower())
+        if key in seen:
+            continue
+        seen.add(key)
+
+        # Try to capture nearby location text from parent container
+        location = ""
+        parent_text = a.parent.get_text(" ", strip=True) if a.parent else ""
+        loc_match = re.search(
+            r"(US-[A-Z]{2}-[A-Za-z0-9\- ]+|[A-Za-z ]+,\s?[A-Z]{2}|Remote)",
+            parent_text
+        )
+        if loc_match:
+            location = loc_match.group(1).strip()
+
+        jobs.append({
+            "company": company_name,
+            "title": title,
+            "location": location,
+            "url": href,
+            "description": "",
+            "source": "icims"
+        })
+
+        if len(jobs) >= MAX_JOBS_PER_COMPANY:
+            return jobs
+
+    return jobs
+
+
+def fetch_icims_jobs(base_url: str, company_name: str):
+    search_urls = _build_icims_search_urls(base_url)
+
+    for url in search_urls:
+        try:
+            response = SESSION.get(url, timeout=20)
+            response.raise_for_status()
+
+            html = response.text
+            jobs = _extract_icims_jobs_from_html(html, company_name)
+
+            if jobs:
+                return jobs
+        except Exception:
+            continue
+
+    raise RuntimeError(f"No working iCIMS endpoint found for {company_name}: {base_url}")
 
 # ---------------- WORKDAY HELPERS ----------------
 def _strip_locale_prefix(path: str) -> str:
@@ -425,8 +536,100 @@ def fetch_apple_jobs(search_url: str, company_name: str):
 
     return jobs
 
+# ---------------- ORACLE CLOUD (TI) ----------------
+def fetch_oracle_jobs(base_url: str, company_name: str):
+    """
+    Oracle Cloud Candidate Experience parser (used by Texas Instruments).
+    Looks for requisition preview pages and job pages in Oracle CX HTML.
+    """
+    jobs = []
+    seen = set()
 
-# ---------------- QUALCOMM (Eightfold/Qualcomm Careers) ----------------
+    try:
+        response = SESSION.get(base_url, timeout=20)
+        response.raise_for_status()
+    except Exception as e:
+        print(f"{company_name} ERROR: {e}")
+        return []
+
+    html = response.text
+    soup = BeautifulSoup(html, "lxml")
+    host = response.url.split("/")[2]
+
+    # Pass 1: normal anchor extraction
+    for a in soup.find_all("a", href=True):
+        href = a["href"].strip()
+        title = a.get_text(" ", strip=True)
+
+        if not title:
+            continue
+
+        if (
+            "/job/" not in href
+            and "/requisitions/preview/" not in href
+            and "requisitionId=" not in href
+        ):
+            continue
+
+        if href.startswith("/"):
+            href = f"https://{host}{href}"
+
+        key = (title.lower(), href.lower())
+        if key in seen:
+            continue
+        seen.add(key)
+
+        jobs.append({
+            "company": company_name,
+            "title": title,
+            "location": "",
+            "url": href,
+            "description": "",
+            "source": "oracle"
+        })
+
+        if len(jobs) >= MAX_JOBS_PER_COMPANY:
+            return jobs
+
+    if jobs:
+        return jobs
+
+    # Pass 2: regex fallback for embedded requisition/job links
+    matches = re.findall(
+        r'/hcmUI/CandidateExperience/en/sites/CX/job/[0-9A-Za-z_-]+'
+        r'|/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/[0-9A-Za-z_-]+'
+        r'|requisitionId=[A-Za-z0-9_-]+',
+        html
+    )
+
+    for match in matches:
+        href = match.strip()
+
+        if href.startswith("/"):
+            href = f"https://{host}{href}"
+        elif href.startswith("requisitionId="):
+            href = f"{base_url}?{href}"
+
+        key = href.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+
+        jobs.append({
+            "company": company_name,
+            "title": "Oracle Cloud Job",
+            "location": "",
+            "url": href,
+            "description": "",
+            "source": "oracle"
+        })
+
+        if len(jobs) >= MAX_JOBS_PER_COMPANY:
+            break
+
+    return jobs
+
+# ---------------- QUALCOMM (Eightfold API) ----------------
 def fetch_qualcomm_jobs(base_url: str, company_name: str):
     """
     Qualcomm careers is backed by Eightfold and does not expose the simple
@@ -461,8 +664,5 @@ def fetch_qualcomm_jobs(base_url: str, company_name: str):
     body_preview = response.text[:300].replace("\n", " ").replace("\r", " ")
     print(f"QUALCOMM DEBUG | body-preview: {body_preview}")
 
-    # We expected JSON before, but the site is returning HTML / app shell.
-    # Do not call response.json() here.
     print("QUALCOMM DEBUG | Qualcomm uses a separate Eightfold-backed careers flow. Returning 0 jobs for now.")
-
     return []

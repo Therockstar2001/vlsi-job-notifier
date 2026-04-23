@@ -43,5 +43,10 @@
     "company": "Lattice Semiconductor",
     "needed_source_type": "icims",
     "careers_url": "https://careers-latticesemi.icims.com/"
-  }
+  },
+  {
+  "company": "Google",
+  "needed_source_type": "google_custom",
+  "careers_url": "https://careers.google.com/jobs/results/"
+}
 ]
