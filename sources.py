@@ -460,7 +460,6 @@ def fetch_workday_jobs(base_url: str, company_name: str):
 
     return jobs
 
-
 # ---------------- APPLE JOBS ----------------
 def fetch_apple_jobs(search_url: str, company_name: str):
     from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
@@ -536,96 +535,507 @@ def fetch_apple_jobs(search_url: str, company_name: str):
 
     return jobs
 
-# ---------------- ORACLE CLOUD (TI) ----------------
+def debug_oracle_site_info(base_url: str):
+    from urllib.parse import urlparse
+
+    parsed = urlparse(base_url)
+    host = parsed.netloc
+
+    candidates = [
+        f"https://{host}/hcmRestApi/resources/latest/recruitingCESites?onlyData=true",
+        f"https://{host}/hcmRestApi/resources/latest/recruitingCECandidateExperienceSites?onlyData=true",
+        f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&limit=1"
+    ]
+
+    for url in candidates:
+        try:
+            response = SESSION.get(url, timeout=20)
+            print(f"ORACLE DEBUG | {url}")
+            print(f"ORACLE DEBUG | status={response.status_code}")
+            print(f"ORACLE DEBUG | body={response.text[:1000]}")
+        except Exception as e:
+            print(f"ORACLE DEBUG ERROR | {url} | {e}")
+
+# ---------------- ORACLE CLOUD / TEXAS INSTRUMENTS ----------------
 def fetch_oracle_jobs(base_url: str, company_name: str):
     """
-    Oracle Cloud Candidate Experience parser (used by Texas Instruments).
-    Looks for requisition preview pages and job pages in Oracle CX HTML.
+    Oracle Cloud Candidate Experience parser for Texas Instruments.
+
+    TI uses:
+      /hcmRestApi/resources/latest/recruitingCEJobRequisitions
+
+    The browser returns a search wrapper object, so we extract from nested
+    items where requisition/job fields exist.
     """
+
+    from urllib.parse import urlparse
+
+    parsed = urlparse(base_url)
+    host = parsed.netloc
+
+    api_url = f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions"
+
+    headers = {
+        "Accept": "application/json",
+        "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0",
+        "Referer": base_url,
+    }
+
+    jobs = []
+    seen = set()
+    offset = 0
+    limit = 100
+
+    while True:
+        params = {
+            "onlyData": "true",
+            "q": "",
+            "location": "",
+            "sortBy": "relevance",
+            "limit": str(limit),
+            "offset": str(offset),
+        }
+
+        try:
+            response = SESSION.get(api_url, params=params, headers=headers, timeout=20)
+            response.raise_for_status()
+            data = response.json()
+        except Exception as e:
+            print(f"{company_name} Oracle API error: {e}")
+            return jobs
+
+        items = data.get("items", [])
+
+        if not items:
+            break
+
+        batch_count = 0
+
+        def walk(obj):
+            nonlocal batch_count
+
+            if isinstance(obj, dict):
+                title = (
+                    obj.get("Title")
+                    or obj.get("title")
+                    or obj.get("Name")
+                    or obj.get("name")
+                    or obj.get("ExternalTitle")
+                    or obj.get("RequisitionTitle")
+                    or obj.get("JobTitle")
+                    or obj.get("jobTitle")
+                    or ""
+                )
+
+                req_id = (
+                    obj.get("Id")
+                    or obj.get("id")
+                    or obj.get("RequisitionId")
+                    or obj.get("requisitionId")
+                    or obj.get("RequisitionNumber")
+                    or obj.get("requisitionNumber")
+                    or obj.get("ReqId")
+                    or obj.get("reqId")
+                    or obj.get("JobId")
+                    or obj.get("jobId")
+                    or ""
+                )
+
+                location = (
+                    obj.get("PrimaryLocation")
+                    or obj.get("primaryLocation")
+                    or obj.get("PrimaryLocationName")
+                    or obj.get("Location")
+                    or obj.get("location")
+                    or obj.get("WorkLocation")
+                    or obj.get("workLocation")
+                    or ""
+                )
+
+                if title and req_id:
+                    title = str(title).strip()
+                    req_id = str(req_id).strip()
+                    location = str(location).strip()
+
+                    key = (title.lower(), req_id.lower())
+
+                    if key not in seen:
+                        seen.add(key)
+
+                        job_url = (
+                            f"https://{host}/hcmUI/CandidateExperience/en/sites/CX/"
+                            f"requisitions/preview/{req_id}"
+                        )
+
+                        jobs.append({
+                            "company": company_name,
+                            "title": title,
+                            "location": location,
+                            "url": job_url,
+                            "description": (
+                                obj.get("ShortDescriptionStr")
+                                or obj.get("shortDescriptionStr")
+                                or obj.get("Description")
+                                or obj.get("description")
+                                or ""
+                            ),
+                            "source": "oracle"
+                        })
+
+                        batch_count += 1
+
+                for value in obj.values():
+                    walk(value)
+
+            elif isinstance(obj, list):
+                for item in obj:
+                    walk(item)
+
+        walk(items)
+
+        if len(jobs) >= MAX_JOBS_PER_COMPANY:
+            return jobs[:MAX_JOBS_PER_COMPANY]
+
+        offset += limit
+
+        if not data.get("hasMore", False):
+            break
+
+        if batch_count == 0:
+            break
+
+    return jobs[:MAX_JOBS_PER_COMPANY]
+
+# ---------------- GOOGLE CAREERS ----------------
+def fetch_google_jobs(base_url: str, company_name: str):
+    """
+    Google Careers parser.
+
+    Current strategy:
+      1. Fetch Google Careers search pages for hardware/silicon keywords.
+      2. Debug whether job data exists in HTML, embedded script data, or links.
+      3. Return jobs only if real job result URLs are found.
+
+    NOTE:
+      Google Careers is heavily client-rendered, so normal BeautifulSoup link
+      parsing may return 0 until we reverse the hidden API.
+    """
+    from urllib.parse import urlencode
+    import json
+
+    queries = [
+        "silicon",
+        "design verification",
+        "rtl",
+        "asic",
+        "firmware",
+        "embedded",
+        "fpga",
+        "hardware"
+    ]
+
     jobs = []
     seen = set()
 
-    try:
-        response = SESSION.get(base_url, timeout=20)
-        response.raise_for_status()
-    except Exception as e:
-        print(f"{company_name} ERROR: {e}")
-        return []
+    for query in queries:
+        for page in range(1, 6):
+            params = {
+                "q": query,
+                "location": "United States",
+                "employment_type": "FULL_TIME",
+                "sort_by": "date",
+                "page": str(page)
+            }
 
-    html = response.text
-    soup = BeautifulSoup(html, "lxml")
-    host = response.url.split("/")[2]
+            url = f"{base_url.rstrip('/')}?{urlencode(params)}"
 
-    # Pass 1: normal anchor extraction
-    for a in soup.find_all("a", href=True):
-        href = a["href"].strip()
-        title = a.get_text(" ", strip=True)
+            try:
+                response = SESSION.get(url, timeout=20)
+                response.raise_for_status()
+            except Exception as e:
+                print(f"{company_name} Google fetch error: {e}")
+                continue
 
-        if not title:
-            continue
+            html = response.text
+            soup = BeautifulSoup(html, "lxml")
 
-        if (
-            "/job/" not in href
-            and "/requisitions/preview/" not in href
-            and "requisitionId=" not in href
-        ):
-            continue
+            print(f"GOOGLE DEBUG | url: {url}")
+            print(f"GOOGLE DEBUG | status: {response.status_code}")
+            print(f"GOOGLE DEBUG | html length: {len(html)}")
+            print(f"GOOGLE DEBUG | first 300 chars: {html[:300].replace(chr(10), ' ')}")
 
-        if href.startswith("/"):
-            href = f"https://{host}{href}"
+            # ------------------------------------------------------------
+            # Debug embedded script/config data
+            # ------------------------------------------------------------
+            apollo_matches = re.findall(
+                r"window\.__APOLLO_STATE__\s*=\s*({.*?});",
+                html,
+                flags=re.DOTALL
+            )
 
-        key = (title.lower(), href.lower())
-        if key in seen:
-            continue
-        seen.add(key)
+            ppconfig_matches = re.findall(
+                r"window\[['\"]ppConfig['\"]\]\s*=\s*({.*?});",
+                html,
+                flags=re.DOTALL
+            )
 
-        jobs.append({
-            "company": company_name,
-            "title": title,
-            "location": "",
-            "url": href,
-            "description": "",
-            "source": "oracle"
-        })
+            if apollo_matches:
+                print(f"GOOGLE DEBUG | APOLLO_STATE matches: {len(apollo_matches)}")
 
-        if len(jobs) >= MAX_JOBS_PER_COMPANY:
-            return jobs
+            if ppconfig_matches:
+                print(f"GOOGLE DEBUG | ppConfig matches: {len(ppconfig_matches)}")
 
-    if jobs:
-        return jobs
+            for match in apollo_matches[:1]:
+                try:
+                    data = json.loads(match)
+                    print("GOOGLE DEBUG | APOLLO JSON FOUND")
+                    print(str(data)[:1000])
+                except Exception as e:
+                    print(f"GOOGLE DEBUG | APOLLO JSON parse failed: {e}")
 
-    # Pass 2: regex fallback for embedded requisition/job links
-    matches = re.findall(
-        r'/hcmUI/CandidateExperience/en/sites/CX/job/[0-9A-Za-z_-]+'
-        r'|/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/[0-9A-Za-z_-]+'
-        r'|requisitionId=[A-Za-z0-9_-]+',
-        html
-    )
+            for match in ppconfig_matches[:1]:
+                try:
+                    # ppConfig may not be strict JSON, but try anyway.
+                    data = json.loads(match)
+                    print("GOOGLE DEBUG | PPCONFIG JSON FOUND")
+                    print(str(data)[:1000])
+                except Exception as e:
+                    print(f"GOOGLE DEBUG | PPCONFIG JSON parse failed: {e}")
+                    print(f"GOOGLE DEBUG | PPCONFIG raw preview: {match[:1000]}")
 
-    for match in matches:
-        href = match.strip()
+            # ------------------------------------------------------------
+            # Debug links
+            # ------------------------------------------------------------
+            links = soup.find_all("a", href=True)
+            print(f"GOOGLE DEBUG | links found: {len(links)}")
 
-        if href.startswith("/"):
-            href = f"https://{host}{href}"
-        elif href.startswith("requisitionId="):
-            href = f"{base_url}?{href}"
+            for a in links[:20]:
+                print(
+                    "GOOGLE DEBUG LINK:",
+                    a.get_text(" ", strip=True),
+                    "|",
+                    a["href"]
+                )
 
-        key = href.lower()
-        if key in seen:
-            continue
-        seen.add(key)
+            page_jobs = 0
 
-        jobs.append({
-            "company": company_name,
-            "title": "Oracle Cloud Job",
-            "location": "",
-            "url": href,
-            "description": "",
-            "source": "oracle"
-        })
+            # ------------------------------------------------------------
+            # Attempt normal link extraction
+            # ------------------------------------------------------------
+            for a in links:
+                href = a["href"].strip()
+                title = a.get_text(" ", strip=True)
 
-        if len(jobs) >= MAX_JOBS_PER_COMPANY:
-            break
+                if not href or not title:
+                    continue
+
+                # Google job detail links usually contain /jobs/results/<id>
+                is_job_link = (
+                    "/about/careers/applications/jobs/results/" in href
+                    or "./jobs/results/" in href
+                )
+
+                if not is_job_link:
+                    continue
+
+                # Skip generic result/search links
+                if href.rstrip("/").endswith("/jobs/results") or "?" in href and "/jobs/results?" in href:
+                    continue
+
+                if len(title) < 5:
+                    continue
+
+                bad_anchor_text = {
+                    "learn more",
+                    "copy link",
+                    "email a friend",
+                    "share",
+                    "job search",
+                    "recommended jobs",
+                    "saved jobs",
+                    "job alerts"
+                }
+
+                if title.lower() in bad_anchor_text:
+                    continue
+
+                if href.startswith("./"):
+                    href = "https://www.google.com/about/careers/applications/" + href[2:]
+                elif href.startswith("/"):
+                    href = f"https://www.google.com{href}"
+
+                href = href.split("?", 1)[0].rstrip("/")
+
+                key = (title.lower(), href.lower())
+                if key in seen:
+                    continue
+
+                container_text = ""
+                parent = a
+                for _ in range(5):
+                    if parent.parent:
+                        parent = parent.parent
+                        container_text = parent.get_text(" ", strip=True)
+                        if (
+                            "Google |" in container_text
+                            or "Minimum qualifications" in container_text
+                            or "Bachelor's degree" in container_text
+                        ):
+                            break
+
+                location = ""
+                loc_match = re.search(
+                    r"Google\s*\|\s*(.*?)(?:\s+bar_chart|\s+Minimum qualifications|\s+Learn more|\s+share)",
+                    container_text
+                )
+                if loc_match:
+                    location = loc_match.group(1).strip()
+
+                jobs.append({
+                    "company": company_name,
+                    "title": title,
+                    "location": location,
+                    "url": href,
+                    "description": container_text,
+                    "source": "google"
+                })
+
+                seen.add(key)
+                page_jobs += 1
+
+                if len(jobs) >= MAX_JOBS_PER_COMPANY:
+                    return jobs
+
+            # If this page has no jobs, do not keep paginating this query.
+            if page_jobs == 0:
+                break
+
+    return jobs
+
+def fetch_amd_jobs(base_url: str, company_name: str):
+    from playwright.sync_api import sync_playwright
+
+    jobs = []
+    seen = set()
+    captured_pages = {}
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context()
+        page = context.new_page()
+
+        def handle_response(response):
+            url = response.url
+
+            if "careers.amd.com/api/jobs?" in url and "internal=false" in url:
+                try:
+                    data = response.json()
+                    captured_pages[url] = data
+                except Exception:
+                    pass
+
+        page.on("response", handle_response)
+
+        page.goto(
+            "https://careers.amd.com/careers-home/jobs",
+            wait_until="domcontentloaded",
+            timeout=60000
+        )
+
+        page.wait_for_timeout(5000)
+
+        # If page 1 was not captured through normal page load, force it inside browser.
+        if not captured_pages:
+            data = page.evaluate(
+                """
+                async () => {
+                    const r = await fetch('/api/jobs?page=1&sortBy=relevance&descending=false&internal=false', {
+                        credentials: 'include',
+                        headers: { 'Accept': 'application/json, text/plain, */*' }
+                    });
+                    return await r.json();
+                }
+                """
+            )
+            captured_pages["manual_page_1"] = data
+
+        for _, data in captured_pages.items():
+            page_jobs = data.get("jobs", [])
+            print(f"AMD DEBUG | captured jobs={len(page_jobs)}")
+
+            for job in page_jobs:
+                title = (
+                    job.get("title")
+                    or job.get("data", {}).get("title")
+                    or job.get("name")
+                    or ""
+                )
+
+                if isinstance(title, dict):
+                    title = title.get("value") or title.get("text") or ""
+
+                title = str(title).strip()
+
+                if not title:
+                    # One-time debug for field discovery
+                    print(f"AMD DEBUG | first job keys: {list(job.keys())}")
+                    continue
+
+                city = job.get("city") or job.get("data", {}).get("city") or ""
+                state = job.get("state") or job.get("data", {}).get("state") or ""
+                country = job.get("country") or job.get("data", {}).get("country") or ""
+
+                location = job.get("location") or ", ".join(
+                    [str(x).strip() for x in [city, state, country] if x]
+                )
+
+                job_id = (
+                    job.get("id")
+                    or job.get("jobId")
+                    or job.get("job_id")
+                    or job.get("reqId")
+                    or job.get("atsJobId")
+                    or job.get("data", {}).get("id")
+                    or ""
+                )
+
+                job_url = (
+                    job.get("applyUrl")
+                    or job.get("jobUrl")
+                    or job.get("url")
+                    or job.get("canonicalUrl")
+                    or job.get("data", {}).get("url")
+                    or ""
+                )
+
+                if not job_url:
+                    job_url = f"https://careers.amd.com/careers-home/jobs/{job_id}" if job_id else "https://careers.amd.com/careers-home/jobs"
+
+                if isinstance(job_url, str) and job_url.startswith("/"):
+                    job_url = f"https://careers.amd.com{job_url}"
+
+                key = (title.lower(), str(job_id).lower(), job_url.lower())
+
+                if key in seen:
+                    continue
+
+                seen.add(key)
+
+                jobs.append({
+                    "company": company_name,
+                    "title": title,
+                    "location": str(location).strip(),
+                    "url": job_url,
+                    "description": job.get("description") or job.get("summary") or "",
+                    "source": "amd"
+                })
+
+                if len(jobs) >= MAX_JOBS_PER_COMPANY:
+                    browser.close()
+                    return jobs
+
+        browser.close()
 
     return jobs
 

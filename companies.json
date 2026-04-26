@@ -60,11 +60,6 @@
     "token": "https://intel.wd1.myworkdayjobs.com/External"
   },
   {
-    "company": "Qualcomm",
-    "source_type": "qualcomm",
-    "token": "https://careers.qualcomm.com/careers?domain=qualcomm.com&location=any&sort_by=relevance"
-  },
-  {
     "company": "Marvell",
     "source_type": "workday",
     "token": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers"
@@ -205,8 +200,8 @@
     "token": "https://careersus-maxlinear.icims.com/jobs/intro"
   },
   {
-    "company": "Texas Instruments",
-    "source_type": "oracle",
-    "token": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions"
+    "company": "Cadence",
+    "source_type": "workday",
+    "token": "https://cadence.wd1.myworkdayjobs.com/External_Careers"
   }
 ]

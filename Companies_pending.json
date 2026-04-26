@@ -5,6 +5,11 @@
     "careers_url": "https://careers.amd.com/careers-home/jobs"
   },
   {
+    "company": "Cadence",
+    "needed_source_type": "workday",
+    "careers_url": "https://cadence.wd1.myworkdayjobs.com/CadenceCareers"
+  },
+  {
     "company": "Synopsys",
     "needed_source_type": "custom_avature",
     "careers_url": "https://careers.synopsys.com/search-jobs"
@@ -15,13 +20,8 @@
     "careers_url": "https://jobs.keysight.com/"
   },
   {
-    "company": "Texas Instruments",
-    "needed_source_type": "oracle_cloud",
-    "careers_url": "https://careers.ti.com/search-jobs/"
-  },
-  {
     "company": "GlobalFoundries",
-    "needed_source_type": "workday",
+    "needed_source_type": "workday_fix_needed",
     "careers_url": "https://globalfoundries.wd1.myworkdayjobs.com/External"
   },
   {
@@ -30,23 +30,33 @@
     "careers_url": "https://careers.skyworksinc.com/"
   },
   {
-    "company": "Qorvo",
+    "company": "Arm",
+    "needed_source_type": "workday",
+    "careers_url": "https://careers.arm.com/search-jobs"
+  },
+  {
+    "company": "Infineon",
+    "needed_source_type": "sap_successfactors",
+    "careers_url": "https://jobs.infineon.com/"
+  },
+  {
+    "company": "MediaTek",
     "needed_source_type": "custom",
-    "careers_url": "https://careers.qorvo.com/"
+    "careers_url": "https://careers.mediatek.com/"
   },
   {
-    "company": "MaxLinear",
-    "needed_source_type": "icims",
-    "careers_url": "https://careersus-maxlinear.icims.com/jobs/intro"
+    "company": "Qualcomm",
+    "needed_source_type": "eightfold_custom",
+    "careers_url": "https://careers.qualcomm.com/careers"
   },
   {
-    "company": "Lattice Semiconductor",
-    "needed_source_type": "icims",
-    "careers_url": "https://careers-latticesemi.icims.com/"
+    "company": "Texas Instruments",
+    "needed_source_type": "oracle_cloud_custom",
+    "careers_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs"
   },
   {
-  "company": "Google",
-  "needed_source_type": "google_custom",
-  "careers_url": "https://careers.google.com/jobs/results/"
-}
+    "company": "AMD",
+    "source_type": "amd",
+    "token": "https://careers.amd.com"
+  }
 ]
