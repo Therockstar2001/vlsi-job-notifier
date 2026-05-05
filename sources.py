@@ -914,128 +914,101 @@ def fetch_google_jobs(base_url: str, company_name: str):
     return jobs
 
 def fetch_amd_jobs(base_url: str, company_name: str):
-    from playwright.sync_api import sync_playwright
-
     jobs = []
     seen = set()
-    captured_pages = {}
 
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context()
-        page = context.new_page()
+    page = 1
 
-        def handle_response(response):
-            url = response.url
+    hw_keywords = [
+        "design verification", "verification engineer",
+        "rtl", "asic", "soc", "cpu", "gpu",
+        "silicon", "pre-silicon", "post-silicon",
+        "firmware", "embedded", "fpga", "dft", "emulation"
+    ]
 
-            if "careers.amd.com/api/jobs?" in url and "internal=false" in url:
-                try:
-                    data = response.json()
-                    captured_pages[url] = data
-                except Exception:
-                    pass
+    blocked_keywords = [
+        "ai & society", "society", "social science",
+        "sociotechnical", "alignment", "research intern",
+        "principal researcher", "senior researcher",
+        "business", "sales", "marketing", "finance",
+        "legal", "hr", "recruiter", "product manager"
+    ]
 
-        page.on("response", handle_response)
+    headers = {
+        "User-Agent": "Mozilla/5.0",
+        "Accept": "application/json, text/plain, */*",
+        "Referer": "https://careers.amd.com/careers-home/jobs"
+    }
 
-        page.goto(
-            "https://careers.amd.com/careers-home/jobs",
-            wait_until="domcontentloaded",
-            timeout=60000
+    while True:
+        url = (
+            "https://careers.amd.com/api/jobs"
+            f"?page={page}"
+            f"&sortBy=relevance"
+            f"&descending=false"
+            f"&internal=false"
         )
 
-        page.wait_for_timeout(5000)
+        try:
+            response = SESSION.get(url, headers=headers, timeout=20, allow_redirects=False)
 
-        # If page 1 was not captured through normal page load, force it inside browser.
-        if not captured_pages:
-            data = page.evaluate(
-                """
-                async () => {
-                    const r = await fetch('/api/jobs?page=1&sortBy=relevance&descending=false&internal=false', {
-                        credentials: 'include',
-                        headers: { 'Accept': 'application/json, text/plain, */*' }
-                    });
-                    return await r.json();
-                }
-                """
+            if response.status_code in (301, 302, 404):
+                break
+
+            response.raise_for_status()
+            data = response.json()
+
+        except Exception as e:
+            print(f"{company_name} AMD API stop at page {page}: {e}")
+            break
+
+        page_jobs = data.get("jobs", [])
+
+        if not page_jobs:
+            break
+
+        for job in page_jobs:
+
+            job_data = job.get("data", {})
+
+            title = (job_data.get("title") or "").strip()
+            if not title:
+                continue
+
+            job_id = str(job_data.get("req_id") or job_data.get("slug") or "").strip()
+
+            city = job_data.get("city") or ""
+            state = job_data.get("state") or ""
+            country = job_data.get("country") or ""
+
+            location = ", ".join([x for x in [city, state, country] if x])
+
+            job_url = (
+                job_data.get("canonical_url")
+                or job_data.get("apply_url")
+                or f"https://careers.amd.com/jobs/{job_id}"
             )
-            captured_pages["manual_page_1"] = data
 
-        for _, data in captured_pages.items():
-            page_jobs = data.get("jobs", [])
-            print(f"AMD DEBUG | captured jobs={len(page_jobs)}")
+            key = (title.lower(), job_id)
 
-            for job in page_jobs:
-                title = (
-                    job.get("title")
-                    or job.get("data", {}).get("title")
-                    or job.get("name")
-                    or ""
-                )
+            if key in seen:
+                continue
 
-                if isinstance(title, dict):
-                    title = title.get("value") or title.get("text") or ""
+            seen.add(key)
 
-                title = str(title).strip()
+            jobs.append({
+                "company": company_name,
+                "title": title,
+                "location": location,
+                "url": job_url,
+                "description": job_data.get("description") or "",
+                "source": "amd"
+            })
 
-                if not title:
-                    # One-time debug for field discovery
-                    print(f"AMD DEBUG | first job keys: {list(job.keys())}")
-                    continue
+            if len(jobs) >= MAX_JOBS_PER_COMPANY:
+                break
 
-                city = job.get("city") or job.get("data", {}).get("city") or ""
-                state = job.get("state") or job.get("data", {}).get("state") or ""
-                country = job.get("country") or job.get("data", {}).get("country") or ""
-
-                location = job.get("location") or ", ".join(
-                    [str(x).strip() for x in [city, state, country] if x]
-                )
-
-                job_id = (
-                    job.get("id")
-                    or job.get("jobId")
-                    or job.get("job_id")
-                    or job.get("reqId")
-                    or job.get("atsJobId")
-                    or job.get("data", {}).get("id")
-                    or ""
-                )
-
-                job_url = (
-                    job.get("applyUrl")
-                    or job.get("jobUrl")
-                    or job.get("url")
-                    or job.get("canonicalUrl")
-                    or job.get("data", {}).get("url")
-                    or ""
-                )
-
-                if not job_url:
-                    job_url = f"https://careers.amd.com/careers-home/jobs/{job_id}" if job_id else "https://careers.amd.com/careers-home/jobs"
-
-                if isinstance(job_url, str) and job_url.startswith("/"):
-                    job_url = f"https://careers.amd.com{job_url}"
-
-                key = (title.lower(), str(job_id).lower(), job_url.lower())
-
-                if key in seen:
-                    continue
-
-                seen.add(key)
-
-                jobs.append({
-                    "company": company_name,
-                    "title": title,
-                    "location": str(location).strip(),
-                    "url": job_url,
-                    "description": job.get("description") or job.get("summary") or "",
-                    "source": "amd"
-                })
-
-                if len(jobs) >= MAX_JOBS_PER_COMPANY:
-                    browser.close()
-                    return jobs
-
-        browser.close()
+        page += 1
 
     return jobs
 
@@ -1076,3 +1049,126 @@ def fetch_qualcomm_jobs(base_url: str, company_name: str):
 
     print("QUALCOMM DEBUG | Qualcomm uses a separate Eightfold-backed careers flow. Returning 0 jobs for now.")
     return []
+
+def fetch_microsoft_jobs(base_url: str, company_name: str):
+    jobs = []
+    seen = set()
+
+    start = 0
+    page_size = 20
+
+    hw_keywords = [
+        "design verification",
+        "verification engineer",
+        "rtl",
+        "asic",
+        "soc",
+        "cpu",
+        "gpu",
+        "silicon",
+        "pre-silicon",
+        "post-silicon",
+        "firmware",
+        "embedded",
+        "fpga",
+        "dft",
+        "emulation"
+    ]
+
+    blocked_keywords = [
+        "ai & society",
+        "society",
+        "social science",
+        "sociotechnical",
+        "socio-technical",
+        "alignment center",
+        "computational social science",
+        "research intern",
+        "principal researcher",
+        "senior researcher",
+        "workflow analysis",
+        "business",
+        "sales",
+        "marketing",
+        "finance",
+        "legal",
+        "hr",
+        "recruiter",
+        "program manager",
+        "product manager",
+        "customer success",
+        "account manager",
+        "consultant"
+    ]
+
+    while True:
+        url = (
+            "https://apply.careers.microsoft.com/api/pcsx/search"
+            f"?domain=microsoft.com"
+            f"&query="
+            f"&location="
+            f"&start={start}"
+            f"&sort_by=timestamp"
+        )
+
+        try:
+            response = SESSION.get(url, timeout=20)
+            response.raise_for_status()
+            data = response.json()
+        except Exception as e:
+            print(f"{company_name} Microsoft API error: {e}")
+            break
+
+        positions = data.get("data", {}).get("positions", [])
+
+        if not positions:
+            break
+
+        for job in positions:
+            title = (job.get("name") or "").strip()
+            job_id = str(job.get("id") or "").strip()
+
+            if not title:
+                continue
+
+            title_l = title.lower()
+
+            if not any(k in title_l for k in hw_keywords):
+                continue
+
+            if any(k in title_l for k in blocked_keywords):
+                continue
+
+            locations = job.get("locations") or job.get("standardizedLocations") or []
+            if isinstance(locations, list):
+                location = ", ".join(locations)
+            else:
+                location = str(locations)
+
+            job_url = (
+                job.get("positionUrl")
+                or f"https://apply.careers.microsoft.com/careers/job/{job_id}"
+            )
+
+            key = (title_l, job_id)
+
+            if key in seen:
+                continue
+
+            seen.add(key)
+
+            jobs.append({
+                "company": company_name,
+                "title": title,
+                "location": location,
+                "url": job_url,
+                "description": "",
+                "source": "microsoft"
+            })
+
+            if len(jobs) >= MAX_JOBS_PER_COMPANY:
+                return jobs
+
+        start += page_size
+
+    return jobs

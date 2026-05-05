@@ -1,15 +1,5 @@
 [
   {
-    "company": "AMD",
-    "needed_source_type": "custom_or_icims",
-    "careers_url": "https://careers.amd.com/careers-home/jobs"
-  },
-  {
-    "company": "Cadence",
-    "needed_source_type": "workday",
-    "careers_url": "https://cadence.wd1.myworkdayjobs.com/CadenceCareers"
-  },
-  {
     "company": "Synopsys",
     "needed_source_type": "custom_avature",
     "careers_url": "https://careers.synopsys.com/search-jobs"
@@ -53,10 +43,5 @@
     "company": "Texas Instruments",
     "needed_source_type": "oracle_cloud_custom",
     "careers_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs"
-  },
-  {
-    "company": "AMD",
-    "source_type": "amd",
-    "token": "https://careers.amd.com"
   }
 ]

@@ -203,5 +203,15 @@
     "company": "Cadence",
     "source_type": "workday",
     "token": "https://cadence.wd1.myworkdayjobs.com/External_Careers"
+  },
+  {
+    "company": "Microsoft",
+    "source_type": "microsoft",
+    "token": "https://apply.careers.microsoft.com"
+  },
+  {
+    "company": "AMD",
+    "source_type": "amd",
+    "token": "https://careers.amd.com"
   }
 ]

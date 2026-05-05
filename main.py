@@ -3,7 +3,7 @@ import datetime
 import os
 
 from db import init_db, job_exists, save_job
-from slack_notifier import post_job_to_slack
+from slack_notifier import post_job_to_slack, post_status_to_slack
 from filters import is_relevant_role, get_seniority_bucket, is_us_location
 from sources import (
     fetch_greenhouse_jobs,
@@ -16,6 +16,7 @@ from sources import (
     fetch_apple_jobs,
     fetch_amd_jobs,
     fetch_qualcomm_jobs,
+    fetch_microsoft_jobs
 )
 
 
@@ -99,7 +100,10 @@ def fetch_jobs_for_company(company_record):
         return fetch_amd_jobs(token, company_name)
 
     if source_type == "qualcomm":
-        return fetch_qualcomm_jobs(token, company_name) 
+        return fetch_qualcomm_jobs(token, company_name)
+    
+    if source_type == "microsoft":
+        return fetch_microsoft_jobs(token, company_name)
 
     raise ValueError(f"Unsupported source_type: {source_type}")
 
@@ -223,7 +227,9 @@ def main():
     print("Total posted:", total_posted)
 
     if total_posted == 0:
-        print("No new jobs in this run.")
+        msg = "No new jobs in this run."
+        print(msg)
+        post_status_to_slack(msg)
 
     if any_new_jobs:
         state["last_new_job_time"] = datetime.datetime.now().isoformat()

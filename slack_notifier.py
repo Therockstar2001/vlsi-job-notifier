@@ -73,3 +73,20 @@ def post_job_to_slack(job, channel_type):
     webhook = _get_webhook(channel_type)
     payload = _build_payload(job)
     _post_with_retries(webhook, payload, retries=3)
+
+def post_status_to_slack(message):
+    webhook = WEBHOOK_ALL
+
+    if not webhook:
+        raise ValueError("Missing SLACK_WEBHOOK_ALL for status message")
+
+    payload = {
+        "text": message
+    }
+
+    response = requests.post(webhook, json=payload, timeout=20)
+
+    if response.status_code != 200:
+        raise RuntimeError(
+            f"Slack status message failed: {response.status_code} {response.text}"
+        )
