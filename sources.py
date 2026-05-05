@@ -1150,6 +1150,9 @@ def fetch_microsoft_jobs(base_url: str, company_name: str):
                 or f"https://apply.careers.microsoft.com/careers/job/{job_id}"
             )
 
+            if isinstance(job_url, str) and job_url.startswith("/"):
+                job_url = f"https://apply.careers.microsoft.com{job_url}"
+
             key = (title_l, job_id)
 
             if key in seen:
