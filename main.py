@@ -16,7 +16,9 @@ from sources import (
     fetch_apple_jobs,
     fetch_amd_jobs,
     fetch_qualcomm_jobs,
-    fetch_microsoft_jobs
+    fetch_microsoft_jobs,
+    fetch_globalfoundries_jobs,
+    fetch_synopsys_jobs
 )
 
 
@@ -104,6 +106,12 @@ def fetch_jobs_for_company(company_record):
     
     if source_type == "microsoft":
         return fetch_microsoft_jobs(token, company_name)
+    
+    if source_type == "globalfoundries":
+        return fetch_globalfoundries_jobs(token, company_name)
+    
+    if source_type == "synopsys":
+        return fetch_synopsys_jobs(token, company_name)
 
     raise ValueError(f"Unsupported source_type: {source_type}")
 

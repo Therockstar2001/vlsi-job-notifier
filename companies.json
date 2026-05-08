@@ -213,5 +213,20 @@
     "company": "AMD",
     "source_type": "amd",
     "token": "https://careers.amd.com"
+  },
+  {
+    "company": "Qualcomm",
+    "source_type": "qualcomm",
+    "token": "https://careers.qualcomm.com"
+  },
+  {
+    "company": "GlobalFoundries",
+    "source_type": "globalfoundries",
+    "token": "https://careers.gf.com/careers"
+  },
+  {
+    "company": "Synopsys",
+    "source_type": "synopsys",
+    "token": "https://careers.synopsys.com/search-jobs"
   }
 ]

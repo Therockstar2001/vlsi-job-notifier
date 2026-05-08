@@ -1,5 +1,10 @@
 [
   {
+    "company": "Google",
+    "needed_source_type": "google_custom",
+    "careers_url": "https://www.google.com/about/careers/applications/jobs/results/"
+  },
+  {
     "company": "Synopsys",
     "needed_source_type": "custom_avature",
     "careers_url": "https://careers.synopsys.com/search-jobs"
@@ -21,7 +26,7 @@
   },
   {
     "company": "Arm",
-    "needed_source_type": "workday",
+    "needed_source_type": "custom_or_workday",
     "careers_url": "https://careers.arm.com/search-jobs"
   },
   {
@@ -35,20 +40,18 @@
     "careers_url": "https://careers.mediatek.com/"
   },
   {
-    "company": "Qualcomm",
-    "needed_source_type": "eightfold_custom",
-    "careers_url": "https://careers.qualcomm.com/careers"
-  },
-  {
     "company": "Texas Instruments",
     "needed_source_type": "oracle_cloud_custom",
     "careers_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs"
-  }
-
-  {
-    Cisco,
   },
   {
-    Siemens
+    "company": "Cisco",
+    "needed_source_type": "custom_or_workday",
+    "careers_url": "https://jobs.cisco.com/"
+  },
+  {
+    "company": "Siemens",
+    "needed_source_type": "custom_or_workday",
+    "careers_url": "https://jobs.siemens.com/"
   }
 ]

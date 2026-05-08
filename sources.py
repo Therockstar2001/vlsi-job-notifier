@@ -1014,41 +1014,136 @@ def fetch_amd_jobs(base_url: str, company_name: str):
 
 # ---------------- QUALCOMM (Eightfold API) ----------------
 def fetch_qualcomm_jobs(base_url: str, company_name: str):
-    """
-    Qualcomm careers is backed by Eightfold and does not expose the simple
-    JSON endpoint we previously assumed.
+    jobs = []
+    seen = set()
 
-    For now this function:
-      1. Tries to fetch the page safely
-      2. Prints useful debug info
-      3. Returns an empty list instead of crashing the run
+    start = 0
+    page_size = 20
 
-    This keeps the notifier stable until a proper Eightfold parser is added.
-    """
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/124.0.0.0 Safari/537.36"
+    allowed_keywords = [
+        "design verification",
+        "verification engineer",
+        "formal verification",
+        "asic",
+        "soc",
+        "rtl",
+        "cpu",
+        "gpu",
+        "firmware",
+        "embedded",
+        "fpga",
+        "silicon",
+        "pre-silicon",
+        "post-silicon",
+        "dft",
+        "emulation",
+        "validation",
+        "physical design",
+        "microarchitecture",
+        "micro-architecture",
+        "risc-v",
+        "pcie",
+        "cxl",
+        "memory subsystem",
+        "hbm",
+        "lpddr"
+    ]
+
+    blocked_keywords = [
+        "attorney",
+        "legal",
+        "recruiter",
+        "talent acquisition",
+        "product manager",
+        "product management",
+        "program manager",
+        "business",
+        "finance",
+        "marketing",
+        "sales",
+        "government affairs",
+        "operations manager",
+        "contract management",
+        "administration",
+        "hr",
+        "customer success"
+    ]
+
+    while True:
+        url = (
+            "https://careers.qualcomm.com/api/pcsx/search"
+            f"?domain=qualcomm.com"
+            f"&query="
+            f"&location="
+            f"&start={start}"
+            f"&sort_by=timestamp"
         )
-    }
 
-    try:
-        response = requests.get(base_url, headers=headers, timeout=15)
-    except requests.RequestException as exc:
-        print(f"Qualcomm request failed: {exc}")
-        return []
+        try:
+            response = SESSION.get(url, timeout=20)
+            response.raise_for_status()
+            data = response.json()
+        except Exception as e:
+            print(f"{company_name} Qualcomm API error: {e}")
+            break
 
-    content_type = response.headers.get("Content-Type", "")
-    print(f"QUALCOMM DEBUG | status: {response.status_code}")
-    print(f"QUALCOMM DEBUG | content-type: {content_type}")
-    print(f"QUALCOMM DEBUG | final-url: {response.url}")
+        positions = data.get("data", {}).get("positions", [])
 
-    body_preview = response.text[:300].replace("\n", " ").replace("\r", " ")
-    print(f"QUALCOMM DEBUG | body-preview: {body_preview}")
+        if not positions:
+            break
 
-    print("QUALCOMM DEBUG | Qualcomm uses a separate Eightfold-backed careers flow. Returning 0 jobs for now.")
-    return []
+        for job in positions:
+            title = (job.get("name") or "").strip()
+            job_id = str(job.get("id") or "").strip()
+
+            if not title:
+                continue
+
+            title_l = title.lower()
+
+            if any(b in title_l for b in blocked_keywords):
+                continue
+
+            if not any(k in title_l for k in allowed_keywords):
+                continue
+
+            locations = job.get("locations") or job.get("standardizedLocations") or []
+            if isinstance(locations, list):
+                location = ", ".join(locations)
+            else:
+                location = str(locations)
+
+            job_url = (
+                job.get("positionUrl")
+                or job.get("positionUri")
+                or f"https://careers.qualcomm.com/careers/job/{job_id}"
+            )
+
+            if isinstance(job_url, str) and job_url.startswith("/"):
+                job_url = f"https://careers.qualcomm.com{job_url}"
+
+            key = (title_l, job_id)
+
+            if key in seen:
+                continue
+
+            seen.add(key)
+
+            jobs.append({
+                "company": company_name,
+                "title": title,
+                "location": location,
+                "url": job_url,
+                "description": "",
+                "source": "qualcomm"
+            })
+
+            if len(jobs) >= MAX_JOBS_PER_COMPANY:
+                return jobs
+
+        start += page_size
+
+    return jobs
 
 def fetch_microsoft_jobs(base_url: str, company_name: str):
     jobs = []
@@ -1173,5 +1268,309 @@ def fetch_microsoft_jobs(base_url: str, company_name: str):
                 return jobs
 
         start += page_size
+
+    return jobs
+
+def fetch_globalfoundries_jobs(base_url: str, company_name: str):
+    jobs = []
+    seen = set()
+
+    start = 0
+    page_size = 20
+
+    allowed_keywords = [
+        "design verification",
+        "verification engineer",
+        "formal verification",
+        "asic",
+        "soc",
+        "rtl",
+        "cpu",
+        "gpu",
+        "firmware",
+        "embedded",
+        "fpga",
+        "silicon",
+        "pre-silicon",
+        "post-silicon",
+        "dft",
+        "emulation",
+        "validation",
+        "physical design",
+        "microarchitecture",
+        "micro-architecture",
+        "risc-v",
+        "pcie",
+        "cxl",
+        "memory subsystem",
+        "hbm",
+        "lpddr",
+        "tapeout",
+        "layout",
+        "pdk",
+        "test development",
+        "design enablement"
+    ]
+
+    blocked_keywords = [
+        "attorney",
+        "legal",
+        "recruiter",
+        "talent acquisition",
+        "product manager",
+        "product management",
+        "program manager",
+        "business",
+        "finance",
+        "marketing",
+        "sales",
+        "government affairs",
+        "operations manager",
+        "contract management",
+        "administration",
+        "hr",
+        "customer success"
+    ]
+
+    while True:
+
+        url = (
+            "https://careers.gf.com/api/pcsx/search"
+            f"?domain=globalfoundries.com"
+            f"&query="
+            f"&location="
+            f"&start={start}"
+        )
+
+        try:
+            response = SESSION.get(url, timeout=20)
+            response.raise_for_status()
+            data = response.json()
+
+        except Exception as e:
+            print(f"{company_name} API error: {e}")
+            break
+
+        positions = data.get("data", {}).get("positions", [])
+
+        if not positions:
+            break
+
+        for job in positions:
+
+            title = (job.get("name") or "").strip()
+            job_id = str(job.get("id") or "").strip()
+
+            if not title:
+                continue
+
+            title_l = title.lower()
+
+            if any(b in title_l for b in blocked_keywords):
+                continue
+
+            if not any(k in title_l for k in allowed_keywords):
+                continue
+
+            locations = (
+                job.get("locations")
+                or job.get("standardizedLocations")
+                or []
+            )
+
+            if isinstance(locations, list):
+                location = ", ".join(locations)
+            else:
+                location = str(locations)
+
+            job_url = (
+                job.get("positionUrl")
+                or job.get("positionUri")
+                or f"https://careers.gf.com/careers/job/{job_id}"
+            )
+
+            if isinstance(job_url, str) and job_url.startswith("/"):
+                job_url = f"https://careers.gf.com{job_url}"
+
+            key = (title_l, job_id)
+
+            if key in seen:
+                continue
+
+            seen.add(key)
+
+            jobs.append({
+                "company": company_name,
+                "title": title,
+                "location": location,
+                "url": job_url,
+                "description": "",
+                "source": "globalfoundries"
+            })
+
+            if len(jobs) >= MAX_JOBS_PER_COMPANY:
+                return jobs
+
+        start += page_size
+
+    return jobs
+
+
+def fetch_synopsys_jobs(base_url: str, company_name: str):
+    jobs = []
+    seen = set()
+
+    blocked_keywords = [
+        "attorney",
+        "legal",
+        "recruiter",
+        "talent acquisition",
+        "product manager",
+        "product management",
+        "program manager",
+        "business",
+        "finance",
+        "marketing",
+        "sales",
+        "government affairs",
+        "operations manager",
+        "contract management",
+        "administration",
+        "hr",
+        "customer success"
+    ]
+
+    hw_keywords = [
+        "design verification",
+        "verification engineer",
+        "formal verification",
+        "asic",
+        "soc",
+        "rtl",
+        "cpu",
+        "gpu",
+        "firmware",
+        "embedded",
+        "fpga",
+        "silicon",
+        "pre-silicon",
+        "post-silicon",
+        "dft",
+        "emulation",
+        "validation",
+        "physical design",
+        "microarchitecture",
+        "micro-architecture",
+        "risc-v",
+        "pcie",
+        "cxl",
+        "memory subsystem",
+        "hbm",
+        "lpddr"
+    ]
+
+    page = 1
+
+    while True:
+
+        url = (
+            "https://careers.synopsys.com/search-jobs/results"
+            f"?ActiveFacetID=0"
+            f"&CurrentPage={page}"
+            f"&RecordsPerPage=15"
+            f"&Distance=50"
+            f"&RadiusUnitType=0"
+            f"&Keywords="
+            f"&Location="
+            f"&SearchResultsModuleName=Search+Results"
+            f"&SearchFiltersModuleName=Search+Filters"
+            f"&SearchType=5"
+            f"&ResultsType=0"
+        )
+
+        try:
+            response = SESSION.get(url, timeout=20)
+            response.raise_for_status()
+
+            data = response.json()
+
+        except Exception as e:
+            print(f"{company_name} failed: {e}")
+            break
+
+        html = data.get("results", "")
+
+        print(html[:5000])
+
+        if not html:
+            break
+
+        soup = BeautifulSoup(html, "html.parser")
+
+        cards = soup.find_all("li", class_="search-results-list__list-item")
+
+        if not cards:
+            break
+
+        added_this_page = 0
+
+        for card in cards:
+
+            title_tag = card.find("a", class_="sr-job-link")
+
+            if not title_tag:
+                continue
+
+            title = title_tag.get_text(strip=True)
+
+            title_l = title.lower()
+
+            if any(k in title_l for k in blocked_keywords):
+                continue
+
+            if not any(k in title_l for k in hw_keywords):
+                continue
+
+            href = title_tag.get("href", "")
+
+            if href.startswith("/"):
+                job_url = f"https://careers.synopsys.com{href}"
+            else:
+                job_url = href
+
+            location = ""
+
+            loc_tag = card.find(class_="job-location")
+
+            if loc_tag:
+                location = loc_tag.get_text(strip=True)
+
+            key = (title_l, job_url)
+
+            if key in seen:
+                continue
+
+            seen.add(key)
+
+            jobs.append({
+                "company": company_name,
+                "title": title,
+                "location": location,
+                "url": job_url,
+                "description": "",
+                "source": "synopsys"
+            })
+
+            added_this_page += 1
+
+            if len(jobs) >= MAX_JOBS_PER_COMPANY:
+                return jobs
+
+        print(f"{company_name}: page {page} parsed")
+
+        if added_this_page == 0:
+            break
+
+        page += 1
 
     return jobs
