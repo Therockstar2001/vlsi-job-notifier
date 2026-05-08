@@ -18,9 +18,19 @@ from sources import (
     fetch_qualcomm_jobs,
     fetch_microsoft_jobs,
     fetch_globalfoundries_jobs,
-    fetch_synopsys_jobs
+    fetch_synopsys_jobs,
+    fetch_radancy_jobs,
+    fetch_generic_html_jobs,
+    fetch_ashby_jobs
 )
 
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0 Safari/537.36"
+    )
+}
 
 STATE_FILE = "bot_state.json"
 
@@ -112,6 +122,15 @@ def fetch_jobs_for_company(company_record):
     
     if source_type == "synopsys":
         return fetch_synopsys_jobs(token, company_name)
+    
+    if source_type == "radancy":
+        return fetch_radancy_jobs(token)
+
+    if source_type == "generic_html":
+        return fetch_generic_html_jobs(token)
+
+    if source_type == "ashby":
+        return fetch_ashby_jobs(token)
 
     raise ValueError(f"Unsupported source_type: {source_type}")
 

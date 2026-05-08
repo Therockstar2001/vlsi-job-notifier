@@ -228,5 +228,20 @@
     "company": "Synopsys",
     "source_type": "synopsys",
     "token": "https://careers.synopsys.com/search-jobs"
+  },
+  {
+    "company": "Arm",
+    "source_type": "radancy",
+    "token": "https://careers.arm.com/search-jobs"
+  },
+  {
+    "company": "Cisco",
+    "source_type": "workday",
+    "token": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers"
+  },
+  {
+    "company": "Cirrus Logic",
+    "source_type": "generic_html",
+    "token": "https://www.cirrus.com/careers/job-openings/"
   }
 ]

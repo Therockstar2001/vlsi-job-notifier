@@ -4,6 +4,13 @@ from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0 Safari/537.36"
+    )
+}
 
 MAX_JOBS_PER_COMPANY = 300
 
@@ -1572,5 +1579,100 @@ def fetch_synopsys_jobs(base_url: str, company_name: str):
             break
 
         page += 1
+
+    return jobs
+
+def fetch_radancy_jobs(url):
+    jobs = []
+
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=20)
+        soup = BeautifulSoup(r.text, "html.parser")
+
+        for a in soup.select("a[href*='/job/']"):
+            title = a.get_text(" ", strip=True)
+
+            if len(title) < 4:
+                continue
+
+            link = a.get("href")
+
+            if link.startswith("/"):
+                link = url.rstrip("/") + link
+
+            jobs.append({
+                "title": title,
+                "location": "",
+                "url": link
+            })
+
+    except Exception as e:
+        print(f"Radancy failed: {e}")
+
+    return jobs
+
+def fetch_generic_html_jobs(url):
+    jobs = []
+
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=20)
+        soup = BeautifulSoup(r.text, "html.parser")
+
+        for a in soup.find_all("a", href=True):
+
+            text = a.get_text(" ", strip=True)
+
+            if any(x in text.lower() for x in [
+                "engineer",
+                "verification",
+                "rtl",
+                "firmware",
+                "design"
+            ]):
+
+                link = a["href"]
+
+                if link.startswith("/"):
+                    link = url.rstrip("/") + link
+
+                jobs.append({
+                    "title": text,
+                    "location": "",
+                    "url": link
+                })
+
+    except Exception as e:
+        print(f"Generic HTML failed: {e}")
+
+    return jobs
+
+def fetch_ashby_jobs(company):
+    jobs = []
+
+    url = f"https://jobs.ashbyhq.com/{company}"
+
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=20)
+        soup = BeautifulSoup(r.text, "html.parser")
+
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            title = a.get_text(" ", strip=True)
+
+            if not title:
+                continue
+
+            if "/etched/" in href.lower() or "/job/" in href.lower():
+                if href.startswith("/"):
+                    href = "https://jobs.ashbyhq.com" + href
+
+                jobs.append({
+                    "title": title,
+                    "location": "",
+                    "url": href
+                })
+
+    except Exception as e:
+        print(f"Ashby failed: {e}")
 
     return jobs
