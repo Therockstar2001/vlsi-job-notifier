@@ -9765,3 +9765,63 @@
 2026-05-19 21:49:34.388035 | POSTED ALL | Amazon | Embedded SDE II, Prime Air | Seattle, Washington, USA
 2026-05-19 21:49:35.047643 | Rambus: fetched=29
 2026-05-19 21:49:35.047930 | Run finished | fetched=11597 matched=316 posted=6
+2026-05-19 23:32:33.200189 | === RUN STARTED ===
+2026-05-19 23:32:33.422639 | Astranis: fetched=147
+2026-05-19 23:32:33.500203 | Tenstorrent: fetched=118
+2026-05-19 23:32:33.574162 | Tenstorrent University: fetched=26
+2026-05-19 23:32:33.647649 | Cerebras Systems: fetched=89
+2026-05-19 23:32:33.742683 | Cerebras Early Talent: fetched=6
+2026-05-19 23:32:33.814370 | Astera Labs: fetched=146
+2026-05-19 23:32:33.882513 | Lightmatter: fetched=50
+2026-05-19 23:32:35.541937 | Western Digital: fetched=300
+2026-05-19 23:32:37.047336 | Bosch: fetched=300
+2026-05-19 23:32:38.591278 | Sandisk: fetched=300
+2026-05-19 23:32:52.414919 | NVIDIA: fetched=300
+2026-05-19 23:33:04.256545 | Intel: fetched=300
+2026-05-19 23:33:11.806124 | Marvell: fetched=300
+2026-05-19 23:33:12.073809 | POSTED ALL | Marvell | Senior Staff ASIC Product Engineer | Santa Clara, CA
+2026-05-19 23:33:12.307853 | POSTED ALL | Marvell | Senior Staff Firmware Engineer -  - memory constrained embedded system development/data center interconnectivity | Santa Clara, CA
+2026-05-19 23:33:17.847606 | Apple: fetched=300
+2026-05-19 23:33:18.080565 | POSTED ALL | Apple | Senior Embedded Software Engineer | 
+2026-05-19 23:33:18.344161 | POSTED ALL | Apple | PHY RTL Design Engineer | 
+2026-05-19 23:33:28.905296 | Analog Devices: fetched=300
+2026-05-19 23:33:39.878909 | NXP Semiconductors: fetched=300
+2026-05-19 23:33:46.051966 | Broadcom: fetched=300
+2026-05-19 23:33:58.047403 | Microchip: fetched=300
+2026-05-19 23:34:00.385907 | SiFive: fetched=58
+2026-05-19 23:34:02.268821 | Renesas Electronics: fetched=300
+2026-05-19 23:34:11.403094 | KLA: fetched=300
+2026-05-19 23:34:24.092145 | Applied Materials: fetched=300
+2026-05-19 23:34:24.316095 | SambaNova Systems: fetched=24
+2026-05-19 23:34:24.551415 | Samsung Semiconductor: fetched=57
+2026-05-19 23:34:24.623807 | Baya Systems: fetched=23
+2026-05-19 23:34:24.697218 | Ambiq: fetched=35
+2026-05-19 23:34:24.774577 | Graphcore: fetched=178
+2026-05-19 23:34:24.846787 | Eridan: fetched=3
+2026-05-19 23:34:24.919114 | Celero Communications: fetched=19
+2026-05-19 23:34:31.470078 | Micron: fetched=300
+2026-05-19 23:34:31.542723 | Aurora Innovation: fetched=166
+2026-05-19 23:34:31.620383 | Nuro: fetched=103
+2026-05-19 23:34:31.700438 | Applied Intuition: fetched=220
+2026-05-19 23:34:31.773663 | Ethernovia: fetched=32
+2026-05-19 23:34:31.901720 | SpaceX: fetched=1677
+2026-05-19 23:34:32.362572 | Axiado: fetched=50
+2026-05-19 23:34:32.450501 | Zipline: fetched=193
+2026-05-19 23:34:32.572681 | Anduril Industries: fetched=1905
+2026-05-19 23:34:33.096372 | Lattice Semiconductor: fetched=59
+2026-05-19 23:34:33.528003 | MaxLinear: fetched=28
+2026-05-19 23:34:42.333971 | Cadence: fetched=300
+2026-05-19 23:35:04.447529 | Microsoft: fetched=9
+2026-05-19 23:35:25.650671 | AMD: fetched=400
+2026-05-19 23:36:08.837005 | Qualcomm: fetched=214
+2026-05-19 23:36:09.080805 | POSTED ALL | Qualcomm | Emulation Methodology Lead | San Diego, California, United States of America
+2026-05-19 23:36:19.849191 | GlobalFoundries: fetched=53
+2026-05-19 23:36:33.021532 | Synopsys: fetched=107
+2026-05-19 23:36:33.288076 | POSTED ALL | Synopsys | Validation / Verification Eng, Staff Engineer-17302Hillsboro, OregonCategory:EngineeringPosted:05/18/2026Job ID:17302 | Hillsboro, Oregon
+2026-05-19 23:36:34.354487 | Arm: fetched=18
+2026-05-19 23:36:38.835849 | Cisco: fetched=300
+2026-05-19 23:36:39.199334 | Cirrus Logic: fetched=2
+2026-05-19 23:36:42.728964 | Amazon: fetched=300
+2026-05-19 23:36:42.960903 | POSTED ALL | Amazon | Alarm & Accessories - Embedded SDE , Ring | Sunnyvale, California, USA
+2026-05-19 23:36:43.422463 | Rambus: fetched=29
+2026-05-19 23:36:43.422771 | Run finished | fetched=11644 matched=314 posted=7
