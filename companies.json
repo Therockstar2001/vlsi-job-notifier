@@ -243,5 +243,15 @@
     "company": "Cirrus Logic",
     "source_type": "generic_html",
     "token": "https://www.cirrus.com/careers/job-openings/"
+  },
+  {
+    "company": "Amazon",
+    "source_type": "amazon",
+    "token": "https://www.amazon.jobs/en/search.json?offset=0&result_limit=100&sort=relevant&country%5B%5D=USA"
+  },
+  {
+    "company": "Rambus",
+    "source_type": "icims",
+    "token": "https://careers-rambus.icims.com/jobs/search" 
   }
 ]

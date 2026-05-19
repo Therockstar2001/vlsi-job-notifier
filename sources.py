@@ -927,9 +927,9 @@ def fetch_amd_jobs(base_url: str, company_name: str):
     page = 1
 
     hw_keywords = [
-        "design verification", "verification engineer",
-        "rtl", "asic", "soc", "cpu", "gpu",
-        "silicon", "pre-silicon", "post-silicon",
+        "design verification engineer", "verification engineer", "Verification Design Engineer", "Silicon Design Engineer",
+        "rtl", "asic", "soc", "cpu", "gpu", "ASIC Design Verification Engineer", "ASIC Verification Engineer", "Silicon Design Verification Engineer",
+        "silicon", "pre-silicon", "post-silicon", "Hardware Engineering",
         "firmware", "embedded", "fpga", "dft", "emulation"
     ]
 
@@ -1674,5 +1674,48 @@ def fetch_ashby_jobs(company):
 
     except Exception as e:
         print(f"Ashby failed: {e}")
+
+    return jobs
+
+def fetch_amazon_jobs(url):
+    jobs = []
+
+    try:
+        offset = 0
+        limit = 100
+
+        while offset < 300:
+            paged_url = url.replace("offset=0", f"offset={offset}")
+
+            r = requests.get(paged_url, headers=HEADERS, timeout=20)
+            r.raise_for_status()
+
+            data = r.json()
+
+            for job in data.get("jobs", []):
+                title = job.get("title", "")
+                location = job.get("normalized_location", "")
+                job_path = job.get("job_path", "")
+
+                if job_path.startswith("/"):
+                    job_url = "https://www.amazon.jobs" + job_path
+                else:
+                    job_url = job_path
+
+                jobs.append({
+                    "company": "Amazon",
+                    "source": "amazon",
+                    "title": title,
+                    "location": location,
+                    "url": job_url,
+                })
+
+            if len(data.get("jobs", [])) < limit:
+                break
+
+            offset += limit
+
+    except Exception as e:
+        print(f"Amazon failed: {e}")
 
     return jobs
