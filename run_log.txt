@@ -9645,3 +9645,64 @@
 2026-05-19 16:35:20.524129 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS)  | Bridgewater, Massachusetts, USA
 2026-05-19 16:35:20.774945 | Rambus: fetched=29
 2026-05-19 16:35:20.775307 | Run finished | fetched=11775 matched=332 posted=16
+2026-05-19 19:17:35.211385 | === RUN STARTED ===
+2026-05-19 19:17:35.487961 | Astranis: fetched=152
+2026-05-19 19:17:35.583168 | Tenstorrent: fetched=118
+2026-05-19 19:17:35.681516 | Tenstorrent University: fetched=26
+2026-05-19 19:17:35.785185 | Cerebras Systems: fetched=90
+2026-05-19 19:17:35.877718 | Cerebras Early Talent: fetched=6
+2026-05-19 19:17:36.827223 | Astera Labs: fetched=146
+2026-05-19 19:17:36.926643 | Lightmatter: fetched=50
+2026-05-19 19:17:38.770728 | Western Digital: fetched=300
+2026-05-19 19:17:41.565588 | Bosch: fetched=300
+2026-05-19 19:17:45.634332 | Sandisk: fetched=300
+2026-05-19 19:18:00.112231 | NVIDIA: fetched=300
+2026-05-19 19:18:00.357465 | POSTED ALL | NVIDIA | Senior Systems Prototyping and Emulation Engineer | US, CA, Santa Clara
+2026-05-19 19:18:15.775978 | Intel: fetched=300
+2026-05-19 19:18:24.383908 | Marvell: fetched=300
+2026-05-19 19:18:30.233389 | Apple: fetched=300
+2026-05-19 19:18:30.485772 | POSTED ALL | Apple | PHY RTL Design Engineer | 
+2026-05-19 19:18:30.724623 | POSTED ALL | Apple | SoC Failure Analysis Engineering Program Manager | 
+2026-05-19 19:18:43.819168 | Analog Devices: fetched=300
+2026-05-19 19:18:55.961490 | NXP Semiconductors: fetched=300
+2026-05-19 19:19:03.239373 | Broadcom: fetched=300
+2026-05-19 19:19:12.610957 | Microchip: fetched=300
+2026-05-19 19:19:15.285327 | SiFive: fetched=58
+2026-05-19 19:19:17.632263 | Renesas Electronics: fetched=300
+2026-05-19 19:19:28.185135 | KLA: fetched=300
+2026-05-19 19:19:45.949157 | Applied Materials: fetched=300
+2026-05-19 19:19:46.116087 | SambaNova Systems: fetched=24
+2026-05-19 19:19:46.211321 | Samsung Semiconductor: fetched=57
+2026-05-19 19:19:46.307814 | Baya Systems: fetched=23
+2026-05-19 19:19:46.400635 | Ambiq: fetched=34
+2026-05-19 19:19:46.500091 | Graphcore: fetched=178
+2026-05-19 19:19:46.596739 | Eridan: fetched=3
+2026-05-19 19:19:46.691005 | Celero Communications: fetched=19
+2026-05-19 19:19:53.609071 | Micron: fetched=300
+2026-05-19 19:19:53.708000 | Aurora Innovation: fetched=166
+2026-05-19 19:19:53.805359 | Nuro: fetched=100
+2026-05-19 19:19:53.921638 | Applied Intuition: fetched=220
+2026-05-19 19:19:54.019963 | Ethernovia: fetched=32
+2026-05-19 19:19:54.216104 | SpaceX: fetched=1673
+2026-05-19 19:19:54.698034 | Axiado: fetched=50
+2026-05-19 19:19:54.801316 | Zipline: fetched=193
+2026-05-19 19:19:55.062862 | Anduril Industries: fetched=1909
+2026-05-19 19:19:55.832631 | Lattice Semiconductor: fetched=59
+2026-05-19 19:19:56.809518 | MaxLinear: fetched=28
+2026-05-19 19:20:10.167686 | Cadence: fetched=300
+2026-05-19 19:20:38.229814 | Microsoft: fetched=7
+2026-05-19 19:20:38.470252 | POSTED ALL | Microsoft | Principal Design Verification Engineer | United States, California, Mountain View, United States, Washington, Redmond
+2026-05-19 19:20:38.689885 | POSTED ALL | Microsoft | Quantum ASIC Project Lead | United States, Washington, Redmond
+2026-05-19 19:21:01.670561 | AMD: fetched=400
+2026-05-19 19:21:35.164734 | Qualcomm: fetched=220
+2026-05-19 19:21:35.390375 | POSTED ALL | Qualcomm | Senior SoC Performance Architect | Santa Clara, California, United States of America, Austin, Texas, United States of America
+2026-05-19 19:21:35.631267 | POSTED ALL | Qualcomm | Staff/Sr. Staff RTL Design Engineer - QGOV | San Diego, California, United States of America
+2026-05-19 19:21:53.110500 | GlobalFoundries: fetched=58
+2026-05-19 19:22:04.943341 | Synopsys: fetched=64
+2026-05-19 19:22:05.614766 | Arm: fetched=18
+2026-05-19 19:22:10.678181 | Cisco: fetched=300
+2026-05-19 19:22:11.331428 | Cirrus Logic: fetched=2
+2026-05-19 19:22:14.737769 | Amazon: fetched=300
+2026-05-19 19:22:14.985427 | POSTED ALL | Amazon | Embedded SDE II, Prime Air | Seattle, Washington, USA
+2026-05-19 19:22:15.628823 | Rambus: fetched=29
+2026-05-19 19:22:15.629129 | Run finished | fetched=11612 matched=314 posted=8
