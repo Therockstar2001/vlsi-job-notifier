@@ -9706,3 +9706,62 @@
 2026-05-19 19:22:14.985427 | POSTED ALL | Amazon | Embedded SDE II, Prime Air | Seattle, Washington, USA
 2026-05-19 19:22:15.628823 | Rambus: fetched=29
 2026-05-19 19:22:15.629129 | Run finished | fetched=11612 matched=314 posted=8
+2026-05-19 21:45:21.052528 | === RUN STARTED ===
+2026-05-19 21:45:21.210675 | Astranis: fetched=147
+2026-05-19 21:45:21.311116 | Tenstorrent: fetched=118
+2026-05-19 21:45:21.420497 | Tenstorrent University: fetched=26
+2026-05-19 21:45:21.523216 | Cerebras Systems: fetched=89
+2026-05-19 21:45:21.621165 | Cerebras Early Talent: fetched=6
+2026-05-19 21:45:21.723587 | Astera Labs: fetched=146
+2026-05-19 21:45:21.827764 | Lightmatter: fetched=50
+2026-05-19 21:45:23.516288 | Western Digital: fetched=300
+2026-05-19 21:45:25.095793 | Bosch: fetched=300
+2026-05-19 21:45:26.567630 | Sandisk: fetched=300
+2026-05-19 21:45:39.558299 | NVIDIA: fetched=300
+2026-05-19 21:45:51.630348 | Intel: fetched=300
+2026-05-19 21:45:59.346175 | Marvell: fetched=300
+2026-05-19 21:46:04.139053 | Apple: fetched=300
+2026-05-19 21:46:04.321878 | POSTED ALL | Apple | PHY RTL Design Engineer | 
+2026-05-19 21:46:04.536412 | POSTED ALL | Apple | SoC Failure Analysis Engineering Program Manager | 
+2026-05-19 21:46:14.874129 | Analog Devices: fetched=300
+2026-05-19 21:46:26.854594 | NXP Semiconductors: fetched=300
+2026-05-19 21:46:32.694381 | Broadcom: fetched=300
+2026-05-19 21:46:40.879623 | Microchip: fetched=300
+2026-05-19 21:46:43.009876 | SiFive: fetched=58
+2026-05-19 21:46:44.797531 | Renesas Electronics: fetched=300
+2026-05-19 21:46:54.372171 | KLA: fetched=300
+2026-05-19 21:47:07.725592 | Applied Materials: fetched=300
+2026-05-19 21:47:07.890440 | SambaNova Systems: fetched=24
+2026-05-19 21:47:08.004422 | Samsung Semiconductor: fetched=57
+2026-05-19 21:47:08.106733 | Baya Systems: fetched=23
+2026-05-19 21:47:08.350075 | Ambiq: fetched=35
+2026-05-19 21:47:08.451234 | Graphcore: fetched=178
+2026-05-19 21:47:10.292210 | Eridan: fetched=3
+2026-05-19 21:47:10.393604 | Celero Communications: fetched=19
+2026-05-19 21:47:18.120232 | Micron: fetched=300
+2026-05-19 21:47:18.220459 | Aurora Innovation: fetched=166
+2026-05-19 21:47:18.329125 | Nuro: fetched=102
+2026-05-19 21:47:18.429439 | Applied Intuition: fetched=220
+2026-05-19 21:47:18.535748 | Ethernovia: fetched=32
+2026-05-19 21:47:18.677760 | SpaceX: fetched=1671
+2026-05-19 21:47:19.131630 | Axiado: fetched=50
+2026-05-19 21:47:19.228887 | Zipline: fetched=193
+2026-05-19 21:47:19.440767 | Anduril Industries: fetched=1905
+2026-05-19 21:47:20.056872 | Lattice Semiconductor: fetched=59
+2026-05-19 21:47:20.643629 | MaxLinear: fetched=28
+2026-05-19 21:47:30.176290 | Cadence: fetched=300
+2026-05-19 21:47:54.218143 | Microsoft: fetched=9
+2026-05-19 21:48:28.964184 | AMD: fetched=400
+2026-05-19 21:48:58.289078 | Qualcomm: fetched=215
+2026-05-19 21:48:58.476506 | POSTED ALL | Qualcomm | Embedded System Software Architect - Sr. Staff | San Diego, California, United States of America
+2026-05-19 21:49:13.612820 | GlobalFoundries: fetched=55
+2026-05-19 21:49:25.100353 | Synopsys: fetched=64
+2026-05-19 21:49:25.587231 | Arm: fetched=18
+2026-05-19 21:49:30.621415 | Cisco: fetched=300
+2026-05-19 21:49:31.112971 | Cirrus Logic: fetched=2
+2026-05-19 21:49:33.777613 | Amazon: fetched=300
+2026-05-19 21:49:33.956306 | POSTED ALL | Amazon | MLA IP Design Verification Engineer, Annapurna Labs | Cupertino, California, USA
+2026-05-19 21:49:34.153478 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Erlanger, Kentucky, USA
+2026-05-19 21:49:34.388035 | POSTED ALL | Amazon | Embedded SDE II, Prime Air | Seattle, Washington, USA
+2026-05-19 21:49:35.047643 | Rambus: fetched=29
+2026-05-19 21:49:35.047930 | Run finished | fetched=11597 matched=316 posted=6
