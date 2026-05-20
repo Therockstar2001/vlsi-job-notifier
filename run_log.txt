@@ -9991,3 +9991,60 @@
 2026-05-20 12:07:22.636639 | Amazon: fetched=300
 2026-05-20 12:07:22.949907 | Rambus: fetched=29
 2026-05-20 12:07:22.950239 | Run finished | fetched=11587 matched=306 posted=1
+2026-05-20 15:56:16.667229 | === RUN STARTED ===
+2026-05-20 15:56:16.971628 | Astranis: fetched=147
+2026-05-20 15:56:17.008363 | Tenstorrent: fetched=119
+2026-05-20 15:56:17.043096 | Tenstorrent University: fetched=26
+2026-05-20 15:56:17.073834 | Cerebras Systems: fetched=89
+2026-05-20 15:56:17.108686 | Cerebras Early Talent: fetched=6
+2026-05-20 15:56:17.691891 | Astera Labs: fetched=152
+2026-05-20 15:56:17.724074 | Lightmatter: fetched=50
+2026-05-20 15:56:19.243095 | Western Digital: fetched=300
+2026-05-20 15:56:20.691522 | Bosch: fetched=300
+2026-05-20 15:56:22.057317 | Sandisk: fetched=300
+2026-05-20 15:56:36.348199 | NVIDIA: fetched=300
+2026-05-20 15:56:36.437782 | POSTED ALL | NVIDIA | ASIC Verification Engineer | US, TX, Austin
+2026-05-20 15:56:36.531752 | POSTED ALL | NVIDIA | SOC Design Engineer, ASIC Tools and Methodology Development | US, TX, Austin
+2026-05-20 15:56:36.625466 | POSTED ALL | NVIDIA | Senior ASIC Verification Engineer | US, TX, Austin
+2026-05-20 15:56:47.297095 | Intel: fetched=300
+2026-05-20 15:56:54.316300 | Marvell: fetched=300
+2026-05-20 15:56:59.330909 | Apple: fetched=300
+2026-05-20 15:57:07.600985 | Analog Devices: fetched=300
+2026-05-20 15:57:17.874979 | NXP Semiconductors: fetched=300
+2026-05-20 15:57:22.191050 | Broadcom: fetched=300
+2026-05-20 15:57:31.652209 | Microchip: fetched=300
+2026-05-20 15:57:34.618356 | SiFive: fetched=63
+2026-05-20 15:57:36.271940 | Renesas Electronics: fetched=300
+2026-05-20 15:57:45.734942 | KLA: fetched=300
+2026-05-20 15:57:58.021104 | Applied Materials: fetched=300
+2026-05-20 15:57:58.129865 | SambaNova Systems: fetched=24
+2026-05-20 15:57:58.158248 | Samsung Semiconductor: fetched=57
+2026-05-20 15:57:58.189414 | Baya Systems: fetched=23
+2026-05-20 15:57:58.218460 | Ambiq: fetched=35
+2026-05-20 15:57:58.251227 | Graphcore: fetched=187
+2026-05-20 15:57:58.288989 | Eridan: fetched=3
+2026-05-20 15:57:58.316089 | Celero Communications: fetched=19
+2026-05-20 15:58:03.690306 | Micron: fetched=300
+2026-05-20 15:58:03.744868 | Aurora Innovation: fetched=170
+2026-05-20 15:58:03.779223 | Nuro: fetched=103
+2026-05-20 15:58:03.811975 | Applied Intuition: fetched=221
+2026-05-20 15:58:03.846914 | Ethernovia: fetched=32
+2026-05-20 15:58:03.940303 | SpaceX: fetched=1675
+2026-05-20 15:58:04.361081 | Axiado: fetched=50
+2026-05-20 15:58:04.400760 | Zipline: fetched=192
+2026-05-20 15:58:04.492227 | Anduril Industries: fetched=1913
+2026-05-20 15:58:04.900812 | Lattice Semiconductor: fetched=59
+2026-05-20 15:58:05.269397 | MaxLinear: fetched=28
+2026-05-20 15:58:14.230158 | Cadence: fetched=300
+2026-05-20 15:58:41.459523 | Microsoft: fetched=7
+2026-05-20 15:58:57.250028 | AMD: fetched=400
+2026-05-20 15:59:37.859541 | Qualcomm: fetched=264
+2026-05-20 15:59:50.609344 | GlobalFoundries: fetched=58
+2026-05-20 15:59:51.068274 | Synopsys: fetched=2
+2026-05-20 15:59:51.490280 | Arm: fetched=18
+2026-05-20 15:59:56.788891 | Cisco: fetched=300
+2026-05-20 15:59:57.118775 | Cirrus Logic: fetched=2
+2026-05-20 15:59:59.520570 | Amazon: fetched=300
+2026-05-20 15:59:59.596561 | POSTED ALL | Amazon | Sr. DSP Modem Embedded Engineer, Amazon Leo | San Diego, California, USA
+2026-05-20 15:59:59.997617 | Rambus: fetched=29
+2026-05-20 15:59:59.997944 | Run finished | fetched=11623 matched=316 posted=4
