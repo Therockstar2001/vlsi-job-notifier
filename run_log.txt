@@ -10048,3 +10048,62 @@
 2026-05-20 15:59:59.596561 | POSTED ALL | Amazon | Sr. DSP Modem Embedded Engineer, Amazon Leo | San Diego, California, USA
 2026-05-20 15:59:59.997617 | Rambus: fetched=29
 2026-05-20 15:59:59.997944 | Run finished | fetched=11623 matched=316 posted=4
+2026-05-20 18:31:07.176810 | === RUN STARTED ===
+2026-05-20 18:31:07.382475 | Astranis: fetched=145
+2026-05-20 18:31:09.353944 | Tenstorrent: fetched=119
+2026-05-20 18:31:09.466639 | Tenstorrent University: fetched=26
+2026-05-20 18:31:09.565490 | Cerebras Systems: fetched=89
+2026-05-20 18:31:09.669865 | Cerebras Early Talent: fetched=6
+2026-05-20 18:31:09.765023 | Astera Labs: fetched=152
+2026-05-20 18:31:09.861574 | Lightmatter: fetched=50
+2026-05-20 18:31:11.533600 | Western Digital: fetched=300
+2026-05-20 18:31:13.199944 | Bosch: fetched=300
+2026-05-20 18:31:14.786661 | Sandisk: fetched=300
+2026-05-20 18:31:28.391060 | NVIDIA: fetched=300
+2026-05-20 18:31:41.112412 | Intel: fetched=300
+2026-05-20 18:31:48.923654 | Marvell: fetched=300
+2026-05-20 18:31:49.188029 | POSTED ALL | Marvell | SoC / RTL Low-Power Expert | US-CA - Santa Clara
+2026-05-20 18:31:54.575596 | Apple: fetched=300
+2026-05-20 18:31:54.806289 | POSTED ALL | Apple | Associate Development Manager | 
+2026-05-20 18:32:06.548710 | Analog Devices: fetched=300
+2026-05-20 18:32:17.458014 | NXP Semiconductors: fetched=300
+2026-05-20 18:32:23.983627 | Broadcom: fetched=300
+2026-05-20 18:32:33.702304 | Microchip: fetched=300
+2026-05-20 18:32:36.720709 | SiFive: fetched=63
+2026-05-20 18:32:38.542479 | Renesas Electronics: fetched=300
+2026-05-20 18:32:48.649632 | KLA: fetched=300
+2026-05-20 18:33:02.667022 | Applied Materials: fetched=300
+2026-05-20 18:33:02.860074 | SambaNova Systems: fetched=24
+2026-05-20 18:33:02.957842 | Samsung Semiconductor: fetched=56
+2026-05-20 18:33:03.055638 | Baya Systems: fetched=23
+2026-05-20 18:33:03.157983 | Ambiq: fetched=35
+2026-05-20 18:33:03.258819 | Graphcore: fetched=187
+2026-05-20 18:33:03.351919 | Eridan: fetched=3
+2026-05-20 18:33:03.450785 | Celero Communications: fetched=19
+2026-05-20 18:33:12.299056 | Micron: fetched=300
+2026-05-20 18:33:12.399260 | Aurora Innovation: fetched=170
+2026-05-20 18:33:12.500957 | Nuro: fetched=103
+2026-05-20 18:33:12.602240 | Applied Intuition: fetched=222
+2026-05-20 18:33:12.697670 | Ethernovia: fetched=32
+2026-05-20 18:33:12.896469 | SpaceX: fetched=1677
+2026-05-20 18:33:13.452240 | Axiado: fetched=50
+2026-05-20 18:33:13.550869 | Zipline: fetched=194
+2026-05-20 18:33:13.707080 | Anduril Industries: fetched=1916
+2026-05-20 18:33:14.413373 | Lattice Semiconductor: fetched=59
+2026-05-20 18:33:15.028303 | MaxLinear: fetched=28
+2026-05-20 18:33:25.301004 | Cadence: fetched=300
+2026-05-20 18:33:54.749477 | Microsoft: fetched=8
+2026-05-20 18:34:17.746025 | AMD: fetched=400
+2026-05-20 18:34:53.041569 | Qualcomm: fetched=248
+2026-05-20 18:35:12.344307 | GlobalFoundries: fetched=56
+2026-05-20 18:35:14.650588 | Synopsys: fetched=7
+2026-05-20 18:35:15.009914 | Arm: fetched=18
+2026-05-20 18:35:20.202383 | Cisco: fetched=300
+2026-05-20 18:35:20.767086 | Cirrus Logic: fetched=2
+2026-05-20 18:35:24.450237 | Amazon: fetched=300
+2026-05-20 18:35:24.700055 | POSTED ALL | Amazon | Lead Fulfillment Associate, MQY2 | Lebanon, Tennessee, USA
+2026-05-20 18:35:24.938247 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Fishersville, Virginia, USA
+2026-05-20 18:35:25.209250 | POSTED ALL | Amazon | IT Support Associate II, OTS | Salinas, California, USA
+2026-05-20 18:35:25.443019 | POSTED ALL | Amazon | Satellite Design Verification Engineer, Amazon Leo  | San Diego, California, USA
+2026-05-20 18:35:26.045836 | Rambus: fetched=29
+2026-05-20 18:35:26.046154 | Run finished | fetched=11616 matched=309 posted=6
