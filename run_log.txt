@@ -9883,3 +9883,57 @@
 2026-05-20 04:41:08.764841 | POSTED ALL | Amazon | Alarm & Accessories - Embedded SDE , Ring | Sunnyvale, California, USA
 2026-05-20 04:41:09.053806 | Rambus: fetched=29
 2026-05-20 04:41:09.054147 | Run finished | fetched=11564 matched=305 posted=5
+2026-05-20 08:35:03.287288 | === RUN STARTED ===
+2026-05-20 08:35:03.600651 | Astranis: fetched=147
+2026-05-20 08:35:03.638001 | Tenstorrent: fetched=119
+2026-05-20 08:35:03.666888 | Tenstorrent University: fetched=26
+2026-05-20 08:35:03.702707 | Cerebras Systems: fetched=89
+2026-05-20 08:35:03.735103 | Cerebras Early Talent: fetched=6
+2026-05-20 08:35:03.765791 | Astera Labs: fetched=151
+2026-05-20 08:35:03.794878 | Lightmatter: fetched=50
+2026-05-20 08:35:05.313071 | Western Digital: fetched=300
+2026-05-20 08:35:06.720115 | Bosch: fetched=300
+2026-05-20 08:35:08.146767 | Sandisk: fetched=300
+2026-05-20 08:35:21.820018 | NVIDIA: fetched=300
+2026-05-20 08:35:32.256535 | Intel: fetched=300
+2026-05-20 08:35:39.526438 | Marvell: fetched=300
+2026-05-20 08:35:44.355919 | Apple: fetched=300
+2026-05-20 08:35:56.995860 | Analog Devices: fetched=300
+2026-05-20 08:36:08.059686 | NXP Semiconductors: fetched=300
+2026-05-20 08:36:12.699665 | Broadcom: fetched=300
+2026-05-20 08:36:21.337031 | Microchip: fetched=300
+2026-05-20 08:36:23.614306 | SiFive: fetched=64
+2026-05-20 08:36:25.264025 | Renesas Electronics: fetched=300
+2026-05-20 08:36:33.628802 | KLA: fetched=300
+2026-05-20 08:36:44.654370 | Applied Materials: fetched=300
+2026-05-20 08:36:44.977883 | SambaNova Systems: fetched=24
+2026-05-20 08:36:45.007112 | Samsung Semiconductor: fetched=57
+2026-05-20 08:36:45.040512 | Baya Systems: fetched=23
+2026-05-20 08:36:45.155023 | Ambiq: fetched=35
+2026-05-20 08:36:45.182751 | Graphcore: fetched=178
+2026-05-20 08:36:45.212236 | Eridan: fetched=3
+2026-05-20 08:36:45.241010 | Celero Communications: fetched=19
+2026-05-20 08:36:50.216074 | Micron: fetched=300
+2026-05-20 08:36:50.246724 | Aurora Innovation: fetched=172
+2026-05-20 08:36:50.275792 | Nuro: fetched=103
+2026-05-20 08:36:50.326066 | Applied Intuition: fetched=221
+2026-05-20 08:36:50.361473 | Ethernovia: fetched=32
+2026-05-20 08:36:50.436393 | SpaceX: fetched=1676
+2026-05-20 08:36:50.939289 | Axiado: fetched=50
+2026-05-20 08:36:50.971461 | Zipline: fetched=193
+2026-05-20 08:36:51.061093 | Anduril Industries: fetched=1906
+2026-05-20 08:36:51.487850 | Lattice Semiconductor: fetched=59
+2026-05-20 08:36:51.783770 | MaxLinear: fetched=28
+2026-05-20 08:36:59.634534 | Cadence: fetched=300
+2026-05-20 08:37:28.962267 | Microsoft: fetched=7
+2026-05-20 08:37:44.131439 | AMD: fetched=400
+2026-05-20 08:38:23.794876 | Qualcomm: fetched=249
+2026-05-20 08:38:36.164528 | GlobalFoundries: fetched=52
+2026-05-20 08:38:36.528545 | Synopsys: fetched=2
+2026-05-20 08:38:37.040114 | Arm: fetched=18
+2026-05-20 08:38:42.614935 | Cisco: fetched=300
+2026-05-20 08:38:42.976104 | Cirrus Logic: fetched=2
+2026-05-20 08:38:45.387041 | Amazon: fetched=300
+2026-05-20 08:38:45.479379 | POSTED ALL | Amazon | IT Support Associate II, OTS  | Aurora, Colorado, USA
+2026-05-20 08:38:45.723407 | Rambus: fetched=29
+2026-05-20 08:38:45.723741 | Run finished | fetched=11590 matched=305 posted=1
