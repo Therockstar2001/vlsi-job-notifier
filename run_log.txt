@@ -9825,3 +9825,61 @@
 2026-05-19 23:36:42.960903 | POSTED ALL | Amazon | Alarm & Accessories - Embedded SDE , Ring | Sunnyvale, California, USA
 2026-05-19 23:36:43.422463 | Rambus: fetched=29
 2026-05-19 23:36:43.422771 | Run finished | fetched=11644 matched=314 posted=7
+2026-05-20 04:36:23.559709 | === RUN STARTED ===
+2026-05-20 04:36:23.792519 | Astranis: fetched=147
+2026-05-20 04:36:23.823062 | Tenstorrent: fetched=118
+2026-05-20 04:36:23.853530 | Tenstorrent University: fetched=26
+2026-05-20 04:36:23.884388 | Cerebras Systems: fetched=89
+2026-05-20 04:36:23.914286 | Cerebras Early Talent: fetched=6
+2026-05-20 04:36:23.944703 | Astera Labs: fetched=151
+2026-05-20 04:36:23.971598 | Lightmatter: fetched=50
+2026-05-20 04:36:25.402322 | Western Digital: fetched=300
+2026-05-20 04:36:26.733108 | Bosch: fetched=300
+2026-05-20 04:36:28.111449 | Sandisk: fetched=300
+2026-05-20 04:36:41.379332 | NVIDIA: fetched=300
+2026-05-20 04:36:51.785324 | Intel: fetched=300
+2026-05-20 04:36:58.518567 | Marvell: fetched=300
+2026-05-20 04:38:08.826051 | Apple: fetched=300
+2026-05-20 04:38:16.982763 | Analog Devices: fetched=300
+2026-05-20 04:38:27.403941 | NXP Semiconductors: fetched=300
+2026-05-20 04:38:31.444811 | Broadcom: fetched=300
+2026-05-20 04:38:39.767234 | Microchip: fetched=300
+2026-05-20 04:38:41.449389 | SiFive: fetched=58
+2026-05-20 04:38:43.060313 | Renesas Electronics: fetched=300
+2026-05-20 04:38:53.108494 | KLA: fetched=300
+2026-05-20 04:39:03.858598 | Applied Materials: fetched=300
+2026-05-20 04:39:04.065878 | SambaNova Systems: fetched=24
+2026-05-20 04:39:04.094458 | Samsung Semiconductor: fetched=57
+2026-05-20 04:39:04.120590 | Baya Systems: fetched=23
+2026-05-20 04:39:04.145496 | Ambiq: fetched=35
+2026-05-20 04:39:04.176218 | Graphcore: fetched=178
+2026-05-20 04:39:04.206625 | Eridan: fetched=3
+2026-05-20 04:39:04.234980 | Celero Communications: fetched=19
+2026-05-20 04:39:09.082647 | Micron: fetched=300
+2026-05-20 04:39:09.111251 | Aurora Innovation: fetched=172
+2026-05-20 04:39:09.137590 | Nuro: fetched=103
+2026-05-20 04:39:09.168153 | Applied Intuition: fetched=220
+2026-05-20 04:39:09.196599 | Ethernovia: fetched=32
+2026-05-20 04:39:09.271943 | SpaceX: fetched=1676
+2026-05-20 04:39:09.722341 | Axiado: fetched=50
+2026-05-20 04:39:09.751632 | Zipline: fetched=193
+2026-05-20 04:39:09.828838 | Anduril Industries: fetched=1906
+2026-05-20 04:39:10.168806 | Lattice Semiconductor: fetched=59
+2026-05-20 04:39:10.428343 | MaxLinear: fetched=28
+2026-05-20 04:39:18.203266 | Cadence: fetched=300
+2026-05-20 04:39:47.815541 | Microsoft: fetched=5
+2026-05-20 04:40:02.652502 | AMD: fetched=400
+2026-05-20 04:40:44.014546 | Qualcomm: fetched=228
+2026-05-20 04:40:44.176431 | POSTED ALL | Qualcomm | SoC Performance Architect | Santa Clara, California, United States of America, San Diego, CA, Austin, TX, Remote, OR, USA
+2026-05-20 04:40:57.771803 | GlobalFoundries: fetched=57
+2026-05-20 04:40:58.984509 | Synopsys: fetched=2
+2026-05-20 04:40:59.590237 | Arm: fetched=18
+2026-05-20 04:41:04.658867 | Cisco: fetched=300
+2026-05-20 04:41:04.957883 | Cirrus Logic: fetched=2
+2026-05-20 04:41:08.411065 | Amazon: fetched=300
+2026-05-20 04:41:08.483087 | POSTED ALL | Amazon | Embedded Software Development Engineer, Ring | Sunnyvale, California, USA
+2026-05-20 04:41:08.557458 | POSTED ALL | Amazon | Embedded Software Development Engineer, Ring Team | Sunnyvale, California, USA
+2026-05-20 04:41:08.670477 | POSTED ALL | Amazon | Embedded SDE, Ring Device Software & Systems | North Reading, Massachusetts, USA
+2026-05-20 04:41:08.764841 | POSTED ALL | Amazon | Alarm & Accessories - Embedded SDE , Ring | Sunnyvale, California, USA
+2026-05-20 04:41:09.053806 | Rambus: fetched=29
+2026-05-20 04:41:09.054147 | Run finished | fetched=11564 matched=305 posted=5
