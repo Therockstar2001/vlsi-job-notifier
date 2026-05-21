@@ -10631,3 +10631,64 @@
 2026-05-21 21:04:01.993010 | POSTED ALL | Amazon | Associate, Quality Services | Arlington, Virginia, USA
 2026-05-21 21:04:02.544279 | Rambus: fetched=29
 2026-05-21 21:04:02.544538 | Run finished | fetched=11858 matched=327 posted=5
+2026-05-21 22:41:36.482811 | === RUN STARTED ===
+2026-05-21 22:41:36.726780 | Astranis: fetched=144
+2026-05-21 22:41:36.762396 | Tenstorrent: fetched=118
+2026-05-21 22:41:36.791790 | Tenstorrent University: fetched=26
+2026-05-21 22:41:36.819685 | Cerebras Systems: fetched=90
+2026-05-21 22:41:36.854868 | Cerebras Early Talent: fetched=6
+2026-05-21 22:41:36.889949 | Astera Labs: fetched=153
+2026-05-21 22:41:36.919531 | Lightmatter: fetched=48
+2026-05-21 22:41:38.355765 | Western Digital: fetched=300
+2026-05-21 22:41:39.735462 | Bosch: fetched=300
+2026-05-21 22:41:41.094423 | Sandisk: fetched=300
+2026-05-21 22:42:03.857052 | NVIDIA: fetched=300
+2026-05-21 22:42:14.285768 | Intel: fetched=300
+2026-05-21 22:42:20.703834 | Marvell: fetched=300
+2026-05-21 22:42:25.559985 | Apple: fetched=300
+2026-05-21 22:42:35.952245 | Analog Devices: fetched=300
+2026-05-21 22:42:46.468749 | NXP Semiconductors: fetched=300
+2026-05-21 22:42:50.721623 | Broadcom: fetched=300
+2026-05-21 22:42:59.702886 | Microchip: fetched=300
+2026-05-21 22:43:02.122019 | SiFive: fetched=63
+2026-05-21 22:43:03.690463 | Renesas Electronics: fetched=300
+2026-05-21 22:43:11.665853 | KLA: fetched=300
+2026-05-21 22:43:23.343533 | Applied Materials: fetched=300
+2026-05-21 22:43:23.534050 | SambaNova Systems: fetched=24
+2026-05-21 22:43:23.564466 | Samsung Semiconductor: fetched=58
+2026-05-21 22:43:23.589616 | Baya Systems: fetched=23
+2026-05-21 22:43:23.619381 | Ambiq: fetched=35
+2026-05-21 22:43:23.648909 | Graphcore: fetched=193
+2026-05-21 22:43:23.676424 | Eridan: fetched=3
+2026-05-21 22:43:23.701523 | Celero Communications: fetched=19
+2026-05-21 22:43:28.729862 | Micron: fetched=300
+2026-05-21 22:43:28.757264 | Aurora Innovation: fetched=169
+2026-05-21 22:43:28.790687 | Nuro: fetched=104
+2026-05-21 22:43:28.818593 | Applied Intuition: fetched=225
+2026-05-21 22:43:28.847129 | Ethernovia: fetched=32
+2026-05-21 22:43:28.912644 | SpaceX: fetched=1685
+2026-05-21 22:43:29.349143 | Axiado: fetched=51
+2026-05-21 22:43:29.377331 | Zipline: fetched=195
+2026-05-21 22:43:42.858445 | Anduril Industries: fetched=1937
+2026-05-21 22:43:43.415296 | Lattice Semiconductor: fetched=59
+2026-05-21 22:43:43.727222 | MaxLinear: fetched=28
+2026-05-21 22:43:51.708320 | Cadence: fetched=300
+2026-05-21 22:44:23.601054 | Microsoft: fetched=11
+2026-05-21 22:44:39.259055 | AMD: fetched=399
+2026-05-21 22:45:21.138866 | Qualcomm: fetched=234
+2026-05-21 22:45:33.736199 | GlobalFoundries: fetched=59
+2026-05-21 22:45:39.156959 | Synopsys: fetched=205
+2026-05-21 22:45:39.464488 | Arm: fetched=18
+2026-05-21 22:45:44.413066 | Cisco: fetched=300
+2026-05-21 22:45:44.730888 | Cirrus Logic: fetched=2
+2026-05-21 22:45:47.817913 | Amazon: fetched=300
+2026-05-21 22:45:47.931508 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Westhampton Beach, New York, USA
+2026-05-21 22:45:48.006767 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Syosset, New York, USA
+2026-05-21 22:45:48.085230 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Miami, Florida, USA
+2026-05-21 22:45:48.164818 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Columbus, Ohio, USA
+2026-05-21 22:45:48.235902 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Florence, Kentucky, USA
+2026-05-21 22:45:48.308027 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Boise, Idaho, USA
+2026-05-21 22:45:48.385086 | POSTED ALL | Amazon | Lead ASIC Modem Design Engineer, Amazon Leo | San Diego, California, USA
+2026-05-21 22:45:48.456298 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Revere, Massachusetts, USA
+2026-05-21 22:45:48.876701 | Rambus: fetched=29
+2026-05-21 22:45:48.877025 | Run finished | fetched=11845 matched=349 posted=8
