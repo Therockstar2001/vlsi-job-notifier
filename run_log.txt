@@ -10503,3 +10503,73 @@
 2026-05-21 16:53:37.459038 | POSTED ALL | Amazon | Technical CS Associate, Ring  | Texas, USA
 2026-05-21 16:53:38.145174 | Rambus: fetched=29
 2026-05-21 16:53:38.145493 | Run finished | fetched=11817 matched=321 posted=6
+2026-05-21 19:16:57.651801 | === RUN STARTED ===
+2026-05-21 19:16:57.776324 | Astranis: fetched=144
+2026-05-21 19:16:57.873824 | Tenstorrent: fetched=118
+2026-05-21 19:16:57.963203 | Tenstorrent University: fetched=26
+2026-05-21 19:16:58.049711 | Cerebras Systems: fetched=91
+2026-05-21 19:16:58.139815 | Cerebras Early Talent: fetched=6
+2026-05-21 19:16:58.227237 | Astera Labs: fetched=152
+2026-05-21 19:16:58.313738 | Lightmatter: fetched=49
+2026-05-21 19:16:59.921665 | Western Digital: fetched=300
+2026-05-21 19:17:01.493054 | Bosch: fetched=300
+2026-05-21 19:17:03.026547 | Sandisk: fetched=300
+2026-05-21 19:17:03.216052 | POSTED ALL | Sandisk | AI/ML ASIC Architect | Milpitas, CA, us
+2026-05-21 19:17:17.673395 | NVIDIA: fetched=300
+2026-05-21 19:17:35.262976 | Intel: fetched=300
+2026-05-21 19:17:44.842129 | Marvell: fetched=300
+2026-05-21 19:17:51.227500 | Apple: fetched=300
+2026-05-21 19:18:04.102184 | Analog Devices: fetched=300
+2026-05-21 19:18:15.550288 | NXP Semiconductors: fetched=300
+2026-05-21 19:18:22.715395 | Broadcom: fetched=300
+2026-05-21 19:18:31.193455 | Microchip: fetched=300
+2026-05-21 19:18:33.630758 | SiFive: fetched=63
+2026-05-21 19:18:35.380578 | Renesas Electronics: fetched=300
+2026-05-21 19:18:46.040682 | KLA: fetched=300
+2026-05-21 19:18:59.407215 | Applied Materials: fetched=300
+2026-05-21 19:18:59.544169 | SambaNova Systems: fetched=24
+2026-05-21 19:18:59.634949 | Samsung Semiconductor: fetched=56
+2026-05-21 19:18:59.837544 | POSTED ALL | Samsung Semiconductor | Senior Engineer, RTL Design | San Jose, California, United States
+2026-05-21 19:19:00.036153 | POSTED ALL | Samsung Semiconductor | Staff Engineer, RTL Design | San Jose, California, United States
+2026-05-21 19:19:00.134476 | Baya Systems: fetched=23
+2026-05-21 19:19:00.220873 | Ambiq: fetched=35
+2026-05-21 19:19:00.315240 | Graphcore: fetched=190
+2026-05-21 19:19:00.399130 | Eridan: fetched=3
+2026-05-21 19:19:00.482861 | Celero Communications: fetched=19
+2026-05-21 19:19:08.225464 | Micron: fetched=300
+2026-05-21 19:19:08.320459 | Aurora Innovation: fetched=171
+2026-05-21 19:19:08.409762 | Nuro: fetched=104
+2026-05-21 19:19:08.503775 | Applied Intuition: fetched=224
+2026-05-21 19:19:08.588289 | Ethernovia: fetched=32
+2026-05-21 19:19:08.723969 | SpaceX: fetched=1689
+2026-05-21 19:19:08.917986 | POSTED ALL | SpaceX | Design Verification Engineer (Silicon Engineering) | Sunnyvale, CA
+2026-05-21 19:19:09.103860 | POSTED ALL | SpaceX | Design Verification Engineer (Silicon Engineering) | Austin, TX
+2026-05-21 19:19:09.286364 | POSTED ALL | SpaceX | Design Verification Engineer (Silicon Engineering) | Irvine, CA
+2026-05-21 19:19:09.471487 | POSTED ALL | SpaceX | Principal Design Verification Engineer (Silicon Engineering) | Austin, TX
+2026-05-21 19:19:09.671081 | POSTED ALL | SpaceX | Principal Design Verification Engineer (Silicon Engineering) | Irvine, CA
+2026-05-21 19:19:09.932442 | POSTED ALL | SpaceX | Principal Design Verification Engineer (Silicon Engineering) | Sunnyvale, CA
+2026-05-21 19:19:10.125700 | POSTED ALL | SpaceX | Sr. ASIC Design Verification Engineer (Silicon Engineering) | Austin, TX
+2026-05-21 19:19:10.307475 | POSTED ALL | SpaceX | Sr. ASIC Design Verification Engineer (Silicon Engineering) | Irvine, CA
+2026-05-21 19:19:10.533658 | POSTED ALL | SpaceX | Sr. ASIC Design Verification Engineer (Silicon Engineering) | Sunnyvale, CA
+2026-05-21 19:19:10.994105 | Axiado: fetched=51
+2026-05-21 19:19:11.080440 | Zipline: fetched=195
+2026-05-21 19:19:11.225804 | Anduril Industries: fetched=1926
+2026-05-21 19:19:11.853818 | Lattice Semiconductor: fetched=59
+2026-05-21 19:19:12.446864 | MaxLinear: fetched=28
+2026-05-21 19:19:21.578768 | Cadence: fetched=300
+2026-05-21 19:19:49.951651 | Microsoft: fetched=10
+2026-05-21 19:20:15.012341 | AMD: fetched=399
+2026-05-21 19:20:49.144869 | Qualcomm: fetched=246
+2026-05-21 19:21:08.588494 | GlobalFoundries: fetched=64
+2026-05-21 19:21:33.762061 | Synopsys: fetched=205
+2026-05-21 19:21:34.069695 | Arm: fetched=18
+2026-05-21 19:21:38.190139 | Cisco: fetched=300
+2026-05-21 19:21:38.656166 | Cirrus Logic: fetched=2
+2026-05-21 19:21:41.229928 | Amazon: fetched=300
+2026-05-21 19:21:41.420884 | POSTED ALL | Amazon | Software Development Engineer, System and Embedded PCIe and Neuron Link | Austin, Texas, USA
+2026-05-21 19:21:41.612457 | POSTED ALL | Amazon | Senior CAD Manager — RTL-to-GDS Methodology & Infrastructure, Annapurna Labs | Cupertino, California, USA
+2026-05-21 19:21:41.796838 | POSTED ALL | Amazon | Embedded Software Engineer, Annapurna Labs | Cupertino, California, USA
+2026-05-21 19:21:41.995242 | POSTED ALL | Amazon | Data Collection Associate, V-CARE | Bellevue, Washington, USA
+2026-05-21 19:21:42.180376 | POSTED ALL | Amazon | Associate, Quality Services | Arlington, Virginia, USA
+2026-05-21 19:21:42.596085 | Rambus: fetched=29
+2026-05-21 19:21:42.596402 | Run finished | fetched=11851 matched=333 posted=17
