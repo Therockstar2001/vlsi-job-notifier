@@ -10223,3 +10223,59 @@
 2026-05-20 22:47:30.091683 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Sarasota, Florida, USA
 2026-05-20 22:47:30.323548 | Rambus: fetched=29
 2026-05-20 22:47:30.323888 | Run finished | fetched=11627 matched=311 posted=5
+2026-05-21 00:18:08.617256 | === RUN STARTED ===
+2026-05-21 00:18:08.720932 | Astranis: fetched=145
+2026-05-21 00:18:08.755836 | Tenstorrent: fetched=119
+2026-05-21 00:18:08.785269 | Tenstorrent University: fetched=26
+2026-05-21 00:18:08.811903 | Cerebras Systems: fetched=89
+2026-05-21 00:18:08.918438 | POSTED ALL | Cerebras Systems | Design Verification Engineer | Sunnyvale, CA
+2026-05-21 00:18:08.948894 | Cerebras Early Talent: fetched=6
+2026-05-21 00:18:09.013649 | Astera Labs: fetched=153
+2026-05-21 00:18:09.040792 | Lightmatter: fetched=49
+2026-05-21 00:18:10.441954 | Western Digital: fetched=300
+2026-05-21 00:18:11.848474 | Bosch: fetched=300
+2026-05-21 00:18:13.189976 | Sandisk: fetched=300
+2026-05-21 00:18:30.678394 | NVIDIA: fetched=300
+2026-05-21 00:18:30.792128 | POSTED ALL | NVIDIA | Senior ASIC Design Engineer | US, CA, Santa Clara
+2026-05-21 00:18:41.662281 | Intel: fetched=300
+2026-05-21 00:18:48.322126 | Marvell: fetched=300
+2026-05-21 00:18:53.027567 | Apple: fetched=300
+2026-05-21 00:19:01.574525 | Analog Devices: fetched=300
+2026-05-21 00:19:12.392064 | NXP Semiconductors: fetched=300
+2026-05-21 00:19:17.083236 | Broadcom: fetched=300
+2026-05-21 00:19:30.293834 | Microchip: fetched=300
+2026-05-21 00:19:32.398432 | SiFive: fetched=63
+2026-05-21 00:19:34.302230 | Renesas Electronics: fetched=300
+2026-05-21 00:19:44.303727 | KLA: fetched=300
+2026-05-21 00:19:57.457609 | Applied Materials: fetched=300
+2026-05-21 00:19:57.598245 | SambaNova Systems: fetched=24
+2026-05-21 00:19:57.628222 | Samsung Semiconductor: fetched=55
+2026-05-21 00:19:58.106991 | Baya Systems: fetched=23
+2026-05-21 00:19:58.137025 | Ambiq: fetched=35
+2026-05-21 00:19:58.163973 | Graphcore: fetched=187
+2026-05-21 00:19:58.190372 | Eridan: fetched=3
+2026-05-21 00:19:58.214719 | Celero Communications: fetched=19
+2026-05-21 00:20:02.896009 | Micron: fetched=300
+2026-05-21 00:20:02.929494 | Aurora Innovation: fetched=171
+2026-05-21 00:20:02.962253 | Nuro: fetched=104
+2026-05-21 00:20:02.995705 | Applied Intuition: fetched=223
+2026-05-21 00:20:03.021516 | Ethernovia: fetched=32
+2026-05-21 00:20:03.096455 | SpaceX: fetched=1676
+2026-05-21 00:20:03.517179 | Axiado: fetched=51
+2026-05-21 00:20:03.551945 | Zipline: fetched=194
+2026-05-21 00:20:03.651285 | Anduril Industries: fetched=1918
+2026-05-21 00:20:03.939538 | Lattice Semiconductor: fetched=59
+2026-05-21 00:20:04.203140 | MaxLinear: fetched=28
+2026-05-21 00:20:11.837027 | Cadence: fetched=300
+2026-05-21 00:20:37.849119 | Microsoft: fetched=12
+2026-05-21 00:20:37.926415 | POSTED ALL | Microsoft | Design Verification Engineer | United States, North Carolina, Raleigh, United States, Texas, Austin, United States, Oregon, Hillsboro, United States, Washington, Redmond
+2026-05-21 00:20:52.886807 | AMD: fetched=399
+2026-05-21 00:21:35.726772 | Qualcomm: fetched=244
+2026-05-21 00:21:48.373842 | GlobalFoundries: fetched=58
+2026-05-21 00:21:48.884052 | Synopsys: fetched=2
+2026-05-21 00:21:49.254781 | Arm: fetched=18
+2026-05-21 00:21:54.314079 | Cisco: fetched=300
+2026-05-21 00:21:54.617334 | Cirrus Logic: fetched=2
+2026-05-21 00:21:56.852054 | Amazon: fetched=300
+2026-05-21 00:21:57.136340 | Rambus: fetched=29
+2026-05-21 00:21:57.136684 | Run finished | fetched=11616 matched=323 posted=3
