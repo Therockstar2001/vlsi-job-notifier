@@ -10573,3 +10573,61 @@
 2026-05-21 19:21:42.180376 | POSTED ALL | Amazon | Associate, Quality Services | Arlington, Virginia, USA
 2026-05-21 19:21:42.596085 | Rambus: fetched=29
 2026-05-21 19:21:42.596402 | Run finished | fetched=11851 matched=333 posted=17
+2026-05-21 20:58:49.834069 | === RUN STARTED ===
+2026-05-21 20:58:50.002204 | Astranis: fetched=144
+2026-05-21 20:58:50.101298 | Tenstorrent: fetched=118
+2026-05-21 20:58:50.201856 | Tenstorrent University: fetched=26
+2026-05-21 20:58:50.297556 | Cerebras Systems: fetched=90
+2026-05-21 20:58:50.398351 | Cerebras Early Talent: fetched=6
+2026-05-21 20:58:50.496012 | Astera Labs: fetched=152
+2026-05-21 20:58:50.631521 | Lightmatter: fetched=47
+2026-05-21 20:58:52.242433 | Western Digital: fetched=300
+2026-05-21 20:58:53.789458 | Bosch: fetched=300
+2026-05-21 20:58:55.317730 | Sandisk: fetched=300
+2026-05-21 20:58:55.583140 | POSTED ALL | Sandisk | AI/ML ASIC Architect | Milpitas, CA, us
+2026-05-21 20:59:10.228343 | NVIDIA: fetched=300
+2026-05-21 20:59:21.999275 | Intel: fetched=300
+2026-05-21 20:59:44.428983 | Marvell: fetched=300
+2026-05-21 20:59:49.694058 | Apple: fetched=300
+2026-05-21 20:59:58.782483 | Analog Devices: fetched=300
+2026-05-21 21:00:11.153221 | NXP Semiconductors: fetched=300
+2026-05-21 21:00:19.653923 | Broadcom: fetched=300
+2026-05-21 21:00:28.795610 | Microchip: fetched=300
+2026-05-21 21:00:32.129491 | SiFive: fetched=63
+2026-05-21 21:00:34.054594 | Renesas Electronics: fetched=300
+2026-05-21 21:00:44.772322 | KLA: fetched=300
+2026-05-21 21:01:01.150640 | Applied Materials: fetched=300
+2026-05-21 21:01:01.390383 | SambaNova Systems: fetched=24
+2026-05-21 21:01:01.489853 | Samsung Semiconductor: fetched=56
+2026-05-21 21:01:01.591942 | Baya Systems: fetched=23
+2026-05-21 21:01:01.688035 | Ambiq: fetched=35
+2026-05-21 21:01:01.787948 | Graphcore: fetched=193
+2026-05-21 21:01:01.884032 | Eridan: fetched=3
+2026-05-21 21:01:01.989000 | Celero Communications: fetched=19
+2026-05-21 21:01:10.211615 | Micron: fetched=300
+2026-05-21 21:01:10.310244 | Aurora Innovation: fetched=169
+2026-05-21 21:01:10.421186 | Nuro: fetched=104
+2026-05-21 21:01:10.525252 | Applied Intuition: fetched=225
+2026-05-21 21:01:10.716818 | Ethernovia: fetched=32
+2026-05-21 21:01:20.026882 | SpaceX: fetched=1682
+2026-05-21 21:01:20.554544 | Axiado: fetched=51
+2026-05-21 21:01:20.656944 | Zipline: fetched=196
+2026-05-21 21:01:20.809644 | Anduril Industries: fetched=1935
+2026-05-21 21:01:21.030161 | POSTED ALL | Anduril Industries | Engineering Manager, Embedded Systems Engineering | Seattle, Washington, United States
+2026-05-21 21:01:21.692410 | Lattice Semiconductor: fetched=59
+2026-05-21 21:01:22.245110 | MaxLinear: fetched=28
+2026-05-21 21:01:32.637912 | Cadence: fetched=300
+2026-05-21 21:02:07.169311 | Microsoft: fetched=5
+2026-05-21 21:02:32.144275 | AMD: fetched=399
+2026-05-21 21:03:03.775387 | Qualcomm: fetched=250
+2026-05-21 21:03:22.170170 | GlobalFoundries: fetched=70
+2026-05-21 21:03:50.442086 | Synopsys: fetched=205
+2026-05-21 21:03:50.712700 | Arm: fetched=18
+2026-05-21 21:03:57.425286 | Cisco: fetched=300
+2026-05-21 21:03:57.681057 | POSTED ALL | Cisco | ASIC Design Verification Engineer | San Jose, California, US
+2026-05-21 21:03:58.107164 | Cirrus Logic: fetched=2
+2026-05-21 21:04:01.442983 | Amazon: fetched=300
+2026-05-21 21:04:01.694239 | POSTED ALL | Amazon | DSP Modem Embedded Engineer, Amazon Leo | San Diego, California, USA
+2026-05-21 21:04:01.993010 | POSTED ALL | Amazon | Associate, Quality Services | Arlington, Virginia, USA
+2026-05-21 21:04:02.544279 | Rambus: fetched=29
+2026-05-21 21:04:02.544538 | Run finished | fetched=11858 matched=327 posted=5
