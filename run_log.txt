@@ -11030,3 +11030,62 @@
 2026-05-22 18:09:23.622518 | POSTED ALL | Amazon | Lead Associate | Dublin, California, USA
 2026-05-22 18:09:24.051945 | Rambus: fetched=29
 2026-05-22 18:09:24.052271 | Run finished | fetched=11893 matched=353 posted=5
+2026-05-22 20:10:51.749614 | === RUN STARTED ===
+2026-05-22 20:10:51.875271 | Astranis: fetched=146
+2026-05-22 20:10:51.908026 | Tenstorrent: fetched=121
+2026-05-22 20:10:51.940072 | Tenstorrent University: fetched=26
+2026-05-22 20:10:51.974144 | Cerebras Systems: fetched=90
+2026-05-22 20:10:52.006122 | Cerebras Early Talent: fetched=6
+2026-05-22 20:10:52.035499 | Astera Labs: fetched=152
+2026-05-22 20:10:52.066958 | Lightmatter: fetched=48
+2026-05-22 20:10:53.556621 | Western Digital: fetched=300
+2026-05-22 20:10:54.917376 | Bosch: fetched=300
+2026-05-22 20:10:56.266578 | Sandisk: fetched=300
+2026-05-22 20:11:11.579593 | NVIDIA: fetched=300
+2026-05-22 20:11:22.053262 | Intel: fetched=300
+2026-05-22 20:11:28.247263 | Marvell: fetched=300
+2026-05-22 20:11:33.094499 | Apple: fetched=300
+2026-05-22 20:11:33.197914 | POSTED ALL | Apple | SoC Performance Analysis Engineer | 
+2026-05-22 20:11:41.585236 | Analog Devices: fetched=300
+2026-05-22 20:11:51.602857 | NXP Semiconductors: fetched=300
+2026-05-22 20:11:56.117266 | Broadcom: fetched=300
+2026-05-22 20:12:05.985002 | Microchip: fetched=300
+2026-05-22 20:12:08.483863 | SiFive: fetched=64
+2026-05-22 20:12:10.105880 | Renesas Electronics: fetched=300
+2026-05-22 20:12:23.448653 | KLA: fetched=300
+2026-05-22 20:12:35.855299 | Applied Materials: fetched=300
+2026-05-22 20:12:35.983761 | SambaNova Systems: fetched=24
+2026-05-22 20:12:36.010759 | Samsung Semiconductor: fetched=59
+2026-05-22 20:12:36.040968 | Baya Systems: fetched=23
+2026-05-22 20:12:36.066805 | Ambiq: fetched=35
+2026-05-22 20:12:36.098689 | Graphcore: fetched=216
+2026-05-22 20:12:36.127702 | Eridan: fetched=3
+2026-05-22 20:12:36.153091 | Celero Communications: fetched=19
+2026-05-22 20:12:40.828785 | Micron: fetched=300
+2026-05-22 20:12:40.863504 | Aurora Innovation: fetched=168
+2026-05-22 20:12:40.890169 | Nuro: fetched=104
+2026-05-22 20:12:40.921118 | Applied Intuition: fetched=222
+2026-05-22 20:12:40.949620 | Ethernovia: fetched=32
+2026-05-22 20:12:41.019446 | SpaceX: fetched=1691
+2026-05-22 20:12:41.435073 | Axiado: fetched=51
+2026-05-22 20:12:41.463449 | Zipline: fetched=197
+2026-05-22 20:12:41.542125 | Anduril Industries: fetched=1947
+2026-05-22 20:12:41.949826 | Lattice Semiconductor: fetched=58
+2026-05-22 20:12:42.380877 | MaxLinear: fetched=28
+2026-05-22 20:12:50.654972 | Cadence: fetched=300
+2026-05-22 20:13:17.705398 | Microsoft: fetched=5
+2026-05-22 20:13:17.777544 | POSTED ALL | Microsoft | Fabric Interconnect Design Verification Engineer | United States, North Carolina, Raleigh, United States, Oregon, Hillsboro, United States, Texas, Austin, United States, California, Mountain View, United States, Washington, Redmond
+2026-05-22 20:13:17.855730 | POSTED ALL | Microsoft | Senior DDR IP Verification Engineer | United States, North Carolina, Raleigh, United States, Washington, Redmond, United States, Texas, Austin, United States, California, Mountain View, United States, Oregon, Hillsboro
+2026-05-22 20:13:31.498227 | AMD: fetched=388
+2026-05-22 20:14:17.151510 | Qualcomm: fetched=251
+2026-05-22 20:14:29.961160 | GlobalFoundries: fetched=80
+2026-05-22 20:14:30.055829 | POSTED ALL | GlobalFoundries | SoC Design Verification Engineer | Richardson, Texas, United States of America
+2026-05-22 20:14:45.912290 | Synopsys: fetched=211
+2026-05-22 20:14:46.445563 | Arm: fetched=18
+2026-05-22 20:14:51.899070 | Cisco: fetched=300
+2026-05-22 20:14:52.300932 | Cirrus Logic: fetched=2
+2026-05-22 20:14:54.491956 | Amazon: fetched=300
+2026-05-22 20:14:54.568449 | POSTED ALL | Amazon | SoC Platform Software Engineering Manager, Annapurna Labs Machine Learning Acceleration, AWS | Cupertino, California, USA
+2026-05-22 20:14:54.645299 | POSTED ALL | Amazon | Design Verification Engineer, Annapurna ML | Austin, Texas, USA
+2026-05-22 20:14:55.038857 | Rambus: fetched=29
+2026-05-22 20:14:55.039184 | Run finished | fetched=11914 matched=345 posted=6
