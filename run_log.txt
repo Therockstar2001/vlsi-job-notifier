@@ -10751,3 +10751,58 @@
 2026-05-22 00:19:54.627154 | POSTED ALL | Amazon | Associate Corporate Counsel, Amazon Health Services | Arlington, Virginia, USA
 2026-05-22 00:19:55.184534 | Rambus: fetched=29
 2026-05-22 00:19:55.184826 | Run finished | fetched=11863 matched=348 posted=6
+2026-05-22 04:37:06.673225 | === RUN STARTED ===
+2026-05-22 04:37:06.829422 | Astranis: fetched=144
+2026-05-22 04:37:06.916150 | Tenstorrent: fetched=118
+2026-05-22 04:37:07.001585 | Tenstorrent University: fetched=26
+2026-05-22 04:37:07.086016 | Cerebras Systems: fetched=90
+2026-05-22 04:37:07.172590 | Cerebras Early Talent: fetched=6
+2026-05-22 04:37:07.258991 | Astera Labs: fetched=153
+2026-05-22 04:37:07.346815 | Lightmatter: fetched=48
+2026-05-22 04:37:08.972099 | Western Digital: fetched=300
+2026-05-22 04:37:10.627391 | Bosch: fetched=300
+2026-05-22 04:37:12.132208 | Sandisk: fetched=300
+2026-05-22 04:37:24.983017 | NVIDIA: fetched=300
+2026-05-22 04:37:37.413064 | Intel: fetched=300
+2026-05-22 04:37:44.854472 | Marvell: fetched=300
+2026-05-22 04:37:49.666316 | Apple: fetched=300
+2026-05-22 04:37:59.993084 | Analog Devices: fetched=300
+2026-05-22 04:38:11.306532 | NXP Semiconductors: fetched=300
+2026-05-22 04:38:16.850642 | Broadcom: fetched=300
+2026-05-22 04:38:24.457267 | Microchip: fetched=300
+2026-05-22 04:38:27.191547 | SiFive: fetched=63
+2026-05-22 04:38:28.958542 | Renesas Electronics: fetched=300
+2026-05-22 04:38:39.569834 | KLA: fetched=300
+2026-05-22 04:38:51.928963 | Applied Materials: fetched=300
+2026-05-22 04:38:52.108262 | SambaNova Systems: fetched=24
+2026-05-22 04:38:52.192477 | Samsung Semiconductor: fetched=59
+2026-05-22 04:38:52.281846 | Baya Systems: fetched=23
+2026-05-22 04:38:52.368127 | Ambiq: fetched=35
+2026-05-22 04:38:52.453097 | Graphcore: fetched=193
+2026-05-22 04:38:52.537967 | Eridan: fetched=3
+2026-05-22 04:38:52.623501 | Celero Communications: fetched=19
+2026-05-22 04:38:59.323749 | Micron: fetched=300
+2026-05-22 04:38:59.412376 | Aurora Innovation: fetched=169
+2026-05-22 04:38:59.499875 | Nuro: fetched=104
+2026-05-22 04:38:59.592894 | Applied Intuition: fetched=220
+2026-05-22 04:38:59.682879 | Ethernovia: fetched=32
+2026-05-22 04:38:59.811843 | SpaceX: fetched=1690
+2026-05-22 04:39:00.265419 | Axiado: fetched=51
+2026-05-22 04:39:00.353635 | Zipline: fetched=195
+2026-05-22 04:39:00.494556 | Anduril Industries: fetched=1940
+2026-05-22 04:39:01.101376 | Lattice Semiconductor: fetched=59
+2026-05-22 04:39:01.609020 | MaxLinear: fetched=28
+2026-05-22 04:39:11.029190 | Cadence: fetched=300
+2026-05-22 04:39:37.167813 | Microsoft: fetched=5
+2026-05-22 04:40:01.360927 | AMD: fetched=399
+2026-05-22 04:40:32.257333 | Qualcomm: fetched=228
+2026-05-22 04:40:49.191492 | GlobalFoundries: fetched=57
+2026-05-22 04:41:13.209856 | Synopsys: fetched=209
+2026-05-22 04:41:13.576892 | Arm: fetched=18
+2026-05-22 04:41:18.249793 | Cisco: fetched=300
+2026-05-22 04:41:18.677691 | Cirrus Logic: fetched=2
+2026-05-22 04:41:22.766488 | Amazon: fetched=300
+2026-05-22 04:41:23.003132 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Port St Lucie, Florida, USA
+2026-05-22 04:41:23.187432 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Fort Myers, Florida, USA
+2026-05-22 04:41:23.777339 | Rambus: fetched=29
+2026-05-22 04:41:23.777604 | Run finished | fetched=11839 matched=340 posted=2
