@@ -10692,3 +10692,62 @@
 2026-05-21 22:45:48.456298 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Revere, Massachusetts, USA
 2026-05-21 22:45:48.876701 | Rambus: fetched=29
 2026-05-21 22:45:48.877025 | Run finished | fetched=11845 matched=349 posted=8
+2026-05-22 00:15:15.025337 | === RUN STARTED ===
+2026-05-22 00:15:15.214323 | Astranis: fetched=144
+2026-05-22 00:15:15.309514 | Tenstorrent: fetched=118
+2026-05-22 00:15:15.404118 | Tenstorrent University: fetched=26
+2026-05-22 00:15:15.500459 | Cerebras Systems: fetched=90
+2026-05-22 00:15:15.598625 | Cerebras Early Talent: fetched=6
+2026-05-22 00:15:15.760051 | Astera Labs: fetched=153
+2026-05-22 00:15:15.863390 | Lightmatter: fetched=48
+2026-05-22 00:15:17.571581 | Western Digital: fetched=300
+2026-05-22 00:15:19.115586 | Bosch: fetched=300
+2026-05-22 00:15:20.696719 | Sandisk: fetched=300
+2026-05-22 00:15:39.557892 | NVIDIA: fetched=300
+2026-05-22 00:15:39.796283 | POSTED ALL | NVIDIA | Senior Software Engineer, ASIC Design and Verification Tools | US, CA, Santa Clara
+2026-05-22 00:15:52.578720 | Intel: fetched=300
+2026-05-22 00:16:00.795271 | Marvell: fetched=300
+2026-05-22 00:16:01.033656 | POSTED ALL | Marvell | Principal Design Verification Engineer | Santa Clara, CA
+2026-05-22 00:16:06.479632 | Apple: fetched=300
+2026-05-22 00:16:15.452061 | Analog Devices: fetched=300
+2026-05-22 00:16:26.536724 | NXP Semiconductors: fetched=300
+2026-05-22 00:16:36.459745 | Broadcom: fetched=300
+2026-05-22 00:16:46.023397 | Microchip: fetched=300
+2026-05-22 00:16:48.617158 | SiFive: fetched=63
+2026-05-22 00:16:50.435310 | Renesas Electronics: fetched=300
+2026-05-22 00:17:02.208224 | KLA: fetched=300
+2026-05-22 00:17:15.870041 | Applied Materials: fetched=300
+2026-05-22 00:17:16.134493 | SambaNova Systems: fetched=24
+2026-05-22 00:17:16.247861 | Samsung Semiconductor: fetched=59
+2026-05-22 00:17:16.346668 | Baya Systems: fetched=23
+2026-05-22 00:17:16.444229 | Ambiq: fetched=35
+2026-05-22 00:17:16.541198 | Graphcore: fetched=193
+2026-05-22 00:17:16.643713 | Eridan: fetched=3
+2026-05-22 00:17:16.737410 | Celero Communications: fetched=19
+2026-05-22 00:17:23.263399 | Micron: fetched=300
+2026-05-22 00:17:23.362180 | Aurora Innovation: fetched=169
+2026-05-22 00:17:23.460564 | Nuro: fetched=104
+2026-05-22 00:17:23.555997 | Applied Intuition: fetched=220
+2026-05-22 00:17:23.653692 | Ethernovia: fetched=32
+2026-05-22 00:17:23.797062 | SpaceX: fetched=1688
+2026-05-22 00:17:24.267638 | Axiado: fetched=51
+2026-05-22 00:17:24.363014 | Zipline: fetched=195
+2026-05-22 00:17:24.520006 | Anduril Industries: fetched=1941
+2026-05-22 00:17:25.177031 | Lattice Semiconductor: fetched=59
+2026-05-22 00:17:26.213526 | MaxLinear: fetched=28
+2026-05-22 00:17:37.176733 | Cadence: fetched=300
+2026-05-22 00:18:04.375679 | Microsoft: fetched=10
+2026-05-22 00:18:27.741273 | AMD: fetched=399
+2026-05-22 00:18:57.792116 | Qualcomm: fetched=244
+2026-05-22 00:19:16.664195 | GlobalFoundries: fetched=62
+2026-05-22 00:19:44.352207 | Synopsys: fetched=208
+2026-05-22 00:19:44.611264 | POSTED ALL | Synopsys | ASIC Digital Design, Principal EngineerAustin, TexasCategory:EngineeringPosted:05/20/2026Job ID:15150 | Austin, Texas
+2026-05-22 00:19:44.846685 | POSTED ALL | Synopsys | ASIC Digital Verification, Principal EngineerAustin, TexasCategory:EngineeringPosted:05/20/2026Job ID:15149 | Austin, Texas
+2026-05-22 00:19:45.356477 | Arm: fetched=18
+2026-05-22 00:19:49.621349 | Cisco: fetched=300
+2026-05-22 00:19:50.118962 | Cirrus Logic: fetched=2
+2026-05-22 00:19:54.122434 | Amazon: fetched=300
+2026-05-22 00:19:54.373418 | POSTED ALL | Amazon | Manager, Risk Management , Selling Partner Identity Verification (SPIV) | Tempe, Arizona, USA
+2026-05-22 00:19:54.627154 | POSTED ALL | Amazon | Associate Corporate Counsel, Amazon Health Services | Arlington, Virginia, USA
+2026-05-22 00:19:55.184534 | Rambus: fetched=29
+2026-05-22 00:19:55.184826 | Run finished | fetched=11863 matched=348 posted=6
