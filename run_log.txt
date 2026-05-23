@@ -11254,3 +11254,57 @@
 2026-05-23 04:11:27.804594 | Amazon: fetched=300
 2026-05-23 04:11:28.189828 | Rambus: fetched=29
 2026-05-23 04:11:28.190158 | Run finished | fetched=11733 matched=348 posted=4
+2026-05-23 06:45:38.755521 | === RUN STARTED ===
+2026-05-23 06:45:38.915832 | Astranis: fetched=147
+2026-05-23 06:45:39.000704 | Tenstorrent: fetched=120
+2026-05-23 06:45:39.083900 | Tenstorrent University: fetched=26
+2026-05-23 06:45:39.173872 | Cerebras Systems: fetched=90
+2026-05-23 06:45:39.265818 | Cerebras Early Talent: fetched=6
+2026-05-23 06:45:39.366835 | Astera Labs: fetched=152
+2026-05-23 06:45:39.448786 | Lightmatter: fetched=49
+2026-05-23 06:45:40.983907 | Western Digital: fetched=300
+2026-05-23 06:45:42.775540 | Bosch: fetched=300
+2026-05-23 06:45:44.278636 | Sandisk: fetched=300
+2026-05-23 06:45:44.482993 | ERROR | NVIDIA | No working Workday API endpoint found for NVIDIA: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+2026-05-23 06:45:44.821554 | ERROR | Intel | No working Workday API endpoint found for Intel: https://intel.wd1.myworkdayjobs.com/External
+2026-05-23 06:45:45.179935 | ERROR | Marvell | No working Workday API endpoint found for Marvell: https://marvell.wd1.myworkdayjobs.com/MarvellCareers
+2026-05-23 06:45:50.084906 | Apple: fetched=300
+2026-05-23 06:45:50.332509 | POSTED ALL | Apple | SoC Performance Analysis Engineer | 
+2026-05-23 06:45:50.561112 | ERROR | Analog Devices | No working Workday API endpoint found for Analog Devices: https://analogdevices.wd1.myworkdayjobs.com/External
+2026-05-23 06:45:51.162889 | ERROR | NXP Semiconductors | No working Workday API endpoint found for NXP Semiconductors: https://nxp.wd3.myworkdayjobs.com/careers
+2026-05-23 06:45:51.486164 | ERROR | Broadcom | No working Workday API endpoint found for Broadcom: https://broadcom.wd1.myworkdayjobs.com/External_Career
+2026-05-23 06:45:51.916370 | ERROR | Microchip | No working Workday API endpoint found for Microchip: https://wd5.myworkdaysite.com/recruiting/microchiphr/External
+2026-05-23 06:45:52.273693 | ERROR | SiFive | No working Workday API endpoint found for SiFive: https://sifive.wd1.myworkdayjobs.com/sifivecareers
+2026-05-23 06:45:54.011567 | Renesas Electronics: fetched=300
+2026-05-23 06:45:54.237874 | ERROR | KLA | No working Workday API endpoint found for KLA: https://kla.wd1.myworkdayjobs.com/Search
+2026-05-23 06:45:54.572450 | ERROR | Applied Materials | No working Workday API endpoint found for Applied Materials: https://amat.wd1.myworkdayjobs.com/External
+2026-05-23 06:45:54.703216 | SambaNova Systems: fetched=24
+2026-05-23 06:45:54.793190 | Samsung Semiconductor: fetched=59
+2026-05-23 06:45:54.877473 | Baya Systems: fetched=23
+2026-05-23 06:45:54.959898 | Ambiq: fetched=35
+2026-05-23 06:45:55.048642 | Graphcore: fetched=217
+2026-05-23 06:45:55.136337 | Eridan: fetched=3
+2026-05-23 06:45:55.216022 | Celero Communications: fetched=19
+2026-05-23 06:45:55.556674 | ERROR | Micron | No working Workday API endpoint found for Micron: https://micron.wd1.myworkdayjobs.com/en-US/External
+2026-05-23 06:45:55.638698 | Aurora Innovation: fetched=168
+2026-05-23 06:45:55.723376 | Nuro: fetched=104
+2026-05-23 06:45:55.809218 | Applied Intuition: fetched=208
+2026-05-23 06:45:55.892578 | Ethernovia: fetched=32
+2026-05-23 06:45:56.020961 | SpaceX: fetched=1690
+2026-05-23 06:45:56.503387 | Axiado: fetched=51
+2026-05-23 06:45:56.592157 | Zipline: fetched=196
+2026-05-23 06:45:56.724138 | Anduril Industries: fetched=1960
+2026-05-23 06:45:57.352445 | Lattice Semiconductor: fetched=58
+2026-05-23 06:45:57.842221 | MaxLinear: fetched=28
+2026-05-23 06:45:58.173151 | ERROR | Cadence | No working Workday API endpoint found for Cadence: https://cadence.wd1.myworkdayjobs.com/External_Careers
+2026-05-23 06:46:20.154233 | Microsoft: fetched=8
+2026-05-23 06:46:42.098598 | AMD: fetched=388
+2026-05-23 06:47:11.708640 | Qualcomm: fetched=241
+2026-05-23 06:47:29.476570 | GlobalFoundries: fetched=71
+2026-05-23 06:47:34.644105 | Synopsys: fetched=26
+2026-05-23 06:47:35.037254 | Arm: fetched=18
+2026-05-23 06:47:35.209118 | ERROR | Cisco | No working Workday API endpoint found for Cisco: https://cisco.wd5.myworkdayjobs.com/Cisco_Careers
+2026-05-23 06:47:35.608075 | Cirrus Logic: fetched=2
+2026-05-23 06:47:38.894731 | Amazon: fetched=300
+2026-05-23 06:47:39.395071 | Rambus: fetched=29
+2026-05-23 06:47:39.395399 | Run finished | fetched=8048 matched=258 posted=1
