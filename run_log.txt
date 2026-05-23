@@ -11197,3 +11197,60 @@
 2026-05-22 23:23:35.007807 | Amazon: fetched=300
 2026-05-22 23:23:35.375464 | Rambus: fetched=29
 2026-05-22 23:23:35.375763 | Run finished | fetched=11896 matched=344 posted=1
+2026-05-23 04:07:25.972721 | === RUN STARTED ===
+2026-05-23 04:07:26.299811 | Astranis: fetched=147
+2026-05-23 04:07:26.370842 | Tenstorrent: fetched=120
+2026-05-23 04:07:26.444011 | Tenstorrent University: fetched=26
+2026-05-23 04:07:26.513226 | Cerebras Systems: fetched=90
+2026-05-23 04:07:26.586816 | Cerebras Early Talent: fetched=6
+2026-05-23 04:07:26.658425 | Astera Labs: fetched=152
+2026-05-23 04:07:26.732110 | Lightmatter: fetched=49
+2026-05-23 04:07:28.471332 | Western Digital: fetched=300
+2026-05-23 04:07:30.058887 | Bosch: fetched=300
+2026-05-23 04:07:31.575150 | Sandisk: fetched=300
+2026-05-23 04:07:46.158319 | NVIDIA: fetched=300
+2026-05-23 04:07:57.129619 | Intel: fetched=300
+2026-05-23 04:08:04.771505 | Marvell: fetched=300
+2026-05-23 04:08:10.481153 | Apple: fetched=300
+2026-05-23 04:08:10.809527 | POSTED ALL | Apple | SoC Performance Analysis Engineer | 
+2026-05-23 04:08:20.865532 | Analog Devices: fetched=300
+2026-05-23 04:08:32.018615 | NXP Semiconductors: fetched=300
+2026-05-23 04:08:37.706153 | Broadcom: fetched=300
+2026-05-23 04:08:46.473740 | Microchip: fetched=300
+2026-05-23 04:08:49.060655 | SiFive: fetched=64
+2026-05-23 04:08:50.844617 | Renesas Electronics: fetched=300
+2026-05-23 04:09:00.658452 | KLA: fetched=300
+2026-05-23 04:09:13.331620 | Applied Materials: fetched=300
+2026-05-23 04:09:13.636058 | SambaNova Systems: fetched=24
+2026-05-23 04:09:13.707506 | Samsung Semiconductor: fetched=59
+2026-05-23 04:09:13.779087 | Baya Systems: fetched=23
+2026-05-23 04:09:13.852916 | Ambiq: fetched=35
+2026-05-23 04:09:13.935636 | Graphcore: fetched=217
+2026-05-23 04:09:14.007114 | Eridan: fetched=3
+2026-05-23 04:09:14.079081 | Celero Communications: fetched=19
+2026-05-23 04:09:19.784902 | Micron: fetched=300
+2026-05-23 04:09:19.859581 | Aurora Innovation: fetched=168
+2026-05-23 04:09:19.933421 | Nuro: fetched=104
+2026-05-23 04:09:20.008997 | Applied Intuition: fetched=208
+2026-05-23 04:09:20.079489 | Ethernovia: fetched=32
+2026-05-23 04:09:20.245807 | SpaceX: fetched=1690
+2026-05-23 04:09:20.718619 | Axiado: fetched=51
+2026-05-23 04:09:20.792586 | Zipline: fetched=197
+2026-05-23 04:09:20.945085 | Anduril Industries: fetched=1960
+2026-05-23 04:09:21.217338 | POSTED ALL | Anduril Industries | Product Operations Associate, Tier 1 | Santa Ana, California, United States
+2026-05-23 04:09:21.517244 | POSTED ALL | Anduril Industries | Robotics Software Engineer, Verification & Validation | Costa Mesa, California, United States
+2026-05-23 04:09:21.893720 | Lattice Semiconductor: fetched=58
+2026-05-23 04:09:22.321119 | MaxLinear: fetched=28
+2026-05-23 04:09:30.768238 | Cadence: fetched=300
+2026-05-23 04:09:54.675179 | Microsoft: fetched=11
+2026-05-23 04:10:13.789651 | AMD: fetched=388
+2026-05-23 04:10:58.639637 | Qualcomm: fetched=257
+2026-05-23 04:11:14.692844 | GlobalFoundries: fetched=72
+2026-05-23 04:11:18.429210 | Synopsys: fetched=26
+2026-05-23 04:11:18.774191 | POSTED ALL | Synopsys | ASIC Digital Design Engineer-17369Boxborough, MassachusettsCategory:EngineeringPosted:05/14/2026Job ID:17369 | Boxborough, Massachusetts
+2026-05-23 04:11:19.208826 | Arm: fetched=18
+2026-05-23 04:11:23.896775 | Cisco: fetched=300
+2026-05-23 04:11:24.152164 | Cirrus Logic: fetched=2
+2026-05-23 04:11:27.804594 | Amazon: fetched=300
+2026-05-23 04:11:28.189828 | Rambus: fetched=29
+2026-05-23 04:11:28.190158 | Run finished | fetched=11733 matched=348 posted=4
