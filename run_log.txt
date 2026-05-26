@@ -13298,3 +13298,61 @@
 2026-05-26 19:46:04.676550 | POSTED FRESHER | Amazon | Sr. ASIC Engineer III, Annapurna Labs | Cupertino, California, USA
 2026-05-26 19:46:05.021471 | Rambus: fetched=30
 2026-05-26 19:46:05.021806 | Run finished | fetched=11679 matched=345 posted=23
+2026-05-26 21:57:46.123383 | === RUN STARTED ===
+2026-05-26 21:57:46.280781 | Astranis: fetched=143
+2026-05-26 21:57:46.313185 | Tenstorrent: fetched=119
+2026-05-26 21:57:46.344888 | Tenstorrent University: fetched=25
+2026-05-26 21:57:46.370501 | Cerebras Systems: fetched=90
+2026-05-26 21:57:46.399662 | Cerebras Early Talent: fetched=6
+2026-05-26 21:57:46.429809 | Astera Labs: fetched=151
+2026-05-26 21:57:46.463176 | Lightmatter: fetched=48
+2026-05-26 21:57:47.946377 | Western Digital: fetched=300
+2026-05-26 21:57:49.276794 | Bosch: fetched=300
+2026-05-26 21:57:50.696274 | Sandisk: fetched=300
+2026-05-26 21:58:06.958624 | NVIDIA: fetched=300
+2026-05-26 21:58:17.515465 | Intel: fetched=300
+2026-05-26 21:58:24.363499 | Marvell: fetched=300
+2026-05-26 21:58:29.046700 | Apple: fetched=300
+2026-05-26 21:58:36.808548 | Analog Devices: fetched=300
+2026-05-26 21:58:46.491145 | NXP Semiconductors: fetched=300
+2026-05-26 21:58:50.378511 | Broadcom: fetched=300
+2026-05-26 21:59:00.304747 | Microchip: fetched=300
+2026-05-26 21:59:02.485602 | SiFive: fetched=66
+2026-05-26 21:59:04.066333 | Renesas Electronics: fetched=300
+2026-05-26 21:59:12.543242 | KLA: fetched=300
+2026-05-26 21:59:24.421019 | Applied Materials: fetched=300
+2026-05-26 21:59:24.504177 | SambaNova Systems: fetched=24
+2026-05-26 21:59:24.537839 | Samsung Semiconductor: fetched=61
+2026-05-26 21:59:24.567698 | Baya Systems: fetched=23
+2026-05-26 21:59:24.592381 | Ambiq: fetched=32
+2026-05-26 21:59:24.619903 | Graphcore: fetched=222
+2026-05-26 21:59:24.647412 | Eridan: fetched=4
+2026-05-26 21:59:24.916542 | Celero Communications: fetched=18
+2026-05-26 21:59:29.952656 | Micron: fetched=300
+2026-05-26 21:59:30.027664 | Aurora Innovation: fetched=164
+2026-05-26 21:59:30.058224 | Nuro: fetched=100
+2026-05-26 21:59:30.088269 | Applied Intuition: fetched=221
+2026-05-26 21:59:30.118104 | Ethernovia: fetched=32
+2026-05-26 21:59:30.203278 | SpaceX: fetched=1661
+2026-05-26 21:59:30.615875 | Axiado: fetched=51
+2026-05-26 21:59:30.649103 | Zipline: fetched=197
+2026-05-26 21:59:30.727932 | Anduril Industries: fetched=1958
+2026-05-26 21:59:31.108963 | Lattice Semiconductor: fetched=58
+2026-05-26 21:59:31.329920 | MaxLinear: fetched=28
+2026-05-26 21:59:40.748758 | Cadence: fetched=300
+2026-05-26 22:00:09.273776 | Microsoft: fetched=11
+2026-05-26 22:05:13.022617 | AMD: fetched=357
+2026-05-26 22:05:55.380718 | Qualcomm: fetched=225
+2026-05-26 22:06:09.006117 | GlobalFoundries: fetched=74
+2026-05-26 22:06:09.119317 | POSTED ALL | GlobalFoundries | Principal Design Verification Engineer | Austin, Texas, United States of America, OFFSITE, Texas, United States of America, Santa Clara, California, United States of America, Malta, New York, United States of America
+2026-05-26 22:06:10.919026 | Synopsys: fetched=33
+2026-05-26 22:06:11.270911 | Arm: fetched=18
+2026-05-26 22:06:17.327145 | Cisco: fetched=300
+2026-05-26 22:06:17.412442 | POSTED ALL | Cisco | ASIC Design Verification Engineering Technical Leader | San Jose, California, US
+2026-05-26 22:06:17.741189 | Cirrus Logic: fetched=2
+2026-05-26 22:06:19.959393 | Amazon: fetched=300
+2026-05-26 22:06:20.035907 | POSTED ALL | Amazon | Embedded Software Engineer, EC2 VPC networking , EC2 VPC  | San Diego, California, USA
+2026-05-26 22:06:20.114446 | POSTED ALL | Amazon | IT Support Associate | Newark, New Jersey, USA
+2026-05-26 22:06:20.187728 | POSTED FRESHER | Amazon | ASIC Design Engineer II, Annapurna Labs - Cloud-Scale Machine Learning Acceleration | Austin, Texas, USA
+2026-05-26 22:06:20.487497 | Rambus: fetched=30
+2026-05-26 22:06:20.487802 | Run finished | fetched=11652 matched=327 posted=5
