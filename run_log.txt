@@ -13971,3 +13971,62 @@
 2026-05-28 17:06:43.973204 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Baton Rouge, Louisiana, USA
 2026-05-28 17:06:44.723058 | Rambus: fetched=30
 2026-05-28 17:06:44.723368 | Run finished | fetched=11702 matched=316 posted=6
+2026-05-28 19:44:36.188869 | === RUN STARTED ===
+2026-05-28 19:44:36.323006 | Astranis: fetched=143
+2026-05-28 19:44:36.358320 | Tenstorrent: fetched=124
+2026-05-28 19:44:36.516485 | POSTED ALL | Tenstorrent | CPU Verification Fellow, RISC-V High-Performance Processor | United States
+2026-05-28 19:44:36.550849 | Tenstorrent University: fetched=24
+2026-05-28 19:44:36.578631 | Cerebras Systems: fetched=91
+2026-05-28 19:44:36.612001 | Cerebras Early Talent: fetched=6
+2026-05-28 19:44:37.087282 | Astera Labs: fetched=150
+2026-05-28 19:44:37.163523 | POSTED ALL | Astera Labs | Technical Lead Design Verification Engineer | San Jose, CA
+2026-05-28 19:44:37.201467 | Lightmatter: fetched=48
+2026-05-28 19:44:38.637845 | Western Digital: fetched=300
+2026-05-28 19:44:39.984844 | Bosch: fetched=300
+2026-05-28 19:44:41.367991 | Sandisk: fetched=300
+2026-05-28 19:44:57.293121 | NVIDIA: fetched=300
+2026-05-28 19:45:09.830784 | Intel: fetched=300
+2026-05-28 19:45:18.134470 | Marvell: fetched=300
+2026-05-28 19:45:22.756484 | Apple: fetched=300
+2026-05-28 19:45:31.276277 | Analog Devices: fetched=300
+2026-05-28 19:45:41.790537 | NXP Semiconductors: fetched=300
+2026-05-28 19:45:45.987528 | Broadcom: fetched=300
+2026-05-28 19:45:58.929628 | Microchip: fetched=300
+2026-05-28 19:46:01.340553 | SiFive: fetched=65
+2026-05-28 19:46:02.988992 | Renesas Electronics: fetched=300
+2026-05-28 19:46:16.058180 | KLA: fetched=300
+2026-05-28 19:46:29.369127 | Applied Materials: fetched=300
+2026-05-28 19:46:29.526182 | SambaNova Systems: fetched=23
+2026-05-28 19:46:30.326840 | Samsung Semiconductor: fetched=62
+2026-05-28 19:46:30.355038 | Baya Systems: fetched=23
+2026-05-28 19:46:30.389380 | Ambiq: fetched=32
+2026-05-28 19:46:30.422640 | Graphcore: fetched=224
+2026-05-28 19:46:30.458014 | Eridan: fetched=4
+2026-05-28 19:46:30.488094 | Celero Communications: fetched=19
+2026-05-28 19:46:35.785589 | Micron: fetched=300
+2026-05-28 19:46:35.818811 | Aurora Innovation: fetched=161
+2026-05-28 19:46:35.849192 | Nuro: fetched=104
+2026-05-28 19:46:35.894803 | Applied Intuition: fetched=228
+2026-05-28 19:46:35.920291 | Ethernovia: fetched=32
+2026-05-28 19:46:36.002527 | SpaceX: fetched=1636
+2026-05-28 19:46:36.517503 | Axiado: fetched=51
+2026-05-28 19:46:36.561469 | Zipline: fetched=198
+2026-05-28 19:46:51.684794 | Anduril Industries: fetched=1961
+2026-05-28 19:46:52.001545 | Lattice Semiconductor: fetched=59
+2026-05-28 19:46:52.296604 | MaxLinear: fetched=28
+2026-05-28 19:47:01.835488 | Cadence: fetched=300
+2026-05-28 19:47:31.361164 | Microsoft: fetched=8
+2026-05-28 19:50:24.510183 | AMD: fetched=350
+2026-05-28 19:51:12.798674 | Qualcomm: fetched=242
+2026-05-28 19:51:26.170118 | GlobalFoundries: fetched=59
+2026-05-28 19:51:42.785891 | Synopsys: fetched=205
+2026-05-28 19:51:42.937800 | POSTED ALL | Synopsys | Validation / Verification Eng, Staff Engineer-17299Hillsboro, OregonCategory:EngineeringPosted:05/18/2026Job ID:17299 | Hillsboro, Oregon
+2026-05-28 19:51:43.351884 | Arm: fetched=18
+2026-05-28 19:51:48.815320 | Cisco: fetched=300
+2026-05-28 19:51:48.994316 | POSTED ALL | Cisco | Embedded Software Engineering Technical Leader | Milpitas, California, US
+2026-05-28 19:51:49.276264 | Cirrus Logic: fetched=2
+2026-05-28 19:51:51.471702 | Amazon: fetched=300
+2026-05-28 19:51:51.547851 | POSTED ALL | Amazon | Software Development Manager, Embedded SW, Amazon Leo | Redmond, Washington, USA
+2026-05-28 19:51:51.630387 | POSTED FRESHER | Amazon | Embedded Software Development Engineer II, Baseboard Management Controller | Cupertino, California, USA
+2026-05-28 19:51:51.950323 | Rambus: fetched=30
+2026-05-28 19:51:51.950580 | Run finished | fetched=11810 matched=332 posted=6
