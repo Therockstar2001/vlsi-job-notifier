@@ -14030,3 +14030,62 @@
 2026-05-28 19:51:51.630387 | POSTED FRESHER | Amazon | Embedded Software Development Engineer II, Baseboard Management Controller | Cupertino, California, USA
 2026-05-28 19:51:51.950323 | Rambus: fetched=30
 2026-05-28 19:51:51.950580 | Run finished | fetched=11810 matched=332 posted=6
+2026-05-28 22:06:18.274655 | === RUN STARTED ===
+2026-05-28 22:06:18.537174 | Astranis: fetched=143
+2026-05-28 22:06:18.636394 | Tenstorrent: fetched=125
+2026-05-28 22:06:18.731083 | Tenstorrent University: fetched=24
+2026-05-28 22:06:18.828984 | Cerebras Systems: fetched=92
+2026-05-28 22:06:18.935950 | Cerebras Early Talent: fetched=6
+2026-05-28 22:06:19.037000 | Astera Labs: fetched=150
+2026-05-28 22:06:19.264954 | Lightmatter: fetched=48
+2026-05-28 22:06:20.992988 | Western Digital: fetched=300
+2026-05-28 22:06:22.552086 | Bosch: fetched=300
+2026-05-28 22:06:24.155731 | Sandisk: fetched=300
+2026-05-28 22:06:38.784761 | NVIDIA: fetched=300
+2026-05-28 22:06:50.229434 | Intel: fetched=300
+2026-05-28 22:06:59.415386 | Marvell: fetched=300
+2026-05-28 22:07:05.016136 | Apple: fetched=300
+2026-05-28 22:07:15.760621 | Analog Devices: fetched=300
+2026-05-28 22:07:27.208329 | NXP Semiconductors: fetched=300
+2026-05-28 22:07:33.306624 | Broadcom: fetched=300
+2026-05-28 22:07:41.532372 | Microchip: fetched=300
+2026-05-28 22:07:44.005742 | SiFive: fetched=65
+2026-05-28 22:07:45.797223 | Renesas Electronics: fetched=300
+2026-05-28 22:07:58.319515 | KLA: fetched=300
+2026-05-28 22:08:13.335695 | Applied Materials: fetched=300
+2026-05-28 22:08:13.562294 | SambaNova Systems: fetched=23
+2026-05-28 22:08:13.908818 | Samsung Semiconductor: fetched=63
+2026-05-28 22:08:14.005580 | Baya Systems: fetched=23
+2026-05-28 22:08:14.105322 | Ambiq: fetched=32
+2026-05-28 22:08:14.206809 | Graphcore: fetched=223
+2026-05-28 22:08:14.307305 | Eridan: fetched=4
+2026-05-28 22:08:14.401883 | Celero Communications: fetched=19
+2026-05-28 22:08:20.661428 | Micron: fetched=300
+2026-05-28 22:08:20.760624 | Aurora Innovation: fetched=161
+2026-05-28 22:08:20.857020 | Nuro: fetched=104
+2026-05-28 22:08:20.961760 | Applied Intuition: fetched=228
+2026-05-28 22:08:21.060038 | Ethernovia: fetched=32
+2026-05-28 22:08:21.201475 | SpaceX: fetched=1646
+2026-05-28 22:08:21.666328 | Axiado: fetched=51
+2026-05-28 22:08:21.765611 | Zipline: fetched=199
+2026-05-28 22:08:22.027248 | Anduril Industries: fetched=1968
+2026-05-28 22:08:22.712027 | Lattice Semiconductor: fetched=59
+2026-05-28 22:08:23.361782 | MaxLinear: fetched=28
+2026-05-28 22:08:40.219770 | Cadence: fetched=300
+2026-05-28 22:09:08.668503 | Microsoft: fetched=13
+2026-05-28 22:09:28.655882 | AMD: fetched=383
+2026-05-28 22:10:05.001318 | Qualcomm: fetched=263
+2026-05-28 22:10:05.235545 | POSTED ALL | Qualcomm | Embedded NPU Software Engineer, Senior | San Diego, California, United States of America
+2026-05-28 22:10:23.596610 | GlobalFoundries: fetched=68
+2026-05-28 22:10:52.345816 | Synopsys: fetched=205
+2026-05-28 22:10:52.890824 | Arm: fetched=18
+2026-05-28 22:10:57.052264 | Cisco: fetched=300
+2026-05-28 22:10:57.511642 | Cirrus Logic: fetched=2
+2026-05-28 22:11:01.055889 | Amazon: fetched=300
+2026-05-28 22:11:01.288201 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Tallahassee, Florida, USA
+2026-05-28 22:11:01.510991 | POSTED ALL | Amazon | Embedded Software Dev Engineer, AWS Hardware Engineering | Seattle, Washington, USA
+2026-05-28 22:11:01.763161 | POSTED FRESHER | Amazon | Embedded Software Development Engineer II, AWS Hardware Engineering Services | Cupertino, California, USA
+2026-05-28 22:11:02.018805 | POSTED FRESHER | Amazon | Embedded Software Development Engineer III, AWS Hardware Engineering Services | Cupertino, California, USA
+2026-05-28 22:11:02.248587 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Baton Rouge, Louisiana, USA
+2026-05-28 22:11:03.100420 | Rambus: fetched=30
+2026-05-28 22:11:03.100732 | Run finished | fetched=11898 matched=340 posted=6
