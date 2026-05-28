@@ -14089,3 +14089,60 @@
 2026-05-28 22:11:02.248587 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Baton Rouge, Louisiana, USA
 2026-05-28 22:11:03.100420 | Rambus: fetched=30
 2026-05-28 22:11:03.100732 | Run finished | fetched=11898 matched=340 posted=6
+2026-05-28 23:42:50.424821 | === RUN STARTED ===
+2026-05-28 23:42:50.577736 | Astranis: fetched=141
+2026-05-28 23:42:50.622607 | Tenstorrent: fetched=125
+2026-05-28 23:42:50.670253 | Tenstorrent University: fetched=24
+2026-05-28 23:42:50.720643 | Cerebras Systems: fetched=92
+2026-05-28 23:42:50.774881 | Cerebras Early Talent: fetched=6
+2026-05-28 23:42:50.826447 | Astera Labs: fetched=150
+2026-05-28 23:42:50.878564 | Lightmatter: fetched=48
+2026-05-28 23:42:52.321435 | Western Digital: fetched=300
+2026-05-28 23:42:53.699713 | Bosch: fetched=300
+2026-05-28 23:42:55.050968 | Sandisk: fetched=300
+2026-05-28 23:43:09.538067 | NVIDIA: fetched=300
+2026-05-28 23:43:19.717247 | Intel: fetched=300
+2026-05-28 23:43:27.194732 | Marvell: fetched=300
+2026-05-28 23:43:31.497245 | Apple: fetched=300
+2026-05-28 23:44:57.424931 | Analog Devices: fetched=300
+2026-05-28 23:45:07.738788 | NXP Semiconductors: fetched=300
+2026-05-28 23:45:12.453689 | Broadcom: fetched=300
+2026-05-28 23:45:21.285380 | Microchip: fetched=300
+2026-05-28 23:45:24.122483 | SiFive: fetched=65
+2026-05-28 23:45:25.707454 | Renesas Electronics: fetched=300
+2026-05-28 23:45:35.604972 | KLA: fetched=300
+2026-05-28 23:45:49.183882 | Applied Materials: fetched=300
+2026-05-28 23:45:49.316201 | SambaNova Systems: fetched=23
+2026-05-28 23:45:49.362381 | Samsung Semiconductor: fetched=63
+2026-05-28 23:45:49.421065 | Baya Systems: fetched=23
+2026-05-28 23:45:49.467278 | Ambiq: fetched=32
+2026-05-28 23:45:49.515996 | Graphcore: fetched=223
+2026-05-28 23:45:49.565875 | Eridan: fetched=4
+2026-05-28 23:45:49.612479 | Celero Communications: fetched=19
+2026-05-28 23:45:54.701729 | Micron: fetched=300
+2026-05-28 23:45:54.759065 | Aurora Innovation: fetched=161
+2026-05-28 23:45:54.811675 | Nuro: fetched=104
+2026-05-28 23:45:54.862909 | Applied Intuition: fetched=228
+2026-05-28 23:45:54.909670 | Ethernovia: fetched=32
+2026-05-28 23:45:55.002029 | SpaceX: fetched=1646
+2026-05-28 23:45:55.423742 | Axiado: fetched=51
+2026-05-28 23:45:55.475319 | Zipline: fetched=199
+2026-05-28 23:45:55.586098 | Anduril Industries: fetched=1970
+2026-05-28 23:45:55.855591 | Lattice Semiconductor: fetched=59
+2026-05-28 23:45:56.066520 | MaxLinear: fetched=28
+2026-05-28 23:46:04.602862 | Cadence: fetched=300
+2026-05-28 23:46:28.709680 | Microsoft: fetched=11
+2026-05-28 23:46:44.214860 | AMD: fetched=383
+2026-05-28 23:47:28.160474 | Qualcomm: fetched=254
+2026-05-28 23:47:44.108015 | GlobalFoundries: fetched=69
+2026-05-28 23:47:56.068387 | Synopsys: fetched=143
+2026-05-28 23:47:56.377151 | Arm: fetched=18
+2026-05-28 23:48:00.870240 | Cisco: fetched=300
+2026-05-28 23:48:01.162740 | Cirrus Logic: fetched=2
+2026-05-28 23:48:03.724257 | Amazon: fetched=300
+2026-05-28 23:48:03.832478 | POSTED ALL | Amazon | Senior Embedded SoC Developer , Personal Robotics Group | San Francisco, California, USA
+2026-05-28 23:48:03.939996 | POSTED ALL | Amazon | Senior Safety & Embedded Software Engineer, Personal Robotics Group | San Francisco, California, USA
+2026-05-28 23:48:04.078671 | POSTED ALL | Amazon | Sr. SoC Power Engineer, Annapurna Labs - Cloud Scale Machine Learning | Cupertino, California, USA
+2026-05-28 23:48:04.191725 | POSTED ALL | Amazon | ASIC Design Verification Engineer, Amazon Leo | San Diego, California, USA
+2026-05-28 23:48:04.495436 | Rambus: fetched=30
+2026-05-28 23:48:04.495686 | Run finished | fetched=11826 matched=327 posted=4
