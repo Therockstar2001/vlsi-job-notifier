@@ -13805,3 +13805,57 @@
 2026-05-28 04:43:27.807763 | POSTED ALL | Amazon | ITS Support Associate II, IT Support | Bellevue, Washington, USA
 2026-05-28 04:43:28.503384 | Rambus: fetched=30
 2026-05-28 04:43:28.503654 | Run finished | fetched=11705 matched=319 posted=1
+2026-05-28 08:52:50.149015 | === RUN STARTED ===
+2026-05-28 08:52:50.297514 | Astranis: fetched=143
+2026-05-28 08:52:50.342211 | Tenstorrent: fetched=121
+2026-05-28 08:52:50.382924 | Tenstorrent University: fetched=24
+2026-05-28 08:52:50.411614 | Cerebras Systems: fetched=91
+2026-05-28 08:52:50.443120 | Cerebras Early Talent: fetched=6
+2026-05-28 08:52:50.474564 | Astera Labs: fetched=147
+2026-05-28 08:52:50.506529 | Lightmatter: fetched=48
+2026-05-28 08:52:52.167459 | Western Digital: fetched=300
+2026-05-28 08:52:53.553352 | Bosch: fetched=300
+2026-05-28 08:52:54.926153 | Sandisk: fetched=300
+2026-05-28 08:53:09.853256 | NVIDIA: fetched=300
+2026-05-28 08:53:19.942943 | Intel: fetched=300
+2026-05-28 08:53:26.559715 | Marvell: fetched=300
+2026-05-28 08:53:31.318224 | Apple: fetched=300
+2026-05-28 08:53:40.708304 | Analog Devices: fetched=300
+2026-05-28 08:53:50.978379 | NXP Semiconductors: fetched=300
+2026-05-28 08:53:54.900809 | Broadcom: fetched=300
+2026-05-28 08:54:03.569786 | Microchip: fetched=300
+2026-05-28 08:54:05.830777 | SiFive: fetched=65
+2026-05-28 08:54:07.501390 | Renesas Electronics: fetched=300
+2026-05-28 08:54:15.805549 | KLA: fetched=300
+2026-05-28 08:54:31.248023 | Applied Materials: fetched=300
+2026-05-28 08:54:31.572617 | SambaNova Systems: fetched=24
+2026-05-28 08:54:31.605072 | Samsung Semiconductor: fetched=62
+2026-05-28 08:54:31.635463 | Baya Systems: fetched=23
+2026-05-28 08:54:31.667933 | Ambiq: fetched=33
+2026-05-28 08:54:31.702448 | Graphcore: fetched=224
+2026-05-28 08:54:31.729607 | Eridan: fetched=4
+2026-05-28 08:54:31.757742 | Celero Communications: fetched=19
+2026-05-28 08:54:36.997422 | Micron: fetched=300
+2026-05-28 08:54:37.038652 | Aurora Innovation: fetched=159
+2026-05-28 08:54:37.074685 | Nuro: fetched=102
+2026-05-28 08:54:37.108759 | Applied Intuition: fetched=228
+2026-05-28 08:54:37.146231 | Ethernovia: fetched=32
+2026-05-28 08:54:37.224018 | SpaceX: fetched=1629
+2026-05-28 08:54:37.656586 | Axiado: fetched=51
+2026-05-28 08:54:37.691365 | Zipline: fetched=198
+2026-05-28 08:54:37.777371 | Anduril Industries: fetched=1953
+2026-05-28 08:54:38.000783 | Lattice Semiconductor: fetched=16
+2026-05-28 08:54:38.326639 | MaxLinear: fetched=28
+2026-05-28 08:54:46.220586 | Cadence: fetched=300
+2026-05-28 08:55:13.479234 | Microsoft: fetched=11
+2026-05-28 08:55:26.832496 | AMD: fetched=384
+2026-05-28 08:56:11.089235 | Qualcomm: fetched=240
+2026-05-28 08:56:28.254608 | GlobalFoundries: fetched=77
+2026-05-28 08:56:38.387516 | Synopsys: fetched=123
+2026-05-28 08:56:38.837649 | Arm: fetched=18
+2026-05-28 08:56:44.610190 | Cisco: fetched=300
+2026-05-28 08:56:44.900778 | Cirrus Logic: fetched=2
+2026-05-28 08:56:47.000736 | Amazon: fetched=300
+2026-05-28 08:56:47.128598 | POSTED ALL | Amazon | Satellite Systems Engineer, Amazon Leo - Avionics Verification and Test | Redmond, Washington, USA
+2026-05-28 08:56:47.369730 | Rambus: fetched=30
+2026-05-28 08:56:47.370057 | Run finished | fetched=11715 matched=318 posted=1
