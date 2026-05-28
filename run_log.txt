@@ -13912,3 +13912,62 @@
 2026-05-28 12:49:05.034379 | Amazon: fetched=300
 2026-05-28 12:49:05.964456 | Rambus: fetched=30
 2026-05-28 12:49:06.228245 | Run finished | fetched=11630 matched=314 posted=0
+2026-05-28 17:02:06.071547 | === RUN STARTED ===
+2026-05-28 17:02:06.305161 | Astranis: fetched=143
+2026-05-28 17:02:06.420395 | Tenstorrent: fetched=121
+2026-05-28 17:02:08.675834 | Tenstorrent University: fetched=24
+2026-05-28 17:02:08.769877 | Cerebras Systems: fetched=91
+2026-05-28 17:02:08.868176 | Cerebras Early Talent: fetched=6
+2026-05-28 17:02:08.970044 | Astera Labs: fetched=147
+2026-05-28 17:02:09.066907 | Lightmatter: fetched=48
+2026-05-28 17:02:10.677508 | Western Digital: fetched=300
+2026-05-28 17:02:12.254018 | Bosch: fetched=300
+2026-05-28 17:02:13.862536 | Sandisk: fetched=300
+2026-05-28 17:02:14.120528 | POSTED ALL | Sandisk | Associate Software Engineer - Consumer Application | Milpitas, CA, us
+2026-05-28 17:02:28.508672 | NVIDIA: fetched=300
+2026-05-28 17:02:41.051955 | Intel: fetched=300
+2026-05-28 17:02:41.291522 | POSTED ALL | Intel | GPU Design Verification Engineer | US, California, Folsom
+2026-05-28 17:02:50.101543 | Marvell: fetched=300
+2026-05-28 17:02:50.331304 | POSTED ALL | Marvell | Senior Principal Engineer, Micro-architecture and RTL | Santa Clara, CA
+2026-05-28 17:02:56.390374 | Apple: fetched=300
+2026-05-28 17:02:56.619615 | POSTED ALL | Apple | Design Verification Engineer | 
+2026-05-28 17:03:06.547538 | Analog Devices: fetched=300
+2026-05-28 17:03:23.522320 | NXP Semiconductors: fetched=300
+2026-05-28 17:03:29.440892 | Broadcom: fetched=300
+2026-05-28 17:03:48.905985 | Microchip: fetched=300
+2026-05-28 17:03:51.609497 | SiFive: fetched=65
+2026-05-28 17:03:53.369158 | Renesas Electronics: fetched=300
+2026-05-28 17:03:53.628853 | POSTED FRESHER | Renesas Electronics | AI/ML Intern - Embedded Systems | San Jose, CALIFORNIA, us
+2026-05-28 17:04:07.802675 | KLA: fetched=300
+2026-05-28 17:04:22.696076 | Applied Materials: fetched=300
+2026-05-28 17:04:22.881582 | SambaNova Systems: fetched=24
+2026-05-28 17:04:22.980170 | Samsung Semiconductor: fetched=62
+2026-05-28 17:04:23.077189 | Baya Systems: fetched=23
+2026-05-28 17:04:23.176101 | Ambiq: fetched=32
+2026-05-28 17:04:23.277839 | Graphcore: fetched=224
+2026-05-28 17:04:23.374063 | Eridan: fetched=4
+2026-05-28 17:04:23.467932 | Celero Communications: fetched=19
+2026-05-28 17:04:30.753051 | Micron: fetched=300
+2026-05-28 17:04:30.855954 | Aurora Innovation: fetched=161
+2026-05-28 17:04:30.955163 | Nuro: fetched=102
+2026-05-28 17:04:31.059893 | Applied Intuition: fetched=228
+2026-05-28 17:04:31.159277 | Ethernovia: fetched=32
+2026-05-28 17:04:38.788388 | SpaceX: fetched=1625
+2026-05-28 17:04:39.259764 | Axiado: fetched=51
+2026-05-28 17:04:39.365214 | Zipline: fetched=199
+2026-05-28 17:04:39.519730 | Anduril Industries: fetched=1951
+2026-05-28 17:04:40.333363 | Lattice Semiconductor: fetched=59
+2026-05-28 17:04:40.761171 | MaxLinear: fetched=28
+2026-05-28 17:04:50.284717 | Cadence: fetched=300
+2026-05-28 17:05:14.036800 | Microsoft: fetched=10
+2026-05-28 17:05:33.923292 | AMD: fetched=384
+2026-05-28 17:06:10.989402 | Qualcomm: fetched=286
+2026-05-28 17:06:32.398598 | GlobalFoundries: fetched=68
+2026-05-28 17:06:34.124028 | Synopsys: fetched=35
+2026-05-28 17:06:34.926415 | Arm: fetched=18
+2026-05-28 17:06:39.903872 | Cisco: fetched=300
+2026-05-28 17:06:40.320897 | Cirrus Logic: fetched=2
+2026-05-28 17:06:43.718408 | Amazon: fetched=300
+2026-05-28 17:06:43.973204 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Baton Rouge, Louisiana, USA
+2026-05-28 17:06:44.723058 | Rambus: fetched=30
+2026-05-28 17:06:44.723368 | Run finished | fetched=11702 matched=316 posted=6
