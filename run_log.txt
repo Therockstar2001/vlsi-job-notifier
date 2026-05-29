@@ -14429,3 +14429,64 @@
 2026-05-29 19:44:48.533574 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Baltimore, Maryland, USA
 2026-05-29 19:44:48.863670 | Rambus: fetched=30
 2026-05-29 19:44:48.864013 | Run finished | fetched=11841 matched=326 posted=6
+2026-05-29 22:04:26.747896 | === RUN STARTED ===
+2026-05-29 22:04:27.053541 | Astranis: fetched=142
+2026-05-29 22:04:27.128460 | Tenstorrent: fetched=123
+2026-05-29 22:04:27.200573 | Tenstorrent University: fetched=24
+2026-05-29 22:04:27.281269 | Cerebras Systems: fetched=93
+2026-05-29 22:04:27.376056 | Cerebras Early Talent: fetched=6
+2026-05-29 22:04:27.448682 | Astera Labs: fetched=149
+2026-05-29 22:04:27.524333 | Lightmatter: fetched=47
+2026-05-29 22:04:29.284551 | Western Digital: fetched=300
+2026-05-29 22:04:30.773444 | Bosch: fetched=300
+2026-05-29 22:04:32.227438 | Sandisk: fetched=300
+2026-05-29 22:04:47.153226 | NVIDIA: fetched=300
+2026-05-29 22:04:59.037545 | Intel: fetched=300
+2026-05-29 22:05:08.699767 | Marvell: fetched=300
+2026-05-29 22:05:14.571388 | Apple: fetched=300
+2026-05-29 22:05:14.831450 | POSTED ALL | Apple | SoC Design and Integration Engineer | 
+2026-05-29 22:05:23.536059 | Analog Devices: fetched=300
+2026-05-29 22:05:34.355008 | NXP Semiconductors: fetched=300
+2026-05-29 22:05:39.860048 | Broadcom: fetched=300
+2026-05-29 22:05:48.433082 | Microchip: fetched=300
+2026-05-29 22:05:50.946075 | SiFive: fetched=65
+2026-05-29 22:05:52.677969 | Renesas Electronics: fetched=300
+2026-05-29 22:05:52.954509 | POSTED ALL | Renesas Electronics | Principal Digital Verification Engineer | Plano, TX, us
+2026-05-29 22:05:53.222064 | POSTED ALL | Renesas Electronics | Principal Digital Verification Engineer | Austin, TX, us
+2026-05-29 22:06:05.803564 | KLA: fetched=300
+2026-05-29 22:06:18.452920 | Applied Materials: fetched=300
+2026-05-29 22:06:18.728252 | SambaNova Systems: fetched=23
+2026-05-29 22:06:18.799941 | Samsung Semiconductor: fetched=62
+2026-05-29 22:06:18.884550 | Baya Systems: fetched=24
+2026-05-29 22:06:18.958390 | Ambiq: fetched=32
+2026-05-29 22:06:19.037613 | Graphcore: fetched=224
+2026-05-29 22:06:19.113051 | Eridan: fetched=4
+2026-05-29 22:06:19.182812 | Celero Communications: fetched=19
+2026-05-29 22:06:25.602859 | Micron: fetched=300
+2026-05-29 22:06:25.679248 | Aurora Innovation: fetched=162
+2026-05-29 22:06:25.750220 | Nuro: fetched=102
+2026-05-29 22:06:25.827960 | Applied Intuition: fetched=228
+2026-05-29 22:06:25.898303 | Ethernovia: fetched=32
+2026-05-29 22:06:26.029682 | SpaceX: fetched=1665
+2026-05-29 22:06:26.494222 | Axiado: fetched=51
+2026-05-29 22:06:26.571212 | Zipline: fetched=197
+2026-05-29 22:06:39.827806 | Anduril Industries: fetched=1963
+2026-05-29 22:06:40.367373 | Lattice Semiconductor: fetched=58
+2026-05-29 22:06:40.941201 | MaxLinear: fetched=28
+2026-05-29 22:06:50.185053 | Cadence: fetched=300
+2026-05-29 22:07:14.016864 | Microsoft: fetched=7
+2026-05-29 22:07:33.351435 | AMD: fetched=382
+2026-05-29 22:08:18.511751 | Qualcomm: fetched=253
+2026-05-29 22:08:37.080737 | GlobalFoundries: fetched=62
+2026-05-29 22:08:53.552128 | Synopsys: fetched=152
+2026-05-29 22:08:53.956079 | Arm: fetched=18
+2026-05-29 22:08:59.196752 | Cisco: fetched=300
+2026-05-29 22:08:59.476558 | Cirrus Logic: fetched=2
+2026-05-29 22:09:02.713485 | Amazon: fetched=300
+2026-05-29 22:09:02.973834 | POSTED ALL | Amazon | Manager, ASIC Sustaining Engineering, Silicon Operations | Sunnyvale, California, USA
+2026-05-29 22:09:03.266229 | POSTED ALL | Amazon | Sr Manager ASIC NPI, Amazon Leo | Sunnyvale, California, USA
+2026-05-29 22:09:03.530151 | POSTED ALL | Amazon | Sr Manager ASIC Sustaining Engineering, Amazon Leo | Sunnyvale, California, USA
+2026-05-29 22:09:03.815616 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS)  | Wilmington, North Carolina, USA
+2026-05-29 22:09:04.072715 | POSTED ALL | Amazon | Associate Corporate Counsel, Amazon Books | Seattle, Washington, USA
+2026-05-29 22:09:04.561189 | Rambus: fetched=30
+2026-05-29 22:09:04.561481 | Run finished | fetched=11829 matched=323 posted=8
