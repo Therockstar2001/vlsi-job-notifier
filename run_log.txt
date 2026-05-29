@@ -14313,3 +14313,60 @@
 2026-05-29 12:31:00.681640 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Tremont, Pennsylvania, USA
 2026-05-29 12:31:01.139019 | Rambus: fetched=30
 2026-05-29 12:31:01.139296 | Run finished | fetched=11816 matched=325 posted=1
+2026-05-29 16:53:10.738066 | === RUN STARTED ===
+2026-05-29 16:53:10.843107 | Astranis: fetched=142
+2026-05-29 16:53:10.884759 | Tenstorrent: fetched=124
+2026-05-29 16:53:10.911068 | Tenstorrent University: fetched=24
+2026-05-29 16:53:10.938959 | Cerebras Systems: fetched=93
+2026-05-29 16:53:10.963590 | Cerebras Early Talent: fetched=6
+2026-05-29 16:53:10.990017 | Astera Labs: fetched=150
+2026-05-29 16:53:11.020429 | Lightmatter: fetched=48
+2026-05-29 16:53:12.538909 | Western Digital: fetched=300
+2026-05-29 16:53:13.915212 | Bosch: fetched=300
+2026-05-29 16:53:15.336130 | Sandisk: fetched=300
+2026-05-29 16:53:30.049552 | NVIDIA: fetched=300
+2026-05-29 16:53:40.327792 | Intel: fetched=300
+2026-05-29 16:53:40.410641 | POSTED ALL | Intel | SoC Power and Performance Architect | US, Oregon, Hillsboro
+2026-05-29 16:53:47.449987 | Marvell: fetched=300
+2026-05-29 16:53:52.281216 | Apple: fetched=300
+2026-05-29 16:54:00.251624 | Analog Devices: fetched=300
+2026-05-29 16:54:10.250190 | NXP Semiconductors: fetched=300
+2026-05-29 16:54:14.641158 | Broadcom: fetched=300
+2026-05-29 16:54:23.596253 | Microchip: fetched=300
+2026-05-29 16:54:23.671843 | POSTED ALL | Microchip | Principal Engineer - Digital ASIC Design | CA - San Jose - Fortune Dr (Micrel R&D)
+2026-05-29 16:54:25.875002 | SiFive: fetched=65
+2026-05-29 16:54:27.491554 | Renesas Electronics: fetched=300
+2026-05-29 16:54:27.568835 | POSTED ALL | Renesas Electronics | Staff Digital Verification Engineer | Duluth, GEORGIA, us
+2026-05-29 16:54:35.835238 | KLA: fetched=300
+2026-05-29 16:54:48.548283 | Applied Materials: fetched=300
+2026-05-29 16:54:48.694696 | SambaNova Systems: fetched=23
+2026-05-29 16:54:48.725683 | Samsung Semiconductor: fetched=63
+2026-05-29 16:54:48.756564 | Baya Systems: fetched=24
+2026-05-29 16:54:48.782713 | Ambiq: fetched=32
+2026-05-29 16:54:48.820367 | Graphcore: fetched=225
+2026-05-29 16:54:48.850064 | Eridan: fetched=4
+2026-05-29 16:54:48.875160 | Celero Communications: fetched=19
+2026-05-29 16:54:53.344302 | Micron: fetched=300
+2026-05-29 16:54:53.374247 | Aurora Innovation: fetched=163
+2026-05-29 16:54:53.407119 | Nuro: fetched=104
+2026-05-29 16:54:53.436762 | Applied Intuition: fetched=226
+2026-05-29 16:54:53.465710 | Ethernovia: fetched=32
+2026-05-29 16:54:53.571089 | SpaceX: fetched=1650
+2026-05-29 16:54:53.987486 | Axiado: fetched=51
+2026-05-29 16:54:54.029177 | Zipline: fetched=198
+2026-05-29 16:54:54.133237 | Anduril Industries: fetched=1966
+2026-05-29 16:54:54.387068 | Lattice Semiconductor: fetched=58
+2026-05-29 16:54:54.700619 | MaxLinear: fetched=28
+2026-05-29 16:55:03.563743 | Cadence: fetched=300
+2026-05-29 16:55:34.971473 | Microsoft: fetched=8
+2026-05-29 16:55:49.189787 | AMD: fetched=381
+2026-05-29 16:56:31.480135 | Qualcomm: fetched=270
+2026-05-29 16:56:46.626729 | GlobalFoundries: fetched=67
+2026-05-29 16:56:59.078450 | Synopsys: fetched=152
+2026-05-29 16:56:59.384117 | Arm: fetched=18
+2026-05-29 16:57:07.911979 | Cisco: fetched=300
+2026-05-29 16:57:08.000406 | POSTED ALL | Cisco | ASIC Engineering Program Manager | San Jose, California, US
+2026-05-29 16:57:08.248688 | Cirrus Logic: fetched=2
+2026-05-29 16:57:10.283940 | Amazon: fetched=300
+2026-05-29 16:57:10.648693 | Rambus: fetched=30
+2026-05-29 16:57:10.649035 | Run finished | fetched=11846 matched=325 posted=4
