@@ -14490,3 +14490,58 @@
 2026-05-29 22:09:04.072715 | POSTED ALL | Amazon | Associate Corporate Counsel, Amazon Books | Seattle, Washington, USA
 2026-05-29 22:09:04.561189 | Rambus: fetched=30
 2026-05-29 22:09:04.561481 | Run finished | fetched=11829 matched=323 posted=8
+2026-05-29 23:41:37.376821 | === RUN STARTED ===
+2026-05-29 23:41:37.527107 | Astranis: fetched=142
+2026-05-29 23:41:37.612529 | Tenstorrent: fetched=124
+2026-05-29 23:41:37.698697 | Tenstorrent University: fetched=24
+2026-05-29 23:41:37.781929 | Cerebras Systems: fetched=93
+2026-05-29 23:41:37.874734 | Cerebras Early Talent: fetched=6
+2026-05-29 23:41:37.956599 | Astera Labs: fetched=150
+2026-05-29 23:41:38.041836 | Lightmatter: fetched=48
+2026-05-29 23:41:39.664973 | Western Digital: fetched=300
+2026-05-29 23:41:41.249275 | Bosch: fetched=300
+2026-05-29 23:41:42.805232 | Sandisk: fetched=300
+2026-05-29 23:41:55.789351 | NVIDIA: fetched=300
+2026-05-29 23:42:08.407973 | Intel: fetched=300
+2026-05-29 23:42:17.324222 | Marvell: fetched=300
+2026-05-29 23:42:22.549318 | Apple: fetched=300
+2026-05-29 23:42:22.751767 | POSTED ALL | Apple | Social Editorial Lead | 
+2026-05-29 23:42:33.305506 | Analog Devices: fetched=300
+2026-05-29 23:42:44.002386 | NXP Semiconductors: fetched=300
+2026-05-29 23:42:49.614600 | Broadcom: fetched=300
+2026-05-29 23:42:56.974138 | Microchip: fetched=300
+2026-05-29 23:42:59.532411 | SiFive: fetched=65
+2026-05-29 23:43:01.310629 | Renesas Electronics: fetched=300
+2026-05-29 23:43:11.119706 | KLA: fetched=300
+2026-05-29 23:43:24.881928 | Applied Materials: fetched=300
+2026-05-29 23:43:25.045582 | SambaNova Systems: fetched=23
+2026-05-29 23:43:25.127316 | Samsung Semiconductor: fetched=62
+2026-05-29 23:43:25.217454 | Baya Systems: fetched=24
+2026-05-29 23:43:25.299107 | Ambiq: fetched=32
+2026-05-29 23:43:25.392259 | Graphcore: fetched=224
+2026-05-29 23:43:25.478091 | Eridan: fetched=4
+2026-05-29 23:43:25.622123 | Celero Communications: fetched=19
+2026-05-29 23:43:33.948488 | Micron: fetched=300
+2026-05-29 23:43:34.036143 | Aurora Innovation: fetched=160
+2026-05-29 23:43:34.121957 | Nuro: fetched=102
+2026-05-29 23:43:34.210723 | Applied Intuition: fetched=228
+2026-05-29 23:43:34.296777 | Ethernovia: fetched=32
+2026-05-29 23:43:34.432740 | SpaceX: fetched=1669
+2026-05-29 23:43:34.630443 | POSTED ALL | SpaceX | Sr. Full Chip Physical Verification Engineer (Silicon Engineering) | Irvine, CA
+2026-05-29 23:43:35.067629 | Axiado: fetched=51
+2026-05-29 23:43:35.155024 | Zipline: fetched=197
+2026-05-29 23:43:35.305502 | Anduril Industries: fetched=1966
+2026-05-29 23:43:35.909869 | Lattice Semiconductor: fetched=58
+2026-05-29 23:43:36.367944 | MaxLinear: fetched=28
+2026-05-29 23:43:45.462452 | Cadence: fetched=300
+2026-05-29 23:44:09.338172 | Microsoft: fetched=7
+2026-05-29 23:44:29.594029 | AMD: fetched=382
+2026-05-29 23:45:02.479547 | Qualcomm: fetched=257
+2026-05-29 23:45:20.097377 | GlobalFoundries: fetched=70
+2026-05-29 23:45:35.204338 | Synopsys: fetched=110
+2026-05-29 23:45:36.056374 | Arm: fetched=18
+2026-05-29 23:45:40.973776 | Cisco: fetched=300
+2026-05-29 23:45:41.385262 | Cirrus Logic: fetched=2
+2026-05-29 23:45:44.084462 | Amazon: fetched=300
+2026-05-29 23:45:44.538726 | Rambus: fetched=30
+2026-05-29 23:45:44.539026 | Run finished | fetched=11807 matched=323 posted=2
