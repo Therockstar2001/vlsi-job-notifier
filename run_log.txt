@@ -15930,3 +15930,63 @@
 2026-06-01 16:50:29.986162 | POSTED FRESHER | Amazon | Software Development Engineer II, Applied Automation Controls/Embedded Software | Seattle, Washington, USA
 2026-06-01 16:50:30.312806 | Rambus: fetched=30
 2026-06-01 16:50:30.313140 | Run finished | fetched=11803 matched=311 posted=4
+2026-06-01 21:04:45.691246 | === RUN STARTED ===
+2026-06-01 21:04:45.840507 | Astranis: fetched=140
+2026-06-01 21:04:45.931050 | Tenstorrent: fetched=122
+2026-06-01 21:04:46.020544 | Tenstorrent University: fetched=24
+2026-06-01 21:04:46.102439 | Cerebras Systems: fetched=91
+2026-06-01 21:04:46.191032 | Cerebras Early Talent: fetched=6
+2026-06-01 21:04:46.280020 | Astera Labs: fetched=154
+2026-06-01 21:04:46.365659 | Lightmatter: fetched=49
+2026-06-01 21:04:47.871751 | Western Digital: fetched=300
+2026-06-01 21:04:49.354081 | Bosch: fetched=300
+2026-06-01 21:04:50.867066 | Sandisk: fetched=300
+2026-06-01 21:05:04.130637 | NVIDIA: fetched=300
+2026-06-01 21:05:04.319841 | POSTED ALL | NVIDIA | Senior AI Architect, Foundation Models and SoC Co-Design – Autonomous Vehicles | US, CA, Santa Clara
+2026-06-01 21:05:16.894223 | Intel: fetched=300
+2026-06-01 21:05:25.253043 | Marvell: fetched=300
+2026-06-01 21:05:30.131496 | Apple: fetched=300
+2026-06-01 21:05:39.774434 | Analog Devices: fetched=300
+2026-06-01 21:05:51.470781 | NXP Semiconductors: fetched=300
+2026-06-01 21:05:57.121220 | Broadcom: fetched=300
+2026-06-01 21:05:57.314519 | POSTED ALL | Broadcom | ASIC Implementation Engineer | USA-CA San Jose Innovation Drive
+2026-06-01 21:06:06.843631 | Microchip: fetched=300
+2026-06-01 21:06:10.158234 | SiFive: fetched=65
+2026-06-01 21:06:11.869723 | Renesas Electronics: fetched=300
+2026-06-01 21:06:22.479238 | KLA: fetched=300
+2026-06-01 21:06:35.587638 | Applied Materials: fetched=300
+2026-06-01 21:06:35.716024 | SambaNova Systems: fetched=23
+2026-06-01 21:06:35.804844 | Samsung Semiconductor: fetched=61
+2026-06-01 21:06:36.006094 | POSTED ALL | Samsung Semiconductor | Principal Technical Project Manager, ASIC | San Jose, California, United States
+2026-06-01 21:06:36.090202 | Baya Systems: fetched=24
+2026-06-01 21:06:36.179180 | Ambiq: fetched=32
+2026-06-01 21:06:36.273929 | Graphcore: fetched=221
+2026-06-01 21:06:36.363074 | Eridan: fetched=3
+2026-06-01 21:06:36.443469 | Celero Communications: fetched=19
+2026-06-01 21:06:43.292372 | Micron: fetched=300
+2026-06-01 21:06:43.379998 | Aurora Innovation: fetched=161
+2026-06-01 21:06:43.468088 | Nuro: fetched=103
+2026-06-01 21:06:43.557519 | Applied Intuition: fetched=229
+2026-06-01 21:06:43.645116 | Ethernovia: fetched=32
+2026-06-01 21:06:43.783928 | SpaceX: fetched=1692
+2026-06-01 21:06:44.245169 | Axiado: fetched=51
+2026-06-01 21:06:44.329897 | Zipline: fetched=202
+2026-06-01 21:06:59.353159 | Anduril Industries: fetched=1952
+2026-06-01 21:06:59.946796 | Lattice Semiconductor: fetched=58
+2026-06-01 21:07:00.440249 | MaxLinear: fetched=28
+2026-06-01 21:07:10.437767 | Cadence: fetched=300
+2026-06-01 21:07:38.502793 | Microsoft: fetched=13
+2026-06-01 21:07:59.246834 | AMD: fetched=379
+2026-06-01 21:08:32.360608 | Qualcomm: fetched=250
+2026-06-01 21:08:32.607330 | POSTED ALL | Qualcomm | Associate Support Engineer - Data Center/Server Technology | San Diego, California, United States of America
+2026-06-01 21:08:54.022890 | GlobalFoundries: fetched=64
+2026-06-01 21:09:11.150078 | Synopsys: fetched=154
+2026-06-01 21:09:11.504250 | Arm: fetched=18
+2026-06-01 21:09:15.585782 | Cisco: fetched=300
+2026-06-01 21:09:15.962434 | Cirrus Logic: fetched=2
+2026-06-01 21:09:18.370594 | Amazon: fetched=300
+2026-06-01 21:09:18.559174 | POSTED ALL | Amazon | Sr. SDE, Embedded Satellite SW, Amazon Leo | Redmond, Washington, USA
+2026-06-01 21:09:18.782344 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Burlington, New Jersey, USA
+2026-06-01 21:09:18.973283 | POSTED ALL | Amazon | Sr. Technical Program Manager, ASIC | Austin, Texas, USA
+2026-06-01 21:09:19.429915 | Rambus: fetched=30
+2026-06-01 21:09:19.430223 | Run finished | fetched=11852 matched=336 posted=7
