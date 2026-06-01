@@ -15819,3 +15819,57 @@
 2026-06-01 05:19:15.785036 | Amazon: fetched=300
 2026-06-01 05:19:16.244245 | Rambus: fetched=30
 2026-06-01 05:19:16.482883 | Run finished | fetched=11836 matched=324 posted=0
+2026-06-01 10:32:46.787192 | === RUN STARTED ===
+2026-06-01 10:32:47.016124 | Astranis: fetched=142
+2026-06-01 10:32:47.092403 | Tenstorrent: fetched=125
+2026-06-01 10:32:47.168076 | Tenstorrent University: fetched=24
+2026-06-01 10:32:47.242068 | Cerebras Systems: fetched=93
+2026-06-01 10:32:47.376517 | Cerebras Early Talent: fetched=6
+2026-06-01 10:32:47.452597 | Astera Labs: fetched=156
+2026-06-01 10:32:47.588576 | Lightmatter: fetched=48
+2026-06-01 10:32:49.410080 | Western Digital: fetched=300
+2026-06-01 10:32:50.995744 | Bosch: fetched=300
+2026-06-01 10:32:52.520176 | Sandisk: fetched=300
+2026-06-01 10:33:07.166274 | NVIDIA: fetched=300
+2026-06-01 10:33:18.661388 | Intel: fetched=300
+2026-06-01 10:33:26.392940 | Marvell: fetched=300
+2026-06-01 10:33:31.749894 | Apple: fetched=300
+2026-06-01 10:33:40.315999 | Analog Devices: fetched=300
+2026-06-01 10:33:51.583936 | NXP Semiconductors: fetched=300
+2026-06-01 10:33:56.808124 | Broadcom: fetched=300
+2026-06-01 10:34:05.412381 | Microchip: fetched=300
+2026-06-01 10:34:07.799650 | SiFive: fetched=65
+2026-06-01 10:34:09.575587 | Renesas Electronics: fetched=300
+2026-06-01 10:34:19.282796 | KLA: fetched=300
+2026-06-01 10:34:30.574137 | Applied Materials: fetched=300
+2026-06-01 10:34:30.796143 | SambaNova Systems: fetched=23
+2026-06-01 10:34:30.867032 | Samsung Semiconductor: fetched=62
+2026-06-01 10:34:30.940202 | Baya Systems: fetched=24
+2026-06-01 10:34:31.033766 | Ambiq: fetched=32
+2026-06-01 10:34:31.108761 | Graphcore: fetched=225
+2026-06-01 10:34:31.180954 | Eridan: fetched=3
+2026-06-01 10:34:31.252819 | Celero Communications: fetched=19
+2026-06-01 10:34:37.665772 | Micron: fetched=300
+2026-06-01 10:34:37.740652 | Aurora Innovation: fetched=160
+2026-06-01 10:34:37.819934 | Nuro: fetched=102
+2026-06-01 10:34:37.893701 | Applied Intuition: fetched=230
+2026-06-01 10:34:37.967882 | Ethernovia: fetched=32
+2026-06-01 10:34:38.168345 | SpaceX: fetched=1671
+2026-06-01 10:34:38.624029 | Axiado: fetched=51
+2026-06-01 10:34:38.696558 | Zipline: fetched=200
+2026-06-01 10:34:38.901067 | Anduril Industries: fetched=1973
+2026-06-01 10:34:39.417105 | Lattice Semiconductor: fetched=58
+2026-06-01 10:34:39.775564 | MaxLinear: fetched=28
+2026-06-01 10:34:48.843896 | Cadence: fetched=300
+2026-06-01 10:35:11.016967 | Microsoft: fetched=8
+2026-06-01 10:35:29.611486 | AMD: fetched=380
+2026-06-01 10:36:12.371353 | Qualcomm: fetched=234
+2026-06-01 10:36:27.444694 | GlobalFoundries: fetched=68
+2026-06-01 10:36:41.121370 | Synopsys: fetched=150
+2026-06-01 10:36:41.563238 | Arm: fetched=18
+2026-06-01 10:36:46.344875 | Cisco: fetched=300
+2026-06-01 10:36:46.633585 | Cirrus Logic: fetched=2
+2026-06-01 10:36:50.010981 | Amazon: fetched=300
+2026-06-01 10:36:50.346103 | POSTED ALL | Amazon | Transportation Associate  | Lebanon, Tennessee, USA
+2026-06-01 10:36:50.684041 | Rambus: fetched=30
+2026-06-01 10:36:50.684344 | Run finished | fetched=11842 matched=319 posted=1
