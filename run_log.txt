@@ -16211,3 +16211,60 @@
 2026-06-02 11:46:01.998144 | POSTED ALL | Amazon | Operations Manager - Portland, OR | Portland, Oregon, USA
 2026-06-02 11:46:02.299876 | Rambus: fetched=30
 2026-06-02 11:46:02.300191 | Run finished | fetched=11794 matched=308 posted=2
+2026-06-02 16:54:30.304430 | === RUN STARTED ===
+2026-06-02 16:54:30.453266 | Astranis: fetched=139
+2026-06-02 16:54:30.486942 | Tenstorrent: fetched=122
+2026-06-02 16:54:30.516637 | Tenstorrent University: fetched=24
+2026-06-02 16:54:30.539798 | Cerebras Systems: fetched=89
+2026-06-02 16:54:32.515825 | Cerebras Early Talent: fetched=6
+2026-06-02 16:54:32.550634 | Astera Labs: fetched=154
+2026-06-02 16:54:32.591840 | Lightmatter: fetched=46
+2026-06-02 16:54:34.017865 | Western Digital: fetched=300
+2026-06-02 16:54:35.396886 | Bosch: fetched=300
+2026-06-02 16:54:36.721478 | Sandisk: fetched=300
+2026-06-02 16:54:50.827361 | NVIDIA: fetched=300
+2026-06-02 16:54:50.960055 | POSTED ALL | NVIDIA | Senior ASIC AI Engineer | US, CA, Santa Clara
+2026-06-02 16:54:51.033705 | POSTED ALL | NVIDIA | Low Power ASIC Engineer - New College Grad 2026 | US, CA, Santa Clara
+2026-06-02 16:55:01.921498 | Intel: fetched=300
+2026-06-02 16:55:10.224699 | Marvell: fetched=300
+2026-06-02 16:55:14.629549 | Apple: fetched=300
+2026-06-02 16:55:23.374385 | Analog Devices: fetched=300
+2026-06-02 16:55:34.393043 | NXP Semiconductors: fetched=300
+2026-06-02 16:55:38.307795 | Broadcom: fetched=300
+2026-06-02 16:55:48.535842 | Microchip: fetched=300
+2026-06-02 16:55:50.919146 | SiFive: fetched=68
+2026-06-02 16:55:52.487944 | Renesas Electronics: fetched=300
+2026-06-02 16:56:01.052733 | KLA: fetched=300
+2026-06-02 16:56:14.326011 | Applied Materials: fetched=300
+2026-06-02 16:56:14.441029 | SambaNova Systems: fetched=23
+2026-06-02 16:56:14.473122 | Samsung Semiconductor: fetched=61
+2026-06-02 16:56:14.505545 | Baya Systems: fetched=24
+2026-06-02 16:56:14.532875 | Ambiq: fetched=30
+2026-06-02 16:56:14.571007 | Graphcore: fetched=221
+2026-06-02 16:56:14.614464 | Eridan: fetched=3
+2026-06-02 16:56:14.640839 | Celero Communications: fetched=19
+2026-06-02 16:56:19.328724 | Micron: fetched=300
+2026-06-02 16:56:19.359742 | Aurora Innovation: fetched=159
+2026-06-02 16:56:22.851024 | Nuro: fetched=104
+2026-06-02 16:56:22.883866 | Applied Intuition: fetched=228
+2026-06-02 16:56:22.926868 | Ethernovia: fetched=32
+2026-06-02 16:56:23.076762 | SpaceX: fetched=1703
+2026-06-02 16:56:23.489327 | Axiado: fetched=53
+2026-06-02 16:56:23.525064 | Zipline: fetched=201
+2026-06-02 16:56:23.615249 | Anduril Industries: fetched=1954
+2026-06-02 16:56:23.906456 | Lattice Semiconductor: fetched=58
+2026-06-02 16:56:24.160633 | MaxLinear: fetched=28
+2026-06-02 16:56:32.136500 | Cadence: fetched=300
+2026-06-02 16:57:00.112704 | Microsoft: fetched=6
+2026-06-02 16:57:13.357560 | AMD: fetched=379
+2026-06-02 16:57:56.259161 | Qualcomm: fetched=232
+2026-06-02 16:58:09.925854 | GlobalFoundries: fetched=50
+2026-06-02 16:58:11.277968 | Synopsys: fetched=116
+2026-06-02 16:58:11.926696 | Arm: fetched=18
+2026-06-02 16:58:17.453143 | Cisco: fetched=300
+2026-06-02 16:58:17.545474 | POSTED ALL | Cisco | ASIC Design Verification Engineer | San Jose, California, US
+2026-06-02 16:58:17.788893 | Cirrus Logic: fetched=2
+2026-06-02 16:58:19.922721 | Amazon: fetched=300
+2026-06-02 16:58:20.008697 | POSTED FRESHER | Amazon | MIT Pathways Data Associate Intern | Boston, Massachusetts, USA
+2026-06-02 16:58:20.232606 | Rambus: fetched=30
+2026-06-02 16:58:20.232917 | Run finished | fetched=11782 matched=312 posted=4
