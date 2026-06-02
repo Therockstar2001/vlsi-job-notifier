@@ -16100,3 +16100,59 @@
 2026-06-02 01:40:00.040194 | POSTED ALL | Amazon | Software Development Engineer- Embedded, OTA Program Team, Amazon Leo | Redmond, Washington, USA
 2026-06-02 01:40:00.355064 | Rambus: fetched=30
 2026-06-02 01:40:00.355363 | Run finished | fetched=11833 matched=313 posted=3
+2026-06-02 06:57:19.465771 | === RUN STARTED ===
+2026-06-02 06:57:19.747634 | Astranis: fetched=139
+2026-06-02 06:57:19.773192 | Tenstorrent: fetched=122
+2026-06-02 06:57:19.800562 | Tenstorrent University: fetched=24
+2026-06-02 06:57:19.829907 | Cerebras Systems: fetched=89
+2026-06-02 06:57:19.858230 | Cerebras Early Talent: fetched=6
+2026-06-02 06:57:19.885665 | Astera Labs: fetched=154
+2026-06-02 06:57:19.913746 | Lightmatter: fetched=49
+2026-06-02 06:57:21.399531 | Western Digital: fetched=300
+2026-06-02 06:57:22.760947 | Bosch: fetched=300
+2026-06-02 06:57:24.132293 | Sandisk: fetched=300
+2026-06-02 06:57:38.145539 | NVIDIA: fetched=300
+2026-06-02 06:57:48.106042 | Intel: fetched=300
+2026-06-02 06:57:54.886097 | Marvell: fetched=300
+2026-06-02 06:57:59.614264 | Apple: fetched=300
+2026-06-02 06:58:07.682887 | Analog Devices: fetched=300
+2026-06-02 06:58:18.186952 | NXP Semiconductors: fetched=300
+2026-06-02 06:58:21.855489 | Broadcom: fetched=300
+2026-06-02 06:58:30.234914 | Microchip: fetched=300
+2026-06-02 06:58:32.374015 | SiFive: fetched=68
+2026-06-02 06:58:34.001762 | Renesas Electronics: fetched=300
+2026-06-02 06:58:42.536278 | KLA: fetched=300
+2026-06-02 06:58:56.631334 | Applied Materials: fetched=300
+2026-06-02 06:58:56.821212 | SambaNova Systems: fetched=23
+2026-06-02 06:58:56.854688 | Samsung Semiconductor: fetched=61
+2026-06-02 06:58:56.886669 | Baya Systems: fetched=24
+2026-06-02 06:58:56.911285 | Ambiq: fetched=32
+2026-06-02 06:58:56.943500 | Graphcore: fetched=220
+2026-06-02 06:58:56.966730 | Eridan: fetched=3
+2026-06-02 06:58:56.994998 | Celero Communications: fetched=19
+2026-06-02 06:59:02.449523 | Micron: fetched=300
+2026-06-02 06:59:02.479918 | Aurora Innovation: fetched=160
+2026-06-02 06:59:02.508714 | Nuro: fetched=104
+2026-06-02 06:59:02.537674 | Applied Intuition: fetched=228
+2026-06-02 06:59:02.566855 | Ethernovia: fetched=32
+2026-06-02 06:59:02.641875 | SpaceX: fetched=1702
+2026-06-02 06:59:03.045332 | Axiado: fetched=53
+2026-06-02 06:59:03.133979 | POSTED ALL | Axiado | Senior ICE Emulation Design Engineer | San Jose, CA, us
+2026-06-02 06:59:03.161143 | Zipline: fetched=202
+2026-06-02 06:59:03.242772 | Anduril Industries: fetched=1939
+2026-06-02 06:59:03.808496 | Lattice Semiconductor: fetched=58
+2026-06-02 06:59:04.193472 | MaxLinear: fetched=28
+2026-06-02 06:59:12.233474 | Cadence: fetched=300
+2026-06-02 06:59:39.491191 | Microsoft: fetched=6
+2026-06-02 06:59:52.193917 | AMD: fetched=379
+2026-06-02 07:00:35.498113 | Qualcomm: fetched=253
+2026-06-02 07:00:50.790472 | GlobalFoundries: fetched=61
+2026-06-02 07:01:02.731978 | Synopsys: fetched=154
+2026-06-02 07:01:02.829562 | POSTED ALL | Synopsys | Validation / Verification Eng, Sr Manager-17415Hillsboro, OregonCategory:EngineeringPosted:05/31/2026Job ID:17415 | Hillsboro, Oregon
+2026-06-02 07:01:02.909670 | POSTED ALL | Synopsys | Validation / Verification Eng, Staff Engineer-17299Hillsboro, OregonCategory:EngineeringPosted:05/31/2026Job ID:17299 | Hillsboro, Oregon
+2026-06-02 07:01:03.473717 | Arm: fetched=18
+2026-06-02 07:01:08.646863 | Cisco: fetched=300
+2026-06-02 07:01:08.962834 | Cirrus Logic: fetched=2
+2026-06-02 07:01:11.483541 | Amazon: fetched=300
+2026-06-02 07:01:11.708942 | Rambus: fetched=30
+2026-06-02 07:01:11.709227 | Run finished | fetched=11842 matched=317 posted=3
