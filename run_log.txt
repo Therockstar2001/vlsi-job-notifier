@@ -16268,3 +16268,64 @@
 2026-06-02 16:58:20.008697 | POSTED FRESHER | Amazon | MIT Pathways Data Associate Intern | Boston, Massachusetts, USA
 2026-06-02 16:58:20.232606 | Rambus: fetched=30
 2026-06-02 16:58:20.232917 | Run finished | fetched=11782 matched=312 posted=4
+2026-06-02 20:19:19.628884 | === RUN STARTED ===
+2026-06-02 20:19:19.757645 | Astranis: fetched=139
+2026-06-02 20:19:19.792727 | Tenstorrent: fetched=120
+2026-06-02 20:19:19.826038 | Tenstorrent University: fetched=24
+2026-06-02 20:19:19.861548 | Cerebras Systems: fetched=89
+2026-06-02 20:19:19.897468 | Cerebras Early Talent: fetched=6
+2026-06-02 20:19:24.381392 | Astera Labs: fetched=155
+2026-06-02 20:19:24.416998 | Lightmatter: fetched=46
+2026-06-02 20:19:26.008616 | Western Digital: fetched=300
+2026-06-02 20:19:27.402907 | Bosch: fetched=300
+2026-06-02 20:19:28.816495 | Sandisk: fetched=300
+2026-06-02 20:19:44.457026 | NVIDIA: fetched=300
+2026-06-02 20:19:55.432760 | Intel: fetched=300
+2026-06-02 20:20:05.036261 | Marvell: fetched=300
+2026-06-02 20:20:05.172707 | POSTED ALL | Marvell | Director, Design Verification | Santa Clara, CA
+2026-06-02 20:20:09.776686 | Apple: fetched=300
+2026-06-02 20:20:09.866457 | POSTED ALL | Apple | SoC Design and Integration Engineer | 
+2026-06-02 20:20:18.815342 | Analog Devices: fetched=300
+2026-06-02 20:20:29.671305 | NXP Semiconductors: fetched=300
+2026-06-02 20:20:33.338976 | Broadcom: fetched=300
+2026-06-02 20:20:42.990762 | Microchip: fetched=300
+2026-06-02 20:20:45.266479 | SiFive: fetched=68
+2026-06-02 20:20:46.863456 | Renesas Electronics: fetched=300
+2026-06-02 20:20:55.425655 | KLA: fetched=300
+2026-06-02 20:21:07.683548 | Applied Materials: fetched=300
+2026-06-02 20:21:07.878478 | SambaNova Systems: fetched=23
+2026-06-02 20:21:07.914731 | Samsung Semiconductor: fetched=62
+2026-06-02 20:21:07.950952 | Baya Systems: fetched=24
+2026-06-02 20:21:07.991301 | Ambiq: fetched=30
+2026-06-02 20:21:08.029720 | Graphcore: fetched=221
+2026-06-02 20:21:08.070971 | Eridan: fetched=3
+2026-06-02 20:21:08.104175 | Celero Communications: fetched=19
+2026-06-02 20:21:12.718037 | Micron: fetched=300
+2026-06-02 20:21:12.829885 | POSTED ALL | Micron | Senior Embedded Software Engineer | San Jose, CA
+2026-06-02 20:21:12.865990 | Aurora Innovation: fetched=159
+2026-06-02 20:21:12.900712 | Nuro: fetched=105
+2026-06-02 20:21:12.933758 | Applied Intuition: fetched=228
+2026-06-02 20:21:12.967344 | Ethernovia: fetched=32
+2026-06-02 20:21:13.042758 | SpaceX: fetched=1703
+2026-06-02 20:21:13.466382 | Axiado: fetched=53
+2026-06-02 20:21:13.502178 | Zipline: fetched=201
+2026-06-02 20:21:15.081339 | Anduril Industries: fetched=1959
+2026-06-02 20:21:15.533380 | Lattice Semiconductor: fetched=58
+2026-06-02 20:21:15.847066 | MaxLinear: fetched=28
+2026-06-02 20:21:27.719062 | Cadence: fetched=300
+2026-06-02 20:21:53.915616 | Microsoft: fetched=10
+2026-06-02 20:22:07.480509 | AMD: fetched=379
+2026-06-02 20:22:45.313373 | Qualcomm: fetched=224
+2026-06-02 20:22:59.048636 | GlobalFoundries: fetched=65
+2026-06-02 20:23:12.286294 | Synopsys: fetched=155
+2026-06-02 20:23:12.620785 | Arm: fetched=18
+2026-06-02 20:23:17.883028 | Cisco: fetched=300
+2026-06-02 20:23:18.001796 | POSTED ALL | Cisco | ASIC Design Verification Engineer | San Jose, California, US
+2026-06-02 20:23:18.311678 | Cirrus Logic: fetched=2
+2026-06-02 20:23:22.258338 | Amazon: fetched=300
+2026-06-02 20:23:22.373801 | POSTED ALL | Amazon | Sr. Embedded Software Engineer, Leo Payload Radio | Redmond, Washington, USA
+2026-06-02 20:23:22.456577 | POSTED ALL | Amazon | IT Support Associate II, Operations Technology Solution (OTS) | Cottage Grove, Wisconsin, USA
+2026-06-02 20:23:22.546884 | POSTED ALL | Amazon | Campaign Operations Associate [S], GSS Campaign Operations | San Jose, San Jose, CRI
+2026-06-02 20:23:22.632107 | POSTED ALL | Amazon | Sr. Product Manager - Technical, Embedded Software, Leo Connectivity | Redmond, Washington, USA
+2026-06-02 20:23:22.899530 | Rambus: fetched=30
+2026-06-02 20:23:22.899849 | Run finished | fetched=11838 matched=331 posted=8
