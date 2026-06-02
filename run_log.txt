@@ -16329,3 +16329,59 @@
 2026-06-02 20:23:22.632107 | POSTED ALL | Amazon | Sr. Product Manager - Technical, Embedded Software, Leo Connectivity | Redmond, Washington, USA
 2026-06-02 20:23:22.899530 | Rambus: fetched=30
 2026-06-02 20:23:22.899849 | Run finished | fetched=11838 matched=331 posted=8
+2026-06-02 23:08:20.545658 | === RUN STARTED ===
+2026-06-02 23:08:20.665040 | Astranis: fetched=139
+2026-06-02 23:08:20.698989 | Tenstorrent: fetched=120
+2026-06-02 23:08:20.725257 | Tenstorrent University: fetched=24
+2026-06-02 23:08:20.751999 | Cerebras Systems: fetched=89
+2026-06-02 23:08:20.779224 | Cerebras Early Talent: fetched=6
+2026-06-02 23:08:20.809955 | Astera Labs: fetched=155
+2026-06-02 23:08:20.839692 | Lightmatter: fetched=46
+2026-06-02 23:08:22.322094 | Western Digital: fetched=300
+2026-06-02 23:08:23.667605 | Bosch: fetched=300
+2026-06-02 23:08:25.020192 | Sandisk: fetched=300
+2026-06-02 23:08:45.863068 | NVIDIA: fetched=300
+2026-06-02 23:08:57.087667 | Intel: fetched=300
+2026-06-02 23:09:04.518056 | Marvell: fetched=300
+2026-06-02 23:09:09.174837 | Apple: fetched=300
+2026-06-02 23:09:18.135539 | Analog Devices: fetched=300
+2026-06-02 23:09:29.222319 | NXP Semiconductors: fetched=300
+2026-06-02 23:09:32.956055 | Broadcom: fetched=300
+2026-06-02 23:09:42.270420 | Microchip: fetched=300
+2026-06-02 23:09:44.762310 | SiFive: fetched=68
+2026-06-02 23:09:46.357148 | Renesas Electronics: fetched=300
+2026-06-02 23:09:54.796861 | KLA: fetched=300
+2026-06-02 23:10:06.440975 | Applied Materials: fetched=300
+2026-06-02 23:10:06.594308 | SambaNova Systems: fetched=23
+2026-06-02 23:10:06.638155 | Samsung Semiconductor: fetched=63
+2026-06-02 23:10:06.675235 | Baya Systems: fetched=25
+2026-06-02 23:10:06.711574 | Ambiq: fetched=30
+2026-06-02 23:10:06.757664 | Graphcore: fetched=221
+2026-06-02 23:10:06.797643 | Eridan: fetched=3
+2026-06-02 23:10:06.907823 | Celero Communications: fetched=18
+2026-06-02 23:10:11.465446 | Micron: fetched=300
+2026-06-02 23:10:11.511124 | Aurora Innovation: fetched=159
+2026-06-02 23:10:11.552459 | Nuro: fetched=105
+2026-06-02 23:10:11.589026 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-02 23:10:11.622989 | Ethernovia: fetched=32
+2026-06-02 23:10:11.705356 | SpaceX: fetched=1709
+2026-06-02 23:10:12.103155 | Axiado: fetched=53
+2026-06-02 23:10:12.147825 | Zipline: fetched=200
+2026-06-02 23:10:12.238713 | Anduril Industries: fetched=1961
+2026-06-02 23:10:12.566419 | Lattice Semiconductor: fetched=58
+2026-06-02 23:10:12.843735 | MaxLinear: fetched=28
+2026-06-02 23:10:21.299651 | Cadence: fetched=300
+2026-06-02 23:10:51.461422 | Microsoft: fetched=6
+2026-06-02 23:11:04.313470 | AMD: fetched=379
+2026-06-02 23:11:42.569746 | Qualcomm: fetched=235
+2026-06-02 23:11:56.786940 | GlobalFoundries: fetched=65
+2026-06-02 23:11:59.722980 | Synopsys: fetched=155
+2026-06-02 23:12:00.056596 | Arm: fetched=18
+2026-06-02 23:12:05.227096 | Cisco: fetched=300
+2026-06-02 23:12:05.560887 | Cirrus Logic: fetched=2
+2026-06-02 23:12:12.468091 | Amazon: fetched=300
+2026-06-02 23:12:12.582937 | POSTED ALL | Amazon | Lead ASIC Design Verification Engineer, Amazon Leo | San Diego, California, USA
+2026-06-02 23:12:12.658179 | POSTED ALL | Amazon | Associate Corporate Counsel, AWS Products | Seattle, Washington, USA
+2026-06-02 23:12:12.735645 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Miramar, Florida, USA
+2026-06-02 23:12:12.982792 | Rambus: fetched=30
+2026-06-02 23:12:12.983118 | Run finished | fetched=11625 matched=320 posted=3
