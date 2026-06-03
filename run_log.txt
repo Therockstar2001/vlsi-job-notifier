@@ -16612,3 +16612,66 @@
 2026-06-03 17:21:48.646360 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) - Fixed Field | New Stanton, Pennsylvania, USA
 2026-06-03 17:21:49.320562 | Rambus: fetched=30
 2026-06-03 17:21:49.320812 | Run finished | fetched=11608 matched=310 posted=4
+2026-06-03 21:29:49.407925 | === RUN STARTED ===
+2026-06-03 21:29:49.850053 | Astranis: fetched=136
+2026-06-03 21:29:49.884711 | Tenstorrent: fetched=121
+2026-06-03 21:29:49.912659 | Tenstorrent University: fetched=24
+2026-06-03 21:29:49.968959 | Cerebras Systems: fetched=92
+2026-06-03 21:29:50.038672 | Cerebras Early Talent: fetched=6
+2026-06-03 21:29:50.065514 | Astera Labs: fetched=157
+2026-06-03 21:29:50.092937 | Lightmatter: fetched=45
+2026-06-03 21:29:51.566413 | Western Digital: fetched=300
+2026-06-03 21:29:52.926692 | Bosch: fetched=300
+2026-06-03 21:29:54.299722 | Sandisk: fetched=300
+2026-06-03 21:30:08.711908 | NVIDIA: fetched=300
+2026-06-03 21:30:22.725285 | Intel: fetched=300
+2026-06-03 21:30:22.814877 | POSTED ALL | Intel | CPU Verification Engineer | US, Texas, Austin
+2026-06-03 21:30:30.540943 | Marvell: fetched=300
+2026-06-03 21:30:35.453853 | Apple: fetched=300
+2026-06-03 21:30:35.535992 | POSTED FRESHER | Apple | Hardware Associate Engineer | 
+2026-06-03 21:30:35.641121 | POSTED ALL | Apple | CPU Performance & Workload Analysis Engineer, Platform Architecture | 
+2026-06-03 21:30:43.924609 | Analog Devices: fetched=300
+2026-06-03 21:30:53.897220 | NXP Semiconductors: fetched=300
+2026-06-03 21:30:58.115224 | Broadcom: fetched=300
+2026-06-03 21:31:07.083417 | Microchip: fetched=300
+2026-06-03 21:31:09.422293 | SiFive: fetched=68
+2026-06-03 21:31:11.069850 | Renesas Electronics: fetched=300
+2026-06-03 21:31:11.154631 | POSTED ALL | Renesas Electronics | Senior Staff Mixed Signal Verification Engineer | Austin, TEXAS, us
+2026-06-03 21:31:19.820395 | KLA: fetched=300
+2026-06-03 21:31:33.847110 | Applied Materials: fetched=300
+2026-06-03 21:31:34.092519 | SambaNova Systems: fetched=25
+2026-06-03 21:31:34.117860 | Samsung Semiconductor: fetched=64
+2026-06-03 21:31:34.149086 | Baya Systems: fetched=25
+2026-06-03 21:31:34.191784 | Ambiq: fetched=30
+2026-06-03 21:31:34.220652 | Graphcore: fetched=218
+2026-06-03 21:31:34.249078 | Eridan: fetched=3
+2026-06-03 21:31:34.273723 | Celero Communications: fetched=18
+2026-06-03 21:31:40.910204 | Micron: fetched=300
+2026-06-03 21:31:40.937989 | Aurora Innovation: fetched=158
+2026-06-03 21:31:40.964852 | Nuro: fetched=107
+2026-06-03 21:31:43.853257 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-03 21:31:43.879478 | Ethernovia: fetched=33
+2026-06-03 21:31:54.155053 | SpaceX: fetched=1720
+2026-06-03 21:31:54.557577 | Axiado: fetched=53
+2026-06-03 21:31:54.586282 | Zipline: fetched=201
+2026-06-03 21:32:09.151965 | Anduril Industries: fetched=1969
+2026-06-03 21:32:09.733211 | Lattice Semiconductor: fetched=58
+2026-06-03 21:32:09.939764 | MaxLinear: fetched=28
+2026-06-03 21:32:17.985518 | Cadence: fetched=300
+2026-06-03 21:32:43.569224 | Microsoft: fetched=12
+2026-06-03 21:32:43.646896 | POSTED ALL | Microsoft | Principal Silicon Design Verification Engineer | United States, California, Santa Clara, United States, California, Mountain View, United States, Oregon, Hillsboro, United States, Texas, Austin, United States, Idaho, Boise, United States, California, San Diego
+2026-06-03 21:32:56.889121 | AMD: fetched=379
+2026-06-03 21:33:38.745148 | Qualcomm: fetched=243
+2026-06-03 21:33:38.894497 | POSTED ALL | Qualcomm | Next-Gen, High-Speed Memory Subsystem ASIC Digital Design Engineer | San Diego, California, United States of America
+2026-06-03 21:33:38.972895 | POSTED ALL | Qualcomm | CPU Performance Research Engineer | Santa Clara, California, United States of America, Austin, Texas, United States of America
+2026-06-03 21:33:39.047005 | POSTED ALL | Qualcomm | CPU SRAM Design Engineer | Austin, Texas, United States of America
+2026-06-03 21:33:52.153223 | GlobalFoundries: fetched=69
+2026-06-03 21:34:01.881776 | Synopsys: fetched=120
+2026-06-03 21:34:02.506983 | Arm: fetched=18
+2026-06-03 21:34:07.973131 | Cisco: fetched=300
+2026-06-03 21:34:08.285332 | Cirrus Logic: fetched=2
+2026-06-03 21:34:10.182099 | Amazon: fetched=300
+2026-06-03 21:34:10.260447 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Niagara Falls, New York, USA
+2026-06-03 21:34:10.340701 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS), OpsTech IT | San Diego, California, USA
+2026-06-03 21:34:10.616838 | Rambus: fetched=30
+2026-06-03 21:34:10.617172 | Run finished | fetched=11632 matched=325 posted=10
