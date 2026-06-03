@@ -16555,3 +16555,60 @@
 2026-06-03 12:15:16.990880 | Amazon: fetched=300
 2026-06-03 12:15:17.436821 | Rambus: fetched=30
 2026-06-03 12:15:17.632429 | Run finished | fetched=11652 matched=309 posted=0
+2026-06-03 17:17:20.755490 | === RUN STARTED ===
+2026-06-03 17:17:20.993274 | Astranis: fetched=137
+2026-06-03 17:17:21.094901 | Tenstorrent: fetched=120
+2026-06-03 17:17:21.189840 | Tenstorrent University: fetched=24
+2026-06-03 17:17:21.282153 | Cerebras Systems: fetched=91
+2026-06-03 17:17:21.379304 | Cerebras Early Talent: fetched=6
+2026-06-03 17:17:21.477384 | Astera Labs: fetched=156
+2026-06-03 17:17:21.574952 | Lightmatter: fetched=46
+2026-06-03 17:17:23.305258 | Western Digital: fetched=300
+2026-06-03 17:17:24.987320 | Bosch: fetched=300
+2026-06-03 17:17:26.593318 | Sandisk: fetched=300
+2026-06-03 17:17:41.499809 | NVIDIA: fetched=300
+2026-06-03 17:17:56.240358 | Intel: fetched=300
+2026-06-03 17:18:05.911660 | Marvell: fetched=300
+2026-06-03 17:18:11.379648 | Apple: fetched=300
+2026-06-03 17:18:26.610366 | Analog Devices: fetched=300
+2026-06-03 17:18:38.041267 | NXP Semiconductors: fetched=300
+2026-06-03 17:18:44.417866 | Broadcom: fetched=300
+2026-06-03 17:18:53.993691 | Microchip: fetched=300
+2026-06-03 17:18:56.763192 | SiFive: fetched=68
+2026-06-03 17:18:58.848949 | Renesas Electronics: fetched=300
+2026-06-03 17:19:08.984780 | KLA: fetched=300
+2026-06-03 17:19:22.614144 | Applied Materials: fetched=300
+2026-06-03 17:19:22.785363 | SambaNova Systems: fetched=24
+2026-06-03 17:19:22.879726 | Samsung Semiconductor: fetched=62
+2026-06-03 17:19:22.974267 | Baya Systems: fetched=25
+2026-06-03 17:19:23.072805 | Ambiq: fetched=31
+2026-06-03 17:19:23.168644 | Graphcore: fetched=219
+2026-06-03 17:19:23.267631 | Eridan: fetched=3
+2026-06-03 17:19:23.359404 | Celero Communications: fetched=18
+2026-06-03 17:19:29.811989 | Micron: fetched=300
+2026-06-03 17:19:29.907415 | Aurora Innovation: fetched=158
+2026-06-03 17:19:30.002845 | Nuro: fetched=107
+2026-06-03 17:19:30.095032 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-03 17:19:30.191732 | Ethernovia: fetched=33
+2026-06-03 17:19:30.324598 | SpaceX: fetched=1711
+2026-06-03 17:19:30.785821 | Axiado: fetched=53
+2026-06-03 17:19:30.880414 | Zipline: fetched=201
+2026-06-03 17:19:31.022753 | Anduril Industries: fetched=1967
+2026-06-03 17:19:31.720750 | Lattice Semiconductor: fetched=58
+2026-06-03 17:19:32.290421 | MaxLinear: fetched=28
+2026-06-03 17:19:41.802782 | Cadence: fetched=300
+2026-06-03 17:20:04.613914 | Microsoft: fetched=6
+2026-06-03 17:20:23.665832 | AMD: fetched=378
+2026-06-03 17:21:03.395822 | Qualcomm: fetched=239
+2026-06-03 17:21:03.644204 | POSTED ALL | Qualcomm | CPU Software Architecture Staff Engineer | San Diego, California, United States of America
+2026-06-03 17:21:18.176824 | GlobalFoundries: fetched=69
+2026-06-03 17:21:34.121103 | Synopsys: fetched=120
+2026-06-03 17:21:34.748621 | Arm: fetched=18
+2026-06-03 17:21:42.861004 | Cisco: fetched=300
+2026-06-03 17:21:43.100995 | POSTED ALL | Cisco | ASIC Design Engineer Technical Lead | San Jose, California, US
+2026-06-03 17:21:43.724930 | Cirrus Logic: fetched=2
+2026-06-03 17:21:48.137571 | Amazon: fetched=300
+2026-06-03 17:21:48.365816 | POSTED ALL | Amazon | Senior Embedded Software Engineer, Emerging Devices Software | Sunnyvale, California, USA
+2026-06-03 17:21:48.646360 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) - Fixed Field | New Stanton, Pennsylvania, USA
+2026-06-03 17:21:49.320562 | Rambus: fetched=30
+2026-06-03 17:21:49.320812 | Run finished | fetched=11608 matched=310 posted=4
