@@ -16444,3 +16444,61 @@
 2026-06-03 01:51:08.298873 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, Delivery Station Liaison  | Cohoes, New York, USA
 2026-06-03 01:51:08.740704 | Rambus: fetched=30
 2026-06-03 01:51:08.741000 | Run finished | fetched=11690 matched=316 posted=6
+2026-06-03 07:12:36.233363 | === RUN STARTED ===
+2026-06-03 07:12:36.409237 | Astranis: fetched=137
+2026-06-03 07:12:36.442214 | Tenstorrent: fetched=120
+2026-06-03 07:12:36.469754 | Tenstorrent University: fetched=24
+2026-06-03 07:12:36.509292 | Cerebras Systems: fetched=91
+2026-06-03 07:12:36.547087 | Cerebras Early Talent: fetched=6
+2026-06-03 07:12:36.575115 | Astera Labs: fetched=155
+2026-06-03 07:12:36.607376 | Lightmatter: fetched=46
+2026-06-03 07:12:38.018493 | Western Digital: fetched=300
+2026-06-03 07:12:39.379111 | Bosch: fetched=300
+2026-06-03 07:12:40.717274 | Sandisk: fetched=300
+2026-06-03 07:12:54.688526 | NVIDIA: fetched=300
+2026-06-03 07:12:54.793590 | POSTED ALL | NVIDIA | Cell Modeling and Verification Engineer - New College Grad 2026 | US, CA, Santa Clara
+2026-06-03 07:13:06.191974 | Intel: fetched=300
+2026-06-03 07:13:12.954556 | Marvell: fetched=300
+2026-06-03 07:13:17.540923 | Apple: fetched=300
+2026-06-03 07:13:25.235335 | Analog Devices: fetched=300
+2026-06-03 07:13:35.370903 | NXP Semiconductors: fetched=300
+2026-06-03 07:13:39.121715 | Broadcom: fetched=300
+2026-06-03 07:13:39.200047 | POSTED ALL | Broadcom | ASIC DFT Engineer | USA-Colorado-Fort Collins-4380 Ziegler Road
+2026-06-03 07:13:47.647891 | Microchip: fetched=300
+2026-06-03 07:13:49.872507 | SiFive: fetched=68
+2026-06-03 07:13:51.477393 | Renesas Electronics: fetched=300
+2026-06-03 07:14:04.587975 | KLA: fetched=300
+2026-06-03 07:14:15.639669 | Applied Materials: fetched=300
+2026-06-03 07:14:15.908261 | SambaNova Systems: fetched=24
+2026-06-03 07:14:15.934444 | Samsung Semiconductor: fetched=62
+2026-06-03 07:14:15.959081 | Baya Systems: fetched=25
+2026-06-03 07:14:15.988458 | Ambiq: fetched=30
+2026-06-03 07:14:16.020529 | Graphcore: fetched=221
+2026-06-03 07:14:16.043330 | Eridan: fetched=3
+2026-06-03 07:14:16.072971 | Celero Communications: fetched=18
+2026-06-03 07:14:21.205960 | Micron: fetched=300
+2026-06-03 07:14:21.239115 | Aurora Innovation: fetched=158
+2026-06-03 07:14:21.264605 | Nuro: fetched=107
+2026-06-03 07:14:21.289598 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-03 07:14:21.312645 | Ethernovia: fetched=32
+2026-06-03 07:14:21.403195 | SpaceX: fetched=1713
+2026-06-03 07:14:21.818311 | Axiado: fetched=53
+2026-06-03 07:14:21.847410 | Zipline: fetched=201
+2026-06-03 07:14:21.935844 | Anduril Industries: fetched=1975
+2026-06-03 07:14:22.283903 | Lattice Semiconductor: fetched=58
+2026-06-03 07:14:22.476561 | MaxLinear: fetched=28
+2026-06-03 07:14:30.635733 | Cadence: fetched=300
+2026-06-03 07:15:03.086796 | Microsoft: fetched=8
+2026-06-03 07:15:16.370806 | AMD: fetched=379
+2026-06-03 07:15:54.018729 | Qualcomm: fetched=223
+2026-06-03 07:15:54.095996 | POSTED ALL | Qualcomm | CPU SRAM Design Engineer | Austin, Texas, United States of America
+2026-06-03 07:15:54.210592 | POSTED ALL | Qualcomm | CPU Architecture Performance Engineer (RISC V) | Santa Clara, California, United States of America, Austin, Texas, United States of America
+2026-06-03 07:16:13.420947 | GlobalFoundries: fetched=64
+2026-06-03 07:16:23.751209 | Synopsys: fetched=156
+2026-06-03 07:16:24.214112 | Arm: fetched=18
+2026-06-03 07:16:29.396417 | Cisco: fetched=300
+2026-06-03 07:16:29.678703 | Cirrus Logic: fetched=2
+2026-06-03 07:16:31.671433 | Amazon: fetched=300
+2026-06-03 07:16:31.749366 | POSTED ALL | Amazon | Lead Fulfillment Associate | Liberty, Missouri, USA
+2026-06-03 07:16:31.933306 | Rambus: fetched=30
+2026-06-03 07:16:31.933630 | Run finished | fetched=11635 matched=309 posted=5
