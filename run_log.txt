@@ -16675,3 +16675,62 @@
 2026-06-03 21:34:10.340701 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS), OpsTech IT | San Diego, California, USA
 2026-06-03 21:34:10.616838 | Rambus: fetched=30
 2026-06-03 21:34:10.617172 | Run finished | fetched=11632 matched=325 posted=10
+2026-06-04 00:00:19.735198 | === RUN STARTED ===
+2026-06-04 00:00:20.249074 | Astranis: fetched=136
+2026-06-04 00:00:20.280566 | Tenstorrent: fetched=121
+2026-06-04 00:00:20.316391 | Tenstorrent University: fetched=24
+2026-06-04 00:00:20.348529 | Cerebras Systems: fetched=92
+2026-06-04 00:00:20.377368 | Cerebras Early Talent: fetched=6
+2026-06-04 00:00:20.488736 | Astera Labs: fetched=160
+2026-06-04 00:00:20.540507 | Lightmatter: fetched=45
+2026-06-04 00:00:21.929651 | Western Digital: fetched=300
+2026-06-04 00:00:23.319487 | Bosch: fetched=300
+2026-06-04 00:00:24.677494 | Sandisk: fetched=300
+2026-06-04 00:00:39.860779 | NVIDIA: fetched=300
+2026-06-04 00:00:50.489613 | Intel: fetched=300
+2026-06-04 00:00:57.644318 | Marvell: fetched=300
+2026-06-04 00:01:02.974681 | Apple: fetched=300
+2026-06-04 00:01:11.704529 | Analog Devices: fetched=300
+2026-06-04 00:01:22.999427 | NXP Semiconductors: fetched=300
+2026-06-04 00:01:26.943227 | Broadcom: fetched=300
+2026-06-04 00:01:35.736055 | Microchip: fetched=300
+2026-06-04 00:01:39.280807 | SiFive: fetched=68
+2026-06-04 00:01:40.886744 | Renesas Electronics: fetched=300
+2026-06-04 00:01:49.620508 | KLA: fetched=300
+2026-06-04 00:02:00.815866 | Applied Materials: fetched=300
+2026-06-04 00:02:00.894114 | SambaNova Systems: fetched=25
+2026-06-04 00:02:00.925256 | Samsung Semiconductor: fetched=64
+2026-06-04 00:02:00.956340 | Baya Systems: fetched=25
+2026-06-04 00:02:00.985168 | Ambiq: fetched=30
+2026-06-04 00:02:01.024380 | Graphcore: fetched=218
+2026-06-04 00:02:01.053561 | Eridan: fetched=3
+2026-06-04 00:02:01.177169 | Celero Communications: fetched=18
+2026-06-04 00:02:06.579101 | Micron: fetched=300
+2026-06-04 00:02:06.611915 | Aurora Innovation: fetched=160
+2026-06-04 00:02:06.642996 | Nuro: fetched=107
+2026-06-04 00:02:06.668458 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-04 00:02:06.694665 | Ethernovia: fetched=33
+2026-06-04 00:02:06.765482 | SpaceX: fetched=1727
+2026-06-04 00:02:07.178816 | Axiado: fetched=53
+2026-06-04 00:02:07.211042 | Zipline: fetched=200
+2026-06-04 00:02:22.508343 | Anduril Industries: fetched=1974
+2026-06-04 00:02:22.597627 | POSTED ALL | Anduril Industries | Associate Workplace Manager | Quonset, Rhode Island, United States
+2026-06-04 00:02:23.071472 | Lattice Semiconductor: fetched=58
+2026-06-04 00:02:23.340670 | MaxLinear: fetched=28
+2026-06-04 00:02:32.049555 | Cadence: fetched=300
+2026-06-04 00:02:55.859095 | Microsoft: fetched=5
+2026-06-04 00:02:55.933052 | POSTED ALL | Microsoft | Principal Silicon Design Verification Engineer | United States, California, Santa Clara, United States, California, Mountain View, United States, Oregon, Hillsboro, United States, Texas, Austin, United States, Washington, Redmond
+2026-06-04 00:03:11.148928 | AMD: fetched=379
+2026-06-04 00:03:53.814761 | Qualcomm: fetched=232
+2026-06-04 00:04:08.063987 | GlobalFoundries: fetched=76
+2026-06-04 00:04:16.682015 | Synopsys: fetched=120
+2026-06-04 00:04:17.083220 | Arm: fetched=18
+2026-06-04 00:04:22.111282 | Cisco: fetched=300
+2026-06-04 00:04:22.459213 | Cirrus Logic: fetched=2
+2026-06-04 00:04:24.141693 | Amazon: fetched=300
+2026-06-04 00:04:24.226606 | POSTED ALL | Amazon | Principal, Social Growth & Amplification Strategy, Prime Video US & Amazon MGM Studios | Culver City, California, USA
+2026-06-04 00:04:24.304040 | POSTED ALL | Amazon | Sr. RF Test Systems Development Engineer, Avionics Verification and Test, Amazon Leo  | Redmond, Washington, USA
+2026-06-04 00:04:24.384611 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | New Windsor, New York, USA
+2026-06-04 00:04:24.462168 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Fort Worth, Texas, USA
+2026-06-04 00:04:24.776407 | Rambus: fetched=30
+2026-06-04 00:04:24.776710 | Run finished | fetched=11637 matched=315 posted=6
