@@ -16955,3 +16955,64 @@
 2026-06-04 16:32:37.319648 | POSTED ALL | Amazon | Associate Media Manager, Prime Video | Culver City, California, USA
 2026-06-04 16:32:37.588569 | Rambus: fetched=29
 2026-06-04 16:32:37.588871 | Run finished | fetched=11643 matched=317 posted=6
+2026-06-04 19:30:37.675233 | === RUN STARTED ===
+2026-06-04 19:30:37.905347 | Astranis: fetched=136
+2026-06-04 19:30:38.009806 | Tenstorrent: fetched=122
+2026-06-04 19:30:38.148745 | Tenstorrent University: fetched=24
+2026-06-04 19:30:38.245704 | Cerebras Systems: fetched=97
+2026-06-04 19:30:38.500144 | POSTED ALL | Cerebras Systems | Design Verification Engineer | Sunnyvale, CA
+2026-06-04 19:30:38.740399 | POSTED ALL | Cerebras Systems | Sr. Staff/Staff Design Verification Engineer | Sunnyvale, CA
+2026-06-04 19:30:38.837556 | Cerebras Early Talent: fetched=6
+2026-06-04 19:30:38.938865 | Astera Labs: fetched=162
+2026-06-04 19:30:39.097461 | Lightmatter: fetched=45
+2026-06-04 19:30:40.693697 | Western Digital: fetched=300
+2026-06-04 19:30:42.223105 | Bosch: fetched=300
+2026-06-04 19:30:43.738566 | Sandisk: fetched=298
+2026-06-04 19:30:58.684023 | NVIDIA: fetched=300
+2026-06-04 19:31:11.478440 | Intel: fetched=300
+2026-06-04 19:31:20.155476 | Marvell: fetched=300
+2026-06-04 19:31:28.589965 | Apple: fetched=300
+2026-06-04 19:31:39.298186 | Analog Devices: fetched=300
+2026-06-04 19:31:52.206798 | NXP Semiconductors: fetched=300
+2026-06-04 19:31:58.243113 | Broadcom: fetched=300
+2026-06-04 19:32:16.948242 | Microchip: fetched=300
+2026-06-04 19:32:20.056536 | SiFive: fetched=68
+2026-06-04 19:32:21.862569 | Renesas Electronics: fetched=300
+2026-06-04 19:32:33.821561 | KLA: fetched=300
+2026-06-04 19:32:46.900115 | Applied Materials: fetched=300
+2026-06-04 19:32:47.125474 | SambaNova Systems: fetched=25
+2026-06-04 19:32:47.221495 | Samsung Semiconductor: fetched=63
+2026-06-04 19:32:47.322072 | Baya Systems: fetched=25
+2026-06-04 19:32:47.423987 | Ambiq: fetched=30
+2026-06-04 19:32:47.528681 | Graphcore: fetched=216
+2026-06-04 19:32:47.622583 | Eridan: fetched=3
+2026-06-04 19:32:47.718516 | Celero Communications: fetched=17
+2026-06-04 19:32:54.378515 | Micron: fetched=300
+2026-06-04 19:32:55.108054 | Aurora Innovation: fetched=162
+2026-06-04 19:32:55.204957 | Nuro: fetched=107
+2026-06-04 19:32:55.299420 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-04 19:32:55.396971 | Ethernovia: fetched=29
+2026-06-04 19:32:55.589508 | SpaceX: fetched=1729
+2026-06-04 19:32:56.041864 | Axiado: fetched=53
+2026-06-04 19:32:56.141648 | Zipline: fetched=203
+2026-06-04 19:32:56.294355 | Anduril Industries: fetched=1979
+2026-06-04 19:32:56.937803 | Lattice Semiconductor: fetched=58
+2026-06-04 19:32:57.680039 | MaxLinear: fetched=28
+2026-06-04 19:33:07.642509 | Cadence: fetched=300
+2026-06-04 19:33:07.887820 | POSTED ALL | Cadence | Application Engineer, RTL2GDS Sr Director | SAN JOSE
+2026-06-04 19:33:34.275204 | Microsoft: fetched=5
+2026-06-04 19:33:53.632892 | AMD: fetched=378
+2026-06-04 19:34:32.930243 | Qualcomm: fetched=236
+2026-06-04 19:34:33.169031 | POSTED ALL | Qualcomm | CPU SRAM Design Engineer - Sr Staff / Principal | Austin, Texas, United States of America
+2026-06-04 19:34:33.400541 | POSTED ALL | Qualcomm | Server SoC System Architect | Santa Clara, California, United States of America, Austin, Texas, United States of America
+2026-06-04 19:34:48.000439 | GlobalFoundries: fetched=61
+2026-06-04 19:35:14.491235 | Synopsys: fetched=205
+2026-06-04 19:35:14.869910 | Arm: fetched=18
+2026-06-04 19:35:19.700236 | Cisco: fetched=300
+2026-06-04 19:35:19.936893 | POSTED ALL | Cisco | ASIC Design Verification Engineer | San Jose, California, US
+2026-06-04 19:35:20.202845 | POSTED ALL | Cisco | ASIC Design Verification Emulation Engineer | San Jose, California, US
+2026-06-04 19:35:20.428976 | POSTED ALL | Cisco | Design Verification Engineer - Acacia Networks | Holmdel, New Jersey, US
+2026-06-04 19:35:21.041645 | Cirrus Logic: fetched=2
+2026-06-04 19:35:24.177508 | Amazon: fetched=300
+2026-06-04 19:35:24.758624 | Rambus: fetched=29
+2026-06-04 19:35:24.758945 | Run finished | fetched=11719 matched=317 posted=8
