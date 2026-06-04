@@ -16734,3 +16734,58 @@
 2026-06-04 00:04:24.462168 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Fort Worth, Texas, USA
 2026-06-04 00:04:24.776407 | Rambus: fetched=30
 2026-06-04 00:04:24.776710 | Run finished | fetched=11637 matched=315 posted=6
+2026-06-04 05:04:12.509032 | === RUN STARTED ===
+2026-06-04 05:04:12.861167 | Astranis: fetched=136
+2026-06-04 05:04:12.911392 | Tenstorrent: fetched=121
+2026-06-04 05:04:12.960707 | Tenstorrent University: fetched=24
+2026-06-04 05:04:13.009723 | Cerebras Systems: fetched=91
+2026-06-04 05:04:13.052367 | Cerebras Early Talent: fetched=6
+2026-06-04 05:04:13.096281 | Astera Labs: fetched=160
+2026-06-04 05:04:13.145212 | Lightmatter: fetched=45
+2026-06-04 05:04:14.576290 | Western Digital: fetched=300
+2026-06-04 05:04:15.966172 | Bosch: fetched=300
+2026-06-04 05:04:17.311696 | Sandisk: fetched=300
+2026-06-04 05:04:30.962991 | NVIDIA: fetched=300
+2026-06-04 05:04:42.625358 | Intel: fetched=300
+2026-06-04 05:04:50.473554 | Marvell: fetched=300
+2026-06-04 05:04:55.101316 | Apple: fetched=300
+2026-06-04 05:05:03.334595 | Analog Devices: fetched=300
+2026-06-04 05:05:13.888873 | NXP Semiconductors: fetched=300
+2026-06-04 05:05:18.513269 | Broadcom: fetched=300
+2026-06-04 05:05:27.422658 | Microchip: fetched=300
+2026-06-04 05:05:29.993851 | SiFive: fetched=68
+2026-06-04 05:05:31.536696 | Renesas Electronics: fetched=300
+2026-06-04 05:05:40.414450 | KLA: fetched=300
+2026-06-04 05:05:52.475314 | Applied Materials: fetched=300
+2026-06-04 05:05:52.636491 | SambaNova Systems: fetched=25
+2026-06-04 05:05:52.677925 | Samsung Semiconductor: fetched=64
+2026-06-04 05:05:52.727588 | Baya Systems: fetched=25
+2026-06-04 05:05:52.778318 | Ambiq: fetched=30
+2026-06-04 05:05:52.824759 | Graphcore: fetched=218
+2026-06-04 05:05:52.876409 | Eridan: fetched=3
+2026-06-04 05:05:52.921194 | Celero Communications: fetched=18
+2026-06-04 05:05:58.818269 | Micron: fetched=300
+2026-06-04 05:05:58.866379 | Aurora Innovation: fetched=160
+2026-06-04 05:05:58.913526 | Nuro: fetched=107
+2026-06-04 05:05:58.959230 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-04 05:05:59.005308 | Ethernovia: fetched=29
+2026-06-04 05:05:59.106353 | SpaceX: fetched=1725
+2026-06-04 05:05:59.562601 | Axiado: fetched=53
+2026-06-04 05:05:59.833977 | Zipline: fetched=202
+2026-06-04 05:06:12.630025 | Anduril Industries: fetched=1976
+2026-06-04 05:06:13.195306 | Lattice Semiconductor: fetched=58
+2026-06-04 05:06:13.668747 | MaxLinear: fetched=28
+2026-06-04 05:06:22.991186 | Cadence: fetched=300
+2026-06-04 05:06:53.707202 | Microsoft: fetched=12
+2026-06-04 05:07:08.605301 | AMD: fetched=379
+2026-06-04 05:07:46.894323 | Qualcomm: fetched=241
+2026-06-04 05:07:47.050867 | POSTED ALL | Qualcomm | RTL Feasibility Engineer, AI/ML Processors | Austin, Texas, United States of America
+2026-06-04 05:07:47.167443 | POSTED ALL | Qualcomm | CPU RTL/AI Micro-Architect - AI Development | Austin, Texas, United States of America, Santa Clara, CA, USA
+2026-06-04 05:08:07.598665 | GlobalFoundries: fetched=71
+2026-06-04 05:08:18.342548 | Synopsys: fetched=120
+2026-06-04 05:08:18.842419 | Arm: fetched=18
+2026-06-04 05:08:25.140709 | Cisco: fetched=300
+2026-06-04 05:08:25.355590 | Cirrus Logic: fetched=2
+2026-06-04 05:08:28.258205 | Amazon: fetched=300
+2026-06-04 05:08:28.516602 | Rambus: fetched=30
+2026-06-04 05:08:28.516910 | Run finished | fetched=11645 matched=322 posted=2
