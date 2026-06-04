@@ -17016,3 +17016,57 @@
 2026-06-04 19:35:24.177508 | Amazon: fetched=300
 2026-06-04 19:35:24.758624 | Rambus: fetched=29
 2026-06-04 19:35:24.758945 | Run finished | fetched=11719 matched=317 posted=8
+2026-06-04 21:53:19.084214 | === RUN STARTED ===
+2026-06-04 21:53:19.278174 | Astranis: fetched=136
+2026-06-04 21:53:19.762100 | Tenstorrent: fetched=123
+2026-06-04 21:53:19.859738 | Tenstorrent University: fetched=23
+2026-06-04 21:53:19.956153 | Cerebras Systems: fetched=97
+2026-06-04 21:53:20.064913 | Cerebras Early Talent: fetched=6
+2026-06-04 21:53:20.163618 | Astera Labs: fetched=161
+2026-06-04 21:53:20.260942 | Lightmatter: fetched=45
+2026-06-04 21:53:22.061125 | Western Digital: fetched=300
+2026-06-04 21:53:23.627599 | Bosch: fetched=300
+2026-06-04 21:53:25.224713 | Sandisk: fetched=298
+2026-06-04 21:53:39.130173 | NVIDIA: fetched=300
+2026-06-04 21:53:51.161444 | Intel: fetched=300
+2026-06-04 21:53:59.330069 | Marvell: fetched=300
+2026-06-04 21:54:04.941307 | Apple: fetched=300
+2026-06-04 21:54:13.932883 | Analog Devices: fetched=300
+2026-06-04 21:54:25.592609 | NXP Semiconductors: fetched=300
+2026-06-04 21:54:32.452723 | Broadcom: fetched=300
+2026-06-04 21:54:40.893399 | Microchip: fetched=300
+2026-06-04 21:54:43.756461 | SiFive: fetched=68
+2026-06-04 21:54:45.504493 | Renesas Electronics: fetched=300
+2026-06-04 21:54:55.372334 | KLA: fetched=300
+2026-06-04 21:55:07.553350 | Applied Materials: fetched=300
+2026-06-04 21:55:07.719663 | SambaNova Systems: fetched=21
+2026-06-04 21:55:08.016829 | Samsung Semiconductor: fetched=64
+2026-06-04 21:55:08.112331 | Baya Systems: fetched=25
+2026-06-04 21:55:08.203715 | Ambiq: fetched=30
+2026-06-04 21:55:08.299852 | Graphcore: fetched=216
+2026-06-04 21:55:08.395805 | Eridan: fetched=3
+2026-06-04 21:55:08.493824 | Celero Communications: fetched=17
+2026-06-04 21:55:15.261497 | Micron: fetched=300
+2026-06-04 21:55:15.365119 | Aurora Innovation: fetched=163
+2026-06-04 21:55:15.459984 | Nuro: fetched=108
+2026-06-04 21:55:15.556374 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-04 21:55:15.648958 | Ethernovia: fetched=29
+2026-06-04 21:55:15.791195 | SpaceX: fetched=1731
+2026-06-04 21:55:16.279780 | Axiado: fetched=53
+2026-06-04 21:55:16.376840 | Zipline: fetched=203
+2026-06-04 21:55:29.163363 | Anduril Industries: fetched=1974
+2026-06-04 21:55:29.768444 | Lattice Semiconductor: fetched=58
+2026-06-04 21:55:30.283838 | MaxLinear: fetched=28
+2026-06-04 21:55:40.100218 | Cadence: fetched=300
+2026-06-04 21:56:02.245364 | Microsoft: fetched=14
+2026-06-04 21:56:21.469219 | AMD: fetched=378
+2026-06-04 21:56:51.957846 | Qualcomm: fetched=240
+2026-06-04 21:57:09.999765 | GlobalFoundries: fetched=64
+2026-06-04 21:57:16.273040 | Synopsys: fetched=205
+2026-06-04 21:57:17.465395 | Arm: fetched=18
+2026-06-04 21:57:21.943663 | Cisco: fetched=300
+2026-06-04 21:57:22.501220 | Cirrus Logic: fetched=2
+2026-06-04 21:57:25.818710 | Amazon: fetched=300
+2026-06-04 21:57:26.083182 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Pooler, Georgia, USA
+2026-06-04 21:57:26.623830 | Rambus: fetched=29
+2026-06-04 21:57:26.624109 | Run finished | fetched=11730 matched=336 posted=1
