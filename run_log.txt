@@ -16896,3 +16896,62 @@
 2026-06-04 12:22:53.940975 | Amazon: fetched=300
 2026-06-04 12:22:54.647684 | Rambus: fetched=29
 2026-06-04 12:22:54.940065 | Run finished | fetched=11627 matched=306 posted=0
+2026-06-04 16:28:37.993641 | === RUN STARTED ===
+2026-06-04 16:28:38.143968 | Astranis: fetched=136
+2026-06-04 16:28:38.174833 | Tenstorrent: fetched=122
+2026-06-04 16:28:38.209335 | Tenstorrent University: fetched=24
+2026-06-04 16:28:38.239870 | Cerebras Systems: fetched=92
+2026-06-04 16:28:38.390433 | POSTED ALL | Cerebras Systems | ASIC Architect | Sunnyvale, CA
+2026-06-04 16:28:38.421245 | Cerebras Early Talent: fetched=6
+2026-06-04 16:28:38.903169 | Astera Labs: fetched=160
+2026-06-04 16:28:38.930281 | Lightmatter: fetched=45
+2026-06-04 16:28:40.399905 | Western Digital: fetched=300
+2026-06-04 16:28:41.889038 | Bosch: fetched=300
+2026-06-04 16:28:43.290214 | Sandisk: fetched=300
+2026-06-04 16:28:59.011013 | NVIDIA: fetched=300
+2026-06-04 16:29:09.721063 | Intel: fetched=300
+2026-06-04 16:29:17.022268 | Marvell: fetched=300
+2026-06-04 16:29:21.485806 | Apple: fetched=300
+2026-06-04 16:29:29.987065 | Analog Devices: fetched=300
+2026-06-04 16:29:41.014776 | NXP Semiconductors: fetched=300
+2026-06-04 16:29:41.098419 | POSTED ALL | NXP Semiconductors | ATMC Fab Associate | Austin (Ed Bluestein, Manufacturing)
+2026-06-04 16:29:45.459931 | Broadcom: fetched=300
+2026-06-04 16:29:55.148626 | Microchip: fetched=300
+2026-06-04 16:29:57.989922 | SiFive: fetched=68
+2026-06-04 16:29:59.585172 | Renesas Electronics: fetched=300
+2026-06-04 16:29:59.659988 | POSTED ALL | Renesas Electronics | Senior Staff Mixed Signal Verification Engineer | Austin, TEXAS, us
+2026-06-04 16:30:10.037605 | KLA: fetched=300
+2026-06-04 16:30:26.005558 | Applied Materials: fetched=300
+2026-06-04 16:30:26.143329 | SambaNova Systems: fetched=24
+2026-06-04 16:30:26.177529 | Samsung Semiconductor: fetched=64
+2026-06-04 16:30:26.204836 | Baya Systems: fetched=25
+2026-06-04 16:30:26.237246 | Ambiq: fetched=30
+2026-06-04 16:30:26.266959 | Graphcore: fetched=216
+2026-06-04 16:30:26.298993 | Eridan: fetched=3
+2026-06-04 16:30:26.325609 | Celero Communications: fetched=17
+2026-06-04 16:30:32.461265 | Micron: fetched=300
+2026-06-04 16:30:33.910221 | Aurora Innovation: fetched=162
+2026-06-04 16:30:33.940947 | Nuro: fetched=107
+2026-06-04 16:30:33.968978 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-04 16:30:34.003324 | Ethernovia: fetched=29
+2026-06-04 16:30:34.081194 | SpaceX: fetched=1730
+2026-06-04 16:30:34.512918 | Axiado: fetched=53
+2026-06-04 16:30:34.541554 | Zipline: fetched=203
+2026-06-04 16:30:34.632380 | Anduril Industries: fetched=1978
+2026-06-04 16:30:35.021627 | Lattice Semiconductor: fetched=58
+2026-06-04 16:30:35.214769 | MaxLinear: fetched=28
+2026-06-04 16:30:44.257636 | Cadence: fetched=300
+2026-06-04 16:31:09.677346 | Microsoft: fetched=8
+2026-06-04 16:31:23.939970 | AMD: fetched=378
+2026-06-04 16:32:04.153250 | Qualcomm: fetched=242
+2026-06-04 16:32:17.357526 | GlobalFoundries: fetched=66
+2026-06-04 16:32:26.536639 | Synopsys: fetched=120
+2026-06-04 16:32:26.893367 | Arm: fetched=18
+2026-06-04 16:32:34.499975 | Cisco: fetched=300
+2026-06-04 16:32:34.833551 | Cirrus Logic: fetched=2
+2026-06-04 16:32:37.081785 | Amazon: fetched=300
+2026-06-04 16:32:37.157768 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Tulsa, Oklahoma, USA
+2026-06-04 16:32:37.239053 | POSTED ALL | Amazon | Embedded Software Development Manager | North Reading, Massachusetts, USA
+2026-06-04 16:32:37.319648 | POSTED ALL | Amazon | Associate Media Manager, Prime Video | Culver City, California, USA
+2026-06-04 16:32:37.588569 | Rambus: fetched=29
+2026-06-04 16:32:37.588871 | Run finished | fetched=11643 matched=317 posted=6
