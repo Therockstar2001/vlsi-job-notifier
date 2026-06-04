@@ -17070,3 +17070,59 @@
 2026-06-04 21:57:26.083182 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Pooler, Georgia, USA
 2026-06-04 21:57:26.623830 | Rambus: fetched=29
 2026-06-04 21:57:26.624109 | Run finished | fetched=11730 matched=336 posted=1
+2026-06-04 23:36:47.532807 | === RUN STARTED ===
+2026-06-04 23:36:48.456537 | Astranis: fetched=136
+2026-06-04 23:36:48.865385 | Tenstorrent: fetched=123
+2026-06-04 23:36:49.262488 | Tenstorrent University: fetched=23
+2026-06-04 23:36:49.665213 | Cerebras Systems: fetched=97
+2026-06-04 23:36:50.062912 | Cerebras Early Talent: fetched=6
+2026-06-04 23:36:50.472441 | Astera Labs: fetched=160
+2026-06-04 23:36:50.876528 | Lightmatter: fetched=45
+2026-06-04 23:36:52.254330 | Western Digital: fetched=300
+2026-06-04 23:36:53.625297 | Bosch: fetched=300
+2026-06-04 23:36:54.974473 | Sandisk: fetched=298
+2026-06-04 23:37:08.999752 | NVIDIA: fetched=300
+2026-06-04 23:37:19.146599 | Intel: fetched=300
+2026-06-04 23:37:25.928520 | Marvell: fetched=300
+2026-06-04 23:37:26.014072 | POSTED ALL | Marvell | Senior Staff Verification Engineer | Santa Clara, CA
+2026-06-04 23:37:30.531132 | Apple: fetched=300
+2026-06-04 23:37:38.489627 | Analog Devices: fetched=300
+2026-06-04 23:37:50.659139 | NXP Semiconductors: fetched=300
+2026-06-04 23:37:54.224284 | Broadcom: fetched=300
+2026-06-04 23:38:03.383281 | Microchip: fetched=300
+2026-06-04 23:38:05.648257 | SiFive: fetched=68
+2026-06-04 23:38:07.201595 | Renesas Electronics: fetched=300
+2026-06-04 23:38:16.936880 | KLA: fetched=300
+2026-06-04 23:38:27.348993 | Applied Materials: fetched=300
+2026-06-04 23:38:27.587256 | SambaNova Systems: fetched=21
+2026-06-04 23:38:27.614835 | Samsung Semiconductor: fetched=64
+2026-06-04 23:38:27.647036 | Baya Systems: fetched=25
+2026-06-04 23:38:27.679561 | Ambiq: fetched=30
+2026-06-04 23:38:27.719337 | Graphcore: fetched=216
+2026-06-04 23:38:27.747182 | Eridan: fetched=3
+2026-06-04 23:38:27.775585 | Celero Communications: fetched=17
+2026-06-04 23:38:32.026843 | Micron: fetched=300
+2026-06-04 23:38:32.061354 | Aurora Innovation: fetched=163
+2026-06-04 23:38:32.091454 | Nuro: fetched=108
+2026-06-04 23:38:32.120055 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-04 23:38:32.149046 | Ethernovia: fetched=29
+2026-06-04 23:38:32.233231 | SpaceX: fetched=1734
+2026-06-04 23:38:32.645701 | Axiado: fetched=53
+2026-06-04 23:38:32.679912 | Zipline: fetched=202
+2026-06-04 23:38:32.794699 | Anduril Industries: fetched=1973
+2026-06-04 23:38:33.222696 | Lattice Semiconductor: fetched=58
+2026-06-04 23:38:33.872591 | MaxLinear: fetched=28
+2026-06-04 23:38:42.086620 | Cadence: fetched=300
+2026-06-04 23:39:05.372520 | Microsoft: fetched=9
+2026-06-04 23:39:05.530092 | AMD: fetched=0
+2026-06-04 23:39:46.771014 | Qualcomm: fetched=246
+2026-06-04 23:39:58.022760 | GlobalFoundries: fetched=63
+2026-06-04 23:40:09.613447 | Synopsys: fetched=161
+2026-06-04 23:40:10.311886 | Arm: fetched=18
+2026-06-04 23:40:15.393889 | Cisco: fetched=300
+2026-06-04 23:40:15.749053 | Cirrus Logic: fetched=2
+2026-06-04 23:40:17.707946 | Amazon: fetched=300
+2026-06-04 23:40:17.784192 | POSTED ALL | Amazon | Manager, ASIC Sustaining Engineering, Silicon Operations | Sunnyvale, California, USA
+2026-06-04 23:40:17.862124 | POSTED ALL | Amazon | ASIC Engineer, Project Leo | San Diego, California, USA
+2026-06-04 23:40:18.173762 | Rambus: fetched=29
+2026-06-04 23:40:18.174038 | Run finished | fetched=11308 matched=330 posted=3
