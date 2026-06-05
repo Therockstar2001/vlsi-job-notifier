@@ -17510,3 +17510,58 @@
 2026-06-05 21:47:18.737425 | Amazon: fetched=300
 2026-06-05 21:47:19.219136 | Rambus: fetched=29
 2026-06-05 21:47:19.219439 | Run finished | fetched=11486 matched=297 posted=1
+2026-06-05 23:37:52.288782 | === RUN STARTED ===
+2026-06-05 23:37:52.424989 | Astranis: fetched=136
+2026-06-05 23:37:52.462381 | Tenstorrent: fetched=119
+2026-06-05 23:37:52.492894 | Tenstorrent University: fetched=23
+2026-06-05 23:37:52.521697 | Cerebras Systems: fetched=96
+2026-06-05 23:37:52.553468 | Cerebras Early Talent: fetched=6
+2026-06-05 23:37:52.590846 | Astera Labs: fetched=161
+2026-06-05 23:37:52.685807 | POSTED ALL | Astera Labs | Senior Embedded Software Engineer - Ethernet Retimers | San Jose, California, United States
+2026-06-05 23:37:52.711674 | Lightmatter: fetched=45
+2026-06-05 23:37:54.145525 | Western Digital: fetched=300
+2026-06-05 23:37:55.452424 | Bosch: fetched=300
+2026-06-05 23:37:56.780510 | Sandisk: fetched=299
+2026-06-05 23:38:11.063747 | NVIDIA: fetched=300
+2026-06-05 23:38:21.451091 | Intel: fetched=300
+2026-06-05 23:38:28.527135 | Marvell: fetched=300
+2026-06-05 23:38:33.099799 | Apple: fetched=300
+2026-06-05 23:38:41.187503 | Analog Devices: fetched=300
+2026-06-05 23:38:51.204190 | NXP Semiconductors: fetched=300
+2026-06-05 23:38:55.166197 | Broadcom: fetched=300
+2026-06-05 23:39:03.776516 | Microchip: fetched=300
+2026-06-05 23:39:05.818663 | SiFive: fetched=68
+2026-06-05 23:39:07.332832 | Renesas Electronics: fetched=300
+2026-06-05 23:39:16.461480 | KLA: fetched=300
+2026-06-05 23:39:28.003833 | Applied Materials: fetched=300
+2026-06-05 23:39:28.192796 | SambaNova Systems: fetched=20
+2026-06-05 23:39:28.224424 | Samsung Semiconductor: fetched=64
+2026-06-05 23:39:28.254806 | Baya Systems: fetched=25
+2026-06-05 23:39:28.282711 | Ambiq: fetched=30
+2026-06-05 23:39:28.322074 | Graphcore: fetched=218
+2026-06-05 23:39:28.347395 | Eridan: fetched=3
+2026-06-05 23:39:28.440515 | Celero Communications: fetched=17
+2026-06-05 23:39:33.248217 | Micron: fetched=300
+2026-06-05 23:39:33.280019 | Aurora Innovation: fetched=163
+2026-06-05 23:39:33.307487 | Nuro: fetched=107
+2026-06-05 23:39:33.334760 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-05 23:39:33.360054 | Ethernovia: fetched=29
+2026-06-05 23:39:33.428617 | SpaceX: fetched=1732
+2026-06-05 23:39:33.833278 | Axiado: fetched=53
+2026-06-05 23:39:33.862759 | Zipline: fetched=217
+2026-06-05 23:39:33.949687 | Anduril Industries: fetched=1984
+2026-06-05 23:39:34.360935 | Lattice Semiconductor: fetched=58
+2026-06-05 23:39:34.561804 | MaxLinear: fetched=28
+2026-06-05 23:39:42.593827 | Cadence: fetched=300
+2026-06-05 23:40:09.770277 | Microsoft: fetched=14
+2026-06-05 23:40:21.996181 | AMD: fetched=377
+2026-06-05 23:40:48.859238 | Qualcomm: fetched=190
+2026-06-05 23:40:48.965006 | POSTED ALL | Qualcomm | Lead CPU Performance Analysis Engineer | Santa Clara, California, United States of America
+2026-06-05 23:41:03.585443 | GlobalFoundries: fetched=61
+2026-06-05 23:41:04.206613 | Synopsys: fetched=0
+2026-06-05 23:41:04.811567 | Arm: fetched=18
+2026-06-05 23:41:11.147219 | Cisco: fetched=300
+2026-06-05 23:41:11.534822 | Cirrus Logic: fetched=2
+2026-06-05 23:41:13.395092 | Amazon: fetched=300
+2026-06-05 23:41:13.665289 | Rambus: fetched=29
+2026-06-05 23:41:13.665605 | Run finished | fetched=11492 matched=313 posted=2
