@@ -17402,3 +17402,57 @@
 2026-06-05 18:13:31.038939 | POSTED ALL | Amazon | Associate Media Manager, Prime Video | Culver City, California, USA
 2026-06-05 18:13:31.713053 | Rambus: fetched=29
 2026-06-05 18:13:31.713362 | Run finished | fetched=11469 matched=302 posted=2
+2026-06-05 20:12:26.591812 | === RUN STARTED ===
+2026-06-05 20:12:26.754408 | Astranis: fetched=136
+2026-06-05 20:12:26.840489 | Tenstorrent: fetched=119
+2026-06-05 20:12:26.928659 | Tenstorrent University: fetched=23
+2026-06-05 20:12:27.017165 | Cerebras Systems: fetched=96
+2026-06-05 20:12:27.112990 | Cerebras Early Talent: fetched=6
+2026-06-05 20:12:27.201178 | Astera Labs: fetched=160
+2026-06-05 20:12:27.282861 | Lightmatter: fetched=45
+2026-06-05 20:12:28.893027 | Western Digital: fetched=300
+2026-06-05 20:12:30.431307 | Bosch: fetched=300
+2026-06-05 20:12:31.949333 | Sandisk: fetched=299
+2026-06-05 20:12:45.419193 | NVIDIA: fetched=300
+2026-06-05 20:12:57.058172 | Intel: fetched=300
+2026-06-05 20:13:05.153671 | Marvell: fetched=300
+2026-06-05 20:13:10.318183 | Apple: fetched=300
+2026-06-05 20:13:19.687456 | Analog Devices: fetched=300
+2026-06-05 20:13:32.014441 | NXP Semiconductors: fetched=300
+2026-06-05 20:13:38.276649 | Broadcom: fetched=300
+2026-06-05 20:13:46.154745 | Microchip: fetched=300
+2026-06-05 20:13:49.645672 | SiFive: fetched=68
+2026-06-05 20:13:51.333043 | Renesas Electronics: fetched=300
+2026-06-05 20:14:02.281006 | KLA: fetched=300
+2026-06-05 20:14:14.826600 | Applied Materials: fetched=300
+2026-06-05 20:14:14.955469 | SambaNova Systems: fetched=20
+2026-06-05 20:14:15.045664 | Samsung Semiconductor: fetched=64
+2026-06-05 20:14:15.139204 | Baya Systems: fetched=25
+2026-06-05 20:14:15.224202 | Ambiq: fetched=30
+2026-06-05 20:14:15.311981 | Graphcore: fetched=218
+2026-06-05 20:14:15.428000 | Eridan: fetched=3
+2026-06-05 20:14:15.510738 | Celero Communications: fetched=17
+2026-06-05 20:14:22.632141 | Micron: fetched=300
+2026-06-05 20:14:22.718306 | Aurora Innovation: fetched=163
+2026-06-05 20:14:22.806857 | Nuro: fetched=107
+2026-06-05 20:14:22.903928 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-05 20:14:22.986039 | Ethernovia: fetched=29
+2026-06-05 20:14:23.135426 | SpaceX: fetched=1739
+2026-06-05 20:14:23.578710 | Axiado: fetched=53
+2026-06-05 20:14:23.661792 | Zipline: fetched=216
+2026-06-05 20:14:23.813433 | Anduril Industries: fetched=1977
+2026-06-05 20:14:24.445557 | Lattice Semiconductor: fetched=58
+2026-06-05 20:14:24.903479 | MaxLinear: fetched=28
+2026-06-05 20:14:34.412532 | Cadence: fetched=300
+2026-06-05 20:14:56.582742 | Microsoft: fetched=13
+2026-06-05 20:15:16.450137 | AMD: fetched=376
+2026-06-05 20:15:38.756523 | Qualcomm: fetched=207
+2026-06-05 20:15:38.950090 | POSTED ALL | Qualcomm | Associate Support Engineer - Data Center/Server Technology | San Diego, California, United States of America
+2026-06-05 20:15:53.315604 | GlobalFoundries: fetched=61
+2026-06-05 20:15:53.757768 | Synopsys: fetched=0
+2026-06-05 20:15:54.331005 | Arm: fetched=18
+2026-06-05 20:15:58.332951 | Cisco: fetched=300
+2026-06-05 20:15:58.738369 | Cirrus Logic: fetched=2
+2026-06-05 20:16:00.949772 | Amazon: fetched=300
+2026-06-05 20:16:01.401645 | Rambus: fetched=29
+2026-06-05 20:16:01.401950 | Run finished | fetched=11505 matched=299 posted=1
