@@ -17456,3 +17456,57 @@
 2026-06-05 20:16:00.949772 | Amazon: fetched=300
 2026-06-05 20:16:01.401645 | Rambus: fetched=29
 2026-06-05 20:16:01.401950 | Run finished | fetched=11505 matched=299 posted=1
+2026-06-05 21:43:18.387505 | === RUN STARTED ===
+2026-06-05 21:43:18.638335 | Astranis: fetched=136
+2026-06-05 21:43:18.742815 | Tenstorrent: fetched=119
+2026-06-05 21:43:18.837392 | Tenstorrent University: fetched=23
+2026-06-05 21:43:18.938233 | Cerebras Systems: fetched=96
+2026-06-05 21:43:19.033461 | Cerebras Early Talent: fetched=6
+2026-06-05 21:43:19.131611 | Astera Labs: fetched=158
+2026-06-05 21:43:19.229441 | Lightmatter: fetched=45
+2026-06-05 21:43:20.978981 | Western Digital: fetched=300
+2026-06-05 21:43:22.586556 | Bosch: fetched=300
+2026-06-05 21:43:24.180025 | Sandisk: fetched=299
+2026-06-05 21:43:44.460338 | NVIDIA: fetched=300
+2026-06-05 21:43:56.967053 | Intel: fetched=300
+2026-06-05 21:44:05.858733 | Marvell: fetched=300
+2026-06-05 21:44:11.244665 | Apple: fetched=300
+2026-06-05 21:44:21.068765 | Analog Devices: fetched=300
+2026-06-05 21:44:34.168600 | NXP Semiconductors: fetched=300
+2026-06-05 21:44:40.105962 | Broadcom: fetched=300
+2026-06-05 21:44:49.035580 | Microchip: fetched=300
+2026-06-05 21:44:51.972162 | SiFive: fetched=68
+2026-06-05 21:44:53.765064 | Renesas Electronics: fetched=300
+2026-06-05 21:45:07.660713 | KLA: fetched=300
+2026-06-05 21:45:21.616079 | Applied Materials: fetched=300
+2026-06-05 21:45:21.877667 | SambaNova Systems: fetched=20
+2026-06-05 21:45:21.988515 | Samsung Semiconductor: fetched=64
+2026-06-05 21:45:22.088033 | Baya Systems: fetched=25
+2026-06-05 21:45:22.182660 | Ambiq: fetched=30
+2026-06-05 21:45:22.279881 | Graphcore: fetched=218
+2026-06-05 21:45:22.376395 | Eridan: fetched=3
+2026-06-05 21:45:22.471673 | Celero Communications: fetched=17
+2026-06-05 21:45:31.019354 | Micron: fetched=300
+2026-06-05 21:45:31.117517 | Aurora Innovation: fetched=163
+2026-06-05 21:45:31.214013 | Nuro: fetched=107
+2026-06-05 21:45:31.305437 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-05 21:45:31.399766 | Ethernovia: fetched=29
+2026-06-05 21:45:31.718473 | SpaceX: fetched=1736
+2026-06-05 21:45:32.209934 | Axiado: fetched=53
+2026-06-05 21:45:32.367533 | Zipline: fetched=217
+2026-06-05 21:45:32.514592 | Anduril Industries: fetched=1979
+2026-06-05 21:45:33.135602 | Lattice Semiconductor: fetched=58
+2026-06-05 21:45:33.689818 | MaxLinear: fetched=28
+2026-06-05 21:45:43.780948 | Cadence: fetched=300
+2026-06-05 21:46:05.648276 | Microsoft: fetched=9
+2026-06-05 21:46:24.112219 | AMD: fetched=377
+2026-06-05 21:46:45.332633 | Qualcomm: fetched=200
+2026-06-05 21:46:45.594770 | POSTED ALL | Qualcomm | Sr. Staff CPU Software Test Engineer | Austin, Texas, United States of America
+2026-06-05 21:47:09.358945 | GlobalFoundries: fetched=54
+2026-06-05 21:47:09.802155 | Synopsys: fetched=0
+2026-06-05 21:47:10.223442 | Arm: fetched=18
+2026-06-05 21:47:14.918581 | Cisco: fetched=300
+2026-06-05 21:47:15.412738 | Cirrus Logic: fetched=2
+2026-06-05 21:47:18.737425 | Amazon: fetched=300
+2026-06-05 21:47:19.219136 | Rambus: fetched=29
+2026-06-05 21:47:19.219439 | Run finished | fetched=11486 matched=297 posted=1
