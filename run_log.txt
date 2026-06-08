@@ -18630,3 +18630,60 @@
 2026-06-08 01:37:43.585381 | Amazon: fetched=300
 2026-06-08 01:37:44.207043 | Rambus: fetched=29
 2026-06-08 01:37:44.524086 | Run finished | fetched=11502 matched=301 posted=0
+2026-06-08 07:03:06.593382 | === RUN STARTED ===
+2026-06-08 07:03:06.726086 | Astranis: fetched=137
+2026-06-08 07:03:06.762344 | Tenstorrent: fetched=119
+2026-06-08 07:03:06.790520 | Tenstorrent University: fetched=23
+2026-06-08 07:03:06.823468 | Cerebras Systems: fetched=96
+2026-06-08 07:03:15.072238 | Cerebras Early Talent: fetched=6
+2026-06-08 07:03:15.113115 | Astera Labs: fetched=161
+2026-06-08 07:03:15.143083 | Lightmatter: fetched=45
+2026-06-08 07:03:16.655800 | Western Digital: fetched=300
+2026-06-08 07:03:18.091470 | Bosch: fetched=300
+2026-06-08 07:03:19.453409 | Sandisk: fetched=296
+2026-06-08 07:03:34.378643 | NVIDIA: fetched=300
+2026-06-08 07:03:34.458664 | POSTED ALL | NVIDIA | Formal Verification Engineer - New College Grad 2026 | US, CA, Santa Clara
+2026-06-08 07:03:45.822405 | Intel: fetched=300
+2026-06-08 07:03:52.762865 | Marvell: fetched=300
+2026-06-08 07:03:57.540013 | Apple: fetched=300
+2026-06-08 07:04:06.669747 | Analog Devices: fetched=300
+2026-06-08 07:04:18.343036 | NXP Semiconductors: fetched=300
+2026-06-08 07:04:22.419919 | Broadcom: fetched=300
+2026-06-08 07:04:32.962612 | Microchip: fetched=300
+2026-06-08 07:04:35.003381 | SiFive: fetched=68
+2026-06-08 07:04:36.587633 | Renesas Electronics: fetched=300
+2026-06-08 07:04:44.986047 | KLA: fetched=300
+2026-06-08 07:04:58.114541 | Applied Materials: fetched=300
+2026-06-08 07:04:58.533889 | SambaNova Systems: fetched=20
+2026-06-08 07:04:58.563470 | Samsung Semiconductor: fetched=64
+2026-06-08 07:04:58.594342 | Baya Systems: fetched=27
+2026-06-08 07:04:58.619206 | Ambiq: fetched=29
+2026-06-08 07:04:58.656648 | Graphcore: fetched=218
+2026-06-08 07:04:58.681977 | Eridan: fetched=3
+2026-06-08 07:04:58.708169 | Celero Communications: fetched=17
+2026-06-08 07:05:03.713900 | Micron: fetched=300
+2026-06-08 07:05:03.752084 | Aurora Innovation: fetched=163
+2026-06-08 07:05:03.787002 | Nuro: fetched=107
+2026-06-08 07:05:03.815164 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-08 07:05:03.852986 | Ethernovia: fetched=29
+2026-06-08 07:05:03.987178 | SpaceX: fetched=1736
+2026-06-08 07:05:04.420164 | Axiado: fetched=53
+2026-06-08 07:05:04.448212 | Zipline: fetched=220
+2026-06-08 07:05:04.534208 | Anduril Industries: fetched=1986
+2026-06-08 07:05:05.174363 | Lattice Semiconductor: fetched=58
+2026-06-08 07:05:05.558272 | MaxLinear: fetched=28
+2026-06-08 07:05:14.264939 | Cadence: fetched=300
+2026-06-08 07:05:39.135844 | Microsoft: fetched=8
+2026-06-08 07:05:52.004094 | AMD: fetched=377
+2026-06-08 07:06:20.152809 | Qualcomm: fetched=195
+2026-06-08 07:06:40.448527 | GlobalFoundries: fetched=64
+2026-06-08 07:06:51.301160 | Synopsys: fetched=160
+2026-06-08 07:06:51.880265 | Arm: fetched=18
+2026-06-08 07:06:56.840141 | Cisco: fetched=300
+2026-06-08 07:06:57.141708 | Cirrus Logic: fetched=2
+2026-06-08 07:06:58.824086 | Amazon: fetched=300
+2026-06-08 07:06:58.899344 | POSTED ALL | Amazon | Transportation Associate  | Bondurant, Iowa, USA
+2026-06-08 07:06:58.974733 | POSTED ALL | Amazon | Transportation Associate  | Spartanburg, South Carolina, USA
+2026-06-08 07:06:59.055319 | POSTED ALL | Amazon | Transportation Associate  | West Columbia, South Carolina, USA
+2026-06-08 07:06:59.472201 | Rambus: fetched=29
+2026-06-08 07:06:59.472508 | Run finished | fetched=11662 matched=325 posted=4
