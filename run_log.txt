@@ -18687,3 +18687,58 @@
 2026-06-08 07:06:59.055319 | POSTED ALL | Amazon | Transportation Associate  | West Columbia, South Carolina, USA
 2026-06-08 07:06:59.472201 | Rambus: fetched=29
 2026-06-08 07:06:59.472508 | Run finished | fetched=11662 matched=325 posted=4
+2026-06-08 12:08:06.789505 | === RUN STARTED ===
+2026-06-08 12:08:06.944597 | Astranis: fetched=137
+2026-06-08 12:08:06.978658 | Tenstorrent: fetched=119
+2026-06-08 12:08:07.006952 | Tenstorrent University: fetched=23
+2026-06-08 12:08:07.036969 | Cerebras Systems: fetched=96
+2026-06-08 12:08:07.062997 | Cerebras Early Talent: fetched=6
+2026-06-08 12:08:07.089079 | Astera Labs: fetched=163
+2026-06-08 12:08:07.132973 | Lightmatter: fetched=45
+2026-06-08 12:08:08.565107 | Western Digital: fetched=300
+2026-06-08 12:08:09.961016 | Bosch: fetched=300
+2026-06-08 12:08:11.333090 | Sandisk: fetched=296
+2026-06-08 12:08:26.195720 | NVIDIA: fetched=300
+2026-06-08 12:08:36.738244 | Intel: fetched=300
+2026-06-08 12:08:43.672180 | Marvell: fetched=300
+2026-06-08 12:08:48.246097 | Apple: fetched=300
+2026-06-08 12:08:56.911565 | Analog Devices: fetched=300
+2026-06-08 12:09:09.223863 | NXP Semiconductors: fetched=300
+2026-06-08 12:09:13.687740 | Broadcom: fetched=300
+2026-06-08 12:09:22.934894 | Microchip: fetched=300
+2026-06-08 12:09:25.223504 | SiFive: fetched=67
+2026-06-08 12:09:27.057795 | Renesas Electronics: fetched=300
+2026-06-08 12:09:39.578163 | KLA: fetched=300
+2026-06-08 12:09:51.651781 | Applied Materials: fetched=300
+2026-06-08 12:09:51.723339 | SambaNova Systems: fetched=20
+2026-06-08 12:09:51.750847 | Samsung Semiconductor: fetched=64
+2026-06-08 12:09:51.778813 | Baya Systems: fetched=27
+2026-06-08 12:09:51.802666 | Ambiq: fetched=29
+2026-06-08 12:09:51.831121 | Graphcore: fetched=218
+2026-06-08 12:09:51.861327 | Eridan: fetched=3
+2026-06-08 12:09:51.888529 | Celero Communications: fetched=17
+2026-06-08 12:09:57.234860 | Micron: fetched=300
+2026-06-08 12:09:57.273000 | Aurora Innovation: fetched=163
+2026-06-08 12:09:57.316060 | Nuro: fetched=107
+2026-06-08 12:09:57.347774 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-08 12:09:57.373513 | Ethernovia: fetched=29
+2026-06-08 12:09:57.451586 | SpaceX: fetched=1736
+2026-06-08 12:09:57.847955 | Axiado: fetched=53
+2026-06-08 12:09:57.882959 | Zipline: fetched=219
+2026-06-08 12:09:57.961646 | Anduril Industries: fetched=1986
+2026-06-08 12:09:58.268905 | Lattice Semiconductor: fetched=58
+2026-06-08 12:09:58.601466 | MaxLinear: fetched=28
+2026-06-08 12:10:08.105099 | Cadence: fetched=300
+2026-06-08 12:10:39.421319 | Microsoft: fetched=10
+2026-06-08 12:10:51.988701 | AMD: fetched=377
+2026-06-08 12:11:20.122633 | Qualcomm: fetched=205
+2026-06-08 12:11:38.236195 | GlobalFoundries: fetched=64
+2026-06-08 12:11:39.102912 | Synopsys: fetched=2
+2026-06-08 12:11:39.504121 | Arm: fetched=18
+2026-06-08 12:11:44.609262 | Cisco: fetched=300
+2026-06-08 12:11:44.858623 | Cirrus Logic: fetched=2
+2026-06-08 12:11:47.151712 | Amazon: fetched=300
+2026-06-08 12:11:47.243527 | POSTED ALL | Amazon | Transportation Associate  | Commerce City, Colorado, USA
+2026-06-08 12:11:47.318836 | POSTED ALL | Amazon | Transportation Associate  | Bondurant, Iowa, USA
+2026-06-08 12:11:47.604419 | Rambus: fetched=29
+2026-06-08 12:11:47.604734 | Run finished | fetched=11516 matched=311 posted=2
