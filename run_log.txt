@@ -19262,3 +19262,59 @@
 2026-06-09 18:24:37.858728 | POSTED ALL | Amazon | Principal Hardware Engineer, Amazon Industrial Robotics- Verification and Validation | Seattle, Washington, USA
 2026-06-09 18:24:38.193739 | Rambus: fetched=29
 2026-06-09 18:24:38.194057 | Run finished | fetched=11691 matched=323 posted=7
+2026-06-09 21:12:19.023291 | === RUN STARTED ===
+2026-06-09 21:12:19.191379 | Astranis: fetched=133
+2026-06-09 21:12:19.246386 | Tenstorrent: fetched=119
+2026-06-09 21:12:19.300077 | Tenstorrent University: fetched=23
+2026-06-09 21:12:19.354137 | Cerebras Systems: fetched=96
+2026-06-09 21:12:19.402220 | Cerebras Early Talent: fetched=6
+2026-06-09 21:12:19.460388 | Astera Labs: fetched=162
+2026-06-09 21:12:19.567917 | Lightmatter: fetched=45
+2026-06-09 21:12:21.001257 | Western Digital: fetched=300
+2026-06-09 21:12:22.310231 | Bosch: fetched=300
+2026-06-09 21:12:23.583241 | Sandisk: fetched=293
+2026-06-09 21:12:37.753410 | NVIDIA: fetched=300
+2026-06-09 21:12:37.868282 | POSTED ALL | NVIDIA | Senior ASIC Verification Engineer - GPU | US, CA, Santa Clara
+2026-06-09 21:12:48.991398 | Intel: fetched=300
+2026-06-09 21:12:56.214022 | Marvell: fetched=300
+2026-06-09 21:13:00.860196 | Apple: fetched=300
+2026-06-09 21:13:14.632198 | Analog Devices: fetched=300
+2026-06-09 21:13:24.501696 | NXP Semiconductors: fetched=300
+2026-06-09 21:13:29.627626 | Broadcom: fetched=300
+2026-06-09 21:13:38.476359 | Microchip: fetched=300
+2026-06-09 21:13:41.082202 | SiFive: fetched=65
+2026-06-09 21:13:42.623451 | Renesas Electronics: fetched=300
+2026-06-09 21:13:53.328106 | KLA: fetched=300
+2026-06-09 21:14:06.932508 | Applied Materials: fetched=300
+2026-06-09 21:14:07.101037 | SambaNova Systems: fetched=19
+2026-06-09 21:14:07.149128 | Samsung Semiconductor: fetched=64
+2026-06-09 21:14:07.193591 | Baya Systems: fetched=27
+2026-06-09 21:14:07.244964 | Ambiq: fetched=30
+2026-06-09 21:14:07.293807 | Graphcore: fetched=219
+2026-06-09 21:14:07.334568 | Eridan: fetched=2
+2026-06-09 21:14:07.375427 | Celero Communications: fetched=17
+2026-06-09 21:14:12.931590 | Micron: fetched=300
+2026-06-09 21:14:12.975376 | Aurora Innovation: fetched=155
+2026-06-09 21:14:13.021671 | Nuro: fetched=107
+2026-06-09 21:14:13.058973 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-09 21:14:13.105900 | Ethernovia: fetched=31
+2026-06-09 21:14:13.231587 | SpaceX: fetched=1747
+2026-06-09 21:14:13.636124 | Axiado: fetched=53
+2026-06-09 21:14:13.689542 | Zipline: fetched=230
+2026-06-09 21:14:29.312191 | Anduril Industries: fetched=2029
+2026-06-09 21:14:29.427825 | POSTED ALL | Anduril Industries | FPGA Verification Engineer, Air Vehicles | Costa Mesa, California, United States
+2026-06-09 21:14:29.769058 | Lattice Semiconductor: fetched=58
+2026-06-09 21:14:30.189037 | MaxLinear: fetched=28
+2026-06-09 21:14:39.049971 | Cadence: fetched=300
+2026-06-09 21:15:03.143853 | Microsoft: fetched=10
+2026-06-09 21:15:18.506234 | AMD: fetched=375
+2026-06-09 21:15:46.551613 | Qualcomm: fetched=186
+2026-06-09 21:16:03.295302 | GlobalFoundries: fetched=52
+2026-06-09 21:16:15.543335 | Synopsys: fetched=163
+2026-06-09 21:16:16.233095 | Arm: fetched=18
+2026-06-09 21:16:21.094906 | Cisco: fetched=300
+2026-06-09 21:16:21.291090 | Cirrus Logic: fetched=2
+2026-06-09 21:16:23.756480 | Amazon: fetched=300
+2026-06-09 21:16:23.870780 | POSTED ALL | Amazon | Data Collection Associate, V-CARE | Sunnyvale, California, USA
+2026-06-09 21:16:24.261656 | Rambus: fetched=29
+2026-06-09 21:16:24.261928 | Run finished | fetched=11693 matched=318 posted=3
