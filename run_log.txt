@@ -19318,3 +19318,58 @@
 2026-06-09 21:16:23.870780 | POSTED ALL | Amazon | Data Collection Associate, V-CARE | Sunnyvale, California, USA
 2026-06-09 21:16:24.261656 | Rambus: fetched=29
 2026-06-09 21:16:24.261928 | Run finished | fetched=11693 matched=318 posted=3
+2026-06-09 22:49:38.731868 | === RUN STARTED ===
+2026-06-09 22:49:38.909368 | Astranis: fetched=129
+2026-06-09 22:49:38.968627 | Tenstorrent: fetched=120
+2026-06-09 22:49:39.029277 | Tenstorrent University: fetched=23
+2026-06-09 22:49:39.092908 | Cerebras Systems: fetched=96
+2026-06-09 22:49:39.149753 | Cerebras Early Talent: fetched=6
+2026-06-09 22:49:39.206268 | Astera Labs: fetched=162
+2026-06-09 22:49:39.270471 | Lightmatter: fetched=45
+2026-06-09 22:49:40.851395 | Western Digital: fetched=300
+2026-06-09 22:49:42.172176 | Bosch: fetched=300
+2026-06-09 22:49:43.510065 | Sandisk: fetched=293
+2026-06-09 22:49:58.017388 | NVIDIA: fetched=300
+2026-06-09 22:49:58.173069 | POSTED ALL | NVIDIA | Embedded Firmware PHY Software Engineer | US, CA, Santa Clara
+2026-06-09 22:50:09.214537 | Intel: fetched=300
+2026-06-09 22:50:16.576171 | Marvell: fetched=300
+2026-06-09 22:50:21.196722 | Apple: fetched=300
+2026-06-09 22:50:21.330813 | POSTED ALL | Apple | Embedded Real Time Critical Control Firmware Engineer | 
+2026-06-09 22:50:29.938919 | Analog Devices: fetched=300
+2026-06-09 22:50:41.605106 | NXP Semiconductors: fetched=300
+2026-06-09 22:50:46.177210 | Broadcom: fetched=300
+2026-06-09 22:50:54.720912 | Microchip: fetched=300
+2026-06-09 22:50:57.051299 | SiFive: fetched=65
+2026-06-09 22:50:58.713436 | Renesas Electronics: fetched=300
+2026-06-09 22:51:08.633825 | KLA: fetched=300
+2026-06-09 22:51:21.243383 | Applied Materials: fetched=300
+2026-06-09 22:51:21.477939 | SambaNova Systems: fetched=19
+2026-06-09 22:51:21.541316 | Samsung Semiconductor: fetched=64
+2026-06-09 22:51:21.606454 | Baya Systems: fetched=27
+2026-06-09 22:51:21.663220 | Ambiq: fetched=30
+2026-06-09 22:51:21.721273 | Graphcore: fetched=220
+2026-06-09 22:51:21.778527 | Eridan: fetched=2
+2026-06-09 22:51:21.835811 | Celero Communications: fetched=17
+2026-06-09 22:51:27.467650 | Micron: fetched=300
+2026-06-09 22:51:27.523659 | Aurora Innovation: fetched=155
+2026-06-09 22:51:27.586472 | Nuro: fetched=107
+2026-06-09 22:51:27.640955 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-09 22:51:27.693005 | Ethernovia: fetched=31
+2026-06-09 22:51:27.798103 | SpaceX: fetched=1744
+2026-06-09 22:51:28.202346 | Axiado: fetched=53
+2026-06-09 22:51:28.264897 | Zipline: fetched=234
+2026-06-09 22:51:28.374769 | Anduril Industries: fetched=2034
+2026-06-09 22:51:28.789983 | Lattice Semiconductor: fetched=58
+2026-06-09 22:51:29.496851 | MaxLinear: fetched=28
+2026-06-09 22:51:38.219668 | Cadence: fetched=300
+2026-06-09 22:51:58.667236 | Microsoft: fetched=10
+2026-06-09 22:52:15.622499 | AMD: fetched=375
+2026-06-09 22:52:44.774751 | Qualcomm: fetched=181
+2026-06-09 22:53:02.318155 | GlobalFoundries: fetched=64
+2026-06-09 22:53:16.528331 | Synopsys: fetched=163
+2026-06-09 22:53:17.149225 | Arm: fetched=18
+2026-06-09 22:53:23.180014 | Cisco: fetched=300
+2026-06-09 22:53:23.611941 | Cirrus Logic: fetched=2
+2026-06-09 22:53:25.874138 | Amazon: fetched=300
+2026-06-09 22:53:26.215125 | Rambus: fetched=29
+2026-06-09 22:53:26.215420 | Run finished | fetched=11704 matched=327 posted=2
