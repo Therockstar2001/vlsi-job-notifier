@@ -19089,3 +19089,59 @@
 2026-06-09 08:45:13.361448 | POSTED ALL | Amazon | Data Collection Associate I, V-CARE | Sunnyvale, California, USA
 2026-06-09 08:45:13.830172 | Rambus: fetched=29
 2026-06-09 08:45:13.830475 | Run finished | fetched=11742 matched=326 posted=4
+2026-06-09 12:15:07.803894 | === RUN STARTED ===
+2026-06-09 12:15:08.050765 | Astranis: fetched=136
+2026-06-09 12:15:08.107423 | Tenstorrent: fetched=119
+2026-06-09 12:15:08.160220 | Tenstorrent University: fetched=23
+2026-06-09 12:15:08.220512 | Cerebras Systems: fetched=96
+2026-06-09 12:15:08.272983 | Cerebras Early Talent: fetched=6
+2026-06-09 12:15:08.328059 | Astera Labs: fetched=162
+2026-06-09 12:15:08.384546 | Lightmatter: fetched=42
+2026-06-09 12:15:09.797229 | Western Digital: fetched=300
+2026-06-09 12:15:11.194826 | Bosch: fetched=300
+2026-06-09 12:15:12.575102 | Sandisk: fetched=299
+2026-06-09 12:15:26.462034 | NVIDIA: fetched=300
+2026-06-09 12:15:37.862557 | Intel: fetched=300
+2026-06-09 12:15:45.221566 | Marvell: fetched=300
+2026-06-09 12:15:50.545146 | Apple: fetched=300
+2026-06-09 12:16:00.034977 | Analog Devices: fetched=300
+2026-06-09 12:16:12.612114 | NXP Semiconductors: fetched=300
+2026-06-09 12:16:17.286425 | Broadcom: fetched=300
+2026-06-09 12:16:26.875652 | Microchip: fetched=300
+2026-06-09 12:16:29.547097 | SiFive: fetched=67
+2026-06-09 12:16:31.113527 | Renesas Electronics: fetched=300
+2026-06-09 12:16:41.200803 | KLA: fetched=300
+2026-06-09 12:16:54.206807 | Applied Materials: fetched=300
+2026-06-09 12:16:54.464290 | SambaNova Systems: fetched=19
+2026-06-09 12:16:54.540347 | Samsung Semiconductor: fetched=63
+2026-06-09 12:16:54.612843 | Baya Systems: fetched=27
+2026-06-09 12:16:54.681526 | Ambiq: fetched=29
+2026-06-09 12:16:54.749401 | Graphcore: fetched=216
+2026-06-09 12:16:54.818053 | Eridan: fetched=3
+2026-06-09 12:16:54.886170 | Celero Communications: fetched=17
+2026-06-09 12:17:00.211302 | Micron: fetched=300
+2026-06-09 12:17:00.288853 | Aurora Innovation: fetched=159
+2026-06-09 12:17:00.394869 | Nuro: fetched=107
+2026-06-09 12:17:00.460396 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-09 12:17:00.530690 | Ethernovia: fetched=31
+2026-06-09 12:17:00.652198 | SpaceX: fetched=1739
+2026-06-09 12:17:01.081147 | Axiado: fetched=53
+2026-06-09 12:17:01.252997 | Zipline: fetched=229
+2026-06-09 12:17:01.417974 | Anduril Industries: fetched=2012
+2026-06-09 12:17:01.782159 | Lattice Semiconductor: fetched=58
+2026-06-09 12:17:02.069834 | MaxLinear: fetched=28
+2026-06-09 12:17:11.098543 | Cadence: fetched=300
+2026-06-09 12:17:30.989041 | Microsoft: fetched=10
+2026-06-09 12:17:48.815498 | AMD: fetched=377
+2026-06-09 12:18:20.652638 | Qualcomm: fetched=195
+2026-06-09 12:18:51.827014 | GlobalFoundries: fetched=66
+2026-06-09 12:19:06.650744 | Synopsys: fetched=162
+2026-06-09 12:19:07.089863 | Arm: fetched=18
+2026-06-09 12:19:12.223937 | Cisco: fetched=300
+2026-06-09 12:19:12.511030 | Cirrus Logic: fetched=2
+2026-06-09 12:19:15.632246 | Amazon: fetched=300
+2026-06-09 12:19:15.826763 | POSTED ALL | Amazon | Lead Fulfillment Associate | Kansas City, Missouri, USA
+2026-06-09 12:19:16.005255 | POSTED ALL | Amazon | Lead Fulfillment Associate | Visalia, California, USA
+2026-06-09 12:19:16.193859 | POSTED ALL | Amazon | Lead Fulfillment Associate, OOH9 | West Jefferson, Ohio, USA
+2026-06-09 12:19:16.587334 | Rambus: fetched=29
+2026-06-09 12:19:16.587610 | Run finished | fetched=11699 matched=330 posted=3
