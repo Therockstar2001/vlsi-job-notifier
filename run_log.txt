@@ -19202,3 +19202,63 @@
 2026-06-09 15:32:10.838076 | POSTED ALL | Amazon | Content Strategy Lead, AWS Skilling and Social Impact (SSI) | Seattle, Washington, USA
 2026-06-09 15:32:11.402074 | Rambus: fetched=29
 2026-06-09 15:32:11.402356 | Run finished | fetched=11318 matched=325 posted=4
+2026-06-09 18:20:44.822750 | === RUN STARTED ===
+2026-06-09 18:20:44.980546 | Astranis: fetched=136
+2026-06-09 18:20:45.013207 | Tenstorrent: fetched=119
+2026-06-09 18:20:45.041664 | Tenstorrent University: fetched=22
+2026-06-09 18:20:45.070262 | Cerebras Systems: fetched=96
+2026-06-09 18:20:45.109293 | Cerebras Early Talent: fetched=6
+2026-06-09 18:20:45.141587 | Astera Labs: fetched=162
+2026-06-09 18:20:45.170330 | Lightmatter: fetched=44
+2026-06-09 18:20:46.664556 | Western Digital: fetched=300
+2026-06-09 18:20:48.038760 | Bosch: fetched=300
+2026-06-09 18:20:49.359468 | Sandisk: fetched=293
+2026-06-09 18:21:04.043599 | NVIDIA: fetched=300
+2026-06-09 18:21:16.536662 | Intel: fetched=300
+2026-06-09 18:21:24.493018 | Marvell: fetched=300
+2026-06-09 18:21:29.381731 | Apple: fetched=300
+2026-06-09 18:21:38.015630 | Analog Devices: fetched=300
+2026-06-09 18:21:48.865130 | NXP Semiconductors: fetched=300
+2026-06-09 18:21:48.978005 | POSTED ALL | NXP Semiconductors | Principal Digital IP Verification Engineer | Austin (Oakhill, Office)
+2026-06-09 18:21:49.056376 | POSTED ALL | NXP Semiconductors | Senior Design Verification Engineer | Austin (Oakhill, Office)
+2026-06-09 18:21:53.834092 | Broadcom: fetched=300
+2026-06-09 18:22:03.830467 | Microchip: fetched=300
+2026-06-09 18:22:06.351937 | SiFive: fetched=65
+2026-06-09 18:22:07.951972 | Renesas Electronics: fetched=300
+2026-06-09 18:22:16.166384 | KLA: fetched=300
+2026-06-09 18:22:29.046736 | Applied Materials: fetched=300
+2026-06-09 18:22:29.153829 | SambaNova Systems: fetched=19
+2026-06-09 18:22:29.180200 | Samsung Semiconductor: fetched=63
+2026-06-09 18:22:29.522737 | Baya Systems: fetched=27
+2026-06-09 18:22:29.551966 | Ambiq: fetched=29
+2026-06-09 18:22:29.587016 | Graphcore: fetched=215
+2026-06-09 18:22:29.611602 | Eridan: fetched=2
+2026-06-09 18:22:29.642544 | Celero Communications: fetched=17
+2026-06-09 18:22:35.966825 | Micron: fetched=300
+2026-06-09 18:22:36.409109 | Aurora Innovation: fetched=159
+2026-06-09 18:22:36.439709 | Nuro: fetched=107
+2026-06-09 18:22:36.467985 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-09 18:22:36.623740 | Ethernovia: fetched=31
+2026-06-09 18:22:36.761639 | SpaceX: fetched=1740
+2026-06-09 18:22:37.150135 | Axiado: fetched=53
+2026-06-09 18:22:37.177706 | Zipline: fetched=228
+2026-06-09 18:22:37.255558 | Anduril Industries: fetched=2027
+2026-06-09 18:22:37.644274 | Lattice Semiconductor: fetched=58
+2026-06-09 18:22:38.070267 | MaxLinear: fetched=28
+2026-06-09 18:22:48.650741 | Cadence: fetched=300
+2026-06-09 18:22:48.727789 | POSTED ALL | Cadence | Sr. Principal Product Engineer, RTL-GDSII | AUSTIN
+2026-06-09 18:23:14.528580 | Microsoft: fetched=9
+2026-06-09 18:23:28.046266 | AMD: fetched=375
+2026-06-09 18:23:54.804388 | Qualcomm: fetched=193
+2026-06-09 18:23:54.886347 | POSTED ALL | Qualcomm | Processor Design Verification Engineer | San Diego, California, United States of America
+2026-06-09 18:23:54.966201 | POSTED ALL | Qualcomm | Emulation Engineer - RISC -V | Cupertino, California, United States of America
+2026-06-09 18:24:13.305759 | GlobalFoundries: fetched=56
+2026-06-09 18:24:24.967755 | Synopsys: fetched=163
+2026-06-09 18:24:25.319352 | Arm: fetched=18
+2026-06-09 18:24:34.396837 | Cisco: fetched=300
+2026-06-09 18:24:34.660718 | Cirrus Logic: fetched=2
+2026-06-09 18:24:37.695364 | Amazon: fetched=300
+2026-06-09 18:24:37.776293 | POSTED ALL | Amazon | Visual Design Associate [S], Global Shared Services | San Jose, San Jose, CRI
+2026-06-09 18:24:37.858728 | POSTED ALL | Amazon | Principal Hardware Engineer, Amazon Industrial Robotics- Verification and Validation | Seattle, Washington, USA
+2026-06-09 18:24:38.193739 | Rambus: fetched=29
+2026-06-09 18:24:38.194057 | Run finished | fetched=11691 matched=323 posted=7
