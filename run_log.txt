@@ -18972,3 +18972,63 @@
 2026-06-08 23:40:18.405027 | Amazon: fetched=300
 2026-06-08 23:40:18.747359 | Rambus: fetched=29
 2026-06-08 23:40:18.994234 | Run finished | fetched=11689 matched=314 posted=0
+2026-06-09 04:34:51.968661 | === RUN STARTED ===
+2026-06-09 04:34:52.114111 | Astranis: fetched=136
+2026-06-09 04:34:52.143756 | Tenstorrent: fetched=119
+2026-06-09 04:34:52.173176 | Tenstorrent University: fetched=23
+2026-06-09 04:34:52.199963 | Cerebras Systems: fetched=96
+2026-06-09 04:34:52.223671 | Cerebras Early Talent: fetched=6
+2026-06-09 04:34:52.254317 | Astera Labs: fetched=161
+2026-06-09 04:34:52.283214 | Lightmatter: fetched=42
+2026-06-09 04:34:53.597760 | Western Digital: fetched=300
+2026-06-09 04:34:54.875815 | Bosch: fetched=300
+2026-06-09 04:34:56.143881 | Sandisk: fetched=300
+2026-06-09 04:35:10.399966 | NVIDIA: fetched=300
+2026-06-09 04:35:20.707837 | Intel: fetched=300
+2026-06-09 04:35:20.789967 | POSTED ALL | Intel | Senior Design Verification Engineer | US, California, Santa Clara
+2026-06-09 04:35:27.707175 | Marvell: fetched=300
+2026-06-09 04:35:32.182033 | Apple: fetched=300
+2026-06-09 04:35:40.416405 | Analog Devices: fetched=300
+2026-06-09 04:35:50.930550 | NXP Semiconductors: fetched=300
+2026-06-09 04:35:55.018517 | Broadcom: fetched=300
+2026-06-09 04:36:04.456049 | Microchip: fetched=300
+2026-06-09 04:36:06.915542 | SiFive: fetched=67
+2026-06-09 04:36:08.426276 | Renesas Electronics: fetched=300
+2026-06-09 04:36:16.424551 | KLA: fetched=300
+2026-06-09 04:36:28.931553 | Applied Materials: fetched=300
+2026-06-09 04:36:29.195029 | SambaNova Systems: fetched=19
+2026-06-09 04:36:29.224907 | Samsung Semiconductor: fetched=63
+2026-06-09 04:36:29.256178 | Baya Systems: fetched=27
+2026-06-09 04:36:29.284923 | Ambiq: fetched=29
+2026-06-09 04:36:29.312770 | Graphcore: fetched=216
+2026-06-09 04:36:29.344599 | Eridan: fetched=3
+2026-06-09 04:36:29.374347 | Celero Communications: fetched=17
+2026-06-09 04:36:33.993254 | Micron: fetched=300
+2026-06-09 04:36:34.020123 | Aurora Innovation: fetched=159
+2026-06-09 04:36:34.048843 | Nuro: fetched=107
+2026-06-09 04:36:34.070852 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-09 04:36:34.094667 | Ethernovia: fetched=30
+2026-06-09 04:36:34.165887 | SpaceX: fetched=1739
+2026-06-09 04:36:34.550447 | Axiado: fetched=53
+2026-06-09 04:36:34.580253 | Zipline: fetched=228
+2026-06-09 04:36:34.668374 | Anduril Industries: fetched=2013
+2026-06-09 04:36:34.777466 | POSTED ALL | Anduril Industries | Field Logistics Associate | Costa Mesa, California, United States
+2026-06-09 04:36:34.881643 | POSTED ALL | Anduril Industries | Logistics Program Associate | Costa Mesa, California, United States
+2026-06-09 04:36:35.400008 | Lattice Semiconductor: fetched=58
+2026-06-09 04:36:35.599279 | MaxLinear: fetched=28
+2026-06-09 04:36:44.641830 | Cadence: fetched=300
+2026-06-09 04:36:44.720143 | POSTED ALL | Cadence | AE -  Verification IP, HPC Protocols | SAN JOSE
+2026-06-09 04:37:11.796719 | Microsoft: fetched=12
+2026-06-09 04:37:34.840055 | AMD: fetched=377
+2026-06-09 04:38:06.959537 | Qualcomm: fetched=189
+2026-06-09 04:38:07.037856 | POSTED ALL | Qualcomm | CPU Physical Electrical Analysis Engineer, Santa Clara | Santa Clara, California, United States of America
+2026-06-09 04:38:22.650348 | GlobalFoundries: fetched=58
+2026-06-09 04:38:38.041923 | Synopsys: fetched=206
+2026-06-09 04:38:38.186397 | POSTED ALL | Synopsys | Senior Staff RTL Design Engineer- 16908Boxborough, MassachusettsCategory:EngineeringPosted:06/07/2026Job ID:16908 | Boxborough, Massachusetts
+2026-06-09 04:38:38.561103 | Arm: fetched=18
+2026-06-09 04:38:43.370954 | Cisco: fetched=300
+2026-06-09 04:38:43.647312 | Cirrus Logic: fetched=2
+2026-06-09 04:38:45.505812 | Amazon: fetched=300
+2026-06-09 04:38:45.609806 | POSTED ALL | Amazon | Sr. ASIC Design Verification Engineer, Amazon Leo | Austin, Texas, USA
+2026-06-09 04:38:45.978469 | Rambus: fetched=29
+2026-06-09 04:38:45.978781 | Run finished | fetched=11730 matched=320 posted=7
