@@ -19605,3 +19605,72 @@
 2026-06-10 14:32:55.847705 | POSTED ALL | Amazon | Lead Fulfillment Associate | Aurora, Colorado, USA
 2026-06-10 14:32:56.161258 | Rambus: fetched=29
 2026-06-10 14:32:56.161511 | Run finished | fetched=11674 matched=337 posted=6
+2026-06-10 18:09:15.013969 | === RUN STARTED ===
+2026-06-10 18:09:15.169539 | Astranis: fetched=129
+2026-06-10 18:09:15.214511 | Tenstorrent: fetched=118
+2026-06-10 18:09:15.247710 | Tenstorrent University: fetched=23
+2026-06-10 18:09:15.283957 | Cerebras Systems: fetched=99
+2026-06-10 18:09:15.317334 | Cerebras Early Talent: fetched=6
+2026-06-10 18:09:15.351422 | Astera Labs: fetched=167
+2026-06-10 18:09:15.385142 | Lightmatter: fetched=43
+2026-06-10 18:09:16.849907 | Western Digital: fetched=300
+2026-06-10 18:09:18.212228 | Bosch: fetched=300
+2026-06-10 18:09:19.543243 | Sandisk: fetched=292
+2026-06-10 18:09:41.250351 | NVIDIA: fetched=300
+2026-06-10 18:09:52.896487 | Intel: fetched=300
+2026-06-10 18:10:02.478019 | Marvell: fetched=300
+2026-06-10 18:10:07.182723 | Apple: fetched=300
+2026-06-10 18:10:07.322874 | POSTED ALL | Apple | Silicon Validation Software Engineer: Embedded and Low-level Programming | 
+2026-06-10 18:10:07.415866 | POSTED ALL | Apple | Embedded 5G/4G Cellular Physical Layer Data Path Signal Processing Firmware Engineer | 
+2026-06-10 18:10:17.351019 | Analog Devices: fetched=300
+2026-06-10 18:10:28.932957 | NXP Semiconductors: fetched=300
+2026-06-10 18:10:33.082903 | Broadcom: fetched=300
+2026-06-10 18:10:47.645337 | Microchip: fetched=300
+2026-06-10 18:10:50.121673 | SiFive: fetched=65
+2026-06-10 18:10:51.720820 | Renesas Electronics: fetched=300
+2026-06-10 18:11:08.611509 | KLA: fetched=300
+2026-06-10 18:11:21.622411 | Applied Materials: fetched=300
+2026-06-10 18:11:21.872707 | SambaNova Systems: fetched=19
+2026-06-10 18:11:23.363059 | Samsung Semiconductor: fetched=63
+2026-06-10 18:11:23.459836 | POSTED ALL | Samsung Semiconductor | Staff Engineer, RTL | San Jose, California, United States
+2026-06-10 18:11:23.493128 | Baya Systems: fetched=27
+2026-06-10 18:11:23.525189 | Ambiq: fetched=31
+2026-06-10 18:11:23.562468 | Graphcore: fetched=216
+2026-06-10 18:11:23.590698 | Eridan: fetched=2
+2026-06-10 18:11:23.646486 | Celero Communications: fetched=17
+2026-06-10 18:11:28.635294 | Micron: fetched=300
+2026-06-10 18:11:28.673842 | Aurora Innovation: fetched=155
+2026-06-10 18:11:28.710369 | Nuro: fetched=102
+2026-06-10 18:11:28.740628 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-10 18:11:28.774651 | Ethernovia: fetched=31
+2026-06-10 18:11:28.858307 | SpaceX: fetched=1750
+2026-06-10 18:11:29.267282 | Axiado: fetched=53
+2026-06-10 18:11:29.303166 | Zipline: fetched=239
+2026-06-10 18:11:29.387646 | POSTED ALL | Zipline | Site Acquisition Associate | Seattle, Washington, USA
+2026-06-10 18:11:29.500139 | POSTED ALL | Zipline | Site Acquisition Associate | South San Francisco, California, USA
+2026-06-10 18:11:29.589694 | POSTED ALL | Zipline | Site Acquisition Associate - Northeast | Boston, Massachusetts, USA; New York, New York, USA; Washington D.C., USA
+2026-06-10 18:11:29.688662 | POSTED ALL | Zipline | Site Acquisition Associate - Southeast | Atlanta, Georgia, USA; Miami, Florida, USA; Tampa, Florida
+2026-06-10 18:11:29.784529 | POSTED ALL | Zipline | Site Acquisition Associate - Texas | Austin, Texas, USA; Dallas-Fort Worth, Texas, USA; Houston, Texas, USA
+2026-06-10 18:11:29.909370 | Anduril Industries: fetched=2031
+2026-06-10 18:11:30.040653 | POSTED ALL | Anduril Industries | Engineering Manager, Embedded Systems Engineering | Costa Mesa, California, United States
+2026-06-10 18:11:30.420747 | Lattice Semiconductor: fetched=58
+2026-06-10 18:11:30.844846 | MaxLinear: fetched=28
+2026-06-10 18:11:39.879002 | Cadence: fetched=300
+2026-06-10 18:12:10.645153 | Microsoft: fetched=6
+2026-06-10 18:12:25.389294 | AMD: fetched=375
+2026-06-10 18:12:53.971900 | Qualcomm: fetched=195
+2026-06-10 18:12:54.095382 | POSTED ALL | Qualcomm | Modem HW Design Verification Engineer – AI Driven Next Gen Modem Hardware Development | San Diego, California, United States of America
+2026-06-10 18:13:09.520344 | GlobalFoundries: fetched=63
+2026-06-10 18:13:25.402352 | Synopsys: fetched=204
+2026-06-10 18:13:25.764609 | Arm: fetched=18
+2026-06-10 18:13:32.003966 | Cisco: fetched=300
+2026-06-10 18:13:32.277146 | Cirrus Logic: fetched=2
+2026-06-10 18:13:34.341992 | Amazon: fetched=300
+2026-06-10 18:13:34.425571 | POSTED ALL | Amazon | Sr Embedded SDE III, Hardware Engineering Services | Cupertino, California, USA
+2026-06-10 18:13:34.546715 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Gouldsboro, Pennsylvania, USA
+2026-06-10 18:13:34.643497 | POSTED ALL | Amazon | IT Support Associate II | Tracy, California, USA
+2026-06-10 18:13:34.730198 | POSTED ALL | Amazon | IT Support Associate II, OTS | Tracy, California, USA
+2026-06-10 18:13:34.826393 | POSTED ALL | Amazon | SDE - Controls & Embedded Systems, Last Mile Delivery Prdct&Tech | Bellevue, Washington, USA
+2026-06-10 18:13:34.914814 | POSTED ALL | Amazon | Visual Design Associate [S], Global Shared Services | San Jose, San Jose, CRI
+2026-06-10 18:13:35.140751 | Rambus: fetched=29
+2026-06-10 18:13:35.141088 | Run finished | fetched=11756 matched=353 posted=16
