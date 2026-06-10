@@ -19546,3 +19546,62 @@
 2026-06-10 11:06:59.466239 | Amazon: fetched=300
 2026-06-10 11:06:59.719778 | Rambus: fetched=29
 2026-06-10 11:06:59.720096 | Run finished | fetched=11664 matched=336 posted=4
+2026-06-10 14:28:58.600588 | === RUN STARTED ===
+2026-06-10 14:28:58.757552 | Astranis: fetched=130
+2026-06-10 14:28:58.807656 | Tenstorrent: fetched=119
+2026-06-10 14:28:58.854347 | Tenstorrent University: fetched=23
+2026-06-10 14:28:58.905317 | Cerebras Systems: fetched=98
+2026-06-10 14:28:58.954684 | Cerebras Early Talent: fetched=6
+2026-06-10 14:28:59.000259 | Astera Labs: fetched=167
+2026-06-10 14:28:59.056866 | Lightmatter: fetched=43
+2026-06-10 14:29:00.651489 | Western Digital: fetched=300
+2026-06-10 14:29:01.964154 | Bosch: fetched=300
+2026-06-10 14:29:03.309914 | Sandisk: fetched=292
+2026-06-10 14:29:19.520627 | NVIDIA: fetched=300
+2026-06-10 14:29:30.942276 | Intel: fetched=300
+2026-06-10 14:29:38.298659 | Marvell: fetched=300
+2026-06-10 14:29:38.477208 | POSTED ALL | Marvell | Senior Staff Engineer, Design Verification | Santa Clara, CA
+2026-06-10 14:29:43.145479 | Apple: fetched=300
+2026-06-10 14:29:43.281131 | POSTED ALL | Apple | Embedded 5G/4G Cellular Physical Layer Data Path Signal Processing Firmware Engineer | 
+2026-06-10 14:29:52.053924 | Analog Devices: fetched=300
+2026-06-10 14:30:04.267047 | NXP Semiconductors: fetched=300
+2026-06-10 14:30:09.811468 | Broadcom: fetched=300
+2026-06-10 14:30:21.734521 | Microchip: fetched=300
+2026-06-10 14:30:24.685132 | SiFive: fetched=65
+2026-06-10 14:30:26.235900 | Renesas Electronics: fetched=300
+2026-06-10 14:30:38.526859 | KLA: fetched=300
+2026-06-10 14:30:52.487647 | Applied Materials: fetched=300
+2026-06-10 14:30:52.577862 | SambaNova Systems: fetched=19
+2026-06-10 14:30:52.631033 | Samsung Semiconductor: fetched=64
+2026-06-10 14:30:52.673517 | Baya Systems: fetched=27
+2026-06-10 14:30:52.720165 | Ambiq: fetched=31
+2026-06-10 14:30:52.771241 | Graphcore: fetched=221
+2026-06-10 14:30:52.855944 | Eridan: fetched=2
+2026-06-10 14:30:52.899052 | Celero Communications: fetched=17
+2026-06-10 14:30:58.364171 | Micron: fetched=300
+2026-06-10 14:30:58.420468 | Aurora Innovation: fetched=156
+2026-06-10 14:30:58.467480 | Nuro: fetched=107
+2026-06-10 14:30:58.513221 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-10 14:30:58.563087 | Ethernovia: fetched=31
+2026-06-10 14:30:58.675507 | SpaceX: fetched=1749
+2026-06-10 14:30:59.105493 | Axiado: fetched=53
+2026-06-10 14:30:59.152919 | Zipline: fetched=234
+2026-06-10 14:30:59.257706 | Anduril Industries: fetched=2038
+2026-06-10 14:30:59.646442 | Lattice Semiconductor: fetched=58
+2026-06-10 14:31:00.003245 | MaxLinear: fetched=28
+2026-06-10 14:31:10.571843 | Cadence: fetched=300
+2026-06-10 14:31:32.758704 | Microsoft: fetched=9
+2026-06-10 14:31:48.035345 | AMD: fetched=375
+2026-06-10 14:32:15.494316 | Qualcomm: fetched=174
+2026-06-10 14:32:34.954183 | GlobalFoundries: fetched=64
+2026-06-10 14:32:46.716677 | Synopsys: fetched=125
+2026-06-10 14:32:47.267747 | Arm: fetched=18
+2026-06-10 14:32:52.895415 | Cisco: fetched=300
+2026-06-10 14:32:53.054803 | Cirrus Logic: fetched=2
+2026-06-10 14:32:55.384928 | Amazon: fetched=300
+2026-06-10 14:32:55.506892 | POSTED ALL | Amazon | Lead Fulfillment Associate, OSC9 | Spartanburg, South Carolina, USA
+2026-06-10 14:32:55.628796 | POSTED ALL | Amazon | Lead Fulfillment Associate, OSW9  | Phoenix, Arizona, USA
+2026-06-10 14:32:55.743096 | POSTED ALL | Amazon | Lead Fulfillment Associate, OPA9 | Tremont, Pennsylvania, USA
+2026-06-10 14:32:55.847705 | POSTED ALL | Amazon | Lead Fulfillment Associate | Aurora, Colorado, USA
+2026-06-10 14:32:56.161258 | Rambus: fetched=29
+2026-06-10 14:32:56.161511 | Run finished | fetched=11674 matched=337 posted=6
