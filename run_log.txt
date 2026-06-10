@@ -19732,3 +19732,66 @@
 2026-06-10 20:49:44.414198 | POSTED ALL | Amazon | Lead Fulfillment Associate (Tier 3), OMA2 | Niagara Falls, New York, USA
 2026-06-10 20:49:44.882013 | Rambus: fetched=29
 2026-06-10 20:49:44.882309 | Run finished | fetched=11774 matched=350 posted=5
+2026-06-10 22:56:29.047016 | === RUN STARTED ===
+2026-06-10 22:56:29.235030 | Astranis: fetched=129
+2026-06-10 22:56:29.299859 | Tenstorrent: fetched=117
+2026-06-10 22:56:29.363672 | Tenstorrent University: fetched=23
+2026-06-10 22:56:29.477019 | Cerebras Systems: fetched=99
+2026-06-10 22:56:29.545022 | Cerebras Early Talent: fetched=6
+2026-06-10 22:56:29.687752 | Astera Labs: fetched=167
+2026-06-10 22:56:29.746039 | Lightmatter: fetched=44
+2026-06-10 22:56:31.274701 | Western Digital: fetched=300
+2026-06-10 22:56:32.748905 | Bosch: fetched=300
+2026-06-10 22:56:34.195588 | Sandisk: fetched=295
+2026-06-10 22:56:49.767882 | NVIDIA: fetched=300
+2026-06-10 22:57:06.899416 | Intel: fetched=300
+2026-06-10 22:57:07.150495 | POSTED ALL | Intel | CPU Circuit Design Engineer | US, Texas, Austin
+2026-06-10 22:57:15.310363 | Marvell: fetched=300
+2026-06-10 22:57:15.555297 | POSTED ALL | Marvell | Associate Workplace Specialist | Austin, TX
+2026-06-10 22:57:21.711714 | Apple: fetched=300
+2026-06-10 22:57:21.944997 | POSTED ALL | Apple | Wireless SOC Verification Engineer | 
+2026-06-10 22:57:22.203622 | POSTED ALL | Apple | Silicon Validation Software Engineer: Embedded and Low-level Programming | 
+2026-06-10 22:57:31.755649 | Analog Devices: fetched=300
+2026-06-10 22:57:43.372015 | NXP Semiconductors: fetched=300
+2026-06-10 22:57:43.602647 | POSTED ALL | NXP Semiconductors | Digital IP Principal Verification Engineer | Austin (Oakhill, Office)
+2026-06-10 22:57:43.843793 | POSTED ALL | NXP Semiconductors | Senior Verification Engineer | Austin (Oakhill, Office)
+2026-06-10 22:57:50.078154 | Broadcom: fetched=300
+2026-06-10 22:57:58.441542 | Microchip: fetched=300
+2026-06-10 22:58:01.198264 | SiFive: fetched=65
+2026-06-10 22:58:02.870433 | Renesas Electronics: fetched=300
+2026-06-10 22:58:12.317785 | KLA: fetched=300
+2026-06-10 22:58:25.064929 | Applied Materials: fetched=300
+2026-06-10 22:58:25.209746 | SambaNova Systems: fetched=19
+2026-06-10 22:58:25.269284 | Samsung Semiconductor: fetched=63
+2026-06-10 22:58:25.326366 | Baya Systems: fetched=27
+2026-06-10 22:58:25.381571 | Ambiq: fetched=31
+2026-06-10 22:58:25.446727 | Graphcore: fetched=218
+2026-06-10 22:58:25.503319 | Eridan: fetched=2
+2026-06-10 22:58:25.616382 | Celero Communications: fetched=17
+2026-06-10 22:58:32.302922 | Micron: fetched=300
+2026-06-10 22:58:32.366070 | Aurora Innovation: fetched=154
+2026-06-10 22:58:32.739455 | Nuro: fetched=102
+2026-06-10 22:58:32.793085 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-10 22:58:32.855725 | Ethernovia: fetched=31
+2026-06-10 22:58:32.982794 | SpaceX: fetched=1745
+2026-06-10 22:58:33.433787 | Axiado: fetched=53
+2026-06-10 22:58:33.494810 | Zipline: fetched=239
+2026-06-10 22:58:33.617936 | Anduril Industries: fetched=2052
+2026-06-10 22:58:34.358624 | Lattice Semiconductor: fetched=58
+2026-06-10 22:58:35.089137 | MaxLinear: fetched=28
+2026-06-10 22:58:45.296714 | Cadence: fetched=300
+2026-06-10 22:59:07.667871 | Microsoft: fetched=6
+2026-06-10 22:59:26.395607 | AMD: fetched=375
+2026-06-10 22:59:49.420948 | Qualcomm: fetched=191
+2026-06-10 22:59:49.709847 | POSTED ALL | Qualcomm | Principal CPU Power Modeling Engineer (San Diego, CA) | San Diego, California, United States of America
+2026-06-10 23:00:09.641060 | GlobalFoundries: fetched=65
+2026-06-10 23:00:35.301599 | Synopsys: fetched=204
+2026-06-10 23:00:35.760380 | Arm: fetched=18
+2026-06-10 23:00:40.208670 | Cisco: fetched=300
+2026-06-10 23:00:40.723047 | Cirrus Logic: fetched=2
+2026-06-10 23:00:43.744649 | Amazon: fetched=300
+2026-06-10 23:00:43.986187 | POSTED ALL | Amazon | IT Support Associate II, OTS  | Phoenix, Arizona, USA
+2026-06-10 23:00:44.227059 | POSTED ALL | Amazon | Embedded Software Engineer, Leo MAC | Redmond, Washington, USA
+2026-06-10 23:00:44.523571 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Gouldsboro, Pennsylvania, USA
+2026-06-10 23:00:45.038778 | Rambus: fetched=29
+2026-06-10 23:00:45.039058 | Run finished | fetched=11774 matched=353 posted=10
