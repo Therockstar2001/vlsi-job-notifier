@@ -19432,3 +19432,60 @@
 2026-06-10 01:34:09.587528 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Romulus, Michigan, USA
 2026-06-10 01:34:09.892803 | Rambus: fetched=29
 2026-06-10 01:34:09.893135 | Run finished | fetched=11715 matched=322 posted=6
+2026-06-10 06:41:59.981130 | === RUN STARTED ===
+2026-06-10 06:42:00.169801 | Astranis: fetched=130
+2026-06-10 06:42:00.209063 | Tenstorrent: fetched=120
+2026-06-10 06:42:00.244682 | Tenstorrent University: fetched=23
+2026-06-10 06:42:00.277066 | Cerebras Systems: fetched=96
+2026-06-10 06:42:00.307050 | Cerebras Early Talent: fetched=6
+2026-06-10 06:42:00.339770 | Astera Labs: fetched=167
+2026-06-10 06:42:00.371029 | Lightmatter: fetched=43
+2026-06-10 06:42:01.763969 | Western Digital: fetched=300
+2026-06-10 06:42:03.117707 | Bosch: fetched=300
+2026-06-10 06:42:04.429856 | Sandisk: fetched=292
+2026-06-10 06:42:22.660963 | NVIDIA: fetched=300
+2026-06-10 06:42:32.893523 | Intel: fetched=300
+2026-06-10 06:42:38.997888 | Marvell: fetched=300
+2026-06-10 06:42:39.102264 | POSTED ALL | Marvell | Senior Staff Engineer, Design Verification | Santa Clara, CA
+2026-06-10 06:42:39.223022 | POSTED ALL | Marvell | Staff Engineer, Design Verification | Santa Clara, CA
+2026-06-10 06:42:43.768104 | Apple: fetched=300
+2026-06-10 06:42:43.864071 | POSTED ALL | Apple | Embedded 5G/4G Cellular Physical Layer Data Path Signal Processing Firmware Engineer | 
+2026-06-10 06:42:43.947444 | POSTED ALL | Apple | Embedded Real Time Critical Control Firmware Engineer | 
+2026-06-10 06:42:52.947767 | Analog Devices: fetched=300
+2026-06-10 06:43:03.958643 | NXP Semiconductors: fetched=300
+2026-06-10 06:43:08.187974 | Broadcom: fetched=300
+2026-06-10 06:43:17.183173 | Microchip: fetched=300
+2026-06-10 06:43:19.369542 | SiFive: fetched=65
+2026-06-10 06:43:20.936253 | Renesas Electronics: fetched=300
+2026-06-10 06:43:29.966919 | KLA: fetched=300
+2026-06-10 06:43:43.002696 | Applied Materials: fetched=300
+2026-06-10 06:43:43.207084 | SambaNova Systems: fetched=19
+2026-06-10 06:43:43.240673 | Samsung Semiconductor: fetched=64
+2026-06-10 06:43:43.271180 | Baya Systems: fetched=27
+2026-06-10 06:43:43.300215 | Ambiq: fetched=31
+2026-06-10 06:43:43.334282 | Graphcore: fetched=220
+2026-06-10 06:43:43.368207 | Eridan: fetched=2
+2026-06-10 06:43:43.403511 | Celero Communications: fetched=17
+2026-06-10 06:43:48.173905 | Micron: fetched=300
+2026-06-10 06:43:48.209811 | Aurora Innovation: fetched=155
+2026-06-10 06:43:48.241785 | Nuro: fetched=107
+2026-06-10 06:43:48.272131 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-10 06:43:48.300018 | Ethernovia: fetched=31
+2026-06-10 06:43:48.381141 | SpaceX: fetched=1755
+2026-06-10 06:43:48.772700 | Axiado: fetched=53
+2026-06-10 06:43:48.816499 | Zipline: fetched=234
+2026-06-10 06:43:48.911267 | Anduril Industries: fetched=2036
+2026-06-10 06:43:49.299681 | Lattice Semiconductor: fetched=58
+2026-06-10 06:43:49.679094 | MaxLinear: fetched=28
+2026-06-10 06:43:57.839610 | Cadence: fetched=300
+2026-06-10 06:44:22.594674 | Microsoft: fetched=13
+2026-06-10 06:44:37.044911 | AMD: fetched=375
+2026-06-10 06:45:03.321598 | Qualcomm: fetched=184
+2026-06-10 06:45:18.185895 | GlobalFoundries: fetched=54
+2026-06-10 06:45:27.392101 | Synopsys: fetched=126
+2026-06-10 06:45:27.821101 | Arm: fetched=18
+2026-06-10 06:45:32.914910 | Cisco: fetched=300
+2026-06-10 06:45:33.297321 | Cirrus Logic: fetched=2
+2026-06-10 06:45:35.946942 | Amazon: fetched=300
+2026-06-10 06:45:36.176302 | Rambus: fetched=29
+2026-06-10 06:45:36.176624 | Run finished | fetched=11680 matched=331 posted=4
