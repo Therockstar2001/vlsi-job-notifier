@@ -19373,3 +19373,62 @@
 2026-06-09 22:53:25.874138 | Amazon: fetched=300
 2026-06-09 22:53:26.215125 | Rambus: fetched=29
 2026-06-09 22:53:26.215420 | Run finished | fetched=11704 matched=327 posted=2
+2026-06-10 01:30:37.852112 | === RUN STARTED ===
+2026-06-10 01:30:37.990847 | Astranis: fetched=130
+2026-06-10 01:30:38.023052 | Tenstorrent: fetched=120
+2026-06-10 01:30:38.051430 | Tenstorrent University: fetched=23
+2026-06-10 01:30:38.079753 | Cerebras Systems: fetched=96
+2026-06-10 01:30:38.136988 | Cerebras Early Talent: fetched=6
+2026-06-10 01:30:38.168119 | Astera Labs: fetched=167
+2026-06-10 01:30:38.203699 | Lightmatter: fetched=43
+2026-06-10 01:30:39.778047 | Western Digital: fetched=300
+2026-06-10 01:30:41.090384 | Bosch: fetched=300
+2026-06-10 01:30:42.360443 | Sandisk: fetched=293
+2026-06-10 01:30:56.340858 | NVIDIA: fetched=300
+2026-06-10 01:30:56.415410 | POSTED ALL | NVIDIA | ASIC Design Engineer | US, CA, Santa Clara
+2026-06-10 01:31:11.117732 | Intel: fetched=300
+2026-06-10 01:31:17.712603 | Marvell: fetched=300
+2026-06-10 01:31:22.244832 | Apple: fetched=300
+2026-06-10 01:31:22.322237 | POSTED ALL | Apple | Embedded Real Time Critical Control Firmware Engineer | 
+2026-06-10 01:31:30.694037 | Analog Devices: fetched=300
+2026-06-10 01:31:41.467071 | NXP Semiconductors: fetched=300
+2026-06-10 01:31:45.329595 | Broadcom: fetched=300
+2026-06-10 01:31:54.806202 | Microchip: fetched=300
+2026-06-10 01:31:56.951029 | SiFive: fetched=65
+2026-06-10 01:31:58.502400 | Renesas Electronics: fetched=300
+2026-06-10 01:32:09.296625 | KLA: fetched=300
+2026-06-10 01:32:21.116734 | Applied Materials: fetched=300
+2026-06-10 01:32:21.219361 | SambaNova Systems: fetched=19
+2026-06-10 01:32:21.248774 | Samsung Semiconductor: fetched=64
+2026-06-10 01:32:21.279530 | Baya Systems: fetched=27
+2026-06-10 01:32:21.305756 | Ambiq: fetched=30
+2026-06-10 01:32:21.349431 | Graphcore: fetched=220
+2026-06-10 01:32:21.379201 | Eridan: fetched=2
+2026-06-10 01:32:21.409980 | Celero Communications: fetched=17
+2026-06-10 01:32:26.156211 | Micron: fetched=300
+2026-06-10 01:32:26.191651 | Aurora Innovation: fetched=155
+2026-06-10 01:32:26.220944 | Nuro: fetched=107
+2026-06-10 01:32:26.245439 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-10 01:32:26.276501 | Ethernovia: fetched=31
+2026-06-10 01:32:26.349589 | SpaceX: fetched=1753
+2026-06-10 01:32:26.753681 | Axiado: fetched=53
+2026-06-10 01:32:26.786068 | Zipline: fetched=234
+2026-06-10 01:32:26.875304 | Anduril Industries: fetched=2034
+2026-06-10 01:32:27.271785 | Lattice Semiconductor: fetched=58
+2026-06-10 01:32:27.550588 | MaxLinear: fetched=28
+2026-06-10 01:32:35.492389 | Cadence: fetched=300
+2026-06-10 01:32:58.249910 | Microsoft: fetched=10
+2026-06-10 01:33:10.922789 | AMD: fetched=375
+2026-06-10 01:33:35.905343 | Qualcomm: fetched=187
+2026-06-10 01:33:48.762464 | GlobalFoundries: fetched=55
+2026-06-10 01:34:00.127633 | Synopsys: fetched=164
+2026-06-10 01:34:00.551121 | Arm: fetched=18
+2026-06-10 01:34:06.833125 | Cisco: fetched=300
+2026-06-10 01:34:07.126456 | Cirrus Logic: fetched=2
+2026-06-10 01:34:09.268080 | Amazon: fetched=300
+2026-06-10 01:34:09.351201 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, SDS  | West Chester, Ohio, USA
+2026-06-10 01:34:09.425605 | POSTED ALL | Amazon | Embedded Firmware Engineer, Annapurna Labs ML Acceleration Systems Software | Austin, Texas, USA
+2026-06-10 01:34:09.509286 | POSTED ALL | Amazon | Sr Manager ASIC NPI, Amazon Leo | Sunnyvale, California, USA
+2026-06-10 01:34:09.587528 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Romulus, Michigan, USA
+2026-06-10 01:34:09.892803 | Rambus: fetched=29
+2026-06-10 01:34:09.893135 | Run finished | fetched=11715 matched=322 posted=6
