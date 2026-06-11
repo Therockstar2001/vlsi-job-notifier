@@ -19853,3 +19853,59 @@
 2026-06-11 01:43:10.034963 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Gouldsboro, Pennsylvania, USA
 2026-06-11 01:43:10.532021 | Rambus: fetched=29
 2026-06-11 01:43:10.532291 | Run finished | fetched=11754 matched=350 posted=5
+2026-06-11 07:04:27.932947 | === RUN STARTED ===
+2026-06-11 07:04:28.172429 | Astranis: fetched=129
+2026-06-11 07:04:28.216411 | Tenstorrent: fetched=119
+2026-06-11 07:04:28.266408 | Tenstorrent University: fetched=23
+2026-06-11 07:04:28.295215 | Cerebras Systems: fetched=99
+2026-06-11 07:04:28.328756 | Cerebras Early Talent: fetched=6
+2026-06-11 07:04:28.361812 | Astera Labs: fetched=167
+2026-06-11 07:04:28.390436 | Lightmatter: fetched=44
+2026-06-11 07:04:29.801922 | Western Digital: fetched=300
+2026-06-11 07:04:31.110593 | Bosch: fetched=300
+2026-06-11 07:04:32.418704 | Sandisk: fetched=292
+2026-06-11 07:04:46.798720 | NVIDIA: fetched=300
+2026-06-11 07:04:46.902316 | POSTED ALL | NVIDIA | SoC Verification Lead | US, CA, Santa Clara
+2026-06-11 07:04:47.031938 | POSTED ALL | NVIDIA | Senior Firmware Engineer - GPU Verification | US, CA, Santa Clara
+2026-06-11 07:04:57.544373 | Intel: fetched=300
+2026-06-11 07:05:17.569843 | Marvell: fetched=300
+2026-06-11 07:05:22.283410 | Apple: fetched=300
+2026-06-11 07:05:22.454217 | POSTED ALL | Apple | Silicon Validation Software Engineer: Embedded and Low-level Programming | 
+2026-06-11 07:05:31.689238 | Analog Devices: fetched=300
+2026-06-11 07:05:42.860982 | NXP Semiconductors: fetched=300
+2026-06-11 07:05:46.781063 | Broadcom: fetched=300
+2026-06-11 07:05:56.330058 | Microchip: fetched=300
+2026-06-11 07:05:58.639422 | SiFive: fetched=67
+2026-06-11 07:06:00.204798 | Renesas Electronics: fetched=300
+2026-06-11 07:06:10.532358 | KLA: fetched=300
+2026-06-11 07:06:23.088527 | Applied Materials: fetched=300
+2026-06-11 07:06:23.273408 | SambaNova Systems: fetched=19
+2026-06-11 07:06:23.308421 | Samsung Semiconductor: fetched=63
+2026-06-11 07:06:23.340224 | Baya Systems: fetched=28
+2026-06-11 07:06:23.369082 | Ambiq: fetched=31
+2026-06-11 07:06:23.406823 | Graphcore: fetched=218
+2026-06-11 07:06:23.436268 | Eridan: fetched=2
+2026-06-11 07:06:23.469483 | Celero Communications: fetched=17
+2026-06-11 07:06:29.828426 | Micron: fetched=300
+2026-06-11 07:06:29.861524 | Aurora Innovation: fetched=153
+2026-06-11 07:06:29.896440 | Nuro: fetched=102
+2026-06-11 07:06:29.925580 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-11 07:06:29.952770 | Ethernovia: fetched=31
+2026-06-11 07:06:30.037001 | SpaceX: fetched=1749
+2026-06-11 07:06:30.435435 | Axiado: fetched=53
+2026-06-11 07:06:30.468797 | Zipline: fetched=239
+2026-06-11 07:06:30.554990 | Anduril Industries: fetched=2060
+2026-06-11 07:06:31.024106 | Lattice Semiconductor: fetched=58
+2026-06-11 07:06:31.403841 | MaxLinear: fetched=28
+2026-06-11 07:06:39.835438 | Cadence: fetched=300
+2026-06-11 07:07:12.038467 | Microsoft: fetched=10
+2026-06-11 07:07:24.755029 | AMD: fetched=375
+2026-06-11 07:07:49.570987 | Qualcomm: fetched=198
+2026-06-11 07:08:05.275021 | GlobalFoundries: fetched=67
+2026-06-11 07:08:21.785986 | Synopsys: fetched=203
+2026-06-11 07:08:22.158347 | Arm: fetched=18
+2026-06-11 07:08:27.489841 | Cisco: fetched=300
+2026-06-11 07:08:27.787289 | Cirrus Logic: fetched=2
+2026-06-11 07:08:30.722117 | Amazon: fetched=300
+2026-06-11 07:08:30.982357 | Rambus: fetched=29
+2026-06-11 07:08:30.982647 | Run finished | fetched=11799 matched=359 posted=3
