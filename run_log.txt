@@ -20075,3 +20075,60 @@
 2026-06-11 19:49:03.180827 | POSTED ALL | Amazon | Embedded Software Dev Engineer, Amazon Leo CT SW Team | Redmond, Washington, USA
 2026-06-11 19:49:03.667730 | Rambus: fetched=29
 2026-06-11 19:49:03.668019 | Run finished | fetched=11627 matched=349 posted=4
+2026-06-11 22:15:34.140838 | === RUN STARTED ===
+2026-06-11 22:15:34.355719 | Astranis: fetched=125
+2026-06-11 22:15:34.422703 | Tenstorrent: fetched=118
+2026-06-11 22:15:34.480557 | Tenstorrent University: fetched=23
+2026-06-11 22:15:34.540482 | Cerebras Systems: fetched=99
+2026-06-11 22:15:34.606581 | Cerebras Early Talent: fetched=6
+2026-06-11 22:15:34.666761 | Astera Labs: fetched=166
+2026-06-11 22:15:34.728393 | Lightmatter: fetched=45
+2026-06-11 22:15:36.364023 | Western Digital: fetched=300
+2026-06-11 22:15:37.855541 | Bosch: fetched=300
+2026-06-11 22:15:39.333622 | Sandisk: fetched=296
+2026-06-11 22:15:55.702357 | NVIDIA: fetched=300
+2026-06-11 22:16:09.098354 | Intel: fetched=300
+2026-06-11 22:16:17.733090 | Marvell: fetched=300
+2026-06-11 22:16:23.488570 | Apple: fetched=300
+2026-06-11 22:16:23.736445 | POSTED ALL | Apple | Design Verification Engineer | 
+2026-06-11 22:16:34.173917 | Analog Devices: fetched=300
+2026-06-11 22:16:47.424705 | NXP Semiconductors: fetched=300
+2026-06-11 22:16:47.650989 | POSTED ALL | NXP Semiconductors | Senior Verification Engineer | Austin (Oakhill, Office)
+2026-06-11 22:16:54.251232 | Broadcom: fetched=300
+2026-06-11 22:17:02.929786 | Microchip: fetched=300
+2026-06-11 22:17:05.504871 | SiFive: fetched=67
+2026-06-11 22:17:07.281060 | Renesas Electronics: fetched=300
+2026-06-11 22:17:18.375592 | KLA: fetched=300
+2026-06-11 22:17:32.348608 | Applied Materials: fetched=300
+2026-06-11 22:17:32.511151 | SambaNova Systems: fetched=19
+2026-06-11 22:17:32.570010 | Samsung Semiconductor: fetched=62
+2026-06-11 22:17:32.628138 | Baya Systems: fetched=28
+2026-06-11 22:17:32.684799 | Ambiq: fetched=32
+2026-06-11 22:17:32.743979 | Graphcore: fetched=222
+2026-06-11 22:17:32.803892 | Eridan: fetched=2
+2026-06-11 22:17:32.858642 | Celero Communications: fetched=17
+2026-06-11 22:17:39.340866 | Micron: fetched=300
+2026-06-11 22:17:39.399424 | Aurora Innovation: fetched=155
+2026-06-11 22:17:39.459967 | Nuro: fetched=102
+2026-06-11 22:17:39.515127 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-11 22:17:39.572006 | Ethernovia: fetched=31
+2026-06-11 22:17:39.719583 | SpaceX: fetched=1753
+2026-06-11 22:17:40.166346 | Axiado: fetched=53
+2026-06-11 22:17:40.227492 | Zipline: fetched=241
+2026-06-11 22:17:40.380614 | Anduril Industries: fetched=2080
+2026-06-11 22:17:41.275462 | Lattice Semiconductor: fetched=58
+2026-06-11 22:17:42.088697 | MaxLinear: fetched=28
+2026-06-11 22:17:51.470296 | Cadence: fetched=300
+2026-06-11 22:18:16.491167 | Microsoft: fetched=12
+2026-06-11 22:18:36.282557 | AMD: fetched=376
+2026-06-11 22:19:00.721251 | Qualcomm: fetched=185
+2026-06-11 22:19:16.953557 | GlobalFoundries: fetched=77
+2026-06-11 22:19:21.685660 | Synopsys: fetched=14
+2026-06-11 22:19:22.162362 | Arm: fetched=18
+2026-06-11 22:19:29.109702 | Cisco: fetched=300
+2026-06-11 22:19:29.561650 | Cirrus Logic: fetched=2
+2026-06-11 22:19:32.225423 | Amazon: fetched=300
+2026-06-11 22:19:32.460579 | POSTED FRESHER | Amazon | Embedded Software Development Engineer II, AWS Hardware Engineering Services | Austin, Texas, USA
+2026-06-11 22:19:32.695989 | POSTED ALL | Amazon | Embedded SDE II, Hardware Engineering Services | Cupertino, California, USA
+2026-06-11 22:19:33.326185 | Rambus: fetched=29
+2026-06-11 22:19:33.326509 | Run finished | fetched=11641 matched=344 posted=4
