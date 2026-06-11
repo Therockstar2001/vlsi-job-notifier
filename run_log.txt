@@ -19795,3 +19795,61 @@
 2026-06-10 23:00:44.523571 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Gouldsboro, Pennsylvania, USA
 2026-06-10 23:00:45.038778 | Rambus: fetched=29
 2026-06-10 23:00:45.039058 | Run finished | fetched=11774 matched=353 posted=10
+2026-06-11 01:39:27.462438 | === RUN STARTED ===
+2026-06-11 01:39:27.723811 | Astranis: fetched=129
+2026-06-11 01:39:27.767735 | Tenstorrent: fetched=118
+2026-06-11 01:39:27.810665 | Tenstorrent University: fetched=23
+2026-06-11 01:39:27.860258 | Cerebras Systems: fetched=99
+2026-06-11 01:39:27.911889 | Cerebras Early Talent: fetched=6
+2026-06-11 01:39:27.959735 | Astera Labs: fetched=167
+2026-06-11 01:39:28.002092 | Lightmatter: fetched=44
+2026-06-11 01:39:29.346875 | Western Digital: fetched=300
+2026-06-11 01:39:30.646071 | Bosch: fetched=300
+2026-06-11 01:39:31.922199 | Sandisk: fetched=296
+2026-06-11 01:39:45.920757 | NVIDIA: fetched=300
+2026-06-11 01:39:56.164335 | Intel: fetched=300
+2026-06-11 01:40:05.775809 | Marvell: fetched=300
+2026-06-11 01:40:10.068967 | Apple: fetched=300
+2026-06-11 01:40:10.237359 | POSTED ALL | Apple | Wireless SOC Verification Engineer | 
+2026-06-11 01:40:10.365037 | POSTED ALL | Apple | Silicon Validation Software Engineer: Embedded and Low-level Programming | 
+2026-06-11 01:40:18.671172 | Analog Devices: fetched=300
+2026-06-11 01:40:29.708000 | NXP Semiconductors: fetched=300
+2026-06-11 01:40:34.118315 | Broadcom: fetched=300
+2026-06-11 01:40:42.697844 | Microchip: fetched=300
+2026-06-11 01:40:45.053048 | SiFive: fetched=67
+2026-06-11 01:40:46.580544 | Renesas Electronics: fetched=300
+2026-06-11 01:40:54.925386 | KLA: fetched=300
+2026-06-11 01:41:07.518766 | Applied Materials: fetched=300
+2026-06-11 01:41:07.628308 | SambaNova Systems: fetched=19
+2026-06-11 01:41:07.681679 | Samsung Semiconductor: fetched=63
+2026-06-11 01:41:07.729785 | Baya Systems: fetched=28
+2026-06-11 01:41:07.774739 | Ambiq: fetched=31
+2026-06-11 01:41:07.830912 | Graphcore: fetched=218
+2026-06-11 01:41:07.883635 | Eridan: fetched=2
+2026-06-11 01:41:08.027023 | Celero Communications: fetched=17
+2026-06-11 01:41:13.713864 | Micron: fetched=300
+2026-06-11 01:41:13.759720 | Aurora Innovation: fetched=153
+2026-06-11 01:41:13.808815 | Nuro: fetched=102
+2026-06-11 01:41:13.850742 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-11 01:41:13.893229 | Ethernovia: fetched=31
+2026-06-11 01:41:13.989405 | SpaceX: fetched=1749
+2026-06-11 01:41:14.362488 | Axiado: fetched=53
+2026-06-11 01:41:14.414432 | Zipline: fetched=239
+2026-06-11 01:41:14.520532 | Anduril Industries: fetched=2056
+2026-06-11 01:41:15.082932 | Lattice Semiconductor: fetched=58
+2026-06-11 01:41:15.305264 | MaxLinear: fetched=28
+2026-06-11 01:41:23.569795 | Cadence: fetched=300
+2026-06-11 01:41:47.460551 | Microsoft: fetched=13
+2026-06-11 01:42:01.347400 | AMD: fetched=375
+2026-06-11 01:42:27.714196 | Qualcomm: fetched=195
+2026-06-11 01:42:27.833974 | POSTED ALL | Qualcomm | Lead CPU Performance Analysis Engineer | Santa Clara, California, United States of America, Austin, TX, USA, San Diego, CA
+2026-06-11 01:42:44.464211 | GlobalFoundries: fetched=56
+2026-06-11 01:43:00.262663 | Synopsys: fetched=170
+2026-06-11 01:43:01.230113 | Arm: fetched=18
+2026-06-11 01:43:06.336696 | Cisco: fetched=300
+2026-06-11 01:43:06.725251 | Cirrus Logic: fetched=2
+2026-06-11 01:43:09.787828 | Amazon: fetched=300
+2026-06-11 01:43:09.925042 | POSTED ALL | Amazon | Embedded Software Engineer, Leo MAC | Redmond, Washington, USA
+2026-06-11 01:43:10.034963 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Gouldsboro, Pennsylvania, USA
+2026-06-11 01:43:10.532021 | Rambus: fetched=29
+2026-06-11 01:43:10.532291 | Run finished | fetched=11754 matched=350 posted=5
