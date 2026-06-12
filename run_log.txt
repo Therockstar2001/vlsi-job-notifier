@@ -20302,3 +20302,58 @@
 2026-06-12 09:16:03.376534 | Amazon: fetched=300
 2026-06-12 09:16:03.750727 | Rambus: fetched=29
 2026-06-12 09:16:03.751015 | Run finished | fetched=11657 matched=348 posted=2
+2026-06-12 12:30:06.472761 | === RUN STARTED ===
+2026-06-12 12:30:06.679717 | Astranis: fetched=125
+2026-06-12 12:30:06.752509 | Tenstorrent: fetched=118
+2026-06-12 12:30:06.834862 | Tenstorrent University: fetched=23
+2026-06-12 12:30:06.910908 | Cerebras Systems: fetched=99
+2026-06-12 12:30:06.987210 | Cerebras Early Talent: fetched=6
+2026-06-12 12:30:07.064305 | Astera Labs: fetched=165
+2026-06-12 12:30:07.143143 | Lightmatter: fetched=45
+2026-06-12 12:30:08.869892 | Western Digital: fetched=300
+2026-06-12 12:30:10.383921 | Bosch: fetched=300
+2026-06-12 12:30:11.835020 | Sandisk: fetched=297
+2026-06-12 12:30:25.993911 | NVIDIA: fetched=300
+2026-06-12 12:30:37.948837 | Intel: fetched=300
+2026-06-12 12:30:45.792287 | Marvell: fetched=300
+2026-06-12 12:30:52.166609 | Apple: fetched=300
+2026-06-12 12:30:52.478312 | POSTED ALL | Apple | Design Verification Engineer | 
+2026-06-12 12:31:02.233618 | Analog Devices: fetched=300
+2026-06-12 12:31:15.012964 | NXP Semiconductors: fetched=300
+2026-06-12 12:31:20.503231 | Broadcom: fetched=300
+2026-06-12 12:31:29.494674 | Microchip: fetched=300
+2026-06-12 12:31:32.122341 | SiFive: fetched=64
+2026-06-12 12:31:33.873649 | Renesas Electronics: fetched=300
+2026-06-12 12:31:48.753428 | KLA: fetched=300
+2026-06-12 12:32:02.803227 | Applied Materials: fetched=300
+2026-06-12 12:32:03.057214 | SambaNova Systems: fetched=19
+2026-06-12 12:32:03.134222 | Samsung Semiconductor: fetched=62
+2026-06-12 12:32:03.209788 | Baya Systems: fetched=28
+2026-06-12 12:32:03.281087 | Ambiq: fetched=31
+2026-06-12 12:32:03.675787 | Graphcore: fetched=225
+2026-06-12 12:32:03.753737 | Eridan: fetched=2
+2026-06-12 12:32:03.890394 | Celero Communications: fetched=17
+2026-06-12 12:32:10.076798 | Micron: fetched=300
+2026-06-12 12:32:10.155702 | Aurora Innovation: fetched=155
+2026-06-12 12:32:10.228511 | Nuro: fetched=102
+2026-06-12 12:32:10.296552 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-12 12:32:10.367446 | Ethernovia: fetched=31
+2026-06-12 12:32:10.495961 | SpaceX: fetched=1754
+2026-06-12 12:32:10.963140 | Axiado: fetched=53
+2026-06-12 12:32:11.107614 | Zipline: fetched=248
+2026-06-12 12:32:11.382983 | Anduril Industries: fetched=2083
+2026-06-12 12:32:11.904134 | Lattice Semiconductor: fetched=58
+2026-06-12 12:32:12.383959 | MaxLinear: fetched=28
+2026-06-12 12:32:22.458476 | Cadence: fetched=300
+2026-06-12 12:32:47.620000 | Microsoft: fetched=16
+2026-06-12 12:33:06.130624 | AMD: fetched=377
+2026-06-12 12:33:38.888402 | Qualcomm: fetched=180
+2026-06-12 12:33:57.476957 | GlobalFoundries: fetched=72
+2026-06-12 12:34:01.513872 | Synopsys: fetched=16
+2026-06-12 12:34:02.115037 | Arm: fetched=18
+2026-06-12 12:34:07.107193 | Cisco: fetched=300
+2026-06-12 12:34:07.366292 | Cirrus Logic: fetched=2
+2026-06-12 12:34:10.977130 | Amazon: fetched=300
+2026-06-12 12:34:11.290739 | POSTED ALL | Amazon | Lead Fulfillment Associate (Tier 3), IAG1 | Niagara Falls, New York, USA
+2026-06-12 12:34:11.765651 | Rambus: fetched=29
+2026-06-12 12:34:11.765989 | Run finished | fetched=11648 matched=345 posted=2
