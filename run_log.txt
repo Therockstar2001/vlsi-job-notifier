@@ -20186,3 +20186,64 @@
 2026-06-11 23:58:34.189614 | Amazon: fetched=300
 2026-06-11 23:58:34.485500 | Rambus: fetched=29
 2026-06-11 23:58:34.485759 | Run finished | fetched=11632 matched=339 posted=1
+2026-06-12 05:03:01.868330 | === RUN STARTED ===
+2026-06-12 05:03:01.996004 | Astranis: fetched=125
+2026-06-12 05:03:02.026222 | Tenstorrent: fetched=118
+2026-06-12 05:03:02.054121 | Tenstorrent University: fetched=23
+2026-06-12 05:03:02.082285 | Cerebras Systems: fetched=99
+2026-06-12 05:03:02.109335 | Cerebras Early Talent: fetched=6
+2026-06-12 05:03:02.139736 | Astera Labs: fetched=166
+2026-06-12 05:03:02.171382 | Lightmatter: fetched=45
+2026-06-12 05:03:03.620819 | Western Digital: fetched=300
+2026-06-12 05:03:04.988926 | Bosch: fetched=300
+2026-06-12 05:03:06.303636 | Sandisk: fetched=297
+2026-06-12 05:03:21.201304 | NVIDIA: fetched=300
+2026-06-12 05:03:21.311844 | POSTED ALL | NVIDIA | Embedded Software Engineer - RISCV | US, CA, Santa Clara
+2026-06-12 05:03:32.502735 | Intel: fetched=300
+2026-06-12 05:03:42.752662 | Marvell: fetched=300
+2026-06-12 05:03:47.283196 | Apple: fetched=300
+2026-06-12 05:03:47.359960 | POSTED ALL | Apple | CPU Full-chip Physical Integration Engineer | 
+2026-06-12 05:03:47.433693 | POSTED ALL | Apple | CPU Design Timing Engineer | 
+2026-06-12 05:03:47.504729 | POSTED ALL | Apple | CPU Power Engineer | 
+2026-06-12 05:03:47.581058 | POSTED ALL | Apple | CPU Implementation Methodology Engineer | 
+2026-06-12 05:03:47.667888 | POSTED ALL | Apple | CPU Physical Electrical Analysis Engineer | 
+2026-06-12 05:03:47.737838 | POSTED ALL | Apple | Design Verification Engineer | 
+2026-06-12 05:03:58.394382 | Analog Devices: fetched=300
+2026-06-12 05:04:10.052575 | NXP Semiconductors: fetched=300
+2026-06-12 05:04:14.458052 | Broadcom: fetched=300
+2026-06-12 05:04:23.508672 | Microchip: fetched=300
+2026-06-12 05:04:25.416955 | SiFive: fetched=67
+2026-06-12 05:04:26.971955 | Renesas Electronics: fetched=300
+2026-06-12 05:04:37.610194 | KLA: fetched=300
+2026-06-12 05:04:49.482899 | Applied Materials: fetched=300
+2026-06-12 05:04:49.579119 | SambaNova Systems: fetched=19
+2026-06-12 05:04:49.608968 | Samsung Semiconductor: fetched=62
+2026-06-12 05:04:49.640547 | Baya Systems: fetched=28
+2026-06-12 05:04:49.667107 | Ambiq: fetched=31
+2026-06-12 05:04:49.697643 | Graphcore: fetched=225
+2026-06-12 05:04:49.725197 | Eridan: fetched=2
+2026-06-12 05:04:49.752590 | Celero Communications: fetched=17
+2026-06-12 05:04:54.458200 | Micron: fetched=300
+2026-06-12 05:04:54.492336 | Aurora Innovation: fetched=155
+2026-06-12 05:04:54.520370 | Nuro: fetched=102
+2026-06-12 05:05:03.018398 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-12 05:05:03.054003 | Ethernovia: fetched=31
+2026-06-12 05:05:03.135896 | SpaceX: fetched=1755
+2026-06-12 05:05:03.625245 | Axiado: fetched=53
+2026-06-12 05:05:03.651858 | Zipline: fetched=244
+2026-06-12 05:05:03.738286 | Anduril Industries: fetched=2084
+2026-06-12 05:05:04.164675 | Lattice Semiconductor: fetched=58
+2026-06-12 05:05:04.416976 | MaxLinear: fetched=28
+2026-06-12 05:05:13.284025 | Cadence: fetched=300
+2026-06-12 05:05:45.311326 | Microsoft: fetched=7
+2026-06-12 05:05:58.741629 | AMD: fetched=376
+2026-06-12 05:06:27.218339 | Qualcomm: fetched=187
+2026-06-12 05:06:43.814798 | GlobalFoundries: fetched=73
+2026-06-12 05:06:46.904295 | Synopsys: fetched=15
+2026-06-12 05:06:47.227495 | Arm: fetched=18
+2026-06-12 05:06:52.000897 | Cisco: fetched=300
+2026-06-12 05:06:52.289072 | Cirrus Logic: fetched=2
+2026-06-12 05:06:54.307955 | Amazon: fetched=300
+2026-06-12 05:06:54.394924 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Hagerstown, Maryland, USA
+2026-06-12 05:06:54.571126 | Rambus: fetched=29
+2026-06-12 05:06:54.571441 | Run finished | fetched=11647 matched=343 posted=8
