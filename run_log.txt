@@ -20468,3 +20468,59 @@
 2026-06-12 19:26:13.626357 | POSTED ALL | Amazon | AWS Associate Customer Acquisition Rep | Austin, Texas, USA
 2026-06-12 19:26:13.981554 | Rambus: fetched=29
 2026-06-12 19:26:13.981855 | Run finished | fetched=11650 matched=341 posted=4
+2026-06-12 22:00:15.048319 | === RUN STARTED ===
+2026-06-12 22:00:15.283016 | Astranis: fetched=123
+2026-06-12 22:00:15.356578 | Tenstorrent: fetched=120
+2026-06-12 22:00:15.442883 | Tenstorrent University: fetched=24
+2026-06-12 22:00:15.514032 | Cerebras Systems: fetched=99
+2026-06-12 22:00:15.590425 | Cerebras Early Talent: fetched=6
+2026-06-12 22:00:15.692085 | Astera Labs: fetched=166
+2026-06-12 22:00:15.762089 | Lightmatter: fetched=45
+2026-06-12 22:00:17.346991 | Western Digital: fetched=300
+2026-06-12 22:00:18.837784 | Bosch: fetched=300
+2026-06-12 22:00:20.281972 | Sandisk: fetched=298
+2026-06-12 22:00:35.746443 | NVIDIA: fetched=300
+2026-06-12 22:00:47.690694 | Intel: fetched=300
+2026-06-12 22:00:56.843393 | Marvell: fetched=300
+2026-06-12 22:01:02.733623 | Apple: fetched=300
+2026-06-12 22:01:02.998348 | POSTED ALL | Apple | CPU Technology Feasibility Engineer | 
+2026-06-12 22:01:13.208691 | Analog Devices: fetched=300
+2026-06-12 22:01:24.062490 | NXP Semiconductors: fetched=300
+2026-06-12 22:01:30.190147 | Broadcom: fetched=300
+2026-06-12 22:01:40.276096 | Microchip: fetched=300
+2026-06-12 22:01:43.504809 | SiFive: fetched=64
+2026-06-12 22:01:45.219852 | Renesas Electronics: fetched=300
+2026-06-12 22:01:54.559690 | KLA: fetched=300
+2026-06-12 22:02:09.905030 | Applied Materials: fetched=300
+2026-06-12 22:02:10.082020 | SambaNova Systems: fetched=19
+2026-06-12 22:02:10.152775 | Samsung Semiconductor: fetched=60
+2026-06-12 22:02:10.224788 | Baya Systems: fetched=28
+2026-06-12 22:02:10.295865 | Ambiq: fetched=31
+2026-06-12 22:02:10.372601 | Graphcore: fetched=226
+2026-06-12 22:02:10.450205 | Eridan: fetched=2
+2026-06-12 22:02:10.517219 | Celero Communications: fetched=18
+2026-06-12 22:02:17.303153 | Micron: fetched=300
+2026-06-12 22:02:17.383716 | Aurora Innovation: fetched=154
+2026-06-12 22:02:17.460598 | Nuro: fetched=100
+2026-06-12 22:02:17.530922 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-12 22:02:17.611441 | Ethernovia: fetched=31
+2026-06-12 22:02:17.756893 | SpaceX: fetched=1751
+2026-06-12 22:02:18.205255 | Axiado: fetched=52
+2026-06-12 22:02:18.286047 | Zipline: fetched=247
+2026-06-12 22:02:18.497225 | Anduril Industries: fetched=2086
+2026-06-12 22:02:19.042223 | Lattice Semiconductor: fetched=58
+2026-06-12 22:02:19.540805 | MaxLinear: fetched=28
+2026-06-12 22:02:30.677818 | Cadence: fetched=300
+2026-06-12 22:02:51.140584 | Microsoft: fetched=10
+2026-06-12 22:03:09.027864 | AMD: fetched=376
+2026-06-12 22:03:38.578697 | Qualcomm: fetched=193
+2026-06-12 22:03:54.731719 | GlobalFoundries: fetched=74
+2026-06-12 22:03:56.004953 | Synopsys: fetched=16
+2026-06-12 22:03:56.533982 | Arm: fetched=18
+2026-06-12 22:04:01.488006 | Cisco: fetched=300
+2026-06-12 22:04:01.848333 | Cirrus Logic: fetched=2
+2026-06-12 22:04:05.610482 | Amazon: fetched=300
+2026-06-12 22:04:05.870545 | POSTED ALL | Amazon | Sr. AFE Ops Associate, Amazon Freight Operations | Nashville, Tennessee, USA
+2026-06-12 22:04:06.111039 | POSTED ALL | Amazon | AWS Associate Customer Acquisition Rep | Austin, Texas, USA
+2026-06-12 22:04:06.778742 | Rambus: fetched=29
+2026-06-12 22:04:06.779006 | Run finished | fetched=11654 matched=342 posted=3
