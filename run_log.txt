@@ -21706,3 +21706,61 @@
 2026-06-15 19:12:16.318501 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Houston, Texas, USA
 2026-06-15 19:12:16.734607 | Rambus: fetched=29
 2026-06-15 19:12:16.734895 | Run finished | fetched=11626 matched=345 posted=10
+2026-06-15 21:49:03.472717 | === RUN STARTED ===
+2026-06-15 21:49:03.555529 | Astranis: fetched=122
+2026-06-15 21:49:03.606825 | Tenstorrent: fetched=121
+2026-06-15 21:49:03.658263 | Tenstorrent University: fetched=25
+2026-06-15 21:49:03.707011 | Cerebras Systems: fetched=99
+2026-06-15 21:49:03.757408 | Cerebras Early Talent: fetched=6
+2026-06-15 21:49:03.806152 | Astera Labs: fetched=171
+2026-06-15 21:49:03.850349 | Lightmatter: fetched=47
+2026-06-15 21:49:05.228416 | Western Digital: fetched=300
+2026-06-15 21:49:05.354380 | POSTED ALL | Western Digital | Sr. Associate, SEC Reporting & Technical Accounting | Irvine, CA, us
+2026-06-15 21:49:06.625246 | Bosch: fetched=300
+2026-06-15 21:49:06.758488 | POSTED ALL | Bosch | Associate HSE Professional | Farmington Hills, MI, us
+2026-06-15 21:49:08.335807 | Sandisk: fetched=295
+2026-06-15 21:49:28.882358 | NVIDIA: fetched=300
+2026-06-15 21:49:39.600915 | Intel: fetched=300
+2026-06-15 21:49:46.647103 | Marvell: fetched=300
+2026-06-15 21:49:51.333749 | Apple: fetched=300
+2026-06-15 21:50:01.468748 | Analog Devices: fetched=300
+2026-06-15 21:50:11.493672 | NXP Semiconductors: fetched=300
+2026-06-15 21:50:16.674928 | Broadcom: fetched=300
+2026-06-15 21:50:24.706171 | Microchip: fetched=300
+2026-06-15 21:50:27.010752 | SiFive: fetched=64
+2026-06-15 21:50:28.556071 | Renesas Electronics: fetched=300
+2026-06-15 21:50:37.430015 | KLA: fetched=300
+2026-06-15 21:50:49.581362 | Applied Materials: fetched=300
+2026-06-15 21:50:49.694746 | SambaNova Systems: fetched=19
+2026-06-15 21:50:49.750936 | Samsung Semiconductor: fetched=59
+2026-06-15 21:50:49.796801 | Baya Systems: fetched=27
+2026-06-15 21:50:49.844915 | Ambiq: fetched=30
+2026-06-15 21:50:49.895989 | Graphcore: fetched=228
+2026-06-15 21:50:49.939760 | Eridan: fetched=1
+2026-06-15 21:50:49.983203 | Celero Communications: fetched=17
+2026-06-15 21:50:55.083698 | Micron: fetched=300
+2026-06-15 21:50:55.133902 | Aurora Innovation: fetched=150
+2026-06-15 21:50:55.188185 | Nuro: fetched=94
+2026-06-15 21:50:55.229098 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-15 21:50:55.278434 | Ethernovia: fetched=31
+2026-06-15 21:50:55.395263 | SpaceX: fetched=1751
+2026-06-15 21:50:55.788377 | Axiado: fetched=49
+2026-06-15 21:50:55.838727 | Zipline: fetched=248
+2026-06-15 21:50:55.964589 | Anduril Industries: fetched=2085
+2026-06-15 21:50:56.286628 | Lattice Semiconductor: fetched=58
+2026-06-15 21:50:56.616759 | MaxLinear: fetched=28
+2026-06-15 21:51:04.609824 | Cadence: fetched=300
+2026-06-15 21:51:33.010700 | Microsoft: fetched=12
+2026-06-15 21:51:46.758190 | AMD: fetched=373
+2026-06-15 21:52:18.820455 | Qualcomm: fetched=205
+2026-06-15 21:52:34.229399 | GlobalFoundries: fetched=65
+2026-06-15 21:52:34.366411 | POSTED ALL | GlobalFoundries | Emulation Engineer | Santa Clara, California, United States of America
+2026-06-15 21:52:34.941639 | Synopsys: fetched=20
+2026-06-15 21:52:35.520811 | Arm: fetched=18
+2026-06-15 21:52:41.041081 | Cisco: fetched=300
+2026-06-15 21:52:41.296349 | Cirrus Logic: fetched=2
+2026-06-15 21:52:44.118204 | Amazon: fetched=300
+2026-06-15 21:52:44.230459 | POSTED ALL | Amazon | Operations Manager, SSD, US, OR, Portland - SOR3 | Portland, Oregon, USA
+2026-06-15 21:52:44.362674 | POSTED ALL | Amazon | Embedded Robotics SDE, Compass | Pasadena, California, USA
+2026-06-15 21:52:44.664208 | Rambus: fetched=29
+2026-06-15 21:52:44.664520 | Run finished | fetched=11649 matched=343 posted=5
