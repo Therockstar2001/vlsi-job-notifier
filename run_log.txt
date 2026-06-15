@@ -21643,3 +21643,66 @@
 2026-06-15 14:38:11.295991 | Amazon: fetched=300
 2026-06-15 14:38:11.482735 | Rambus: fetched=29
 2026-06-15 14:38:11.599481 | Run finished | fetched=11647 matched=332 posted=0
+2026-06-15 19:08:10.181287 | === RUN STARTED ===
+2026-06-15 19:08:10.364069 | Astranis: fetched=121
+2026-06-15 19:08:10.420625 | Tenstorrent: fetched=121
+2026-06-15 19:08:10.484002 | Tenstorrent University: fetched=24
+2026-06-15 19:08:10.542933 | Cerebras Systems: fetched=99
+2026-06-15 19:08:10.595014 | Cerebras Early Talent: fetched=6
+2026-06-15 19:08:10.650665 | Astera Labs: fetched=171
+2026-06-15 19:08:10.737613 | Lightmatter: fetched=47
+2026-06-15 19:08:12.090735 | Western Digital: fetched=300
+2026-06-15 19:08:12.250632 | POSTED ALL | Western Digital | Sr. Associate, SEC Reporting & Technical Accounting | Irvine, CA, us
+2026-06-15 19:08:13.562630 | Bosch: fetched=300
+2026-06-15 19:08:14.868180 | Sandisk: fetched=296
+2026-06-15 19:08:30.306959 | NVIDIA: fetched=300
+2026-06-15 19:08:42.844293 | Intel: fetched=300
+2026-06-15 19:08:49.960848 | Marvell: fetched=300
+2026-06-15 19:08:54.892611 | Apple: fetched=300
+2026-06-15 19:09:03.977518 | Analog Devices: fetched=300
+2026-06-15 19:09:13.684960 | NXP Semiconductors: fetched=300
+2026-06-15 19:09:18.992178 | Broadcom: fetched=300
+2026-06-15 19:09:28.261451 | Microchip: fetched=300
+2026-06-15 19:09:30.826605 | SiFive: fetched=64
+2026-06-15 19:09:32.351203 | Renesas Electronics: fetched=300
+2026-06-15 19:09:32.459748 | POSTED ALL | Renesas Electronics | Senior Engineer, AI Compiler - Automotive SoC | Dallas, TX, us
+2026-06-15 19:09:41.500332 | KLA: fetched=300
+2026-06-15 19:09:54.736171 | Applied Materials: fetched=300
+2026-06-15 19:09:54.902457 | SambaNova Systems: fetched=19
+2026-06-15 19:09:54.949234 | Samsung Semiconductor: fetched=59
+2026-06-15 19:09:54.999782 | Baya Systems: fetched=27
+2026-06-15 19:09:55.043010 | Ambiq: fetched=30
+2026-06-15 19:09:55.092405 | Graphcore: fetched=228
+2026-06-15 19:09:55.142113 | Eridan: fetched=1
+2026-06-15 19:09:55.187278 | Celero Communications: fetched=18
+2026-06-15 19:10:00.549977 | Micron: fetched=300
+2026-06-15 19:10:00.603725 | Aurora Innovation: fetched=150
+2026-06-15 19:10:00.658645 | Nuro: fetched=96
+2026-06-15 19:10:00.709266 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-15 19:10:00.755406 | Ethernovia: fetched=31
+2026-06-15 19:10:10.518465 | SpaceX: fetched=1751
+2026-06-15 19:10:10.906670 | Axiado: fetched=52
+2026-06-15 19:10:10.961130 | Zipline: fetched=247
+2026-06-15 19:10:28.019839 | Anduril Industries: fetched=2080
+2026-06-15 19:10:28.360818 | Lattice Semiconductor: fetched=58
+2026-06-15 19:10:28.821384 | MaxLinear: fetched=28
+2026-06-15 19:10:37.038492 | Cadence: fetched=300
+2026-06-15 19:10:59.654168 | Microsoft: fetched=7
+2026-06-15 19:11:15.004983 | AMD: fetched=373
+2026-06-15 19:11:40.894852 | Qualcomm: fetched=193
+2026-06-15 19:12:03.169105 | GlobalFoundries: fetched=60
+2026-06-15 19:12:06.871658 | Synopsys: fetched=20
+2026-06-15 19:12:06.991076 | POSTED ALL | Synopsys | ASIC Digital Design, Principal Engineer - 15150Austin, TexasCategory:EngineeringPosted:05/20/2026Job ID:15150 | Austin, Texas
+2026-06-15 19:12:07.131620 | POSTED ALL | Synopsys | ASIC Digital Verification, Principal Engineer - 15149Austin, TexasCategory:EngineeringPosted:05/20/2026Job ID:15149 | Austin, Texas
+2026-06-15 19:12:07.250265 | POSTED ALL | Synopsys | ASIC Digital Design Architect - 15036Austin, TexasCategory:EngineeringPosted:05/11/2026Job ID:15036 | Austin, Texas
+2026-06-15 19:12:07.835737 | Arm: fetched=18
+2026-06-15 19:12:12.773846 | Cisco: fetched=300
+2026-06-15 19:12:13.014774 | Cirrus Logic: fetched=2
+2026-06-15 19:12:15.752488 | Amazon: fetched=300
+2026-06-15 19:12:15.867211 | POSTED ALL | Amazon | IT Support Associate II, OTS  | Los Lunas, New Mexico, USA
+2026-06-15 19:12:15.978246 | POSTED ALL | Amazon | IT Support Associate II, OTS  | Dallas, Texas, USA
+2026-06-15 19:12:16.093085 | POSTED ALL | Amazon | IT Support Associate II, OTS  | Tucson, Arizona, USA
+2026-06-15 19:12:16.204712 | POSTED ALL | Amazon | IT Support Associate II, OTS  | Albuquerque, New Mexico, USA
+2026-06-15 19:12:16.318501 | POSTED ALL | Amazon | IT Support Associate II, Ops Tech Solutions (OTS) | Houston, Texas, USA
+2026-06-15 19:12:16.734607 | Rambus: fetched=29
+2026-06-15 19:12:16.734895 | Run finished | fetched=11626 matched=345 posted=10
