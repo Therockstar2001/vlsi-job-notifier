@@ -21935,3 +21935,60 @@
 2026-06-16 11:37:32.629149 | Amazon: fetched=300
 2026-06-16 11:37:32.923853 | Rambus: fetched=29
 2026-06-16 11:37:32.924186 | Run finished | fetched=11623 matched=350 posted=4
+2026-06-16 17:20:17.750902 | === RUN STARTED ===
+2026-06-16 17:20:17.914623 | Astranis: fetched=114
+2026-06-16 17:20:17.965192 | Tenstorrent: fetched=121
+2026-06-16 17:20:18.014942 | Tenstorrent University: fetched=27
+2026-06-16 17:20:18.071068 | Cerebras Systems: fetched=99
+2026-06-16 17:20:18.125183 | Cerebras Early Talent: fetched=6
+2026-06-16 17:20:18.177368 | Astera Labs: fetched=170
+2026-06-16 17:20:18.222270 | Lightmatter: fetched=48
+2026-06-16 17:20:19.597777 | Western Digital: fetched=300
+2026-06-16 17:20:20.868053 | Bosch: fetched=300
+2026-06-16 17:20:22.151034 | Sandisk: fetched=290
+2026-06-16 17:20:36.364470 | NVIDIA: fetched=300
+2026-06-16 17:20:47.758367 | Intel: fetched=300
+2026-06-16 17:20:47.904175 | POSTED ALL | Intel | ASIC, SOC, Foundry market research consultant | US, California, Santa Clara
+2026-06-16 17:20:56.204960 | Marvell: fetched=300
+2026-06-16 17:20:56.325866 | POSTED ALL | Marvell | Senior Principal Embedded Firmware Software Engineer - Networking PAM4 DSP/data center/ODSP/AEC/Microled/AI connectivity | Santa Clara, CA
+2026-06-16 17:21:00.912867 | Apple: fetched=300
+2026-06-16 17:21:16.380944 | Analog Devices: fetched=300
+2026-06-16 17:21:26.622781 | NXP Semiconductors: fetched=300
+2026-06-16 17:21:32.395482 | Broadcom: fetched=300
+2026-06-16 17:21:44.116228 | Microchip: fetched=300
+2026-06-16 17:21:46.907800 | SiFive: fetched=65
+2026-06-16 17:21:48.503460 | Renesas Electronics: fetched=300
+2026-06-16 17:21:57.397349 | KLA: fetched=300
+2026-06-16 17:22:10.582614 | Applied Materials: fetched=300
+2026-06-16 17:22:10.733843 | SambaNova Systems: fetched=19
+2026-06-16 17:22:10.786087 | Samsung Semiconductor: fetched=59
+2026-06-16 17:22:10.838747 | Baya Systems: fetched=27
+2026-06-16 17:22:10.885447 | Ambiq: fetched=32
+2026-06-16 17:22:10.937391 | Graphcore: fetched=227
+2026-06-16 17:22:10.986279 | Eridan: fetched=1
+2026-06-16 17:22:11.114916 | Celero Communications: fetched=17
+2026-06-16 17:22:16.850980 | Micron: fetched=300
+2026-06-16 17:22:16.906643 | Aurora Innovation: fetched=152
+2026-06-16 17:22:17.231132 | Nuro: fetched=94
+2026-06-16 17:22:17.276900 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-16 17:22:17.327582 | Ethernovia: fetched=31
+2026-06-16 17:22:17.426477 | SpaceX: fetched=1757
+2026-06-16 17:22:17.817743 | Axiado: fetched=49
+2026-06-16 17:22:17.875793 | Zipline: fetched=247
+2026-06-16 17:22:33.332002 | Anduril Industries: fetched=2069
+2026-06-16 17:22:33.725224 | Lattice Semiconductor: fetched=58
+2026-06-16 17:22:34.041267 | MaxLinear: fetched=28
+2026-06-16 17:22:42.494949 | Cadence: fetched=300
+2026-06-16 17:23:06.408054 | Microsoft: fetched=7
+2026-06-16 17:23:23.927555 | AMD: fetched=373
+2026-06-16 17:23:51.616744 | Qualcomm: fetched=202
+2026-06-16 17:23:51.750817 | POSTED ALL | Qualcomm | Digital Design Engineer for Power Management ASICs | Tijuana, Baja California, Mexico
+2026-06-16 17:24:13.243940 | GlobalFoundries: fetched=61
+2026-06-16 17:24:17.554357 | Synopsys: fetched=30
+2026-06-16 17:24:17.900189 | Arm: fetched=18
+2026-06-16 17:24:22.409504 | Cisco: fetched=300
+2026-06-16 17:24:22.543847 | POSTED ALL | Cisco | ASIC Engineer | San Jose, California, US
+2026-06-16 17:24:22.787878 | Cirrus Logic: fetched=2
+2026-06-16 17:24:24.865328 | Amazon: fetched=300
+2026-06-16 17:24:25.291271 | Rambus: fetched=29
+2026-06-16 17:24:25.291606 | Run finished | fetched=11629 matched=344 posted=4
