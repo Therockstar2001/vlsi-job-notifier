@@ -21992,3 +21992,61 @@
 2026-06-16 17:24:24.865328 | Amazon: fetched=300
 2026-06-16 17:24:25.291271 | Rambus: fetched=29
 2026-06-16 17:24:25.291606 | Run finished | fetched=11629 matched=344 posted=4
+2026-06-16 21:19:21.063801 | === RUN STARTED ===
+2026-06-16 21:19:21.268856 | Astranis: fetched=113
+2026-06-16 21:19:21.315299 | Tenstorrent: fetched=121
+2026-06-16 21:19:21.362057 | Tenstorrent University: fetched=27
+2026-06-16 21:19:21.408485 | Cerebras Systems: fetched=99
+2026-06-16 21:19:21.459931 | Cerebras Early Talent: fetched=6
+2026-06-16 21:19:22.165814 | Astera Labs: fetched=169
+2026-06-16 21:19:22.217501 | Lightmatter: fetched=47
+2026-06-16 21:19:23.718374 | Western Digital: fetched=300
+2026-06-16 21:19:25.044082 | Bosch: fetched=300
+2026-06-16 21:19:26.361287 | Sandisk: fetched=290
+2026-06-16 21:19:39.926049 | NVIDIA: fetched=300
+2026-06-16 21:19:50.670027 | Intel: fetched=300
+2026-06-16 21:19:57.668394 | Marvell: fetched=300
+2026-06-16 21:20:02.610320 | Apple: fetched=300
+2026-06-16 21:20:02.764925 | POSTED ALL | Apple | WiFi MAC Design Verification Engineer | 
+2026-06-16 21:20:12.083422 | Analog Devices: fetched=300
+2026-06-16 21:20:22.859932 | NXP Semiconductors: fetched=300
+2026-06-16 21:20:27.451128 | Broadcom: fetched=300
+2026-06-16 21:20:36.178422 | Microchip: fetched=300
+2026-06-16 21:20:38.369020 | SiFive: fetched=65
+2026-06-16 21:20:39.987035 | Renesas Electronics: fetched=300
+2026-06-16 21:20:49.225843 | KLA: fetched=300
+2026-06-16 21:21:01.482858 | Applied Materials: fetched=300
+2026-06-16 21:21:01.634897 | SambaNova Systems: fetched=19
+2026-06-16 21:21:01.687170 | Samsung Semiconductor: fetched=59
+2026-06-16 21:21:01.737965 | Baya Systems: fetched=27
+2026-06-16 21:21:01.786338 | Ambiq: fetched=32
+2026-06-16 21:21:01.837650 | Graphcore: fetched=221
+2026-06-16 21:21:01.885154 | Eridan: fetched=1
+2026-06-16 21:21:01.933087 | Celero Communications: fetched=16
+2026-06-16 21:21:07.135149 | Micron: fetched=300
+2026-06-16 21:21:07.187061 | Aurora Innovation: fetched=152
+2026-06-16 21:21:07.240619 | Nuro: fetched=94
+2026-06-16 21:21:07.284705 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-16 21:21:07.345102 | Ethernovia: fetched=31
+2026-06-16 21:21:07.447098 | SpaceX: fetched=1758
+2026-06-16 21:21:07.859021 | Axiado: fetched=49
+2026-06-16 21:21:07.910530 | Zipline: fetched=248
+2026-06-16 21:21:23.297278 | Anduril Industries: fetched=2083
+2026-06-16 21:21:23.712648 | Lattice Semiconductor: fetched=58
+2026-06-16 21:21:24.060711 | MaxLinear: fetched=28
+2026-06-16 21:21:32.626163 | Cadence: fetched=300
+2026-06-16 21:21:55.583269 | Microsoft: fetched=8
+2026-06-16 21:22:10.003137 | AMD: fetched=373
+2026-06-16 21:22:35.014820 | Qualcomm: fetched=190
+2026-06-16 21:22:35.138744 | POSTED ALL | Qualcomm | GPU RTL Design Engineer | Santa Clara, California, United States of America
+2026-06-16 21:22:50.952387 | GlobalFoundries: fetched=71
+2026-06-16 21:22:53.635774 | Synopsys: fetched=30
+2026-06-16 21:22:54.198784 | Arm: fetched=18
+2026-06-16 21:22:58.882210 | Cisco: fetched=300
+2026-06-16 21:22:59.259251 | Cirrus Logic: fetched=2
+2026-06-16 21:23:02.142784 | Amazon: fetched=300
+2026-06-16 21:23:02.265639 | POSTED ALL | Amazon | Sr. Embedded Software Development Engineer (C/C++), EC2 Nitro Instance Networking | Seattle, Washington, USA
+2026-06-16 21:23:02.386255 | POSTED ALL | Amazon | Principal, PMT, Selling Partner Identity Verification | Seattle, Washington, USA
+2026-06-16 21:23:02.529490 | POSTED ALL | Amazon | Sr SDE - Embedded Networking, Amazon Leo | Sunnyvale, California, USA
+2026-06-16 21:23:02.839146 | Rambus: fetched=29
+2026-06-16 21:23:02.839471 | Run finished | fetched=11634 matched=353 posted=5
