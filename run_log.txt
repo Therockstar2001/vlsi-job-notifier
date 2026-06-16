@@ -21764,3 +21764,62 @@
 2026-06-15 21:52:44.362674 | POSTED ALL | Amazon | Embedded Robotics SDE, Compass | Pasadena, California, USA
 2026-06-15 21:52:44.664208 | Rambus: fetched=29
 2026-06-15 21:52:44.664520 | Run finished | fetched=11649 matched=343 posted=5
+2026-06-16 00:01:30.636275 | === RUN STARTED ===
+2026-06-16 00:01:30.794779 | Astranis: fetched=115
+2026-06-16 00:01:30.822421 | Tenstorrent: fetched=121
+2026-06-16 00:01:30.848702 | Tenstorrent University: fetched=25
+2026-06-16 00:01:30.872811 | Cerebras Systems: fetched=99
+2026-06-16 00:01:30.902192 | Cerebras Early Talent: fetched=6
+2026-06-16 00:01:30.930196 | Astera Labs: fetched=171
+2026-06-16 00:01:30.958152 | Lightmatter: fetched=47
+2026-06-16 00:01:32.350293 | Western Digital: fetched=300
+2026-06-16 00:01:33.675440 | Bosch: fetched=300
+2026-06-16 00:01:33.756697 | POSTED ALL | Bosch | Data Engineer Associate | Roseville, CA, us
+2026-06-16 00:01:35.090473 | Sandisk: fetched=295
+2026-06-16 00:01:49.771941 | NVIDIA: fetched=300
+2026-06-16 00:02:00.679628 | Intel: fetched=300
+2026-06-16 00:02:10.127969 | Marvell: fetched=300
+2026-06-16 00:02:15.001128 | Apple: fetched=300
+2026-06-16 00:02:23.052400 | Analog Devices: fetched=300
+2026-06-16 00:02:32.710695 | NXP Semiconductors: fetched=300
+2026-06-16 00:02:36.465571 | Broadcom: fetched=300
+2026-06-16 00:02:36.549680 | POSTED ALL | Broadcom | ASIC DFT Engineer | USA-CA San Jose Innovation Drive
+2026-06-16 00:02:45.682907 | Microchip: fetched=300
+2026-06-16 00:02:47.697766 | SiFive: fetched=64
+2026-06-16 00:02:49.274450 | Renesas Electronics: fetched=300
+2026-06-16 00:02:57.339920 | KLA: fetched=300
+2026-06-16 00:03:08.438432 | Applied Materials: fetched=300
+2026-06-16 00:03:08.623040 | SambaNova Systems: fetched=19
+2026-06-16 00:03:08.651340 | Samsung Semiconductor: fetched=59
+2026-06-16 00:03:08.685425 | Baya Systems: fetched=27
+2026-06-16 00:03:08.717821 | Ambiq: fetched=30
+2026-06-16 00:03:08.754532 | Graphcore: fetched=227
+2026-06-16 00:03:08.782653 | Eridan: fetched=1
+2026-06-16 00:03:08.811791 | Celero Communications: fetched=17
+2026-06-16 00:03:14.374941 | Micron: fetched=300
+2026-06-16 00:03:14.408148 | Aurora Innovation: fetched=152
+2026-06-16 00:03:14.444138 | Nuro: fetched=94
+2026-06-16 00:03:14.467859 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-16 00:03:14.504509 | Ethernovia: fetched=31
+2026-06-16 00:03:14.579273 | SpaceX: fetched=1753
+2026-06-16 00:03:14.978063 | Axiado: fetched=49
+2026-06-16 00:03:15.012729 | Zipline: fetched=248
+2026-06-16 00:03:15.103194 | Anduril Industries: fetched=2080
+2026-06-16 00:03:15.443875 | Lattice Semiconductor: fetched=58
+2026-06-16 00:03:15.758182 | MaxLinear: fetched=28
+2026-06-16 00:03:23.679752 | Cadence: fetched=300
+2026-06-16 00:03:49.359411 | Microsoft: fetched=14
+2026-06-16 00:04:01.473280 | AMD: fetched=373
+2026-06-16 00:04:30.608082 | Qualcomm: fetched=200
+2026-06-16 00:04:30.679542 | POSTED ALL | Qualcomm | #CPU Software Architecture Engineer | San Diego, California, United States of America
+2026-06-16 00:04:42.941939 | GlobalFoundries: fetched=66
+2026-06-16 00:04:59.504356 | Synopsys: fetched=204
+2026-06-16 00:04:59.900388 | Arm: fetched=18
+2026-06-16 00:05:05.551146 | Cisco: fetched=300
+2026-06-16 00:05:05.828881 | Cirrus Logic: fetched=2
+2026-06-16 00:05:07.870493 | Amazon: fetched=300
+2026-06-16 00:05:07.947587 | POSTED ALL | Amazon | Embedded SDE, Leo Payload | Redmond, Washington, USA
+2026-06-16 00:05:08.023383 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Mills River, North Carolina, USA
+2026-06-16 00:05:08.098331 | POSTED ALL | Amazon | Associate, Quality Services | Arlington, Virginia, USA
+2026-06-16 00:05:08.332006 | Rambus: fetched=29
+2026-06-16 00:05:08.332264 | Run finished | fetched=11822 matched=365 posted=6
