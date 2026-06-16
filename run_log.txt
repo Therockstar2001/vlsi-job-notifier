@@ -22050,3 +22050,57 @@
 2026-06-16 21:23:02.529490 | POSTED ALL | Amazon | Sr SDE - Embedded Networking, Amazon Leo | Sunnyvale, California, USA
 2026-06-16 21:23:02.839146 | Rambus: fetched=29
 2026-06-16 21:23:02.839471 | Run finished | fetched=11634 matched=353 posted=5
+2026-06-16 23:47:32.233323 | === RUN STARTED ===
+2026-06-16 23:47:32.330026 | Astranis: fetched=101
+2026-06-16 23:47:32.361966 | Tenstorrent: fetched=122
+2026-06-16 23:47:32.395509 | Tenstorrent University: fetched=27
+2026-06-16 23:47:32.427343 | Cerebras Systems: fetched=99
+2026-06-16 23:47:32.457900 | Cerebras Early Talent: fetched=6
+2026-06-16 23:47:32.497623 | Astera Labs: fetched=170
+2026-06-16 23:47:32.530848 | Lightmatter: fetched=47
+2026-06-16 23:47:33.914563 | Western Digital: fetched=300
+2026-06-16 23:47:35.239921 | Bosch: fetched=300
+2026-06-16 23:47:36.538228 | Sandisk: fetched=293
+2026-06-16 23:47:54.858888 | NVIDIA: fetched=300
+2026-06-16 23:48:05.682301 | Intel: fetched=300
+2026-06-16 23:48:13.002813 | Marvell: fetched=300
+2026-06-16 23:48:17.844309 | Apple: fetched=300
+2026-06-16 23:48:30.420948 | Analog Devices: fetched=300
+2026-06-16 23:48:40.971963 | NXP Semiconductors: fetched=300
+2026-06-16 23:48:44.876905 | Broadcom: fetched=300
+2026-06-16 23:48:53.433616 | Microchip: fetched=300
+2026-06-16 23:48:55.406115 | SiFive: fetched=65
+2026-06-16 23:48:57.086048 | Renesas Electronics: fetched=300
+2026-06-16 23:49:11.079850 | KLA: fetched=300
+2026-06-16 23:49:21.583392 | Applied Materials: fetched=300
+2026-06-16 23:49:21.767996 | SambaNova Systems: fetched=19
+2026-06-16 23:49:21.961961 | Samsung Semiconductor: fetched=57
+2026-06-16 23:49:21.996548 | Baya Systems: fetched=27
+2026-06-16 23:49:22.026759 | Ambiq: fetched=32
+2026-06-16 23:49:22.061487 | Graphcore: fetched=221
+2026-06-16 23:49:22.361252 | Eridan: fetched=1
+2026-06-16 23:49:22.393704 | Celero Communications: fetched=16
+2026-06-16 23:49:27.135675 | Micron: fetched=300
+2026-06-16 23:49:27.176269 | Aurora Innovation: fetched=152
+2026-06-16 23:49:27.209373 | Nuro: fetched=97
+2026-06-16 23:49:27.240302 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-16 23:49:27.272066 | Ethernovia: fetched=31
+2026-06-16 23:49:27.350934 | SpaceX: fetched=1753
+2026-06-16 23:49:27.759717 | Axiado: fetched=49
+2026-06-16 23:49:27.795042 | Zipline: fetched=247
+2026-06-16 23:49:46.275961 | Anduril Industries: fetched=2089
+2026-06-16 23:49:46.569579 | Lattice Semiconductor: fetched=58
+2026-06-16 23:49:47.224524 | MaxLinear: fetched=28
+2026-06-16 23:49:54.469644 | Cadence: fetched=300
+2026-06-16 23:50:19.470415 | Microsoft: fetched=11
+2026-06-16 23:50:32.038875 | AMD: fetched=373
+2026-06-16 23:51:00.889870 | Qualcomm: fetched=195
+2026-06-16 23:51:14.659096 | GlobalFoundries: fetched=66
+2026-06-16 23:51:30.424987 | Synopsys: fetched=161
+2026-06-16 23:51:30.835527 | Arm: fetched=18
+2026-06-16 23:51:36.079647 | Cisco: fetched=300
+2026-06-16 23:51:36.431140 | Cirrus Logic: fetched=2
+2026-06-16 23:51:38.451340 | Amazon: fetched=300
+2026-06-16 23:51:38.584959 | POSTED ALL | Amazon | Manipulation Robotics Embedded SDE | North Reading, Massachusetts, USA
+2026-06-16 23:51:38.907194 | Rambus: fetched=29
+2026-06-16 23:51:38.907512 | Run finished | fetched=11762 matched=365 posted=1
