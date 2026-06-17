@@ -22267,3 +22267,60 @@
 2026-06-17 14:04:24.986654 | Amazon: fetched=300
 2026-06-17 14:04:29.706268 | Rambus: fetched=29
 2026-06-17 14:04:29.994781 | Run finished | fetched=11635 matched=337 posted=0
+2026-06-17 17:23:29.335658 | === RUN STARTED ===
+2026-06-17 17:23:29.470754 | Astranis: fetched=94
+2026-06-17 17:23:29.511180 | Tenstorrent: fetched=122
+2026-06-17 17:23:29.549715 | Tenstorrent University: fetched=27
+2026-06-17 17:23:29.581967 | Cerebras Systems: fetched=99
+2026-06-17 17:23:29.616635 | Cerebras Early Talent: fetched=6
+2026-06-17 17:23:29.654675 | Astera Labs: fetched=167
+2026-06-17 17:23:29.858011 | Lightmatter: fetched=51
+2026-06-17 17:23:31.338486 | Western Digital: fetched=300
+2026-06-17 17:23:32.689835 | Bosch: fetched=300
+2026-06-17 17:23:34.024900 | Sandisk: fetched=289
+2026-06-17 17:23:48.411312 | NVIDIA: fetched=300
+2026-06-17 17:23:59.491329 | Intel: fetched=300
+2026-06-17 17:24:08.977562 | Marvell: fetched=300
+2026-06-17 17:24:13.610218 | Apple: fetched=300
+2026-06-17 17:24:22.033606 | Analog Devices: fetched=300
+2026-06-17 17:24:32.606473 | NXP Semiconductors: fetched=300
+2026-06-17 17:24:37.907765 | Broadcom: fetched=300
+2026-06-17 17:24:47.968975 | Microchip: fetched=300
+2026-06-17 17:24:50.252710 | SiFive: fetched=66
+2026-06-17 17:24:51.845390 | Renesas Electronics: fetched=300
+2026-06-17 17:25:00.493985 | KLA: fetched=300
+2026-06-17 17:25:13.098918 | Applied Materials: fetched=300
+2026-06-17 17:25:13.279753 | SambaNova Systems: fetched=19
+2026-06-17 17:25:13.312421 | Samsung Semiconductor: fetched=57
+2026-06-17 17:25:13.353787 | Baya Systems: fetched=27
+2026-06-17 17:25:13.384587 | Ambiq: fetched=32
+2026-06-17 17:25:13.426917 | Graphcore: fetched=221
+2026-06-17 17:25:13.458620 | Eridan: fetched=1
+2026-06-17 17:25:13.561516 | Celero Communications: fetched=16
+2026-06-17 17:25:18.846003 | Micron: fetched=300
+2026-06-17 17:25:18.883634 | Aurora Innovation: fetched=153
+2026-06-17 17:25:18.918583 | Nuro: fetched=97
+2026-06-17 17:25:18.946123 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-17 17:25:18.979706 | Ethernovia: fetched=31
+2026-06-17 17:25:19.064186 | SpaceX: fetched=1760
+2026-06-17 17:25:19.472008 | Axiado: fetched=49
+2026-06-17 17:25:20.629731 | Zipline: fetched=252
+2026-06-17 17:25:20.726077 | Anduril Industries: fetched=2090
+2026-06-17 17:25:21.114790 | Lattice Semiconductor: fetched=58
+2026-06-17 17:25:21.412735 | MaxLinear: fetched=28
+2026-06-17 17:25:30.372225 | Cadence: fetched=300
+2026-06-17 17:25:56.525990 | Microsoft: fetched=11
+2026-06-17 17:26:10.045518 | AMD: fetched=375
+2026-06-17 17:26:42.955824 | Qualcomm: fetched=186
+2026-06-17 17:26:59.056721 | GlobalFoundries: fetched=77
+2026-06-17 17:27:03.609101 | Synopsys: fetched=37
+2026-06-17 17:27:03.774869 | POSTED ALL | Synopsys | Academic/Outreach, Sr AssociateUnited States Off-siteCategory:Strategic Planning and Corp DevPosted:06/16/2026Job ID:17837 | United States Off-site
+2026-06-17 17:27:04.157490 | Arm: fetched=18
+2026-06-17 17:27:12.082260 | Cisco: fetched=300
+2026-06-17 17:27:12.405380 | Cirrus Logic: fetched=2
+2026-06-17 17:27:15.184009 | Amazon: fetched=300
+2026-06-17 17:27:15.284832 | POSTED ALL | Amazon | Prime Video Catalog Associate, Seasonal, Digiflex | San Jose, San Jose, CRI
+2026-06-17 17:27:15.378831 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Omaha, Nebraska, USA
+2026-06-17 17:27:15.472303 | POSTED ALL | Amazon | Sr. Associate, GCO, WFS-GCO, ACCS | Tempe, Arizona, USA
+2026-06-17 17:27:15.693592 | Rambus: fetched=29
+2026-06-17 17:27:15.693900 | Run finished | fetched=11647 matched=346 posted=4
