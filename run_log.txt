@@ -22444,3 +22444,63 @@
 2026-06-17 22:56:58.535740 | POSTED ALL | Amazon | Visual Design Associate [S], Global Shared Services | San Jose, San Jose, CRI
 2026-06-17 22:56:59.067060 | Rambus: fetched=29
 2026-06-17 22:56:59.067326 | Run finished | fetched=11636 matched=353 posted=5
+2026-06-18 01:41:41.574300 | === RUN STARTED ===
+2026-06-18 01:41:41.961531 | Astranis: fetched=91
+2026-06-18 01:41:41.994087 | Tenstorrent: fetched=122
+2026-06-18 01:41:42.024095 | Tenstorrent University: fetched=27
+2026-06-18 01:41:42.057823 | Cerebras Systems: fetched=99
+2026-06-18 01:41:42.092204 | Cerebras Early Talent: fetched=6
+2026-06-18 01:41:42.126117 | Astera Labs: fetched=164
+2026-06-18 01:41:42.155471 | Lightmatter: fetched=51
+2026-06-18 01:41:43.553410 | Western Digital: fetched=300
+2026-06-18 01:41:44.854312 | Bosch: fetched=300
+2026-06-18 01:41:46.166918 | Sandisk: fetched=292
+2026-06-18 01:42:00.475481 | NVIDIA: fetched=300
+2026-06-18 01:42:10.789634 | Intel: fetched=300
+2026-06-18 01:42:17.958909 | Marvell: fetched=300
+2026-06-18 01:42:22.719435 | Apple: fetched=300
+2026-06-18 01:42:30.786446 | Analog Devices: fetched=300
+2026-06-18 01:42:41.161298 | NXP Semiconductors: fetched=300
+2026-06-18 01:42:45.519017 | Broadcom: fetched=300
+2026-06-18 01:42:56.357101 | Microchip: fetched=300
+2026-06-18 01:42:58.471582 | SiFive: fetched=66
+2026-06-18 01:43:00.057303 | Renesas Electronics: fetched=300
+2026-06-18 01:43:00.185632 | POSTED ALL | Renesas Electronics | Sr Staff Agentic Models – Automotive SoC | Dallas, TX, us
+2026-06-18 01:43:08.343691 | KLA: fetched=300
+2026-06-18 01:43:08.461226 | POSTED ALL | KLA | Engr, Assoc Test 2 | Milpitas, CA
+2026-06-18 01:43:08.554527 | POSTED ALL | KLA | Associate Test Engineer 2 | Milpitas, CA
+2026-06-18 01:43:19.627632 | Applied Materials: fetched=300
+2026-06-18 01:43:19.928380 | SambaNova Systems: fetched=19
+2026-06-18 01:43:19.961494 | Samsung Semiconductor: fetched=55
+2026-06-18 01:43:19.993919 | Baya Systems: fetched=27
+2026-06-18 01:43:20.029294 | Ambiq: fetched=32
+2026-06-18 01:43:20.062720 | Graphcore: fetched=220
+2026-06-18 01:43:20.089678 | Eridan: fetched=1
+2026-06-18 01:43:20.118332 | Celero Communications: fetched=16
+2026-06-18 01:43:24.701536 | Micron: fetched=300
+2026-06-18 01:43:24.738113 | Aurora Innovation: fetched=151
+2026-06-18 01:43:24.770414 | Nuro: fetched=95
+2026-06-18 01:43:24.800326 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+2026-06-18 01:43:24.827848 | Ethernovia: fetched=31
+2026-06-18 01:43:24.906630 | SpaceX: fetched=1771
+2026-06-18 01:43:25.312807 | Axiado: fetched=48
+2026-06-18 01:43:25.360795 | Zipline: fetched=255
+2026-06-18 01:43:25.455093 | Anduril Industries: fetched=2086
+2026-06-18 01:43:25.775516 | Lattice Semiconductor: fetched=58
+2026-06-18 01:43:26.059363 | MaxLinear: fetched=28
+2026-06-18 01:43:34.717213 | Cadence: fetched=300
+2026-06-18 01:44:01.918207 | Microsoft: fetched=9
+2026-06-18 01:44:16.225410 | AMD: fetched=377
+2026-06-18 01:44:44.680054 | Qualcomm: fetched=195
+2026-06-18 01:44:59.341116 | GlobalFoundries: fetched=64
+2026-06-18 01:45:03.519197 | Synopsys: fetched=37
+2026-06-18 01:45:03.948937 | Arm: fetched=18
+2026-06-18 01:45:09.165601 | Cisco: fetched=300
+2026-06-18 01:45:09.571128 | Cirrus Logic: fetched=2
+2026-06-18 01:45:12.010768 | Amazon: fetched=300
+2026-06-18 01:45:12.096059 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Holbrook, New York, USA
+2026-06-18 01:45:12.184668 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, Delivery Station Liaison  | East Syracuse, New York, USA
+2026-06-18 01:45:12.282506 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Riverside, Missouri, USA
+2026-06-18 01:45:12.383317 | POSTED ALL | Amazon | Delivery Station Customer Service Associate, DSL | Iowa City, Iowa, USA
+2026-06-18 01:45:12.659035 | Rambus: fetched=29
+2026-06-18 01:45:12.659342 | Run finished | fetched=11642 matched=354 posted=7
