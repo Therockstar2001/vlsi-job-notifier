@@ -957,7 +957,12 @@ def fetch_amd_jobs(base_url: str, company_name: str):
         )
 
         try:
-            response = SESSION.get(url, headers=headers, timeout=20, allow_redirects=False)
+            response = SESSION.get(
+                url,
+                headers=headers,
+                timeout=20,
+                allow_redirects=False
+            )
 
             if response.status_code in (301, 302, 404):
                 break
@@ -979,16 +984,23 @@ def fetch_amd_jobs(base_url: str, company_name: str):
             job_data = job.get("data", {})
 
             title = (job_data.get("title") or "").strip()
+
             if not title:
                 continue
 
-            job_id = str(job_data.get("req_id") or job_data.get("slug") or "").strip()
+            job_id = str(
+                job_data.get("req_id")
+                or job_data.get("slug")
+                or ""
+            ).strip()
 
             city = job_data.get("city") or ""
             state = job_data.get("state") or ""
             country = job_data.get("country") or ""
 
-            location = ", ".join([x for x in [city, state, country] if x])
+            location = ", ".join(
+                [x for x in [city, state, country] if x]
+            )
 
             job_url = (
                 job_data.get("canonical_url")
@@ -1002,6 +1014,7 @@ def fetch_amd_jobs(base_url: str, company_name: str):
                 continue
 
             seen.add(key)
+
 
             jobs.append({
                 "company": company_name,
@@ -1506,8 +1519,6 @@ def fetch_synopsys_jobs(base_url: str, company_name: str):
             break
 
         html = data.get("results", "")
-
-        print(html[:5000])
 
         if not html:
             break

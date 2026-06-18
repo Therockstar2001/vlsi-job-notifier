@@ -1,6 +1,7 @@
 import json
 import datetime
 import os
+import re
 
 from db import init_db, job_exists, save_job
 from slack_notifier import post_job_to_slack, post_status_to_slack
@@ -145,8 +146,24 @@ KEYWORDS = [
 
 
 def is_relevant_title_fast(title):
-    t = title.lower()
-    return any(k in t for k in KEYWORDS)
+    t = (title or "").lower()
+
+    keyword_patterns = [
+        r"\bverification\b",
+        r"\brtl\b",
+        r"\basic\b",
+        r"\bsoc\b",
+        r"\bembedded\b",
+        r"\brisc[- ]?v\b",
+        r"\bcpu\b",
+        r"\bemulation\b",
+        r"\bformal\b",
+        r"\bfirmware\b",
+        r"\bfpga\b",
+        r"\bdft\b",
+    ]
+
+    return any(re.search(pattern, t) for pattern in keyword_patterns)
 
 
 def main():
@@ -203,6 +220,7 @@ def main():
                 total_matched += 1
 
                 key = make_key(job)
+
                 if job_exists(key):
                     continue
 

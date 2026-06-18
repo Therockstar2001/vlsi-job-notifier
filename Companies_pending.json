@@ -33,10 +33,5 @@
     "company": "Siemens",
     "needed_source_type": "custom_or_workday",
     "careers_url": "https://jobs.siemens.com/"
-  },
-  {
-    "company": "Etched",
-    "source_type": "ashby",
-    "token": "etched"
   }
 ]

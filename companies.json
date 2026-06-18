@@ -162,7 +162,7 @@
   {
     "company": "Applied Intuition",
     "source_type": "greenhouse",
-    "token": "appliedintuition"
+    "token": "co58owxtuvc3ql11n5p1b79mj5flai45kbbwmpk5zvyfvj7tphwrf7kj9r0vr8krxku3n93jffzugl2w8420bfji9ar3q8hle6ty"
   },
   {
     "company": "Ethernovia",
@@ -253,5 +253,10 @@
     "company": "Rambus",
     "source_type": "icims",
     "token": "https://careers-rambus.icims.com/jobs/search" 
+  },
+  {
+    "company": "Etched",
+    "source_type": "greenhouse",
+    "token": "etchedai"
   }
 ]

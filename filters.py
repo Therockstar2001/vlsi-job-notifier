@@ -106,16 +106,11 @@ ROLE_NEGATIVE_KEYWORDS = [
     "retail",
     "store",
     "analog layout",
-    "physical design",
-    "post-silicon",
-    "validation engineer",
     "quality inspector",
     "supplier quality",
     "quality engineer",
     "vehicle test",
-    "security",
     "offensive security",
-    "product security",
     "devops",
     "full stack",
     "backend",
@@ -186,11 +181,107 @@ def is_relevant_role(title: str, description: str = "") -> bool:
     description = (description or "").lower().strip()
     text = f"{title} {description}"
 
-    # Hard reject obvious noise first
-    if any(bad in text for bad in ROLE_NEGATIVE_KEYWORDS):
+    # Strong positive title signals should pass even if description contains noisy words
+    strong_title_signals = [
+        "design verification",
+        "verification engineer",
+        "formal verification",
+        "soc verification",
+        "cpu core design verification",
+        "cpu verification",
+        "asic verification",
+        "silicon design verification",
+        "ip verification",
+        "subsystem verification",
+        "functional verification",
+        "rtl design",
+        "rtl/logic design",
+        "rtl logic design",
+        "rtl engineer",
+        "asic design",
+        "soc silicon design",
+        "soc design",
+        "dft verification",
+        "emulation engineer",
+        "fpga prototyping",
+        "firmware engineer",
+        "embedded systems",
+        "embedded software",
+    ]
+
+    if any(good in title for good in strong_title_signals):
+        return True
+
+    # Hard reject obvious non-engineering noise based mainly on title
+    title_blocked = [
+        "marketing",
+        "sales",
+        "business development",
+        "account executive",
+        "account manager",
+        "finance",
+        "legal",
+        "human resources",
+        "people operations",
+        "recruiting",
+        "talent acquisition",
+        "public relations",
+        "communications",
+        "brand",
+        "social media",
+        "content creator",
+        "content strategist",
+        "creative director",
+        "video producer",
+        "producer",
+        "policy associate",
+        "corporate development",
+        "chief of staff",
+        "warehouse",
+        "shipping",
+        "forklift",
+        "facilities",
+        "supply chain",
+        "material associate",
+        "materials associate",
+        "production associate",
+        "workplace associate",
+        "fleet technician",
+        "operator",
+        "coordinator",
+        "project coordinator",
+        "customer support",
+        "support specialist",
+        "devops",
+        "full stack",
+        "backend",
+        "software engineer - backend",
+        "software engineer - full stack",
+        "manufacturing",
+        "quality inspector",
+        "supplier quality",
+    ]
+
+    if any(bad in title for bad in title_blocked):
         return False
 
-    # Must contain at least one positive signal
+    # Softer negatives should only reject if title has no strong hardware/DV signal
+    soft_blocked = [
+        "mechanical engineer",
+        "propulsion",
+        "thermal engineer",
+        "analog layout",
+        "vehicle test",
+        "offensive security",
+        "retail",
+        "store",
+        "technician",
+    ]
+
+    if any(bad in title for bad in soft_blocked):
+        return False
+
+    # Must contain at least one positive signal in title or description
     return any(word in text for word in ROLE_KEYWORDS)
 
 
@@ -220,40 +311,79 @@ def is_us_location(location: str) -> bool:
 
     loc = location.lower().strip()
 
-    non_us_keywords = [
-        ", th", " thailand",
-        ", fi", " finland",
-        ", de", " germany",
-        ", pl", " poland",
-        ", in", " india",
-        ", jp", " japan",
-        ", tw", " taiwan",
-        ", sg", " singapore",
-        ", uk", " united kingdom",
-        ", ie", " ireland",
-        ", il", " israel",
-        ", cn", " china",
-        ", kr", " korea",
-        ", ca, canada", " canada",
-        "toronto", "vancouver", "ottawa", "montreal",
-        "espoo", "munich", "rayong", "uusimaa",
-        "bengaluru", "tokyo", "cordoba", "argentina",
-        "costa rica", "san jose, costa rica"
+    non_us_country_keywords = [
+        "australia",
+        "canada",
+        "india",
+        "thailand",
+        "finland",
+        "germany",
+        "poland",
+        "japan",
+        "taiwan",
+        "singapore",
+        "united kingdom",
+        "ireland",
+        "israel",
+        "china",
+        "korea",
+        "netherlands",
+        "france",
+        "spain",
+        "italy",
+        "portugal",
+        "romania",
+        "malaysia",
+        "vietnam",
+        "argentina",
+        "costa rica",
+        "mexico",
+        "brazil"
     ]
 
-    if any(keyword in loc for keyword in non_us_keywords):
+    if any(country in loc for country in non_us_country_keywords):
+        return False
+
+    non_us_city_keywords = [
+        "hyderabad",
+        "bengaluru",
+        "bangalore",
+        "pune",
+        "mumbai",
+        "noida",
+        "gurgaon",
+        "tokyo",
+        "toronto",
+        "vancouver",
+        "ottawa",
+        "montreal",
+        "munich",
+        "dublin",
+        "eindhoven",
+        "seoul",
+        "shanghai",
+        "beijing",
+        "taipei",
+        "hshinchu",
+        "hsinchu",
+        "penang",
+        "singapore",
+        "warsaw",
+        "iasi",
+        "cork"
+    ]
+
+    if any(city in loc for city in non_us_city_keywords):
         return False
 
     us_keywords = [
         "united states",
-        " usa",
-        " us,",
-        ", us",
-        "virtual us",
-        "remote us",
-        "united states - remote",
-        "remote - us",
+        "usa",
         "u.s.",
+        "us remote",
+        "remote us",
+        "remote - us",
+        "united states - remote",
         "california",
         "texas",
         "massachusetts",
@@ -277,7 +407,6 @@ def is_us_location(location: str) -> bool:
         "pennsylvania",
         "maryland",
         "district of columbia",
-        "dc",
         "san francisco",
         "santa clara",
         "austin",
@@ -298,7 +427,40 @@ def is_us_location(location: str) -> bool:
         "phoenix",
         "fort collins",
         "quincy",
-        "duluth"
+        "duluth",
+        "cupertino",
+        "folsom",
+        "secaucus",
+        "longmont",
+        "boxborough",
+        "bellevue"
     ]
 
-    return any(keyword in loc for keyword in us_keywords)
+    if any(keyword in loc for keyword in us_keywords):
+        return True
+
+    us_state_abbreviations = {
+        "al", "ak", "az", "ar", "ca", "co", "ct", "de", "fl", "ga",
+        "hi", "id", "il", "in", "ia", "ks", "ky", "la", "me", "md",
+        "ma", "mi", "mn", "ms", "mo", "mt", "ne", "nv", "nh", "nj",
+        "nm", "ny", "nc", "nd", "oh", "ok", "or", "pa", "ri", "sc",
+        "sd", "tn", "tx", "ut", "vt", "va", "wa", "wv", "wi", "wy",
+        "dc"
+    }
+
+    separators = [",", ";", "|", "/", "-"]
+
+    normalized = loc
+    for sep in separators:
+        normalized = normalized.replace(sep, ",")
+
+    parts = [
+        part.strip().replace(".", "")
+        for part in normalized.split(",")
+        if part.strip()
+    ]
+
+    if any(part in us_state_abbreviations for part in parts):
+        return True
+
+    return False
