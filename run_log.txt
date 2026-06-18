@@ -11113,3 +11113,65 @@
 2026-06-18 11:20:57.178292 | Rambus: fetched=29
 2026-06-18 11:20:57.261093 | Etched: fetched=25
 2026-06-18 11:20:57.262353 | Run finished | fetched=11843 matched=544 posted=11
+2026-06-18 14:24:47.843189 | === RUN STARTED ===
+2026-06-18 14:24:47.975010 | Astranis: fetched=86
+2026-06-18 14:24:48.010305 | Tenstorrent: fetched=122
+2026-06-18 14:24:48.121571 | POSTED ALL | Tenstorrent | Staff Engineer, CPU Architectural Modeling & ISA Simulation | Austin, Texas, United States; Santa Clara, California, United States
+2026-06-18 14:24:48.244027 | Tenstorrent University: fetched=28
+2026-06-18 14:24:48.277309 | Cerebras Systems: fetched=99
+2026-06-18 14:24:48.376799 | Cerebras Early Talent: fetched=6
+2026-06-18 14:24:48.418383 | Astera Labs: fetched=163
+2026-06-18 14:24:48.449919 | Lightmatter: fetched=51
+2026-06-18 14:24:49.919167 | Western Digital: fetched=300
+2026-06-18 14:24:51.279074 | Bosch: fetched=300
+2026-06-18 14:24:52.644314 | Sandisk: fetched=294
+2026-06-18 14:25:07.162468 | NVIDIA: fetched=300
+2026-06-18 14:25:18.605255 | Intel: fetched=300
+2026-06-18 14:25:25.890815 | Marvell: fetched=300
+2026-06-18 14:25:25.997796 | POSTED FRESHER | Marvell | Digital Logic + Design Verification Graduate Co-Op Program (US - Fall 2026) | Santa Clara, CA
+2026-06-18 14:25:30.777760 | Apple: fetched=300
+2026-06-18 14:25:42.517116 | Analog Devices: fetched=300
+2026-06-18 14:25:53.184418 | NXP Semiconductors: fetched=300
+2026-06-18 14:26:05.725801 | Broadcom: fetched=300
+2026-06-18 14:26:14.585007 | Microchip: fetched=300
+2026-06-18 14:26:18.445032 | SiFive: fetched=66
+2026-06-18 14:26:20.014273 | Renesas Electronics: fetched=300
+2026-06-18 14:26:28.992453 | KLA: fetched=300
+2026-06-18 14:26:41.968732 | Applied Materials: fetched=300
+2026-06-18 14:26:42.116006 | SambaNova Systems: fetched=19
+2026-06-18 14:26:42.149705 | Samsung Semiconductor: fetched=55
+2026-06-18 14:26:42.184140 | Baya Systems: fetched=27
+2026-06-18 14:26:42.221713 | Ambiq: fetched=32
+2026-06-18 14:26:43.053977 | Graphcore: fetched=222
+2026-06-18 14:26:43.088383 | Eridan: fetched=1
+2026-06-18 14:26:43.193561 | Celero Communications: fetched=16
+2026-06-18 14:26:48.124313 | Micron: fetched=300
+2026-06-18 14:26:48.162094 | Aurora Innovation: fetched=151
+2026-06-18 14:26:48.197095 | Nuro: fetched=95
+2026-06-18 14:26:48.234813 | Applied Intuition: fetched=3
+2026-06-18 14:26:48.263055 | Ethernovia: fetched=31
+2026-06-18 14:26:48.351290 | SpaceX: fetched=1771
+2026-06-18 14:26:48.781961 | Axiado: fetched=48
+2026-06-18 14:26:48.816983 | Zipline: fetched=257
+2026-06-18 14:27:03.359638 | Anduril Industries: fetched=2078
+2026-06-18 14:27:03.790116 | Lattice Semiconductor: fetched=58
+2026-06-18 14:27:04.149718 | MaxLinear: fetched=28
+2026-06-18 14:27:12.840626 | Cadence: fetched=300
+2026-06-18 14:27:43.608521 | Microsoft: fetched=9
+2026-06-18 14:27:43.750135 | POSTED ALL | Microsoft | Principal Silicon Design Verification Engineer | United States, California, Santa Clara, United States, California, Mountain View, United States, Oregon, Hillsboro, United States, Texas, Austin, United States, Idaho, Boise, United States, California, San Diego, United States, Washington, Redmond
+2026-06-18 14:28:16.418852 | AMD: fetched=377
+2026-06-18 14:28:16.572700 | POSTED ALL | AMD | ASIC/SoC Design Engineer | San Jose, California, United States
+2026-06-18 14:28:16.668078 | POSTED FRESHER | AMD | Embedded SoC Architect | San Jose, California, United States
+2026-06-18 14:28:16.827924 | POSTED FRESHER | AMD | Senior Product Manager - CPU | Seattle, Washington, United States
+2026-06-18 14:28:16.913698 | POSTED FRESHER | AMD | Lead Firmware Engineer, BIOS / UEFI | Santa Clara, California, United States
+2026-06-18 14:28:17.010412 | POSTED ALL | AMD | DFT Design Engineer | Boxborough, Massachusetts, United States
+2026-06-18 14:28:43.744383 | Qualcomm: fetched=184
+2026-06-18 14:28:58.796329 | GlobalFoundries: fetched=54
+2026-06-18 14:29:18.328769 | Synopsys: fetched=210
+2026-06-18 14:29:18.755424 | Arm: fetched=18
+2026-06-18 14:29:30.727674 | Cisco: fetched=300
+2026-06-18 14:29:31.006031 | Cirrus Logic: fetched=2
+2026-06-18 14:29:33.429466 | Amazon: fetched=300
+2026-06-18 14:29:33.819258 | Rambus: fetched=29
+2026-06-18 14:29:33.986265 | Etched: fetched=25
+2026-06-18 14:29:33.987570 | Run finished | fetched=11815 matched=526 posted=8
