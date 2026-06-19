@@ -11422,3 +11422,64 @@
 2026-06-19 02:09:41.741410 | Rambus: fetched=29
 2026-06-19 02:09:41.864148 | Etched: fetched=25
 2026-06-19 02:09:41.865585 | Run finished | fetched=11821 matched=545 posted=5
+2026-06-19 07:27:35.691565 | === RUN STARTED ===
+2026-06-19 07:27:35.797663 | Astranis: fetched=89
+2026-06-19 07:27:35.847933 | Tenstorrent: fetched=121
+2026-06-19 07:27:35.893738 | Tenstorrent University: fetched=29
+2026-06-19 07:27:35.944615 | Cerebras Systems: fetched=97
+2026-06-19 07:27:35.995590 | Cerebras Early Talent: fetched=6
+2026-06-19 07:27:36.047526 | Astera Labs: fetched=164
+2026-06-19 07:27:36.098369 | Lightmatter: fetched=52
+2026-06-19 07:27:37.712620 | Western Digital: fetched=300
+2026-06-19 07:27:40.075511 | Bosch: fetched=300
+2026-06-19 07:27:40.366620 | POSTED ALL | Bosch | Senior ASIC Digital Lead – ATPG & Methodik (m/w/d) (Gehalt: ca. 88.000 EUR p.a.*) (w/m/div.) | Reutlingen, BW, de
+2026-06-19 07:27:40.613161 | POSTED ALL | Bosch | Senior ASIC Digital Lead - ATPG & Methodology (f/m/div.) (Salary: ~ 88.000 EUR p.a.*) | Reutlingen, BW, de
+2026-06-19 07:27:42.043160 | Sandisk: fetched=300
+2026-06-19 07:27:57.511956 | NVIDIA: fetched=300
+2026-06-19 07:28:15.599079 | Intel: fetched=300
+2026-06-19 07:28:31.427829 | Marvell: fetched=300
+2026-06-19 07:28:36.291939 | Apple: fetched=300
+2026-06-19 07:28:45.388200 | Analog Devices: fetched=300
+2026-06-19 07:28:57.199772 | NXP Semiconductors: fetched=300
+2026-06-19 07:29:03.665539 | Broadcom: fetched=300
+2026-06-19 07:29:11.141334 | Microchip: fetched=300
+2026-06-19 07:29:13.567650 | SiFive: fetched=68
+2026-06-19 07:29:15.356161 | Renesas Electronics: fetched=300
+2026-06-19 07:29:24.512427 | KLA: fetched=300
+2026-06-19 07:29:36.519682 | Applied Materials: fetched=300
+2026-06-19 07:29:36.626840 | SambaNova Systems: fetched=19
+2026-06-19 07:29:36.678089 | Samsung Semiconductor: fetched=55
+2026-06-19 07:29:36.730638 | Baya Systems: fetched=27
+2026-06-19 07:29:36.780700 | Ambiq: fetched=34
+2026-06-19 07:29:36.832892 | Graphcore: fetched=229
+2026-06-19 07:29:36.877094 | Eridan: fetched=1
+2026-06-19 07:29:36.919857 | Celero Communications: fetched=17
+2026-06-19 07:29:44.108662 | Micron: fetched=300
+2026-06-19 07:29:44.156575 | Aurora Innovation: fetched=149
+2026-06-19 07:29:44.209773 | Nuro: fetched=99
+2026-06-19 07:29:44.261516 | Applied Intuition: fetched=3
+2026-06-19 07:29:44.309940 | Ethernovia: fetched=31
+2026-06-19 07:29:44.400542 | SpaceX: fetched=1777
+2026-06-19 07:29:44.877336 | Axiado: fetched=48
+2026-06-19 07:29:44.928678 | Zipline: fetched=259
+2026-06-19 07:29:45.038055 | Anduril Industries: fetched=2075
+2026-06-19 07:29:45.688460 | Lattice Semiconductor: fetched=58
+2026-06-19 07:29:46.271970 | MaxLinear: fetched=28
+2026-06-19 07:29:55.453870 | Cadence: fetched=300
+2026-06-19 07:30:17.082659 | Microsoft: fetched=10
+2026-06-19 07:30:36.121690 | AMD: fetched=376
+2026-06-19 07:30:36.439003 | POSTED ALL | AMD | Integration RTL Design Engineer | San Jose, California, United States
+2026-06-19 07:30:36.628664 | POSTED ALL | AMD | Senior Emulation Methodology Engineer | Austin, Texas, United States
+2026-06-19 07:30:36.901232 | POSTED FRESHER | AMD | SoC Architect | San Jose, California, United States
+2026-06-19 07:30:37.143221 | POSTED FRESHER | AMD | CPU Core Verification Engineer | Austin, Texas, United States
+2026-06-19 07:30:58.725308 | Qualcomm: fetched=196
+2026-06-19 07:31:19.917690 | GlobalFoundries: fetched=73
+2026-06-19 07:31:27.282700 | Synopsys: fetched=39
+2026-06-19 07:31:27.588910 | Arm: fetched=18
+2026-06-19 07:31:32.710627 | Cisco: fetched=300
+2026-06-19 07:31:33.172678 | Cirrus Logic: fetched=2
+2026-06-19 07:31:35.661855 | Amazon: fetched=300
+2026-06-19 07:31:35.909523 | POSTED ALL | Amazon | Sr SDE - Embedded Networking, Amazon Leo | Sunnyvale, California, USA
+2026-06-19 07:31:36.435239 | Rambus: fetched=29
+2026-06-19 07:31:36.540811 | Etched: fetched=25
+2026-06-19 07:31:36.542229 | Run finished | fetched=11703 matched=535 posted=7
