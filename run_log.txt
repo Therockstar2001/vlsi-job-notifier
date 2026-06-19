@@ -11657,3 +11657,62 @@
 2026-06-19 18:11:47.323796 | Rambus: fetched=29
 2026-06-19 18:11:47.586177 | Etched: fetched=25
 2026-06-19 18:11:47.587349 | Run finished | fetched=11695 matched=533 posted=4
+2026-06-19 20:02:39.879878 | === RUN STARTED ===
+2026-06-19 20:02:39.997713 | Astranis: fetched=89
+2026-06-19 20:02:40.053492 | Tenstorrent: fetched=121
+2026-06-19 20:02:40.106932 | Tenstorrent University: fetched=29
+2026-06-19 20:02:40.156098 | Cerebras Systems: fetched=97
+2026-06-19 20:02:40.207873 | Cerebras Early Talent: fetched=6
+2026-06-19 20:02:40.261180 | Astera Labs: fetched=165
+2026-06-19 20:02:40.311432 | Lightmatter: fetched=52
+2026-06-19 20:02:41.675026 | Western Digital: fetched=300
+2026-06-19 20:02:42.969092 | Bosch: fetched=300
+2026-06-19 20:02:44.316878 | Sandisk: fetched=300
+2026-06-19 20:03:00.286542 | NVIDIA: fetched=300
+2026-06-19 20:03:11.218364 | Intel: fetched=300
+2026-06-19 20:03:20.257243 | Marvell: fetched=300
+2026-06-19 20:03:25.406257 | Apple: fetched=300
+2026-06-19 20:03:34.210878 | Analog Devices: fetched=300
+2026-06-19 20:03:45.365760 | NXP Semiconductors: fetched=300
+2026-06-19 20:03:49.737732 | Broadcom: fetched=300
+2026-06-19 20:03:49.879806 | POSTED ALL | Broadcom | Design Verification Engineer | USA-CA San Jose Innovation Drive
+2026-06-19 20:03:49.990640 | POSTED ALL | Broadcom | Lead ASIC Design Engineer | USA-California-San Jose-1320 Ridder Park Drive
+2026-06-19 20:03:58.550121 | Microchip: fetched=300
+2026-06-19 20:04:01.124000 | SiFive: fetched=68
+2026-06-19 20:04:02.723811 | Renesas Electronics: fetched=300
+2026-06-19 20:04:11.574540 | KLA: fetched=300
+2026-06-19 20:04:22.832813 | Applied Materials: fetched=300
+2026-06-19 20:04:22.995568 | SambaNova Systems: fetched=19
+2026-06-19 20:04:23.041868 | Samsung Semiconductor: fetched=55
+2026-06-19 20:04:23.089412 | Baya Systems: fetched=27
+2026-06-19 20:04:23.128252 | Ambiq: fetched=34
+2026-06-19 20:04:23.169021 | Graphcore: fetched=224
+2026-06-19 20:04:23.215389 | Eridan: fetched=1
+2026-06-19 20:04:23.254867 | Celero Communications: fetched=17
+2026-06-19 20:04:28.774611 | Micron: fetched=300
+2026-06-19 20:04:28.828234 | Aurora Innovation: fetched=149
+2026-06-19 20:04:28.874043 | Nuro: fetched=99
+2026-06-19 20:04:28.915546 | Applied Intuition: fetched=3
+2026-06-19 20:04:28.955223 | Ethernovia: fetched=31
+2026-06-19 20:04:29.057021 | SpaceX: fetched=1787
+2026-06-19 20:04:29.470016 | Axiado: fetched=48
+2026-06-19 20:04:29.524345 | Zipline: fetched=259
+2026-06-19 20:04:29.640265 | Anduril Industries: fetched=2068
+2026-06-19 20:04:30.039915 | Lattice Semiconductor: fetched=58
+2026-06-19 20:04:30.390116 | MaxLinear: fetched=28
+2026-06-19 20:04:42.081816 | Cadence: fetched=300
+2026-06-19 20:05:07.837926 | Microsoft: fetched=10
+2026-06-19 20:05:23.786822 | AMD: fetched=377
+2026-06-19 20:05:23.937551 | POSTED ALL | AMD | CPU Server Performance Architect | Austin, Texas, United States
+2026-06-19 20:05:24.081859 | POSTED ALL | AMD | FPGA Place & Route Software Engineer | San Jose, California, United States
+2026-06-19 20:05:53.728487 | Qualcomm: fetched=181
+2026-06-19 20:05:53.870301 | POSTED ALL | Qualcomm | CPU Verification Engineer | Santa Clara, California, United States of America
+2026-06-19 20:06:10.565385 | GlobalFoundries: fetched=62
+2026-06-19 20:06:15.860478 | Synopsys: fetched=38
+2026-06-19 20:06:16.310663 | Arm: fetched=18
+2026-06-19 20:06:20.880463 | Cisco: fetched=300
+2026-06-19 20:06:21.111740 | Cirrus Logic: fetched=2
+2026-06-19 20:06:24.243635 | Amazon: fetched=300
+2026-06-19 20:06:24.476320 | Rambus: fetched=29
+2026-06-19 20:06:24.627030 | Etched: fetched=25
+2026-06-19 20:06:24.628359 | Run finished | fetched=11676 matched=524 posted=5
