@@ -11540,3 +11540,62 @@
 2026-06-19 12:21:35.449605 | Rambus: fetched=29
 2026-06-19 12:21:35.557422 | Etched: fetched=25
 2026-06-19 12:21:35.558825 | Run finished | fetched=11699 matched=521 posted=3
+2026-06-19 16:13:50.242761 | === RUN STARTED ===
+2026-06-19 16:13:50.345862 | Astranis: fetched=89
+2026-06-19 16:13:50.469102 | Tenstorrent: fetched=121
+2026-06-19 16:13:50.518283 | Tenstorrent University: fetched=29
+2026-06-19 16:13:50.567128 | Cerebras Systems: fetched=97
+2026-06-19 16:13:50.627333 | Cerebras Early Talent: fetched=6
+2026-06-19 16:13:50.676880 | Astera Labs: fetched=165
+2026-06-19 16:13:50.732974 | Lightmatter: fetched=52
+2026-06-19 16:13:52.218510 | Western Digital: fetched=300
+2026-06-19 16:13:53.667663 | Bosch: fetched=300
+2026-06-19 16:13:55.143636 | Sandisk: fetched=300
+2026-06-19 16:14:12.759138 | NVIDIA: fetched=300
+2026-06-19 16:14:24.553648 | Intel: fetched=300
+2026-06-19 16:14:32.698157 | Marvell: fetched=300
+2026-06-19 16:14:37.666668 | Apple: fetched=300
+2026-06-19 16:14:46.993990 | Analog Devices: fetched=300
+2026-06-19 16:14:58.738486 | NXP Semiconductors: fetched=300
+2026-06-19 16:15:05.757997 | Broadcom: fetched=300
+2026-06-19 16:15:15.281264 | Microchip: fetched=300
+2026-06-19 16:15:18.210815 | SiFive: fetched=68
+2026-06-19 16:15:19.897593 | Renesas Electronics: fetched=300
+2026-06-19 16:15:33.934460 | KLA: fetched=300
+2026-06-19 16:15:47.084065 | Applied Materials: fetched=300
+2026-06-19 16:15:47.172915 | SambaNova Systems: fetched=19
+2026-06-19 16:15:47.216516 | Samsung Semiconductor: fetched=55
+2026-06-19 16:15:47.266830 | Baya Systems: fetched=27
+2026-06-19 16:15:47.310785 | Ambiq: fetched=34
+2026-06-19 16:15:47.357344 | Graphcore: fetched=223
+2026-06-19 16:15:47.403171 | Eridan: fetched=1
+2026-06-19 16:15:47.446931 | Celero Communications: fetched=17
+2026-06-19 16:15:54.604134 | Micron: fetched=300
+2026-06-19 16:15:54.656120 | Aurora Innovation: fetched=149
+2026-06-19 16:15:54.707404 | Nuro: fetched=99
+2026-06-19 16:15:56.078458 | Applied Intuition: fetched=3
+2026-06-19 16:15:56.124291 | Ethernovia: fetched=31
+2026-06-19 16:15:56.216846 | SpaceX: fetched=1784
+2026-06-19 16:15:56.659982 | Axiado: fetched=48
+2026-06-19 16:15:56.706314 | Zipline: fetched=259
+2026-06-19 16:15:56.809296 | Anduril Industries: fetched=2074
+2026-06-19 16:15:57.397554 | Lattice Semiconductor: fetched=58
+2026-06-19 16:15:57.961270 | MaxLinear: fetched=28
+2026-06-19 16:16:08.063980 | Cadence: fetched=300
+2026-06-19 16:16:28.415119 | Microsoft: fetched=16
+2026-06-19 16:16:49.305231 | AMD: fetched=377
+2026-06-19 16:16:49.505528 | POSTED ALL | AMD | SoC Security and Virtualization Validation Engineer | Austin, Texas, United States
+2026-06-19 16:16:49.762463 | POSTED FRESHER | AMD | Semicustom DFT Strategy Lead | Austin, Texas, United States
+2026-06-19 16:16:50.054414 | POSTED ALL | AMD | Director, Product Development Engineering-ASIC/SoC | San Jose, California, United States
+2026-06-19 16:16:50.425702 | POSTED ALL | AMD | SOC Silicon Design Engineer | Boxborough, Massachusetts, United States
+2026-06-19 16:16:50.623097 | POSTED ALL | AMD | Firmware Architect (SoC / Embedded Systems) | San Jose, California, United States
+2026-06-19 16:17:14.916535 | Qualcomm: fetched=183
+2026-06-19 16:17:37.268413 | GlobalFoundries: fetched=62
+2026-06-19 16:17:37.793398 | Synopsys: fetched=39
+2026-06-19 16:17:38.128236 | Arm: fetched=18
+2026-06-19 16:17:42.032041 | Cisco: fetched=300
+2026-06-19 16:17:42.471905 | Cirrus Logic: fetched=2
+2026-06-19 16:17:44.963572 | Amazon: fetched=300
+2026-06-19 16:17:45.400369 | Rambus: fetched=29
+2026-06-19 16:17:45.495020 | Etched: fetched=25
+2026-06-19 16:17:45.496083 | Run finished | fetched=11687 matched=513 posted=5
