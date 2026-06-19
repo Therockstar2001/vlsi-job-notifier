@@ -11716,3 +11716,59 @@
 2026-06-19 20:06:24.476320 | Rambus: fetched=29
 2026-06-19 20:06:24.627030 | Etched: fetched=25
 2026-06-19 20:06:24.628359 | Run finished | fetched=11676 matched=524 posted=5
+2026-06-19 21:34:07.899111 | === RUN STARTED ===
+2026-06-19 21:34:08.062918 | Astranis: fetched=89
+2026-06-19 21:34:08.119529 | Tenstorrent: fetched=121
+2026-06-19 21:34:08.181692 | Tenstorrent University: fetched=29
+2026-06-19 21:34:08.238148 | Cerebras Systems: fetched=97
+2026-06-19 21:34:08.476212 | Cerebras Early Talent: fetched=6
+2026-06-19 21:34:08.542509 | Astera Labs: fetched=165
+2026-06-19 21:34:08.613604 | Lightmatter: fetched=52
+2026-06-19 21:34:10.241076 | Western Digital: fetched=300
+2026-06-19 21:34:11.717801 | Bosch: fetched=300
+2026-06-19 21:34:13.117701 | Sandisk: fetched=300
+2026-06-19 21:34:26.677814 | NVIDIA: fetched=300
+2026-06-19 21:34:42.602744 | Intel: fetched=300
+2026-06-19 21:34:50.177634 | Marvell: fetched=300
+2026-06-19 21:34:54.794356 | Apple: fetched=300
+2026-06-19 21:35:03.656452 | Analog Devices: fetched=300
+2026-06-19 21:35:16.581785 | NXP Semiconductors: fetched=300
+2026-06-19 21:35:21.246928 | Broadcom: fetched=300
+2026-06-19 21:35:21.377701 | POSTED ALL | Broadcom | Design Verification Engineer | USA-CA San Jose Innovation Drive
+2026-06-19 21:35:30.422278 | Microchip: fetched=300
+2026-06-19 21:35:32.788271 | SiFive: fetched=68
+2026-06-19 21:35:34.454195 | Renesas Electronics: fetched=300
+2026-06-19 21:35:43.637458 | KLA: fetched=300
+2026-06-19 21:35:54.837882 | Applied Materials: fetched=300
+2026-06-19 21:35:55.089450 | SambaNova Systems: fetched=19
+2026-06-19 21:35:55.146297 | Samsung Semiconductor: fetched=55
+2026-06-19 21:35:55.203617 | Baya Systems: fetched=27
+2026-06-19 21:35:55.253460 | Ambiq: fetched=34
+2026-06-19 21:35:55.309984 | Graphcore: fetched=224
+2026-06-19 21:35:55.367065 | Eridan: fetched=1
+2026-06-19 21:35:55.420993 | Celero Communications: fetched=17
+2026-06-19 21:36:01.305485 | Micron: fetched=300
+2026-06-19 21:36:01.369455 | Aurora Innovation: fetched=149
+2026-06-19 21:36:01.427438 | Nuro: fetched=99
+2026-06-19 21:36:01.492153 | Applied Intuition: fetched=3
+2026-06-19 21:36:01.548293 | Ethernovia: fetched=31
+2026-06-19 21:36:01.656316 | SpaceX: fetched=1783
+2026-06-19 21:36:02.093865 | Axiado: fetched=48
+2026-06-19 21:36:02.152623 | Zipline: fetched=259
+2026-06-19 21:36:02.263171 | Anduril Industries: fetched=2074
+2026-06-19 21:36:02.628359 | Lattice Semiconductor: fetched=58
+2026-06-19 21:36:03.279739 | MaxLinear: fetched=28
+2026-06-19 21:36:11.959687 | Cadence: fetched=300
+2026-06-19 21:36:35.053148 | Microsoft: fetched=8
+2026-06-19 21:36:52.099936 | AMD: fetched=376
+2026-06-19 21:36:52.328655 | POSTED FRESHER | AMD | SoC Architect | Austin, Texas, United States
+2026-06-19 21:37:25.005033 | Qualcomm: fetched=198
+2026-06-19 21:37:43.193831 | GlobalFoundries: fetched=56
+2026-06-19 21:37:45.708943 | Synopsys: fetched=38
+2026-06-19 21:37:46.681148 | Arm: fetched=18
+2026-06-19 21:37:51.412673 | Cisco: fetched=300
+2026-06-19 21:37:51.784981 | Cirrus Logic: fetched=2
+2026-06-19 21:37:54.458704 | Amazon: fetched=300
+2026-06-19 21:37:54.826740 | Rambus: fetched=29
+2026-06-19 21:37:54.964894 | Etched: fetched=25
+2026-06-19 21:37:54.965587 | Run finished | fetched=11686 matched=515 posted=2
