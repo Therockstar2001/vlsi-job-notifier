@@ -11881,3 +11881,57 @@
 2026-06-20 01:33:38.038599 | Rambus: fetched=29
 2026-06-20 01:33:38.148188 | Etched: fetched=25
 2026-06-20 01:33:38.305234 | Run finished | fetched=11714 matched=531 posted=0
+2026-06-20 06:40:57.279897 | === RUN STARTED ===
+2026-06-20 06:40:57.422645 | Astranis: fetched=89
+2026-06-20 06:40:57.486547 | Tenstorrent: fetched=121
+2026-06-20 06:40:57.563573 | Tenstorrent University: fetched=29
+2026-06-20 06:40:57.622926 | Cerebras Systems: fetched=99
+2026-06-20 06:40:57.686567 | Cerebras Early Talent: fetched=6
+2026-06-20 06:40:57.753047 | Astera Labs: fetched=165
+2026-06-20 06:40:57.818171 | Lightmatter: fetched=52
+2026-06-20 06:40:59.431516 | Western Digital: fetched=300
+2026-06-20 06:41:00.864357 | Bosch: fetched=300
+2026-06-20 06:41:02.250656 | Sandisk: fetched=300
+2026-06-20 06:41:02.876686 | ERROR | NVIDIA | No working Workday API endpoint found for NVIDIA: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+2026-06-20 06:41:04.578542 | ERROR | Intel | No working Workday API endpoint found for Intel: https://intel.wd1.myworkdayjobs.com/External
+2026-06-20 06:41:04.853759 | ERROR | Marvell | No working Workday API endpoint found for Marvell: https://marvell.wd1.myworkdayjobs.com/MarvellCareers
+2026-06-20 06:41:09.896786 | Apple: fetched=300
+2026-06-20 06:41:10.247599 | ERROR | Analog Devices | No working Workday API endpoint found for Analog Devices: https://analogdevices.wd1.myworkdayjobs.com/External
+2026-06-20 06:41:10.818717 | ERROR | NXP Semiconductors | No working Workday API endpoint found for NXP Semiconductors: https://nxp.wd3.myworkdayjobs.com/careers
+2026-06-20 06:41:11.172314 | ERROR | Broadcom | No working Workday API endpoint found for Broadcom: https://broadcom.wd1.myworkdayjobs.com/External_Career
+2026-06-20 06:41:11.971898 | ERROR | Microchip | No working Workday API endpoint found for Microchip: https://wd5.myworkdaysite.com/recruiting/microchiphr/External
+2026-06-20 06:41:12.318706 | ERROR | SiFive | No working Workday API endpoint found for SiFive: https://sifive.wd1.myworkdayjobs.com/sifivecareers
+2026-06-20 06:41:13.987852 | Renesas Electronics: fetched=300
+2026-06-20 06:41:14.329995 | ERROR | KLA | No working Workday API endpoint found for KLA: https://kla.wd1.myworkdayjobs.com/Search
+2026-06-20 06:41:14.605819 | ERROR | Applied Materials | No working Workday API endpoint found for Applied Materials: https://amat.wd1.myworkdayjobs.com/External
+2026-06-20 06:41:14.751865 | SambaNova Systems: fetched=19
+2026-06-20 06:41:14.811949 | Samsung Semiconductor: fetched=55
+2026-06-20 06:41:14.875893 | Baya Systems: fetched=27
+2026-06-20 06:41:14.935072 | Ambiq: fetched=34
+2026-06-20 06:41:15.000138 | Graphcore: fetched=224
+2026-06-20 06:41:15.066464 | Eridan: fetched=1
+2026-06-20 06:41:15.124843 | Celero Communications: fetched=17
+2026-06-20 06:41:15.467564 | ERROR | Micron | No working Workday API endpoint found for Micron: https://micron.wd1.myworkdayjobs.com/en-US/External
+2026-06-20 06:41:15.527648 | Aurora Innovation: fetched=149
+2026-06-20 06:41:15.595139 | Nuro: fetched=99
+2026-06-20 06:41:15.658458 | Applied Intuition: fetched=3
+2026-06-20 06:41:15.717690 | Ethernovia: fetched=31
+2026-06-20 06:41:15.911905 | SpaceX: fetched=1787
+2026-06-20 06:41:16.353761 | Axiado: fetched=48
+2026-06-20 06:41:16.417197 | Zipline: fetched=257
+2026-06-20 06:41:16.538271 | Anduril Industries: fetched=2082
+2026-06-20 06:41:17.074480 | Lattice Semiconductor: fetched=58
+2026-06-20 06:41:17.396895 | MaxLinear: fetched=28
+2026-06-20 06:41:17.734429 | ERROR | Cadence | No working Workday API endpoint found for Cadence: https://cadence.wd1.myworkdayjobs.com/External_Careers
+2026-06-20 06:41:42.870424 | Microsoft: fetched=9
+2026-06-20 06:42:02.950512 | AMD: fetched=377
+2026-06-20 06:42:37.843032 | Qualcomm: fetched=203
+2026-06-20 06:42:54.100798 | GlobalFoundries: fetched=72
+2026-06-20 06:42:56.301297 | Synopsys: fetched=38
+2026-06-20 06:42:56.798149 | Arm: fetched=18
+2026-06-20 06:42:57.090884 | ERROR | Cisco | No working Workday API endpoint found for Cisco: https://cisco.wd5.myworkdayjobs.com/Cisco_Careers
+2026-06-20 06:42:57.341904 | Cirrus Logic: fetched=2
+2026-06-20 06:43:00.575799 | Amazon: fetched=300
+2026-06-20 06:43:00.903311 | Rambus: fetched=29
+2026-06-20 06:43:01.072068 | Etched: fetched=25
+2026-06-20 06:43:01.287966 | Run finished | fetched=8053 matched=383 posted=0
