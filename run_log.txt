@@ -12803,3 +12803,61 @@
 2026-06-21 23:47:37.899265 | Rambus: fetched=29
 2026-06-21 23:47:38.035020 | Etched: fetched=25
 2026-06-21 23:47:38.178933 | Run finished | fetched=11723 matched=534 posted=0
+2026-06-22 05:30:13.040645 | === RUN STARTED ===
+2026-06-22 05:30:13.145432 | Astranis: fetched=89
+2026-06-22 05:30:13.199263 | Tenstorrent: fetched=121
+2026-06-22 05:30:13.255514 | Tenstorrent University: fetched=29
+2026-06-22 05:30:13.302067 | Cerebras Systems: fetched=99
+2026-06-22 05:30:13.355131 | Cerebras Early Talent: fetched=6
+2026-06-22 05:30:13.408138 | Astera Labs: fetched=165
+2026-06-22 05:30:13.495486 | Lightmatter: fetched=52
+2026-06-22 05:30:15.001479 | Western Digital: fetched=300
+2026-06-22 05:30:16.498598 | Bosch: fetched=300
+2026-06-22 05:30:17.992306 | Sandisk: fetched=300
+2026-06-22 05:30:30.784665 | NVIDIA: fetched=300
+2026-06-22 05:30:31.046627 | POSTED ALL | NVIDIA | Senior Network Engineer, System Verification | US, CA, Santa Clara
+2026-06-22 05:30:31.639368 | POSTED ALL | NVIDIA | SoC Product Architect, Memory Ecosystem | US, CA, Santa Clara
+2026-06-22 05:30:31.883388 | POSTED ALL | NVIDIA | Senior AI Application Developer - GPU and SOC Architecture Modeling | US, CA, Santa Clara
+2026-06-22 05:30:45.281904 | Intel: fetched=300
+2026-06-22 05:30:53.390009 | Marvell: fetched=300
+2026-06-22 05:30:58.504831 | Apple: fetched=300
+2026-06-22 05:31:07.619378 | Analog Devices: fetched=300
+2026-06-22 05:31:19.024509 | NXP Semiconductors: fetched=300
+2026-06-22 05:31:25.382783 | Broadcom: fetched=300
+2026-06-22 05:31:32.962242 | Microchip: fetched=300
+2026-06-22 05:31:35.388435 | SiFive: fetched=66
+2026-06-22 05:31:37.080712 | Renesas Electronics: fetched=300
+2026-06-22 05:31:47.995231 | KLA: fetched=300
+2026-06-22 05:32:04.364223 | Applied Materials: fetched=300
+2026-06-22 05:32:04.479124 | SambaNova Systems: fetched=19
+2026-06-22 05:32:04.534715 | Samsung Semiconductor: fetched=55
+2026-06-22 05:32:04.582372 | Baya Systems: fetched=27
+2026-06-22 05:32:04.641320 | Ambiq: fetched=35
+2026-06-22 05:32:04.693358 | Graphcore: fetched=227
+2026-06-22 05:32:04.739126 | Eridan: fetched=1
+2026-06-22 05:32:04.786693 | Celero Communications: fetched=17
+2026-06-22 05:32:11.679118 | Micron: fetched=300
+2026-06-22 05:32:11.732260 | Aurora Innovation: fetched=149
+2026-06-22 05:32:11.781106 | Nuro: fetched=99
+2026-06-22 05:32:11.827675 | Applied Intuition: fetched=3
+2026-06-22 05:32:11.869010 | Ethernovia: fetched=31
+2026-06-22 05:32:11.971194 | SpaceX: fetched=1791
+2026-06-22 05:32:12.434214 | Axiado: fetched=48
+2026-06-22 05:32:12.487627 | Zipline: fetched=256
+2026-06-22 05:32:12.593810 | Anduril Industries: fetched=2082
+2026-06-22 05:32:13.241645 | Lattice Semiconductor: fetched=58
+2026-06-22 05:32:13.745155 | MaxLinear: fetched=28
+2026-06-22 05:32:22.339934 | Cadence: fetched=300
+2026-06-22 05:32:42.426712 | Microsoft: fetched=9
+2026-06-22 05:33:02.805610 | AMD: fetched=376
+2026-06-22 05:33:03.137615 | POSTED ALL | AMD | FPGA Product Application Engineer | Longmont, Colorado, United States
+2026-06-22 05:33:24.990935 | Qualcomm: fetched=214
+2026-06-22 05:33:42.922925 | GlobalFoundries: fetched=73
+2026-06-22 05:33:50.731870 | Synopsys: fetched=38
+2026-06-22 05:33:50.981438 | Arm: fetched=18
+2026-06-22 05:33:54.950415 | Cisco: fetched=300
+2026-06-22 05:33:55.387799 | Cirrus Logic: fetched=2
+2026-06-22 05:33:58.348999 | Amazon: fetched=300
+2026-06-22 05:33:58.813028 | Rambus: fetched=29
+2026-06-22 05:33:58.911618 | Etched: fetched=25
+2026-06-22 05:33:58.912954 | Run finished | fetched=11737 matched=544 posted=4
