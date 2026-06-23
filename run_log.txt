@@ -13447,3 +13447,64 @@
 2026-06-23 19:23:02.028806 | Rambus: fetched=29
 2026-06-23 19:23:02.341554 | Etched: fetched=25
 2026-06-23 19:23:02.342976 | Run finished | fetched=11657 matched=516 posted=8
+2026-06-23 21:50:51.947016 | === RUN STARTED ===
+2026-06-23 21:50:52.144512 | Astranis: fetched=83
+2026-06-23 21:50:52.204275 | Tenstorrent: fetched=122
+2026-06-23 21:50:52.262543 | Tenstorrent University: fetched=28
+2026-06-23 21:50:52.319573 | Cerebras Systems: fetched=101
+2026-06-23 21:50:52.374610 | Cerebras Early Talent: fetched=6
+2026-06-23 21:50:52.434892 | Astera Labs: fetched=164
+2026-06-23 21:50:52.494068 | Lightmatter: fetched=52
+2026-06-23 21:50:54.044160 | Western Digital: fetched=300
+2026-06-23 21:50:55.520667 | Bosch: fetched=300
+2026-06-23 21:50:56.940202 | Sandisk: fetched=300
+2026-06-23 21:51:10.250807 | NVIDIA: fetched=300
+2026-06-23 21:51:21.824274 | Intel: fetched=300
+2026-06-23 21:51:29.282729 | Marvell: fetched=300
+2026-06-23 21:51:33.932688 | Apple: fetched=300
+2026-06-23 21:51:42.800775 | Analog Devices: fetched=300
+2026-06-23 21:51:54.356742 | NXP Semiconductors: fetched=300
+2026-06-23 21:51:54.532766 | POSTED FRESHER | NXP Semiconductors | Digital Verification Engineer Intern - Fall 2026 | Austin (Oakhill, Office)
+2026-06-23 21:52:00.091244 | Broadcom: fetched=300
+2026-06-23 21:52:09.515225 | Microchip: fetched=300
+2026-06-23 21:52:11.858767 | SiFive: fetched=64
+2026-06-23 21:52:13.537563 | Renesas Electronics: fetched=300
+2026-06-23 21:52:25.954722 | KLA: fetched=300
+2026-06-23 21:52:37.997142 | Applied Materials: fetched=300
+2026-06-23 21:52:40.174807 | SambaNova Systems: fetched=20
+2026-06-23 21:52:40.235963 | Samsung Semiconductor: fetched=55
+2026-06-23 21:52:40.294983 | Baya Systems: fetched=27
+2026-06-23 21:52:40.356909 | Ambiq: fetched=38
+2026-06-23 21:52:40.423834 | Graphcore: fetched=223
+2026-06-23 21:52:40.484352 | Eridan: fetched=1
+2026-06-23 21:52:40.542120 | Celero Communications: fetched=16
+2026-06-23 21:52:45.967968 | Micron: fetched=300
+2026-06-23 21:52:46.033978 | Aurora Innovation: fetched=143
+2026-06-23 21:52:46.092688 | Nuro: fetched=100
+2026-06-23 21:52:46.151193 | Applied Intuition: fetched=3
+2026-06-23 21:52:46.210191 | Ethernovia: fetched=31
+2026-06-23 21:52:56.083946 | SpaceX: fetched=1780
+2026-06-23 21:52:56.544638 | Axiado: fetched=47
+2026-06-23 21:52:56.606927 | Zipline: fetched=257
+2026-06-23 21:53:12.930252 | Anduril Industries: fetched=2082
+2026-06-23 21:53:13.312340 | Lattice Semiconductor: fetched=58
+2026-06-23 21:53:13.756473 | MaxLinear: fetched=28
+2026-06-23 21:53:21.974348 | Cadence: fetched=300
+2026-06-23 21:53:43.790915 | Microsoft: fetched=5
+2026-06-23 21:53:43.934291 | POSTED ALL | Microsoft | Senior SoC HW (PnP/Functional) Validation Engineer | United States, Oregon, Hillsboro
+2026-06-23 21:53:59.143583 | AMD: fetched=376
+2026-06-23 21:53:59.326105 | POSTED ALL | AMD | SoC Physical Integration Engineer | San Jose, California, United States
+2026-06-23 21:53:59.513658 | POSTED FRESHER | AMD | Sr. FAE - Embedded Solutions (Southern California) | California, United States
+2026-06-23 21:54:33.053552 | Qualcomm: fetched=200
+2026-06-23 21:54:33.262227 | POSTED ALL | Qualcomm | SoC Modeling Engineer | San Diego, California, United States of America
+2026-06-23 21:54:49.208408 | GlobalFoundries: fetched=72
+2026-06-23 21:55:02.027307 | Synopsys: fetched=103
+2026-06-23 21:55:02.463763 | Arm: fetched=18
+2026-06-23 21:55:06.929899 | Cisco: fetched=300
+2026-06-23 21:55:07.103335 | POSTED ALL | Cisco | Software Engineer, Embedded | Milpitas, California, US
+2026-06-23 21:55:07.438702 | Cirrus Logic: fetched=2
+2026-06-23 21:55:10.615236 | Amazon: fetched=300
+2026-06-23 21:55:10.767463 | POSTED ALL | Amazon | Embedded Software Development Engineer, Alexa Devices  | Austin, Texas, USA
+2026-06-23 21:55:11.112484 | Rambus: fetched=29
+2026-06-23 21:55:11.228354 | Etched: fetched=25
+2026-06-23 21:55:11.229399 | Run finished | fetched=11759 matched=534 posted=7
