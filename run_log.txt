@@ -13919,3 +13919,67 @@
 2026-06-24 20:11:29.091918 | Rambus: fetched=29
 2026-06-24 20:11:29.328255 | Etched: fetched=25
 2026-06-24 20:11:29.329671 | Run finished | fetched=11763 matched=522 posted=7
+2026-06-24 21:45:24.814728 | === RUN STARTED ===
+2026-06-24 21:45:24.984909 | Astranis: fetched=83
+2026-06-24 21:45:25.017513 | Tenstorrent: fetched=123
+2026-06-24 21:45:25.050696 | Tenstorrent University: fetched=28
+2026-06-24 21:45:28.195077 | Cerebras Systems: fetched=100
+2026-06-24 21:45:28.229390 | Cerebras Early Talent: fetched=6
+2026-06-24 21:45:28.266307 | Astera Labs: fetched=168
+2026-06-24 21:45:28.294311 | Lightmatter: fetched=52
+2026-06-24 21:45:29.787234 | Western Digital: fetched=296
+2026-06-24 21:45:31.160529 | Bosch: fetched=300
+2026-06-24 21:45:32.590446 | Sandisk: fetched=300
+2026-06-24 21:45:46.940082 | NVIDIA: fetched=300
+2026-06-24 21:45:47.053720 | POSTED ALL | NVIDIA | Senior IP Verification Engineer | US, CA, Santa Clara
+2026-06-24 21:45:57.156446 | Intel: fetched=300
+2026-06-24 21:45:57.262790 | POSTED ALL | Intel | Verification Engineer Senior | US, Texas, Austin
+2026-06-24 21:46:04.346980 | Marvell: fetched=300
+2026-06-24 21:46:09.228452 | Apple: fetched=300
+2026-06-24 21:46:09.303678 | POSTED ALL | Apple | Custom Timing and Verification CAD Engineer | 
+2026-06-24 21:46:18.143266 | Analog Devices: fetched=300
+2026-06-24 21:46:28.656614 | NXP Semiconductors: fetched=300
+2026-06-24 21:46:32.796579 | Broadcom: fetched=300
+2026-06-24 21:46:41.943899 | Microchip: fetched=300
+2026-06-24 21:46:44.124975 | SiFive: fetched=64
+2026-06-24 21:46:45.678254 | Renesas Electronics: fetched=300
+2026-06-24 21:46:58.512822 | KLA: fetched=300
+2026-06-24 21:47:09.637729 | Applied Materials: fetched=300
+2026-06-24 21:47:09.722011 | SambaNova Systems: fetched=20
+2026-06-24 21:47:09.755782 | Samsung Semiconductor: fetched=57
+2026-06-24 21:47:09.785707 | Baya Systems: fetched=27
+2026-06-24 21:47:09.826767 | Ambiq: fetched=40
+2026-06-24 21:47:09.902368 | POSTED ALL | Ambiq | Principal Edge AI Firmware Engineer | Austin, Texas, United States
+2026-06-24 21:47:09.935409 | Graphcore: fetched=242
+2026-06-24 21:47:09.968001 | Eridan: fetched=1
+2026-06-24 21:47:09.996011 | Celero Communications: fetched=16
+2026-06-24 21:47:14.317969 | Micron: fetched=300
+2026-06-24 21:47:14.350159 | Aurora Innovation: fetched=146
+2026-06-24 21:47:14.380685 | Nuro: fetched=104
+2026-06-24 21:47:14.409965 | Applied Intuition: fetched=3
+2026-06-24 21:47:14.437988 | Ethernovia: fetched=30
+2026-06-24 21:47:14.528060 | SpaceX: fetched=1784
+2026-06-24 21:47:14.958797 | Axiado: fetched=47
+2026-06-24 21:47:14.987000 | Zipline: fetched=259
+2026-06-24 21:47:15.065590 | POSTED ALL | Zipline | Senior-Staff Software Engineer - Embedded Platform (Middleware) | South San Francisco, California, USA
+2026-06-24 21:47:15.159616 | Anduril Industries: fetched=2097
+2026-06-24 21:47:15.488843 | Lattice Semiconductor: fetched=58
+2026-06-24 21:47:15.773063 | MaxLinear: fetched=28
+2026-06-24 21:47:23.412647 | Cadence: fetched=300
+2026-06-24 21:47:51.091288 | Microsoft: fetched=11
+2026-06-24 21:48:05.558872 | AMD: fetched=377
+2026-06-24 21:48:35.570014 | Qualcomm: fetched=216
+2026-06-24 21:48:35.646640 | POSTED ALL | Qualcomm | Emulation Engineer - RISC -V | Cupertino, California, United States of America, Austin, Texas, United States of America
+2026-06-24 21:48:35.720189 | POSTED ALL | Qualcomm | SoC Debug Engineer | San Diego, California, United States of America
+2026-06-24 21:48:35.797985 | POSTED ALL | Qualcomm | Senior SoC/RTL Design Engineer | San Diego, California, United States of America
+2026-06-24 21:48:49.239082 | GlobalFoundries: fetched=61
+2026-06-24 21:49:06.730351 | Synopsys: fetched=46
+2026-06-24 21:49:07.000175 | Arm: fetched=18
+2026-06-24 21:49:12.337918 | Cisco: fetched=300
+2026-06-24 21:49:12.642783 | Cirrus Logic: fetched=2
+2026-06-24 21:49:14.402265 | Amazon: fetched=300
+2026-06-24 21:49:14.483337 | POSTED ALL | Amazon | Manager, ASIC Sustaining engineer, Silicon Operations | Bellevue, Washington, USA
+2026-06-24 21:49:14.562763 | POSTED ALL | Amazon | Sr. RF Test Systems Development Engineer, Avionics Verification and Test, Amazon Leo  | Redmond, Washington, USA
+2026-06-24 21:49:14.946132 | Rambus: fetched=29
+2026-06-24 21:49:15.146624 | Etched: fetched=25
+2026-06-24 21:49:15.147918 | Run finished | fetched=11764 matched=524 posted=10
