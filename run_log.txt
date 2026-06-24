@@ -13858,3 +13858,64 @@
 2026-06-24 17:21:48.288468 | Rambus: fetched=29
 2026-06-24 17:21:48.371152 | Etched: fetched=25
 2026-06-24 17:21:48.372450 | Run finished | fetched=11754 matched=524 posted=7
+2026-06-24 20:07:53.382244 | === RUN STARTED ===
+2026-06-24 20:07:53.481766 | Astranis: fetched=83
+2026-06-24 20:07:53.514483 | Tenstorrent: fetched=124
+2026-06-24 20:07:53.545756 | Tenstorrent University: fetched=28
+2026-06-24 20:07:53.576863 | Cerebras Systems: fetched=100
+2026-06-24 20:07:53.616985 | Cerebras Early Talent: fetched=6
+2026-06-24 20:07:53.648751 | Astera Labs: fetched=167
+2026-06-24 20:07:53.681797 | Lightmatter: fetched=52
+2026-06-24 20:07:55.050097 | Western Digital: fetched=296
+2026-06-24 20:07:55.140646 | POSTED ALL | Western Digital | Software Engineer (Apps & Firmware) | San Jose, CA, us
+2026-06-24 20:07:56.523982 | Bosch: fetched=300
+2026-06-24 20:07:57.875608 | Sandisk: fetched=300
+2026-06-24 20:08:11.942925 | NVIDIA: fetched=300
+2026-06-24 20:08:12.032605 | POSTED ALL | NVIDIA | Senior DFT Engineer | US, CA, Santa Clara
+2026-06-24 20:08:23.083240 | Intel: fetched=300
+2026-06-24 20:08:23.169804 | POSTED ALL | Intel | Verification Engineer Senior | US, Texas, Austin
+2026-06-24 20:08:23.257777 | POSTED ALL | Intel | Principal Engineer, Emulation | US, Texas, Austin
+2026-06-24 20:08:30.711882 | Marvell: fetched=300
+2026-06-24 20:08:35.463375 | Apple: fetched=300
+2026-06-24 20:08:44.326285 | Analog Devices: fetched=300
+2026-06-24 20:08:54.611866 | NXP Semiconductors: fetched=300
+2026-06-24 20:08:59.733989 | Broadcom: fetched=300
+2026-06-24 20:09:09.385280 | Microchip: fetched=300
+2026-06-24 20:09:15.031384 | SiFive: fetched=64
+2026-06-24 20:09:16.530511 | Renesas Electronics: fetched=300
+2026-06-24 20:09:27.856982 | KLA: fetched=300
+2026-06-24 20:09:39.361419 | Applied Materials: fetched=300
+2026-06-24 20:09:39.469565 | SambaNova Systems: fetched=20
+2026-06-24 20:09:39.501904 | Samsung Semiconductor: fetched=57
+2026-06-24 20:09:39.532126 | Baya Systems: fetched=27
+2026-06-24 20:09:39.558214 | Ambiq: fetched=39
+2026-06-24 20:09:39.588904 | Graphcore: fetched=241
+2026-06-24 20:09:39.620527 | Eridan: fetched=1
+2026-06-24 20:09:39.652262 | Celero Communications: fetched=16
+2026-06-24 20:09:44.298191 | Micron: fetched=300
+2026-06-24 20:09:44.336777 | Aurora Innovation: fetched=143
+2026-06-24 20:09:44.366969 | Nuro: fetched=104
+2026-06-24 20:09:44.407623 | Applied Intuition: fetched=3
+2026-06-24 20:09:44.432198 | Ethernovia: fetched=30
+2026-06-24 20:09:44.514850 | SpaceX: fetched=1783
+2026-06-24 20:09:44.935781 | Axiado: fetched=47
+2026-06-24 20:09:44.969355 | Zipline: fetched=259
+2026-06-24 20:09:45.056598 | Anduril Industries: fetched=2102
+2026-06-24 20:09:45.361320 | Lattice Semiconductor: fetched=58
+2026-06-24 20:09:45.740271 | MaxLinear: fetched=28
+2026-06-24 20:09:53.499082 | Cadence: fetched=300
+2026-06-24 20:09:53.576102 | POSTED ALL | Cadence | IC Verification, Senior Account Technology Executive - Strategic Accounts | SAN JOSE
+2026-06-24 20:10:17.420490 | Microsoft: fetched=5
+2026-06-24 20:10:30.238054 | AMD: fetched=377
+2026-06-24 20:11:00.351016 | Qualcomm: fetched=219
+2026-06-24 20:11:00.495269 | POSTED ALL | Qualcomm | Senior SoC/RTL Design Engineer | San Diego, California, United States of America
+2026-06-24 20:11:00.586673 | POSTED ALL | Qualcomm | Senior Embedded Software Development Engineer | San Diego, California, United States of America
+2026-06-24 20:11:14.713497 | GlobalFoundries: fetched=64
+2026-06-24 20:11:21.308148 | Synopsys: fetched=46
+2026-06-24 20:11:21.632054 | Arm: fetched=18
+2026-06-24 20:11:26.677785 | Cisco: fetched=300
+2026-06-24 20:11:26.947361 | Cirrus Logic: fetched=2
+2026-06-24 20:11:28.763451 | Amazon: fetched=300
+2026-06-24 20:11:29.091918 | Rambus: fetched=29
+2026-06-24 20:11:29.328255 | Etched: fetched=25
+2026-06-24 20:11:29.329671 | Run finished | fetched=11763 matched=522 posted=7
