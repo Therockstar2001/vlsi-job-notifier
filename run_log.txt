@@ -13739,3 +13739,61 @@
 2026-06-24 12:04:45.823896 | Rambus: fetched=29
 2026-06-24 12:04:47.281254 | Etched: fetched=25
 2026-06-24 12:04:47.282473 | Run finished | fetched=11732 matched=523 posted=3
+2026-06-24 15:07:35.909647 | === RUN STARTED ===
+2026-06-24 15:07:36.200102 | Astranis: fetched=83
+2026-06-24 15:07:36.268538 | Tenstorrent: fetched=122
+2026-06-24 15:07:36.330905 | Tenstorrent University: fetched=28
+2026-06-24 15:07:36.389078 | Cerebras Systems: fetched=101
+2026-06-24 15:07:36.446975 | Cerebras Early Talent: fetched=6
+2026-06-24 15:07:36.513363 | Astera Labs: fetched=167
+2026-06-24 15:07:36.571391 | Lightmatter: fetched=52
+2026-06-24 15:07:38.242134 | Western Digital: fetched=297
+2026-06-24 15:07:39.793110 | Bosch: fetched=300
+2026-06-24 15:07:41.369173 | Sandisk: fetched=300
+2026-06-24 15:07:56.574957 | NVIDIA: fetched=300
+2026-06-24 15:08:11.420656 | Intel: fetched=300
+2026-06-24 15:08:11.669464 | POSTED ALL | Intel | Design Verification Engineer | US, California, Santa Clara
+2026-06-24 15:08:20.544880 | Marvell: fetched=300
+2026-06-24 15:08:25.749410 | Apple: fetched=300
+2026-06-24 15:08:36.235101 | Analog Devices: fetched=300
+2026-06-24 15:08:48.340855 | NXP Semiconductors: fetched=300
+2026-06-24 15:08:55.208259 | Broadcom: fetched=300
+2026-06-24 15:09:03.035905 | Microchip: fetched=300
+2026-06-24 15:09:06.164527 | SiFive: fetched=64
+2026-06-24 15:09:07.947510 | Renesas Electronics: fetched=300
+2026-06-24 15:09:23.035393 | KLA: fetched=300
+2026-06-24 15:09:43.838340 | Applied Materials: fetched=300
+2026-06-24 15:09:46.753893 | SambaNova Systems: fetched=20
+2026-06-24 15:09:46.815176 | Samsung Semiconductor: fetched=56
+2026-06-24 15:09:46.875015 | Baya Systems: fetched=27
+2026-06-24 15:09:46.939824 | Ambiq: fetched=39
+2026-06-24 15:09:49.105301 | Graphcore: fetched=241
+2026-06-24 15:09:49.166048 | Eridan: fetched=1
+2026-06-24 15:09:49.232638 | Celero Communications: fetched=16
+2026-06-24 15:09:55.854992 | Micron: fetched=300
+2026-06-24 15:09:55.919325 | Aurora Innovation: fetched=143
+2026-06-24 15:09:55.979874 | Nuro: fetched=101
+2026-06-24 15:09:56.035915 | Applied Intuition: fetched=3
+2026-06-24 15:09:57.919704 | Ethernovia: fetched=31
+2026-06-24 15:09:58.029478 | SpaceX: fetched=1783
+2026-06-24 15:09:58.519970 | Axiado: fetched=47
+2026-06-24 15:09:58.583210 | Zipline: fetched=259
+2026-06-24 15:09:58.716375 | Anduril Industries: fetched=2092
+2026-06-24 15:09:59.817995 | Lattice Semiconductor: fetched=58
+2026-06-24 15:10:00.680877 | MaxLinear: fetched=28
+2026-06-24 15:10:11.047124 | Cadence: fetched=300
+2026-06-24 15:10:35.831880 | Microsoft: fetched=8
+2026-06-24 15:10:55.092999 | AMD: fetched=377
+2026-06-24 15:11:23.110978 | Qualcomm: fetched=207
+2026-06-24 15:11:23.355743 | POSTED ALL | Qualcomm | ASIC Methodology Engineer | Santa Clara, California, United States of America
+2026-06-24 15:11:23.586620 | POSTED ALL | Qualcomm | Sr. Staff CPU Software Test Engineer | Santa Clara, California, United States of America
+2026-06-24 15:11:45.126598 | GlobalFoundries: fetched=65
+2026-06-24 15:11:53.282798 | Synopsys: fetched=46
+2026-06-24 15:11:54.098173 | Arm: fetched=18
+2026-06-24 15:11:58.623123 | Cisco: fetched=300
+2026-06-24 15:11:58.886631 | POSTED ALL | Cisco | ASIC Packaging Signal/Power Integrity Hardware Engineer (Hybrid) | San Jose, California, US
+2026-06-24 15:11:59.381886 | Cirrus Logic: fetched=2
+2026-06-24 15:12:02.677527 | Amazon: fetched=300
+2026-06-24 15:12:03.295753 | Rambus: fetched=29
+2026-06-24 15:12:03.514785 | Etched: fetched=25
+2026-06-24 15:12:03.516100 | Run finished | fetched=11742 matched=508 posted=4
