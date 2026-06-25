@@ -14330,3 +14330,67 @@
 2026-06-25 17:27:00.649522 | Rambus: fetched=29
 2026-06-25 17:27:02.367055 | Etched: fetched=25
 2026-06-25 17:27:02.368350 | Run finished | fetched=11938 matched=550 posted=8
+2026-06-25 20:21:56.699320 | === RUN STARTED ===
+2026-06-25 20:21:56.887788 | Astranis: fetched=85
+2026-06-25 20:21:56.920609 | Tenstorrent: fetched=124
+2026-06-25 20:22:07.747994 | Tenstorrent University: fetched=28
+2026-06-25 20:22:07.781676 | Cerebras Systems: fetched=99
+2026-06-25 20:22:07.816573 | Cerebras Early Talent: fetched=6
+2026-06-25 20:22:07.851454 | Astera Labs: fetched=171
+2026-06-25 20:22:07.983639 | POSTED ALL | Astera Labs | Senior Principal Program Manager, ASIC Post-Silicon Engineering | San Jose, California, United States
+2026-06-25 20:22:08.037351 | Lightmatter: fetched=52
+2026-06-25 20:22:09.585033 | Western Digital: fetched=288
+2026-06-25 20:22:09.685197 | POSTED ALL | Western Digital | Senior Technologist - Firmware Development | Irvine, CA, us
+2026-06-25 20:22:11.179722 | Bosch: fetched=300
+2026-06-25 20:22:12.555810 | Sandisk: fetched=300
+2026-06-25 20:22:28.189396 | NVIDIA: fetched=300
+2026-06-25 20:22:39.182182 | Intel: fetched=300
+2026-06-25 20:22:39.306884 | POSTED ALL | Intel | CPU Core Pre-Si Validation/Verification Eng | US, California, Folsom
+2026-06-25 20:22:46.778394 | Marvell: fetched=300
+2026-06-25 20:22:51.664689 | Apple: fetched=300
+2026-06-25 20:22:51.780162 | POSTED ALL | Apple | Design Verification Engineer | 
+2026-06-25 20:22:51.869887 | POSTED ALL | Apple | Custom Timing and Verification CAD Engineer | 
+2026-06-25 20:23:01.018982 | Analog Devices: fetched=300
+2026-06-25 20:23:14.425654 | NXP Semiconductors: fetched=300
+2026-06-25 20:23:19.652168 | Broadcom: fetched=300
+2026-06-25 20:23:28.592129 | Microchip: fetched=300
+2026-06-25 20:23:30.971960 | SiFive: fetched=68
+2026-06-25 20:23:32.596498 | Renesas Electronics: fetched=300
+2026-06-25 20:23:44.919402 | KLA: fetched=300
+2026-06-25 20:23:57.394077 | Applied Materials: fetched=300
+2026-06-25 20:23:57.627141 | SambaNova Systems: fetched=21
+2026-06-25 20:23:57.658581 | Samsung Semiconductor: fetched=55
+2026-06-25 20:23:57.742606 | POSTED ALL | Samsung Semiconductor | Senior Engineer, Embedded Firmware Engineer | San Jose, California, United States
+2026-06-25 20:23:57.784797 | Baya Systems: fetched=27
+2026-06-25 20:23:57.833280 | Ambiq: fetched=38
+2026-06-25 20:23:57.873770 | Graphcore: fetched=246
+2026-06-25 20:23:57.906763 | Eridan: fetched=1
+2026-06-25 20:23:58.134302 | Celero Communications: fetched=16
+2026-06-25 20:24:02.990765 | Micron: fetched=300
+2026-06-25 20:24:03.038311 | Aurora Innovation: fetched=151
+2026-06-25 20:24:03.075665 | Nuro: fetched=102
+2026-06-25 20:24:03.119485 | Applied Intuition: fetched=3
+2026-06-25 20:24:03.154025 | Ethernovia: fetched=30
+2026-06-25 20:24:14.922071 | SpaceX: fetched=1791
+2026-06-25 20:24:15.363201 | Axiado: fetched=46
+2026-06-25 20:24:15.403392 | Zipline: fetched=268
+2026-06-25 20:24:52.369455 | Anduril Industries: fetched=2119
+2026-06-25 20:24:52.754070 | Lattice Semiconductor: fetched=58
+2026-06-25 20:24:53.343152 | MaxLinear: fetched=28
+2026-06-25 20:25:01.527812 | Cadence: fetched=300
+2026-06-25 20:25:23.794192 | Microsoft: fetched=16
+2026-06-25 20:25:36.852133 | AMD: fetched=377
+2026-06-25 20:25:36.977800 | POSTED FRESHER | AMD | Verification Engineer | San Jose, California, United States
+2026-06-25 20:25:37.102076 | POSTED ALL | AMD | Senior Memory Firmware Engineer | Austin, Texas, United States
+2026-06-25 20:26:08.824396 | Qualcomm: fetched=221
+2026-06-25 20:26:08.930635 | POSTED ALL | Qualcomm | Staff CPU Processor Design Engineer | San Diego, California, United States of America
+2026-06-25 20:26:22.657678 | GlobalFoundries: fetched=59
+2026-06-25 20:26:38.517911 | Synopsys: fetched=177
+2026-06-25 20:26:38.929248 | Arm: fetched=18
+2026-06-25 20:26:44.050413 | Cisco: fetched=300
+2026-06-25 20:26:44.360978 | Cirrus Logic: fetched=2
+2026-06-25 20:26:46.551322 | Amazon: fetched=300
+2026-06-25 20:26:46.692224 | POSTED ALL | Amazon | Embedded Software Engineer, Leo Payload Radio | Redmond, Washington, USA
+2026-06-25 20:26:47.214751 | Rambus: fetched=29
+2026-06-25 20:26:47.422001 | Etched: fetched=25
+2026-06-25 20:26:47.423283 | Run finished | fetched=11945 matched=552 posted=10
