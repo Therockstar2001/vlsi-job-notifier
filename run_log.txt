@@ -14676,3 +14676,67 @@
 2026-06-26 13:24:50.911384 | Rambus: fetched=29
 2026-06-26 13:24:51.079045 | Etched: fetched=25
 2026-06-26 13:24:51.080416 | Run finished | fetched=11724 matched=521 posted=1
+2026-06-26 16:27:35.191263 | === RUN STARTED ===
+2026-06-26 16:27:35.373664 | Astranis: fetched=85
+2026-06-26 16:27:35.454533 | Tenstorrent: fetched=124
+2026-06-26 16:27:35.531957 | Tenstorrent University: fetched=28
+2026-06-26 16:27:35.596380 | ERROR | Cerebras Systems | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/cerebrassystems/jobs
+2026-06-26 16:27:35.662533 | ERROR | Cerebras Early Talent | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/earlytalentcerebras/jobs
+2026-06-26 16:27:35.739910 | Astera Labs: fetched=173
+2026-06-26 16:27:36.024994 | POSTED ALL | Astera Labs | Sr. Principal – Server Firmware & System Architecture | Research Triangle Park, North Carolina, United States
+2026-06-26 16:27:36.105565 | Lightmatter: fetched=52
+2026-06-26 16:27:37.692923 | Western Digital: fetched=286
+2026-06-26 16:27:39.222690 | Bosch: fetched=300
+2026-06-26 16:27:40.741079 | Sandisk: fetched=300
+2026-06-26 16:27:41.007646 | POSTED ALL | Sandisk | Technologist, Firmware Verification Engineering | Milpitas, CA, us
+2026-06-26 16:27:54.832935 | NVIDIA: fetched=300
+2026-06-26 16:28:06.607750 | Intel: fetched=300
+2026-06-26 16:28:14.616437 | Marvell: fetched=300
+2026-06-26 16:28:14.865469 | POSTED ALL | Marvell | Principal, Emulation Engineer | Santa Clara, CA
+2026-06-26 16:28:20.401802 | Apple: fetched=300
+2026-06-26 16:28:29.429737 | Analog Devices: fetched=300
+2026-06-26 16:28:40.628559 | NXP Semiconductors: fetched=300
+2026-06-26 16:28:50.661637 | Broadcom: fetched=300
+2026-06-26 16:28:59.310854 | Microchip: fetched=300
+2026-06-26 16:29:02.138380 | SiFive: fetched=68
+2026-06-26 16:29:03.867507 | Renesas Electronics: fetched=300
+2026-06-26 16:29:17.541604 | KLA: fetched=300
+2026-06-26 16:29:30.369243 | Applied Materials: fetched=300
+2026-06-26 16:29:30.609382 | SambaNova Systems: fetched=21
+2026-06-26 16:29:30.681712 | Samsung Semiconductor: fetched=57
+2026-06-26 16:29:30.756753 | Baya Systems: fetched=27
+2026-06-26 16:29:30.828712 | Ambiq: fetched=38
+2026-06-26 16:29:30.904521 | Graphcore: fetched=248
+2026-06-26 16:29:30.987246 | Eridan: fetched=1
+2026-06-26 16:29:31.061180 | Celero Communications: fetched=16
+2026-06-26 16:29:37.339784 | Micron: fetched=300
+2026-06-26 16:29:37.417358 | Aurora Innovation: fetched=151
+2026-06-26 16:29:37.532245 | Nuro: fetched=100
+2026-06-26 16:29:37.606799 | Applied Intuition: fetched=3
+2026-06-26 16:29:37.676521 | Ethernovia: fetched=30
+2026-06-26 16:29:49.112434 | SpaceX: fetched=1799
+2026-06-26 16:29:49.568421 | Axiado: fetched=46
+2026-06-26 16:29:49.646419 | Zipline: fetched=271
+2026-06-26 16:29:49.786862 | Anduril Industries: fetched=2123
+2026-06-26 16:29:50.405918 | Lattice Semiconductor: fetched=58
+2026-06-26 16:29:50.905961 | MaxLinear: fetched=28
+2026-06-26 16:29:59.869541 | Cadence: fetched=300
+2026-06-26 16:30:23.434032 | Microsoft: fetched=14
+2026-06-26 16:30:44.429126 | AMD: fetched=381
+2026-06-26 16:30:44.715073 | POSTED FRESHER | AMD | Lead - SoC Architect | San Jose, California, United States
+2026-06-26 16:30:44.957337 | POSTED FRESHER | AMD | SMTS Firmware Engineer | Santa Clara, California, United States
+2026-06-26 16:30:45.231846 | POSTED ALL | AMD | Sr. Firmware Engineer | Santa Clara, California, United States
+2026-06-26 16:31:25.255000 | Qualcomm: fetched=218
+2026-06-26 16:31:41.831087 | GlobalFoundries: fetched=59
+2026-06-26 16:31:50.204404 | Synopsys: fetched=45
+2026-06-26 16:31:50.747073 | Arm: fetched=18
+2026-06-26 16:31:56.011541 | Cisco: fetched=300
+2026-06-26 16:31:56.278968 | POSTED ALL | Cisco | ASIC Design Verification Engineer, Technical Leader | San Jose, California, US
+2026-06-26 16:31:56.616884 | Cirrus Logic: fetched=2
+2026-06-26 16:32:00.237503 | Amazon: fetched=300
+2026-06-26 16:32:00.484351 | POSTED ALL | Amazon | Sr Embedded SDE III, Hardware Engineering Services | Austin, Texas, USA
+2026-06-26 16:32:00.727492 | POSTED ALL | Amazon | Embedded Software Manager | North Reading, Massachusetts, USA
+2026-06-26 16:32:00.972638 | POSTED ALL | Amazon | Embedded Software Manager, Connectivity - Platform | Los Gatos, California, USA
+2026-06-26 16:32:01.393728 | Rambus: fetched=29
+2026-06-26 16:32:01.605439 | Etched: fetched=25
+2026-06-26 16:32:01.606817 | Run finished | fetched=11724 matched=526 posted=10
