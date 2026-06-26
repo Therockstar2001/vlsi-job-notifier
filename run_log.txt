@@ -14453,3 +14453,59 @@
 2026-06-25 22:49:43.655937 | Rambus: fetched=29
 2026-06-25 22:49:43.788611 | Etched: fetched=25
 2026-06-25 22:49:43.789990 | Run finished | fetched=11958 matched=555 posted=5
+2026-06-26 01:29:28.135519 | === RUN STARTED ===
+2026-06-26 01:29:28.275688 | Astranis: fetched=85
+2026-06-26 01:29:28.325568 | Tenstorrent: fetched=124
+2026-06-26 01:29:28.374180 | Tenstorrent University: fetched=28
+2026-06-26 01:29:28.425363 | Cerebras Systems: fetched=99
+2026-06-26 01:29:28.473363 | Cerebras Early Talent: fetched=6
+2026-06-26 01:29:28.532169 | Astera Labs: fetched=172
+2026-06-26 01:29:28.582195 | Lightmatter: fetched=52
+2026-06-26 01:29:30.035956 | Western Digital: fetched=287
+2026-06-26 01:29:31.315115 | Bosch: fetched=300
+2026-06-26 01:29:32.675061 | Sandisk: fetched=300
+2026-06-26 01:29:45.643836 | NVIDIA: fetched=300
+2026-06-26 01:29:45.818741 | POSTED ALL | NVIDIA | DFT Engineer - New College Grad | US, CA, Santa Clara
+2026-06-26 01:29:56.088571 | Intel: fetched=300
+2026-06-26 01:30:04.632842 | Marvell: fetched=300
+2026-06-26 01:30:09.295213 | Apple: fetched=300
+2026-06-26 01:30:18.315150 | Analog Devices: fetched=300
+2026-06-26 01:30:29.541239 | NXP Semiconductors: fetched=300
+2026-06-26 01:30:34.473341 | Broadcom: fetched=300
+2026-06-26 01:30:42.954825 | Microchip: fetched=300
+2026-06-26 01:30:45.144751 | SiFive: fetched=68
+2026-06-26 01:30:46.743086 | Renesas Electronics: fetched=300
+2026-06-26 01:30:59.279567 | KLA: fetched=300
+2026-06-26 01:31:11.834701 | Applied Materials: fetched=300
+2026-06-26 01:31:12.006956 | SambaNova Systems: fetched=21
+2026-06-26 01:31:12.057941 | Samsung Semiconductor: fetched=57
+2026-06-26 01:31:12.205645 | POSTED ALL | Samsung Semiconductor | Staff Engineer, RTL | San Jose, California, United States
+2026-06-26 01:31:12.253924 | Baya Systems: fetched=27
+2026-06-26 01:31:12.301821 | Ambiq: fetched=38
+2026-06-26 01:31:12.364872 | Graphcore: fetched=247
+2026-06-26 01:31:12.415896 | Eridan: fetched=1
+2026-06-26 01:31:12.529439 | Celero Communications: fetched=16
+2026-06-26 01:31:17.991766 | Micron: fetched=300
+2026-06-26 01:31:18.053334 | Aurora Innovation: fetched=151
+2026-06-26 01:31:18.107572 | Nuro: fetched=100
+2026-06-26 01:31:18.155195 | Applied Intuition: fetched=3
+2026-06-26 01:31:18.204183 | Ethernovia: fetched=30
+2026-06-26 01:31:18.303767 | SpaceX: fetched=1798
+2026-06-26 01:31:18.706545 | Axiado: fetched=46
+2026-06-26 01:31:18.757360 | Zipline: fetched=268
+2026-06-26 01:31:18.876136 | Anduril Industries: fetched=2126
+2026-06-26 01:31:19.379337 | Lattice Semiconductor: fetched=58
+2026-06-26 01:31:19.870754 | MaxLinear: fetched=28
+2026-06-26 01:31:28.277236 | Cadence: fetched=300
+2026-06-26 01:31:50.152642 | Microsoft: fetched=9
+2026-06-26 01:32:05.998559 | AMD: fetched=377
+2026-06-26 01:32:37.530648 | Qualcomm: fetched=215
+2026-06-26 01:32:53.508194 | GlobalFoundries: fetched=65
+2026-06-26 01:33:13.326114 | Synopsys: fetched=177
+2026-06-26 01:33:13.885575 | Arm: fetched=18
+2026-06-26 01:33:19.055789 | Cisco: fetched=300
+2026-06-26 01:33:19.506930 | Cirrus Logic: fetched=2
+2026-06-26 01:33:21.743464 | Amazon: fetched=300
+2026-06-26 01:33:21.995296 | Rambus: fetched=29
+2026-06-26 01:33:22.155047 | Etched: fetched=25
+2026-06-26 01:33:22.156111 | Run finished | fetched=11953 matched=558 posted=2
