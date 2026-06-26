@@ -14564,3 +14564,60 @@
 2026-06-26 06:23:59.103998 | Rambus: fetched=29
 2026-06-26 06:23:59.208887 | Etched: fetched=25
 2026-06-26 06:23:59.210213 | Run finished | fetched=11851 matched=547 posted=1
+2026-06-26 10:28:31.269571 | === RUN STARTED ===
+2026-06-26 10:28:31.380827 | Astranis: fetched=85
+2026-06-26 10:28:31.432210 | Tenstorrent: fetched=124
+2026-06-26 10:28:31.475752 | Tenstorrent University: fetched=28
+2026-06-26 10:28:31.519625 | Cerebras Systems: fetched=99
+2026-06-26 10:28:31.561531 | Cerebras Early Talent: fetched=6
+2026-06-26 10:28:31.613953 | Astera Labs: fetched=172
+2026-06-26 10:28:31.665864 | Lightmatter: fetched=52
+2026-06-26 10:28:33.018584 | Western Digital: fetched=286
+2026-06-26 10:28:34.335690 | Bosch: fetched=300
+2026-06-26 10:28:34.466211 | POSTED ALL | Bosch | Embedded Software Developer for the Automation of Mobile Work Machines  (f/m/div.) | Elchingen, BY, de
+2026-06-26 10:28:34.631077 | POSTED ALL | Bosch | Embedded Softwareentwickler für die Automatisierung mobiler Arbeitsmaschinen  (w/m/div.) | Elchingen, BY, de
+2026-06-26 10:28:35.936585 | Sandisk: fetched=300
+2026-06-26 10:28:49.106154 | NVIDIA: fetched=300
+2026-06-26 10:28:59.062980 | Intel: fetched=300
+2026-06-26 10:29:05.738247 | Marvell: fetched=300
+2026-06-26 10:29:10.352752 | Apple: fetched=300
+2026-06-26 10:29:19.447433 | Analog Devices: fetched=300
+2026-06-26 10:29:30.191937 | NXP Semiconductors: fetched=300
+2026-06-26 10:29:42.187443 | Broadcom: fetched=300
+2026-06-26 10:29:50.848981 | Microchip: fetched=300
+2026-06-26 10:29:53.020102 | SiFive: fetched=68
+2026-06-26 10:29:54.558194 | Renesas Electronics: fetched=300
+2026-06-26 10:30:09.997552 | KLA: fetched=300
+2026-06-26 10:30:24.047986 | Applied Materials: fetched=300
+2026-06-26 10:30:24.225540 | SambaNova Systems: fetched=21
+2026-06-26 10:30:24.266941 | Samsung Semiconductor: fetched=57
+2026-06-26 10:30:24.309104 | Baya Systems: fetched=27
+2026-06-26 10:30:24.346915 | Ambiq: fetched=38
+2026-06-26 10:30:24.393636 | Graphcore: fetched=247
+2026-06-26 10:30:24.441838 | Eridan: fetched=1
+2026-06-26 10:30:24.480580 | Celero Communications: fetched=16
+2026-06-26 10:30:29.722744 | Micron: fetched=300
+2026-06-26 10:30:29.773799 | Aurora Innovation: fetched=151
+2026-06-26 10:30:29.815915 | Nuro: fetched=100
+2026-06-26 10:30:29.858834 | Applied Intuition: fetched=3
+2026-06-26 10:30:29.897730 | Ethernovia: fetched=30
+2026-06-26 10:30:29.994711 | SpaceX: fetched=1799
+2026-06-26 10:30:30.407002 | Axiado: fetched=46
+2026-06-26 10:30:30.448264 | Zipline: fetched=268
+2026-06-26 10:30:30.555802 | Anduril Industries: fetched=2128
+2026-06-26 10:30:30.988828 | Lattice Semiconductor: fetched=58
+2026-06-26 10:30:31.421049 | MaxLinear: fetched=28
+2026-06-26 10:30:39.457062 | Cadence: fetched=300
+2026-06-26 10:31:08.305518 | Microsoft: fetched=11
+2026-06-26 10:31:24.105418 | AMD: fetched=377
+2026-06-26 10:31:54.610102 | Qualcomm: fetched=234
+2026-06-26 10:31:54.745754 | POSTED ALL | Qualcomm | Engineer, Staff CPU | Austin, Texas, United States of America
+2026-06-26 10:32:12.350654 | GlobalFoundries: fetched=63
+2026-06-26 10:32:18.199898 | Synopsys: fetched=45
+2026-06-26 10:32:18.504824 | Arm: fetched=18
+2026-06-26 10:32:22.913380 | Cisco: fetched=300
+2026-06-26 10:32:23.052930 | Cirrus Logic: fetched=2
+2026-06-26 10:32:25.307897 | Amazon: fetched=300
+2026-06-26 10:32:25.585143 | Rambus: fetched=29
+2026-06-26 10:32:25.685585 | Etched: fetched=25
+2026-06-26 10:32:25.686873 | Run finished | fetched=11842 matched=546 posted=3
