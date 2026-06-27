@@ -14917,3 +14917,64 @@
 2026-06-26 22:40:09.991580 | Rambus: fetched=29
 2026-06-26 22:40:10.286580 | Etched: fetched=25
 2026-06-26 22:40:10.287860 | Run finished | fetched=11714 matched=516 posted=2
+2026-06-27 00:19:55.199409 | === RUN STARTED ===
+2026-06-27 00:19:55.344799 | Astranis: fetched=85
+2026-06-27 00:19:55.388111 | Tenstorrent: fetched=125
+2026-06-27 00:19:55.429534 | Tenstorrent University: fetched=28
+2026-06-27 00:19:55.463950 | ERROR | Cerebras Systems | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/cerebrassystems/jobs
+2026-06-27 00:19:55.504497 | ERROR | Cerebras Early Talent | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/earlytalentcerebras/jobs
+2026-06-27 00:19:55.548215 | Astera Labs: fetched=173
+2026-06-27 00:19:55.590613 | Lightmatter: fetched=51
+2026-06-27 00:19:57.001562 | Western Digital: fetched=282
+2026-06-27 00:19:58.405623 | Bosch: fetched=300
+2026-06-27 00:19:59.794625 | Sandisk: fetched=300
+2026-06-27 00:20:14.246790 | NVIDIA: fetched=300
+2026-06-27 00:20:14.366201 | POSTED ALL | NVIDIA | ASIC Physical Design and Timing Engineer - New College Grad 2026 | US, CA, Santa Clara
+2026-06-27 00:20:14.445784 | POSTED ALL | NVIDIA | Senior Memory Subsystem Firmware Engineer | US, CA, Santa Clara
+2026-06-27 00:20:24.870562 | Intel: fetched=300
+2026-06-27 00:20:31.490286 | Marvell: fetched=300
+2026-06-27 00:20:31.598862 | POSTED ALL | Marvell | Design Verification Engineer, Staff | Santa Clara, CA
+2026-06-27 00:20:36.788546 | Apple: fetched=300
+2026-06-27 00:20:44.584479 | Analog Devices: fetched=300
+2026-06-27 00:20:54.379459 | NXP Semiconductors: fetched=300
+2026-06-27 00:20:59.261060 | Broadcom: fetched=300
+2026-06-27 00:20:59.363865 | POSTED ALL | Broadcom | DFT Engineer | USA-TX-Austin - River Place B7
+2026-06-27 00:21:07.671619 | Microchip: fetched=300
+2026-06-27 00:21:10.429359 | SiFive: fetched=68
+2026-06-27 00:21:12.014683 | Renesas Electronics: fetched=300
+2026-06-27 00:21:26.669889 | KLA: fetched=300
+2026-06-27 00:21:38.181097 | Applied Materials: fetched=300
+2026-06-27 00:21:38.348838 | SambaNova Systems: fetched=21
+2026-06-27 00:21:38.377332 | Samsung Semiconductor: fetched=57
+2026-06-27 00:21:38.406995 | Baya Systems: fetched=27
+2026-06-27 00:21:38.433098 | Ambiq: fetched=37
+2026-06-27 00:21:38.469694 | Graphcore: fetched=248
+2026-06-27 00:21:38.503611 | Eridan: fetched=1
+2026-06-27 00:21:38.599022 | Celero Communications: fetched=16
+2026-06-27 00:21:42.896981 | Micron: fetched=300
+2026-06-27 00:21:42.941308 | Aurora Innovation: fetched=147
+2026-06-27 00:21:42.973395 | Nuro: fetched=101
+2026-06-27 00:21:42.998217 | Applied Intuition: fetched=3
+2026-06-27 00:21:43.030404 | Ethernovia: fetched=30
+2026-06-27 00:21:43.111206 | SpaceX: fetched=1796
+2026-06-27 00:21:43.529597 | Axiado: fetched=46
+2026-06-27 00:21:43.564521 | Zipline: fetched=273
+2026-06-27 00:21:43.656513 | Anduril Industries: fetched=2127
+2026-06-27 00:21:44.175500 | Lattice Semiconductor: fetched=58
+2026-06-27 00:21:44.569010 | MaxLinear: fetched=28
+2026-06-27 00:21:52.374415 | Cadence: fetched=300
+2026-06-27 00:22:21.993566 | Microsoft: fetched=14
+2026-06-27 00:22:35.081119 | AMD: fetched=381
+2026-06-27 00:22:35.201095 | POSTED ALL | AMD | VLSI RTL design engineer | Fort Collins, Colorado, United States
+2026-06-27 00:23:07.317584 | Qualcomm: fetched=236
+2026-06-27 00:23:07.417655 | POSTED ALL | Qualcomm | FPGA Firmware & Design Engineer | San Diego, California, United States of America
+2026-06-27 00:23:07.495940 | POSTED ALL | Qualcomm | CPU Performance Analysis Engineer | Santa Clara, California, United States of America
+2026-06-27 00:23:21.652565 | GlobalFoundries: fetched=64
+2026-06-27 00:23:27.059286 | Synopsys: fetched=45
+2026-06-27 00:23:27.611518 | Arm: fetched=18
+2026-06-27 00:23:32.829305 | Cisco: fetched=300
+2026-06-27 00:23:33.131111 | Cirrus Logic: fetched=2
+2026-06-27 00:23:35.040109 | Amazon: fetched=300
+2026-06-27 00:23:35.277360 | Rambus: fetched=29
+2026-06-27 00:23:35.400944 | Etched: fetched=25
+2026-06-27 00:23:35.402273 | Run finished | fetched=11742 matched=533 posted=7
