@@ -15842,3 +15842,57 @@
 2026-06-28 16:39:47.680124 | Rambus: fetched=29
 2026-06-28 16:39:47.778275 | Etched: fetched=25
 2026-06-28 16:39:48.021503 | Run finished | fetched=11731 matched=520 posted=0
+2026-06-28 18:17:37.984761 | === RUN STARTED ===
+2026-06-28 18:17:38.066957 | Astranis: fetched=85
+2026-06-28 18:17:38.095043 | Tenstorrent: fetched=125
+2026-06-28 18:17:38.137861 | Tenstorrent University: fetched=28
+2026-06-28 18:17:38.158016 | ERROR | Cerebras Systems | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/cerebrassystems/jobs
+2026-06-28 18:17:38.180928 | ERROR | Cerebras Early Talent | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/earlytalentcerebras/jobs
+2026-06-28 18:17:38.210164 | Astera Labs: fetched=173
+2026-06-28 18:17:38.241115 | Lightmatter: fetched=51
+2026-06-28 18:17:39.639664 | Western Digital: fetched=281
+2026-06-28 18:17:40.951060 | Bosch: fetched=300
+2026-06-28 18:17:42.294413 | Sandisk: fetched=300
+2026-06-28 18:17:55.582383 | NVIDIA: fetched=300
+2026-06-28 18:18:06.668284 | Intel: fetched=300
+2026-06-28 18:18:12.776565 | Marvell: fetched=300
+2026-06-28 18:18:17.214247 | Apple: fetched=300
+2026-06-28 18:18:24.873519 | Analog Devices: fetched=300
+2026-06-28 18:18:35.302180 | NXP Semiconductors: fetched=300
+2026-06-28 18:18:39.830066 | Broadcom: fetched=300
+2026-06-28 18:18:49.032408 | Microchip: fetched=300
+2026-06-28 18:18:51.154803 | SiFive: fetched=68
+2026-06-28 18:18:52.679857 | Renesas Electronics: fetched=300
+2026-06-28 18:19:00.081871 | KLA: fetched=300
+2026-06-28 18:19:10.566050 | Applied Materials: fetched=300
+2026-06-28 18:19:10.826621 | SambaNova Systems: fetched=21
+2026-06-28 18:19:10.853947 | Samsung Semiconductor: fetched=57
+2026-06-28 18:19:10.883824 | Baya Systems: fetched=27
+2026-06-28 18:19:10.912051 | Ambiq: fetched=37
+2026-06-28 18:19:10.944930 | Graphcore: fetched=248
+2026-06-28 18:19:10.976143 | Eridan: fetched=1
+2026-06-28 18:19:11.003825 | Celero Communications: fetched=16
+2026-06-28 18:19:15.147003 | Micron: fetched=300
+2026-06-28 18:19:15.182039 | Aurora Innovation: fetched=147
+2026-06-28 18:19:15.209038 | Nuro: fetched=98
+2026-06-28 18:19:15.238462 | Applied Intuition: fetched=3
+2026-06-28 18:19:15.264510 | Ethernovia: fetched=30
+2026-06-28 18:19:15.378006 | SpaceX: fetched=1799
+2026-06-28 18:19:15.806694 | Axiado: fetched=46
+2026-06-28 18:19:15.837124 | Zipline: fetched=279
+2026-06-28 18:19:15.922684 | Anduril Industries: fetched=2129
+2026-06-28 18:19:16.288249 | Lattice Semiconductor: fetched=58
+2026-06-28 18:19:16.726400 | MaxLinear: fetched=28
+2026-06-28 18:19:24.245027 | Cadence: fetched=300
+2026-06-28 18:19:48.630513 | Microsoft: fetched=9
+2026-06-28 18:20:01.853549 | AMD: fetched=381
+2026-06-28 18:20:33.960851 | Qualcomm: fetched=235
+2026-06-28 18:20:47.847179 | GlobalFoundries: fetched=59
+2026-06-28 18:20:56.498582 | Synopsys: fetched=46
+2026-06-28 18:20:56.902040 | Arm: fetched=18
+2026-06-28 18:21:02.015253 | Cisco: fetched=300
+2026-06-28 18:21:02.339252 | Cirrus Logic: fetched=2
+2026-06-28 18:21:04.760560 | Amazon: fetched=300
+2026-06-28 18:21:05.033818 | Rambus: fetched=29
+2026-06-28 18:21:05.311345 | Etched: fetched=25
+2026-06-28 18:21:05.392965 | Run finished | fetched=11739 matched=526 posted=0
