@@ -16282,3 +16282,62 @@
 2026-06-29 17:51:28.997727 | Rambus: fetched=29
 2026-06-29 17:51:29.131695 | Etched: fetched=25
 2026-06-29 17:51:29.133025 | Run finished | fetched=11713 matched=514 posted=7
+2026-06-29 20:15:22.377251 | === RUN STARTED ===
+2026-06-29 20:15:22.795655 | Astranis: fetched=85
+2026-06-29 20:15:22.829277 | Tenstorrent: fetched=124
+2026-06-29 20:15:22.858568 | Tenstorrent University: fetched=27
+2026-06-29 20:15:22.884078 | ERROR | Cerebras Systems | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/cerebrassystems/jobs
+2026-06-29 20:15:22.911819 | ERROR | Cerebras Early Talent | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/earlytalentcerebras/jobs
+2026-06-29 20:15:22.943945 | Astera Labs: fetched=174
+2026-06-29 20:15:22.975016 | Lightmatter: fetched=52
+2026-06-29 20:15:24.476586 | Western Digital: fetched=275
+2026-06-29 20:15:25.840982 | Bosch: fetched=300
+2026-06-29 20:15:27.212852 | Sandisk: fetched=300
+2026-06-29 20:15:42.527686 | NVIDIA: fetched=300
+2026-06-29 20:15:54.007995 | Intel: fetched=300
+2026-06-29 20:15:54.410777 | POSTED ALL | Intel | Junior Physical Design Engineer (CPU) | US, Oregon, Hillsboro
+2026-06-29 20:15:54.489117 | POSTED ALL | Intel | Senior Physical Design Engineer (CPU) | US, Oregon, Hillsboro
+2026-06-29 20:15:54.595289 | POSTED ALL | Intel | Mid-level Physical Design Engineer CPU | US, Oregon, Hillsboro
+2026-06-29 20:16:03.224122 | Marvell: fetched=300
+2026-06-29 20:16:08.161031 | Apple: fetched=300
+2026-06-29 20:16:17.650560 | Analog Devices: fetched=300
+2026-06-29 20:16:28.265373 | NXP Semiconductors: fetched=300
+2026-06-29 20:16:32.530051 | Broadcom: fetched=300
+2026-06-29 20:16:41.479188 | Microchip: fetched=300
+2026-06-29 20:16:44.237489 | SiFive: fetched=71
+2026-06-29 20:16:46.010531 | Renesas Electronics: fetched=300
+2026-06-29 20:16:55.502263 | KLA: fetched=300
+2026-06-29 20:17:07.203190 | Applied Materials: fetched=300
+2026-06-29 20:17:07.326760 | SambaNova Systems: fetched=21
+2026-06-29 20:17:07.351978 | Samsung Semiconductor: fetched=57
+2026-06-29 20:17:07.381738 | Baya Systems: fetched=27
+2026-06-29 20:17:07.412250 | Ambiq: fetched=37
+2026-06-29 20:17:07.446121 | Graphcore: fetched=248
+2026-06-29 20:17:07.474963 | Eridan: fetched=1
+2026-06-29 20:17:07.502009 | Celero Communications: fetched=16
+2026-06-29 20:17:11.942409 | Micron: fetched=300
+2026-06-29 20:17:11.979207 | Aurora Innovation: fetched=144
+2026-06-29 20:17:12.013696 | Nuro: fetched=97
+2026-06-29 20:17:12.045783 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/co58owxtuvc3ql11n5p1b79mj5flai45kbbwmpk5zvyfvj7tphwrf7kj9r0vr8krxku3n93jffzugl2w8420bfji9ar3q8hle6ty/jobs
+2026-06-29 20:17:12.073095 | Ethernovia: fetched=30
+2026-06-29 20:17:12.164380 | SpaceX: fetched=1801
+2026-06-29 20:17:12.612305 | Axiado: fetched=46
+2026-06-29 20:17:12.643817 | Zipline: fetched=279
+2026-06-29 20:17:12.738583 | Anduril Industries: fetched=2125
+2026-06-29 20:17:13.234388 | Lattice Semiconductor: fetched=58
+2026-06-29 20:17:13.506096 | MaxLinear: fetched=28
+2026-06-29 20:17:21.901062 | Cadence: fetched=300
+2026-06-29 20:17:46.128818 | Microsoft: fetched=14
+2026-06-29 20:17:46.219169 | POSTED ALL | Microsoft | Senior SoC Verification Engineer | United States, Washington, Redmond, United States, Texas, Austin, United States, Oregon, Hillsboro, United States, North Carolina, Raleigh, United States, California, Mountain View
+2026-06-29 20:17:58.681054 | AMD: fetched=380
+2026-06-29 20:18:34.061032 | Qualcomm: fetched=241
+2026-06-29 20:18:34.132588 | POSTED ALL | Qualcomm | Emulation Engineer / Emulation Platform Engineer | Austin, Texas, United States of America
+2026-06-29 20:18:49.539672 | GlobalFoundries: fetched=65
+2026-06-29 20:18:51.056192 | Synopsys: fetched=48
+2026-06-29 20:18:51.543962 | Arm: fetched=18
+2026-06-29 20:18:57.091859 | Cisco: fetched=300
+2026-06-29 20:18:57.343082 | Cirrus Logic: fetched=2
+2026-06-29 20:19:00.271990 | Amazon: fetched=300
+2026-06-29 20:19:00.535508 | Rambus: fetched=29
+2026-06-29 20:19:00.631120 | Etched: fetched=25
+2026-06-29 20:19:00.632502 | Run finished | fetched=11745 matched=530 posted=5
