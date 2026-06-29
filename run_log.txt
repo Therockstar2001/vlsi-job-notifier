@@ -16166,3 +16166,58 @@
 2026-06-29 10:01:49.350131 | Rambus: fetched=29
 2026-06-29 10:01:49.798404 | Etched: fetched=25
 2026-06-29 10:01:49.932248 | Run finished | fetched=11856 matched=531 posted=0
+2026-06-29 14:18:33.053236 | === RUN STARTED ===
+2026-06-29 14:18:33.169290 | Astranis: fetched=85
+2026-06-29 14:18:33.221837 | Tenstorrent: fetched=125
+2026-06-29 14:18:33.393051 | Tenstorrent University: fetched=28
+2026-06-29 14:18:33.438833 | ERROR | Cerebras Systems | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/cerebrassystems/jobs
+2026-06-29 14:18:33.486456 | ERROR | Cerebras Early Talent | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/earlytalentcerebras/jobs
+2026-06-29 14:18:33.541214 | Astera Labs: fetched=174
+2026-06-29 14:18:33.594205 | Lightmatter: fetched=51
+2026-06-29 14:18:35.001660 | Western Digital: fetched=275
+2026-06-29 14:18:36.324540 | Bosch: fetched=300
+2026-06-29 14:18:37.619251 | Sandisk: fetched=300
+2026-06-29 14:18:51.856615 | NVIDIA: fetched=300
+2026-06-29 14:19:04.097757 | Intel: fetched=300
+2026-06-29 14:19:11.553131 | Marvell: fetched=300
+2026-06-29 14:19:16.006808 | Apple: fetched=300
+2026-06-29 14:19:24.456588 | Analog Devices: fetched=300
+2026-06-29 14:19:35.741541 | NXP Semiconductors: fetched=300
+2026-06-29 14:19:41.039907 | Broadcom: fetched=300
+2026-06-29 14:19:50.057403 | Microchip: fetched=300
+2026-06-29 14:19:52.332649 | SiFive: fetched=71
+2026-06-29 14:19:53.876834 | Renesas Electronics: fetched=300
+2026-06-29 14:20:07.449660 | KLA: fetched=300
+2026-06-29 14:20:21.017085 | Applied Materials: fetched=300
+2026-06-29 14:20:21.160272 | SambaNova Systems: fetched=21
+2026-06-29 14:20:21.208414 | Samsung Semiconductor: fetched=57
+2026-06-29 14:20:21.258309 | Baya Systems: fetched=27
+2026-06-29 14:20:21.305903 | Ambiq: fetched=37
+2026-06-29 14:20:21.362379 | Graphcore: fetched=248
+2026-06-29 14:20:21.414796 | Eridan: fetched=1
+2026-06-29 14:20:21.457478 | Celero Communications: fetched=16
+2026-06-29 14:20:26.636035 | Micron: fetched=300
+2026-06-29 14:20:27.900148 | Aurora Innovation: fetched=144
+2026-06-29 14:20:27.956072 | Nuro: fetched=98
+2026-06-29 14:20:28.008477 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/co58owxtuvc3ql11n5p1b79mj5flai45kbbwmpk5zvyfvj7tphwrf7kj9r0vr8krxku3n93jffzugl2w8420bfji9ar3q8hle6ty/jobs
+2026-06-29 14:20:28.057737 | Ethernovia: fetched=30
+2026-06-29 14:20:28.152091 | SpaceX: fetched=1798
+2026-06-29 14:20:28.563780 | Axiado: fetched=46
+2026-06-29 14:20:28.615530 | Zipline: fetched=278
+2026-06-29 14:20:28.774878 | Anduril Industries: fetched=2126
+2026-06-29 14:20:29.437771 | Lattice Semiconductor: fetched=58
+2026-06-29 14:20:29.962384 | MaxLinear: fetched=28
+2026-06-29 14:20:38.584733 | Cadence: fetched=300
+2026-06-29 14:21:05.050940 | Microsoft: fetched=11
+2026-06-29 14:21:19.438298 | AMD: fetched=380
+2026-06-29 14:21:50.170174 | Qualcomm: fetched=237
+2026-06-29 14:22:03.394126 | GlobalFoundries: fetched=63
+2026-06-29 14:22:21.056747 | Synopsys: fetched=174
+2026-06-29 14:22:21.698460 | Arm: fetched=18
+2026-06-29 14:22:26.854084 | Cisco: fetched=300
+2026-06-29 14:22:27.211631 | Cirrus Logic: fetched=2
+2026-06-29 14:22:29.807303 | Amazon: fetched=300
+2026-06-29 14:22:29.949743 | POSTED ALL | Amazon | Embedded Software Engineer, Amazon Leo Digital RF Systems | San Diego, California, USA
+2026-06-29 14:22:30.469707 | Rambus: fetched=29
+2026-06-29 14:22:30.636210 | Etched: fetched=25
+2026-06-29 14:22:30.637632 | Run finished | fetched=11861 matched=525 posted=1
