@@ -16731,3 +16731,61 @@
 2026-06-30 15:46:22.903273 | Rambus: fetched=29
 2026-06-30 15:46:23.130636 | Etched: fetched=25
 2026-06-30 15:46:23.131958 | Run finished | fetched=11876 matched=524 posted=4
+2026-06-30 18:14:01.784712 | === RUN STARTED ===
+2026-06-30 18:14:02.118317 | Astranis: fetched=84
+2026-06-30 18:14:02.161214 | Tenstorrent: fetched=122
+2026-06-30 18:14:02.194343 | Tenstorrent University: fetched=27
+2026-06-30 18:14:02.220404 | ERROR | Cerebras Systems | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/cerebrassystems/jobs
+2026-06-30 18:14:02.247859 | ERROR | Cerebras Early Talent | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/earlytalentcerebras/jobs
+2026-06-30 18:14:02.288086 | Astera Labs: fetched=166
+2026-06-30 18:14:02.322404 | Lightmatter: fetched=51
+2026-06-30 18:14:03.885718 | Western Digital: fetched=272
+2026-06-30 18:14:05.319447 | Bosch: fetched=300
+2026-06-30 18:14:06.660862 | Sandisk: fetched=300
+2026-06-30 18:14:21.645433 | NVIDIA: fetched=300
+2026-06-30 18:14:36.362355 | Intel: fetched=300
+2026-06-30 18:14:44.115090 | Marvell: fetched=300
+2026-06-30 18:14:48.864232 | Apple: fetched=300
+2026-06-30 18:14:48.977440 | POSTED ALL | Apple | SoC Hard IP Characterization Product Engineer | 
+2026-06-30 18:14:57.843659 | Analog Devices: fetched=300
+2026-06-30 18:15:09.190385 | NXP Semiconductors: fetched=300
+2026-06-30 18:15:16.386229 | Broadcom: fetched=300
+2026-06-30 18:15:25.933993 | Microchip: fetched=300
+2026-06-30 18:15:29.766749 | SiFive: fetched=76
+2026-06-30 18:15:31.464928 | Renesas Electronics: fetched=300
+2026-06-30 18:15:42.403457 | KLA: fetched=300
+2026-06-30 18:15:55.771579 | Applied Materials: fetched=300
+2026-06-30 18:15:55.977869 | SambaNova Systems: fetched=21
+2026-06-30 18:15:56.012208 | Samsung Semiconductor: fetched=57
+2026-06-30 18:15:56.048839 | Baya Systems: fetched=27
+2026-06-30 18:15:56.079907 | Ambiq: fetched=36
+2026-06-30 18:15:56.115707 | Graphcore: fetched=253
+2026-06-30 18:15:56.766448 | Eridan: fetched=2
+2026-06-30 18:15:56.795483 | Celero Communications: fetched=16
+2026-06-30 18:16:02.992151 | Micron: fetched=300
+2026-06-30 18:16:03.116258 | POSTED ALL | Micron | Principal Analog and Reliability Verification Engineer | Boise, ID - Main Site
+2026-06-30 18:16:03.207225 | POSTED ALL | Micron | Principal Design Verification Quality Engineer | Boise, ID - Main Site
+2026-06-30 18:16:03.248341 | Aurora Innovation: fetched=143
+2026-06-30 18:16:03.284997 | Nuro: fetched=97
+2026-06-30 18:16:03.325189 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/co58owxtuvc3ql11n5p1b79mj5flai45kbbwmpk5zvyfvj7tphwrf7kj9r0vr8krxku3n93jffzugl2w8420bfji9ar3q8hle6ty/jobs
+2026-06-30 18:16:03.358204 | Ethernovia: fetched=30
+2026-06-30 18:16:03.453143 | SpaceX: fetched=1810
+2026-06-30 18:16:03.905506 | Axiado: fetched=46
+2026-06-30 18:16:03.944797 | Zipline: fetched=279
+2026-06-30 18:16:22.689246 | Anduril Industries: fetched=2134
+2026-06-30 18:16:23.078688 | Lattice Semiconductor: fetched=58
+2026-06-30 18:16:23.447942 | MaxLinear: fetched=28
+2026-06-30 18:16:32.370691 | Cadence: fetched=300
+2026-06-30 18:16:57.825812 | Microsoft: fetched=14
+2026-06-30 18:17:10.917231 | AMD: fetched=378
+2026-06-30 18:17:43.018587 | Qualcomm: fetched=235
+2026-06-30 18:17:55.822871 | GlobalFoundries: fetched=64
+2026-06-30 18:18:50.186204 | Synopsys: fetched=159
+2026-06-30 18:18:50.675998 | Arm: fetched=18
+2026-06-30 18:18:56.041125 | Cisco: fetched=300
+2026-06-30 18:18:56.198384 | POSTED ALL | Cisco | ASIC Engineering Program Manager | San Jose, California, US
+2026-06-30 18:18:56.513827 | Cirrus Logic: fetched=2
+2026-06-30 18:18:59.163684 | Amazon: fetched=300
+2026-06-30 18:18:59.535877 | Rambus: fetched=29
+2026-06-30 18:18:59.671183 | Etched: fetched=25
+2026-06-30 18:18:59.672498 | Run finished | fetched=11859 matched=520 posted=4
