@@ -17243,3 +17243,62 @@
 2026-07-01 19:15:32.490313 | Rambus: fetched=30
 2026-07-01 19:15:32.603208 | Etched: fetched=25
 2026-07-01 19:15:32.604456 | Run finished | fetched=11890 matched=540 posted=5
+2026-07-01 20:53:33.066965 | === RUN STARTED ===
+2026-07-01 20:53:33.268785 | Astranis: fetched=86
+2026-07-01 20:53:33.304372 | Tenstorrent: fetched=122
+2026-07-01 20:53:33.338060 | Tenstorrent University: fetched=27
+2026-07-01 20:53:33.367956 | ERROR | Cerebras Systems | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/cerebrassystems/jobs
+2026-07-01 20:53:33.393090 | ERROR | Cerebras Early Talent | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/earlytalentcerebras/jobs
+2026-07-01 20:53:33.426588 | Astera Labs: fetched=164
+2026-07-01 20:53:33.470842 | Lightmatter: fetched=53
+2026-07-01 20:53:34.963068 | Western Digital: fetched=278
+2026-07-01 20:53:36.342819 | Bosch: fetched=300
+2026-07-01 20:53:37.732602 | Sandisk: fetched=300
+2026-07-01 20:53:53.158458 | NVIDIA: fetched=300
+2026-07-01 20:54:04.784909 | Intel: fetched=300
+2026-07-01 20:54:13.238107 | Marvell: fetched=300
+2026-07-01 20:54:17.813058 | Apple: fetched=300
+2026-07-01 20:54:25.317602 | Analog Devices: fetched=300
+2026-07-01 20:54:35.859175 | NXP Semiconductors: fetched=300
+2026-07-01 20:54:40.889975 | Broadcom: fetched=300
+2026-07-01 20:54:51.705803 | Microchip: fetched=300
+2026-07-01 20:54:54.070948 | SiFive: fetched=75
+2026-07-01 20:54:55.689821 | Renesas Electronics: fetched=300
+2026-07-01 20:55:04.573318 | KLA: fetched=300
+2026-07-01 20:55:16.855386 | Applied Materials: fetched=300
+2026-07-01 20:55:17.156268 | SambaNova Systems: fetched=22
+2026-07-01 20:55:17.190174 | Samsung Semiconductor: fetched=57
+2026-07-01 20:55:17.220245 | Baya Systems: fetched=27
+2026-07-01 20:55:17.251643 | Ambiq: fetched=39
+2026-07-01 20:55:17.286493 | Graphcore: fetched=252
+2026-07-01 20:55:17.322031 | Eridan: fetched=2
+2026-07-01 20:55:17.350504 | Celero Communications: fetched=17
+2026-07-01 20:55:21.751052 | Micron: fetched=300
+2026-07-01 20:55:21.860177 | POSTED ALL | Micron | Principal Engineer, Firmware & Product Test | Longmont, CO
+2026-07-01 20:55:21.901334 | Aurora Innovation: fetched=143
+2026-07-01 20:55:21.934854 | Nuro: fetched=97
+2026-07-01 20:55:21.974749 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/co58owxtuvc3ql11n5p1b79mj5flai45kbbwmpk5zvyfvj7tphwrf7kj9r0vr8krxku3n93jffzugl2w8420bfji9ar3q8hle6ty/jobs
+2026-07-01 20:55:22.007949 | Ethernovia: fetched=31
+2026-07-01 20:55:22.087001 | SpaceX: fetched=1821
+2026-07-01 20:55:22.529298 | Axiado: fetched=46
+2026-07-01 20:55:22.565208 | Zipline: fetched=283
+2026-07-01 20:55:40.818695 | Anduril Industries: fetched=2144
+2026-07-01 20:55:40.907195 | POSTED ALL | Anduril Industries | Embedded Haskell Engineer, EW | Costa Mesa, California, United States
+2026-07-01 20:55:41.039177 | POSTED ALL | Anduril Industries | Senior Embedded Engineer, EW | Costa Mesa, California, United States
+2026-07-01 20:55:41.350510 | Lattice Semiconductor: fetched=58
+2026-07-01 20:55:41.731898 | MaxLinear: fetched=28
+2026-07-01 20:55:50.372954 | Cadence: fetched=300
+2026-07-01 20:56:14.427019 | Microsoft: fetched=10
+2026-07-01 20:56:28.225580 | AMD: fetched=378
+2026-07-01 20:56:28.349632 | POSTED FRESHER | AMD | Lead Embedded Cybersecurity Engineer | California, United States
+2026-07-01 20:57:08.204269 | Qualcomm: fetched=233
+2026-07-01 20:57:08.292923 | POSTED ALL | Qualcomm | ASICS Design Verification Engineer | San Diego, California, United States of America
+2026-07-01 20:57:21.295231 | GlobalFoundries: fetched=64
+2026-07-01 20:57:34.911613 | Synopsys: fetched=150
+2026-07-01 20:57:35.352554 | Arm: fetched=18
+2026-07-01 20:57:40.552914 | Cisco: fetched=300
+2026-07-01 20:57:40.891638 | Cirrus Logic: fetched=2
+2026-07-01 20:57:44.612501 | Amazon: fetched=300
+2026-07-01 20:57:44.896095 | Rambus: fetched=30
+2026-07-01 20:57:45.232328 | Etched: fetched=25
+2026-07-01 20:57:45.233633 | Run finished | fetched=11882 matched=529 posted=5
