@@ -17127,3 +17127,60 @@
 2026-07-01 13:44:42.951697 | Rambus: fetched=30
 2026-07-01 13:44:43.165198 | Etched: fetched=25
 2026-07-01 13:44:43.166516 | Run finished | fetched=11718 matched=516 posted=1
+2026-07-01 16:39:26.661155 | === RUN STARTED ===
+2026-07-01 16:39:26.906001 | Astranis: fetched=85
+2026-07-01 16:39:26.984736 | Tenstorrent: fetched=123
+2026-07-01 16:39:27.064219 | Tenstorrent University: fetched=27
+2026-07-01 16:39:27.135878 | ERROR | Cerebras Systems | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/cerebrassystems/jobs
+2026-07-01 16:39:27.201188 | ERROR | Cerebras Early Talent | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/earlytalentcerebras/jobs
+2026-07-01 16:39:27.281249 | Astera Labs: fetched=164
+2026-07-01 16:39:27.542252 | POSTED ALL | Astera Labs | Principle Design Verification Engineer | San Jose, California, United States
+2026-07-01 16:39:27.629116 | Lightmatter: fetched=53
+2026-07-01 16:39:29.268305 | Western Digital: fetched=277
+2026-07-01 16:39:29.514851 | POSTED ALL | Western Digital | Advanced HDD Technology Designs and Integration (Hardware/Firmware Engineer) | Irvine, CA, us
+2026-07-01 16:39:31.003317 | Bosch: fetched=300
+2026-07-01 16:39:32.459364 | Sandisk: fetched=300
+2026-07-01 16:39:50.751662 | NVIDIA: fetched=300
+2026-07-01 16:40:03.723595 | Intel: fetched=300
+2026-07-01 16:40:12.166285 | Marvell: fetched=300
+2026-07-01 16:40:17.255588 | Apple: fetched=300
+2026-07-01 16:40:28.494497 | Analog Devices: fetched=300
+2026-07-01 16:40:40.090481 | NXP Semiconductors: fetched=300
+2026-07-01 16:40:49.505059 | Broadcom: fetched=300
+2026-07-01 16:40:58.968829 | Microchip: fetched=300
+2026-07-01 16:41:02.057461 | SiFive: fetched=75
+2026-07-01 16:41:03.735370 | Renesas Electronics: fetched=300
+2026-07-01 16:41:14.003777 | KLA: fetched=300
+2026-07-01 16:41:26.871333 | Applied Materials: fetched=300
+2026-07-01 16:41:27.071305 | SambaNova Systems: fetched=22
+2026-07-01 16:41:27.145192 | Samsung Semiconductor: fetched=57
+2026-07-01 16:41:27.226266 | Baya Systems: fetched=27
+2026-07-01 16:41:27.297087 | Ambiq: fetched=37
+2026-07-01 16:41:27.376463 | Graphcore: fetched=254
+2026-07-01 16:41:27.449994 | Eridan: fetched=2
+2026-07-01 16:41:27.645699 | Celero Communications: fetched=17
+2026-07-01 16:41:34.425747 | Micron: fetched=300
+2026-07-01 16:41:34.505692 | Aurora Innovation: fetched=144
+2026-07-01 16:41:34.584436 | Nuro: fetched=97
+2026-07-01 16:41:34.654103 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/co58owxtuvc3ql11n5p1b79mj5flai45kbbwmpk5zvyfvj7tphwrf7kj9r0vr8krxku3n93jffzugl2w8420bfji9ar3q8hle6ty/jobs
+2026-07-01 16:41:34.723584 | Ethernovia: fetched=31
+2026-07-01 16:41:34.898001 | SpaceX: fetched=1820
+2026-07-01 16:41:35.362530 | Axiado: fetched=46
+2026-07-01 16:41:35.466944 | Zipline: fetched=280
+2026-07-01 16:41:35.670680 | Anduril Industries: fetched=2144
+2026-07-01 16:41:36.145873 | Lattice Semiconductor: fetched=58
+2026-07-01 16:41:36.540377 | MaxLinear: fetched=28
+2026-07-01 16:41:46.150859 | Cadence: fetched=300
+2026-07-01 16:42:06.051057 | Microsoft: fetched=13
+2026-07-01 16:42:24.294575 | AMD: fetched=378
+2026-07-01 16:42:59.102050 | Qualcomm: fetched=242
+2026-07-01 16:42:59.359126 | POSTED ALL | Qualcomm | ASIC Design Verification Engineer (Santa Clara, CA) | Santa Clara, California, United States of America
+2026-07-01 16:43:14.863855 | GlobalFoundries: fetched=65
+2026-07-01 16:43:15.862661 | Synopsys: fetched=8
+2026-07-01 16:43:16.540304 | Arm: fetched=18
+2026-07-01 16:43:21.878696 | Cisco: fetched=300
+2026-07-01 16:43:22.206909 | Cirrus Logic: fetched=2
+2026-07-01 16:43:25.527155 | Amazon: fetched=300
+2026-07-01 16:43:25.965304 | Rambus: fetched=30
+2026-07-01 16:43:27.810832 | Etched: fetched=25
+2026-07-01 16:43:27.811895 | Run finished | fetched=11749 matched=522 posted=3
