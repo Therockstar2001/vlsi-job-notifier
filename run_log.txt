@@ -17184,3 +17184,62 @@
 2026-07-01 16:43:25.965304 | Rambus: fetched=30
 2026-07-01 16:43:27.810832 | Etched: fetched=25
 2026-07-01 16:43:27.811895 | Run finished | fetched=11749 matched=522 posted=3
+2026-07-01 19:11:30.172697 | === RUN STARTED ===
+2026-07-01 19:11:30.343471 | Astranis: fetched=86
+2026-07-01 19:11:30.398695 | Tenstorrent: fetched=123
+2026-07-01 19:11:30.448374 | Tenstorrent University: fetched=27
+2026-07-01 19:11:30.495613 | ERROR | Cerebras Systems | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/cerebrassystems/jobs
+2026-07-01 19:11:30.543601 | ERROR | Cerebras Early Talent | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/earlytalentcerebras/jobs
+2026-07-01 19:11:30.604299 | Astera Labs: fetched=164
+2026-07-01 19:11:30.741482 | POSTED ALL | Astera Labs | Principle Design Verification Engineer  SerDes/PHY | San Jose, California, United States
+2026-07-01 19:11:30.796714 | Lightmatter: fetched=53
+2026-07-01 19:11:32.310965 | Western Digital: fetched=278
+2026-07-01 19:11:33.639852 | Bosch: fetched=300
+2026-07-01 19:11:34.992966 | Sandisk: fetched=300
+2026-07-01 19:11:48.719490 | NVIDIA: fetched=300
+2026-07-01 19:12:00.896614 | Intel: fetched=300
+2026-07-01 19:12:10.042722 | Marvell: fetched=300
+2026-07-01 19:12:14.650641 | Apple: fetched=300
+2026-07-01 19:12:23.309306 | Analog Devices: fetched=300
+2026-07-01 19:12:33.864611 | NXP Semiconductors: fetched=300
+2026-07-01 19:12:40.638896 | Broadcom: fetched=300
+2026-07-01 19:12:49.047115 | Microchip: fetched=300
+2026-07-01 19:12:52.008642 | SiFive: fetched=75
+2026-07-01 19:12:53.616481 | Renesas Electronics: fetched=300
+2026-07-01 19:13:04.048006 | KLA: fetched=300
+2026-07-01 19:13:17.180376 | Applied Materials: fetched=300
+2026-07-01 19:13:17.302986 | SambaNova Systems: fetched=22
+2026-07-01 19:13:17.356301 | Samsung Semiconductor: fetched=57
+2026-07-01 19:13:17.407057 | Baya Systems: fetched=27
+2026-07-01 19:13:17.455458 | Ambiq: fetched=38
+2026-07-01 19:13:17.507216 | Graphcore: fetched=252
+2026-07-01 19:13:17.609766 | Eridan: fetched=2
+2026-07-01 19:13:17.661678 | Celero Communications: fetched=17
+2026-07-01 19:13:23.759041 | Micron: fetched=300
+2026-07-01 19:13:23.819235 | Aurora Innovation: fetched=144
+2026-07-01 19:13:23.871233 | Nuro: fetched=97
+2026-07-01 19:13:23.919141 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/co58owxtuvc3ql11n5p1b79mj5flai45kbbwmpk5zvyfvj7tphwrf7kj9r0vr8krxku3n93jffzugl2w8420bfji9ar3q8hle6ty/jobs
+2026-07-01 19:13:23.970516 | Ethernovia: fetched=31
+2026-07-01 19:13:24.069067 | SpaceX: fetched=1820
+2026-07-01 19:13:24.484476 | Axiado: fetched=46
+2026-07-01 19:13:24.607824 | Zipline: fetched=281
+2026-07-01 19:13:24.726941 | Anduril Industries: fetched=2142
+2026-07-01 19:13:25.356002 | Lattice Semiconductor: fetched=58
+2026-07-01 19:13:25.663642 | MaxLinear: fetched=28
+2026-07-01 19:13:34.539014 | Cadence: fetched=300
+2026-07-01 19:13:57.902515 | Microsoft: fetched=13
+2026-07-01 19:14:12.131902 | AMD: fetched=378
+2026-07-01 19:14:49.675202 | Qualcomm: fetched=241
+2026-07-01 19:14:49.806834 | POSTED ALL | Qualcomm | GPU Performance Verification Engineer | Santa Clara, California, United States of America
+2026-07-01 19:14:49.951713 | POSTED ALL | Qualcomm | SOC Verification and Methodology Engineer | San Diego, California, United States of America
+2026-07-01 19:15:03.865555 | GlobalFoundries: fetched=65
+2026-07-01 19:15:23.269815 | Synopsys: fetched=150
+2026-07-01 19:15:23.735226 | Arm: fetched=18
+2026-07-01 19:15:29.432964 | Cisco: fetched=300
+2026-07-01 19:15:29.688129 | Cirrus Logic: fetched=2
+2026-07-01 19:15:31.890796 | Amazon: fetched=300
+2026-07-01 19:15:32.042863 | POSTED FRESHER | Amazon | MLA Design Verification Engineer I, Annapurna Labs | Austin, Texas, USA
+2026-07-01 19:15:32.189080 | POSTED ALL | Amazon | ASIC Engineer, Annapurna Labs | Austin, Texas, USA
+2026-07-01 19:15:32.490313 | Rambus: fetched=30
+2026-07-01 19:15:32.603208 | Etched: fetched=25
+2026-07-01 19:15:32.604456 | Run finished | fetched=11890 matched=540 posted=5
