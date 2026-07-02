@@ -17802,3 +17802,61 @@
 2026-07-02 20:41:02.929073 | Rambus: fetched=30
 2026-07-02 20:41:03.105260 | Etched: fetched=25
 2026-07-02 20:41:03.106661 | Run finished | fetched=11800 matched=513 posted=3
+2026-07-02 22:18:37.728763 | === RUN STARTED ===
+2026-07-02 22:18:37.949236 | Astranis: fetched=88
+2026-07-02 22:18:38.023082 | Tenstorrent: fetched=124
+2026-07-02 22:18:38.101411 | Tenstorrent University: fetched=27
+2026-07-02 22:18:38.168238 | ERROR | Cerebras Systems | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/cerebrassystems/jobs
+2026-07-02 22:18:38.243293 | ERROR | Cerebras Early Talent | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/earlytalentcerebras/jobs
+2026-07-02 22:18:38.325378 | Astera Labs: fetched=166
+2026-07-02 22:18:38.398524 | Lightmatter: fetched=53
+2026-07-02 22:18:39.957726 | Western Digital: fetched=278
+2026-07-02 22:18:41.368056 | Bosch: fetched=300
+2026-07-02 22:18:42.822727 | Sandisk: fetched=300
+2026-07-02 22:19:01.279287 | NVIDIA: fetched=300
+2026-07-02 22:19:01.599571 | POSTED ALL | NVIDIA | Senior Network Engineer, System Verification | US, CA, Santa Clara
+2026-07-02 22:19:44.460661 | Intel: fetched=300
+2026-07-02 22:19:51.866360 | Marvell: fetched=300
+2026-07-02 22:19:52.115545 | POSTED ALL | Marvell | Staff Design Verification Engineer – PCIE/CXL Subsystem COE | Santa Clara, CA
+2026-07-02 22:19:57.447225 | Apple: fetched=300
+2026-07-02 22:19:57.713948 | POSTED ALL | Apple | AirPods Firmware Engineering Manager | 
+2026-07-02 22:20:06.926913 | Analog Devices: fetched=300
+2026-07-02 22:20:18.623329 | NXP Semiconductors: fetched=300
+2026-07-02 22:20:24.443627 | Broadcom: fetched=300
+2026-07-02 22:20:35.130087 | Microchip: fetched=300
+2026-07-02 22:20:37.663503 | SiFive: fetched=75
+2026-07-02 22:20:39.283425 | Renesas Electronics: fetched=300
+2026-07-02 22:20:50.013066 | KLA: fetched=300
+2026-07-02 22:21:02.568046 | Applied Materials: fetched=300
+2026-07-02 22:21:02.762950 | SambaNova Systems: fetched=22
+2026-07-02 22:21:02.835194 | Samsung Semiconductor: fetched=56
+2026-07-02 22:21:02.908770 | Baya Systems: fetched=28
+2026-07-02 22:21:03.031432 | Ambiq: fetched=40
+2026-07-02 22:21:03.126654 | Graphcore: fetched=251
+2026-07-02 22:21:03.199433 | Eridan: fetched=2
+2026-07-02 22:21:03.267353 | Celero Communications: fetched=17
+2026-07-02 22:21:08.834067 | Micron: fetched=300
+2026-07-02 22:21:08.910142 | Aurora Innovation: fetched=144
+2026-07-02 22:21:08.981953 | Nuro: fetched=93
+2026-07-02 22:21:09.055515 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/co58owxtuvc3ql11n5p1b79mj5flai45kbbwmpk5zvyfvj7tphwrf7kj9r0vr8krxku3n93jffzugl2w8420bfji9ar3q8hle6ty/jobs
+2026-07-02 22:21:09.125454 | Ethernovia: fetched=31
+2026-07-02 22:21:09.260797 | SpaceX: fetched=1829
+2026-07-02 22:21:09.721005 | Axiado: fetched=46
+2026-07-02 22:21:09.817423 | Zipline: fetched=284
+2026-07-02 22:21:09.949566 | Anduril Industries: fetched=2166
+2026-07-02 22:21:10.439471 | Lattice Semiconductor: fetched=58
+2026-07-02 22:21:10.859859 | MaxLinear: fetched=28
+2026-07-02 22:21:19.813280 | Cadence: fetched=300
+2026-07-02 22:21:37.491267 | Microsoft: fetched=16
+2026-07-02 22:21:56.002004 | AMD: fetched=378
+2026-07-02 22:22:35.301087 | Qualcomm: fetched=239
+2026-07-02 22:22:35.569124 | POSTED ALL | Qualcomm | Digital ASIC Design Engineer for Mixed-Signal IPs | San Diego, California, United States of America
+2026-07-02 22:22:49.671096 | GlobalFoundries: fetched=67
+2026-07-02 22:22:53.989819 | Synopsys: fetched=12
+2026-07-02 22:22:54.667680 | Arm: fetched=18
+2026-07-02 22:23:07.077107 | Cisco: fetched=300
+2026-07-02 22:23:07.425481 | Cirrus Logic: fetched=2
+2026-07-02 22:23:10.672503 | Amazon: fetched=300
+2026-07-02 22:23:11.132150 | Rambus: fetched=30
+2026-07-02 22:23:11.339788 | Etched: fetched=25
+2026-07-02 22:23:11.341153 | Run finished | fetched=11793 matched=506 posted=4
