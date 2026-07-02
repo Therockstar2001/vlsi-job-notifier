@@ -17468,3 +17468,57 @@
 2026-07-02 05:13:34.523941 | Rambus: fetched=30
 2026-07-02 05:13:34.846879 | Etched: fetched=25
 2026-07-02 05:13:34.848235 | Run finished | fetched=11804 matched=530 posted=3
+2026-07-02 08:24:37.250001 | === RUN STARTED ===
+2026-07-02 08:24:37.455134 | Astranis: fetched=87
+2026-07-02 08:24:37.480836 | Tenstorrent: fetched=122
+2026-07-02 08:24:37.515075 | Tenstorrent University: fetched=27
+2026-07-02 08:24:39.656452 | ERROR | Cerebras Systems | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/cerebrassystems/jobs
+2026-07-02 08:24:39.684323 | ERROR | Cerebras Early Talent | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/earlytalentcerebras/jobs
+2026-07-02 08:24:39.722659 | Astera Labs: fetched=166
+2026-07-02 08:24:39.755291 | Lightmatter: fetched=52
+2026-07-02 08:24:41.329946 | Western Digital: fetched=278
+2026-07-02 08:24:42.874345 | Bosch: fetched=300
+2026-07-02 08:24:44.385302 | Sandisk: fetched=300
+2026-07-02 08:25:00.067881 | NVIDIA: fetched=300
+2026-07-02 08:25:11.497397 | Intel: fetched=300
+2026-07-02 08:25:18.017320 | Marvell: fetched=300
+2026-07-02 08:25:22.817341 | Apple: fetched=300
+2026-07-02 08:25:30.354078 | Analog Devices: fetched=300
+2026-07-02 08:25:40.869611 | NXP Semiconductors: fetched=300
+2026-07-02 08:25:45.045931 | Broadcom: fetched=300
+2026-07-02 08:25:53.957662 | Microchip: fetched=300
+2026-07-02 08:25:56.200282 | SiFive: fetched=75
+2026-07-02 08:25:57.947397 | Renesas Electronics: fetched=300
+2026-07-02 08:26:07.835788 | KLA: fetched=300
+2026-07-02 08:26:20.215678 | Applied Materials: fetched=300
+2026-07-02 08:26:20.324307 | SambaNova Systems: fetched=22
+2026-07-02 08:26:20.348848 | Samsung Semiconductor: fetched=57
+2026-07-02 08:26:20.382905 | Baya Systems: fetched=27
+2026-07-02 08:26:20.409884 | Ambiq: fetched=39
+2026-07-02 08:26:20.437391 | Graphcore: fetched=251
+2026-07-02 08:26:20.480873 | Eridan: fetched=2
+2026-07-02 08:26:20.503825 | Celero Communications: fetched=17
+2026-07-02 08:26:25.048266 | Micron: fetched=300
+2026-07-02 08:26:25.088994 | Aurora Innovation: fetched=143
+2026-07-02 08:26:25.120493 | Nuro: fetched=97
+2026-07-02 08:26:25.146903 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/co58owxtuvc3ql11n5p1b79mj5flai45kbbwmpk5zvyfvj7tphwrf7kj9r0vr8krxku3n93jffzugl2w8420bfji9ar3q8hle6ty/jobs
+2026-07-02 08:26:25.168083 | Ethernovia: fetched=31
+2026-07-02 08:26:25.244776 | SpaceX: fetched=1829
+2026-07-02 08:26:25.697214 | Axiado: fetched=46
+2026-07-02 08:26:25.731043 | Zipline: fetched=283
+2026-07-02 08:26:25.859326 | Anduril Industries: fetched=2152
+2026-07-02 08:26:26.271683 | Lattice Semiconductor: fetched=58
+2026-07-02 08:26:26.627640 | MaxLinear: fetched=28
+2026-07-02 08:26:34.527615 | Cadence: fetched=300
+2026-07-02 08:26:59.342197 | Microsoft: fetched=8
+2026-07-02 08:27:12.200512 | AMD: fetched=378
+2026-07-02 08:27:42.757133 | Qualcomm: fetched=257
+2026-07-02 08:27:56.318141 | GlobalFoundries: fetched=71
+2026-07-02 08:28:01.365007 | Synopsys: fetched=45
+2026-07-02 08:28:01.682958 | Arm: fetched=18
+2026-07-02 08:28:10.675494 | Cisco: fetched=300
+2026-07-02 08:28:11.126744 | Cirrus Logic: fetched=2
+2026-07-02 08:28:13.221229 | Amazon: fetched=300
+2026-07-02 08:28:13.462177 | Rambus: fetched=30
+2026-07-02 08:28:13.635845 | Etched: fetched=25
+2026-07-02 08:28:13.724247 | Run finished | fetched=11823 matched=514 posted=0
