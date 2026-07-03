@@ -2,6 +2,7 @@ venv/
 __pycache__/
 *.pyc
 .env
-run_log.txtjobs.db
+run_log.txt
+jobs.db
 bot_state.json
 companies_candidate_queue.json
