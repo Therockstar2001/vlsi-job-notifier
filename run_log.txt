@@ -17860,3 +17860,59 @@
 2026-07-02 22:23:11.132150 | Rambus: fetched=30
 2026-07-02 22:23:11.339788 | Etched: fetched=25
 2026-07-02 22:23:11.341153 | Run finished | fetched=11793 matched=506 posted=4
+2026-07-03 00:18:37.075114 | === RUN STARTED ===
+2026-07-03 00:18:37.326882 | Astranis: fetched=88
+2026-07-03 00:18:37.391707 | Tenstorrent: fetched=124
+2026-07-03 00:18:37.454292 | Tenstorrent University: fetched=27
+2026-07-03 00:18:37.509212 | ERROR | Cerebras Systems | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/cerebrassystems/jobs
+2026-07-03 00:18:37.563494 | ERROR | Cerebras Early Talent | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/earlytalentcerebras/jobs
+2026-07-03 00:18:37.625212 | Astera Labs: fetched=167
+2026-07-03 00:18:37.694998 | Lightmatter: fetched=56
+2026-07-03 00:18:39.180104 | Western Digital: fetched=292
+2026-07-03 00:18:40.570288 | Bosch: fetched=300
+2026-07-03 00:18:41.901778 | Sandisk: fetched=300
+2026-07-03 00:18:56.156219 | NVIDIA: fetched=300
+2026-07-03 00:18:56.294693 | POSTED ALL | NVIDIA | Senior ASIC Hardware Design Engineer | US, MA, Westford
+2026-07-03 00:19:13.054032 | Intel: fetched=300
+2026-07-03 00:19:20.432926 | Marvell: fetched=300
+2026-07-03 00:19:25.076912 | Apple: fetched=300
+2026-07-03 00:19:33.442169 | Analog Devices: fetched=300
+2026-07-03 00:19:43.437499 | NXP Semiconductors: fetched=300
+2026-07-03 00:19:48.196124 | Broadcom: fetched=300
+2026-07-03 00:19:56.594483 | Microchip: fetched=300
+2026-07-03 00:19:58.795172 | SiFive: fetched=75
+2026-07-03 00:20:00.405499 | Renesas Electronics: fetched=300
+2026-07-03 00:20:10.277495 | KLA: fetched=300
+2026-07-03 00:20:22.030928 | Applied Materials: fetched=300
+2026-07-03 00:20:22.184624 | SambaNova Systems: fetched=22
+2026-07-03 00:20:22.406556 | Samsung Semiconductor: fetched=56
+2026-07-03 00:20:22.464433 | Baya Systems: fetched=29
+2026-07-03 00:20:22.534200 | Ambiq: fetched=40
+2026-07-03 00:20:22.590299 | Graphcore: fetched=251
+2026-07-03 00:20:22.645849 | Eridan: fetched=2
+2026-07-03 00:20:22.696169 | Celero Communications: fetched=17
+2026-07-03 00:20:28.409292 | Micron: fetched=300
+2026-07-03 00:20:28.474488 | Aurora Innovation: fetched=144
+2026-07-03 00:20:28.535487 | Nuro: fetched=93
+2026-07-03 00:20:28.592744 | ERROR | Applied Intuition | 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/co58owxtuvc3ql11n5p1b79mj5flai45kbbwmpk5zvyfvj7tphwrf7kj9r0vr8krxku3n93jffzugl2w8420bfji9ar3q8hle6ty/jobs
+2026-07-03 00:20:28.650740 | Ethernovia: fetched=31
+2026-07-03 00:20:45.348945 | SpaceX: fetched=1829
+2026-07-03 00:20:45.775776 | Axiado: fetched=46
+2026-07-03 00:20:45.840969 | Zipline: fetched=289
+2026-07-03 00:20:45.975874 | Anduril Industries: fetched=2167
+2026-07-03 00:20:46.378727 | Lattice Semiconductor: fetched=58
+2026-07-03 00:20:47.138009 | MaxLinear: fetched=28
+2026-07-03 00:20:56.050590 | Cadence: fetched=300
+2026-07-03 00:21:18.863433 | Microsoft: fetched=11
+2026-07-03 00:21:34.554742 | AMD: fetched=378
+2026-07-03 00:22:12.632521 | Qualcomm: fetched=248
+2026-07-03 00:22:12.792030 | POSTED ALL | Qualcomm | CPU Architecture Performance Engineer (Multiple Levels) | San Diego, California, United States of America, Austin, Texas, United States of America
+2026-07-03 00:22:27.886122 | GlobalFoundries: fetched=67
+2026-07-03 00:22:28.828390 | Synopsys: fetched=12
+2026-07-03 00:22:29.407277 | Arm: fetched=18
+2026-07-03 00:22:34.070978 | Cisco: fetched=300
+2026-07-03 00:22:34.408884 | Cirrus Logic: fetched=2
+2026-07-03 00:22:37.023513 | Amazon: fetched=300
+2026-07-03 00:22:37.302312 | Rambus: fetched=30
+2026-07-03 00:22:37.465723 | Etched: fetched=25
+2026-07-03 00:22:37.467032 | Run finished | fetched=11822 matched=496 posted=2
